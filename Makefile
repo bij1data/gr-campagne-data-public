@@ -1,4 +1,7 @@
 stembureaus:
 	bash scripts/stembureaus.sh
 
-run_all: stembureaus
+verkiezingsuitslagen:
+	bash scripts/verkiezingsuitslagen.sh
+
+run_all: stembureaus verkiezingsuitslagen

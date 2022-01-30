@@ -1,2 +1,7 @@
-# python virtual env
+*.zip
+*.xml
+kiesraad/
+
+# python stuff
 env/
+__pycache__
