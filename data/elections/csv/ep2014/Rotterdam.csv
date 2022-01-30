@@ -1,0 +1,342 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_kwijtgeraakte stembiljetten,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,CDA - Europese Volkspartij,PVV (Partij voor de Vrijheid),P.v.d.A./Europese Sociaaldemocraten,VVD,Democraten 66 (D66) - ALDE,GROENLINKS,SP (Socialistische Partij),ChristenUnie-SGP,Artikel50,"IQ, de Rechten-Plichten-Partij",Piratenpartij,50PLUS,De Groenen,Anti  EU(ro)  Partij,Liberaal Democratische Partij,JEZUS LEEFT,ikkiesvooreerlijk.eu,Partij voor de Dieren,Aandacht en Eenvoud
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Coolsingel 40 (links),0599::SB1,3011 AD,1006,542,0,3,0,0,3,487,55,0,0,0,0,0,0,545,26,68,58,90,139,52,35,9,5,0,7,15,3,2,2,2,0,29,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Goudseweg 17 (links),0599::SB2,3031 XH,1478,273,3,2,1,0,0,239,38,0,0,1,0,0,0,277,14,47,40,33,55,21,29,4,2,0,6,8,0,3,0,0,0,11,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Raampoortstraat 15,0599::SB3,3032 AH,2564,362,1,6,0,0,0,333,36,0,0,0,0,0,0,369,24,46,53,33,73,41,44,11,3,1,6,5,2,0,2,0,1,15,2
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Looiershof 1,0599::SB4,3024 CZ,2473,603,1,3,0,0,0,524,83,0,0,0,0,0,0,607,41,68,58,37,149,70,84,32,2,0,9,11,5,2,0,2,1,31,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Springerstraat 340,0599::SB5,3067 CX,1605,635,1,1,0,0,0,572,65,0,0,0,0,0,0,637,91,140,57,46,65,25,66,108,0,0,3,17,0,1,0,0,0,16,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Cypruslaan 404 (links),0599::SB6,3059 XA,1379,450,2,1,0,1,0,397,55,0,0,1,0,0,0,452,38,100,31,88,87,11,27,24,4,0,4,12,1,2,0,0,2,18,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Anna van Westrienenstraat 1,0599::SB7,3038 SX,1553,447,1,5,0,0,0,418,35,0,0,0,0,0,0,453,22,59,55,43,117,53,37,8,2,1,5,6,2,0,0,2,1,34,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Bergsingel 152 (links),0599::SB8,3037 GM,1162,474,4,1,0,0,1,445,33,0,0,0,0,0,0,479,22,38,41,36,141,88,32,32,3,0,7,2,1,0,0,1,1,28,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Cole Porterstraat 2,0599::SB9,3069 ZD,1501,443,1,0,0,0,0,402,42,0,0,0,0,0,0,444,31,75,44,54,92,44,38,16,2,0,7,8,2,1,0,0,0,29,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Schiedamse Vest 188 (links),0599::SB10,3011 BH,1230,342,1,3,0,0,2,314,30,0,0,0,0,0,0,346,27,30,31,44,90,44,29,9,5,0,7,3,0,1,0,1,1,20,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Statensingel 103,0599::SB11,3039 LH,1377,596,1,2,0,0,2,538,59,0,0,0,0,0,0,599,43,44,44,71,178,71,58,14,6,0,13,6,3,1,3,0,0,40,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Bergwegplantsoen 10,0599::SB12,3037 SK,1044,435,0,0,0,0,0,402,33,0,0,0,0,0,0,435,21,86,49,27,76,27,79,14,3,0,12,7,2,0,0,1,2,29,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau De Vliegerstraat 55 (links),0599::SB13,3021 ZN,1489,335,2,1,0,0,0,307,31,0,0,0,0,0,0,338,17,23,44,22,88,64,30,6,1,0,10,11,4,0,0,0,0,15,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Achillesstraat 290,0599::SB14,3054 RL,1277,490,5,4,0,0,0,458,41,0,0,0,0,0,0,499,51,109,44,88,59,21,51,9,2,0,0,20,2,0,0,4,0,30,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Dempostraat 143,0599::SB15,3029 CL,2104,240,1,5,0,0,0,221,25,0,0,0,0,0,0,246,23,63,48,1,26,13,44,4,1,0,1,6,0,1,0,1,0,7,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Nicolaas Beetsstraat 2,0599::SB16,3027 AR,1642,380,0,6,0,3,0,313,70,0,0,3,0,0,0,383,58,46,89,11,55,37,56,9,0,0,2,3,0,2,0,1,0,11,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Vrijenbansestraat 48,0599::SB17,3037 VZ,836,248,2,3,0,0,2,217,34,0,0,0,0,0,0,253,17,24,31,18,60,38,21,11,3,0,4,5,3,0,0,2,0,11,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Snauwstraat 7,0599::SB18,3028 HV,1319,247,3,1,2,0,0,230,23,0,0,0,2,0,0,253,21,56,27,9,39,17,39,11,3,0,3,4,1,0,0,0,1,15,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Oostzeedijk 276,0599::SB19,3063 CA,1178,623,3,3,0,0,1,572,56,0,0,0,0,0,0,629,43,77,61,136,170,48,25,18,1,1,7,10,0,2,1,0,1,22,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Hoogstraat 108 (links),0599::SB20,3011 PV,1391,776,3,3,0,0,0,724,60,2,0,0,2,0,0,784,52,87,79,161,191,76,46,15,9,0,14,6,1,0,1,0,0,37,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Jacques Dutilhweg 494A (links),0599::SB21,3065 GA,1418,401,0,0,0,0,2,343,56,0,0,0,0,0,0,401,30,78,37,53,70,38,38,16,1,0,8,6,1,0,1,1,0,23,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Schommelstraat 69,0599::SB22,3035 CE,1399,251,0,3,0,0,0,227,27,0,0,0,0,0,0,254,19,27,34,12,53,32,36,10,1,0,8,3,0,0,0,0,1,14,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Westerstraat 10,0599::SB23,3016 DH,871,556,1,3,6,0,9,496,61,0,0,0,6,0,0,566,47,40,43,140,163,50,23,12,2,0,3,3,0,0,3,0,3,24,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Noorderhavenkade 8 (links),0599::SB24,3039 RD,1110,328,1,1,0,0,0,311,19,0,0,0,0,0,0,330,7,35,41,34,83,46,27,14,3,0,4,5,0,0,2,1,0,26,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Meidoornstraat 55,0599::SB25,3036 WC,2275,442,1,4,1,0,0,380,68,0,0,0,1,0,0,448,59,75,65,18,58,41,82,7,0,0,4,2,2,2,0,0,1,23,3
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Pergolesilaan 7,0599::SB26,3055 SK,822,469,1,1,0,1,0,392,78,0,0,1,0,0,0,470,45,33,13,152,133,28,15,16,7,0,3,6,0,1,0,0,0,17,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Josephstraat 10,0599::SB27,3014 GB,2200,356,3,1,0,0,1,308,51,0,0,0,0,0,0,360,16,37,57,13,84,53,59,0,0,0,7,7,1,0,0,0,0,22,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Ruivenstraat 39,0599::SB28,3036 DD,1102,192,0,2,0,0,0,171,23,0,0,0,0,0,0,194,11,29,27,10,33,20,37,4,0,0,5,0,0,2,3,0,0,8,3
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Engelsestraat 40,0599::SB29,3028 CH,2442,498,1,6,0,5,0,443,57,0,0,5,0,0,0,500,29,137,63,22,56,38,73,21,3,0,4,10,1,1,0,2,2,35,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau 's-Gravenwetering 98,0599::SB30,3062 SJ,935,595,2,4,1,0,2,516,84,0,0,0,1,0,0,602,51,30,21,250,153,40,8,11,6,0,1,6,1,0,3,0,0,14,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Hooglandstraat 67,0599::SB31,3036 PD,1335,243,0,3,1,0,0,231,16,0,0,0,1,0,0,247,16,41,31,16,38,18,41,8,1,0,1,2,3,1,1,0,2,22,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Ringvaartweg 125 (links),0599::SB32,3065 SC,1706,620,0,1,0,5,1,524,101,0,0,0,5,0,0,626,41,67,42,157,170,51,26,22,0,0,6,10,2,0,2,1,0,23,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Schouwburgplein 25,0599::SB33,3012 CL,1638,560,2,5,1,0,2,519,45,0,0,1,0,0,0,566,33,55,48,81,138,102,39,11,2,1,6,8,0,0,0,0,2,34,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Kleine Schoolstraat 9,0599::SB34,3151 AD,1582,486,0,2,0,0,3,431,54,0,0,0,0,0,0,488,69,129,34,82,41,14,45,16,4,0,3,16,0,2,1,3,1,23,3
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Jacques Dutilhweg 494A (midden),0599::SB35,3065 HJ,1275,414,1,1,0,0,1,354,61,0,0,0,0,0,0,416,54,67,25,77,85,17,28,19,7,1,4,8,2,0,0,0,1,19,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Boompjes 680,0599::SB36,3011 XZ,1498,585,1,3,0,0,0,519,70,0,0,0,0,0,0,589,43,63,62,97,175,55,33,6,8,0,4,13,3,1,0,0,0,22,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zevenkampse Ring 40,0599::SB37,3068 PZ,1523,493,1,1,0,0,0,440,55,0,0,0,0,0,0,495,45,108,53,42,65,18,77,24,8,0,3,19,2,2,0,3,2,20,2
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Van Speykstraat 107,0599::SB38,3014 VG,1095,196,2,3,0,0,0,175,26,0,0,0,0,0,0,201,13,20,41,5,37,18,49,2,4,0,0,1,0,0,0,0,0,6,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Erasmusstraat 26,0599::SB39,3035 LE,2777,583,4,7,0,2,0,531,65,0,0,0,2,0,0,596,44,112,71,30,108,52,93,11,4,0,19,7,4,0,0,5,0,23,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Rijnwaterstraat 11 (links),0599::SB40,3063 SJ,1268,404,0,6,0,0,0,376,34,0,0,0,0,0,0,410,28,75,42,45,76,29,48,16,4,0,5,6,0,0,0,0,1,29,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Ben Websterstraat 9,0599::SB41,3069 XJ,1504,412,0,0,0,0,1,349,62,0,0,0,0,0,0,412,20,119,32,19,56,30,65,13,0,0,8,12,6,0,4,2,0,26,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Jan Greshoffstraat 5 (links),0599::SB42,3069 WC,1387,311,0,0,0,0,0,286,25,0,0,0,0,0,0,311,19,69,34,22,42,27,48,12,0,0,1,20,1,0,0,0,0,16,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Larikslaan 200 (rechts),0599::SB43,3053 LG,1104,541,0,1,0,0,0,472,70,0,0,0,0,0,0,542,50,63,55,75,138,61,27,17,1,0,4,9,3,0,2,0,2,33,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Rodaristraat 31,0599::SB44,3066 LA,1309,428,3,5,0,0,0,395,41,0,0,0,0,0,0,436,49,100,57,29,54,15,49,29,0,0,2,18,0,1,0,1,1,23,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Paradijslaan 1,0599::SB45,3034 XM,1030,267,2,1,0,0,0,246,24,0,0,0,0,0,0,270,13,39,26,32,54,34,36,6,1,0,2,5,0,0,0,0,1,17,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Apollostraat 311-561,0599::SB46,3054 TC,1277,491,1,2,0,0,0,453,41,0,0,0,0,0,0,494,62,93,30,108,88,12,38,18,2,1,2,14,2,0,1,1,1,16,2
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Isaäc Hubertstraat 153 (links),0599::SB47,3034 CS,1416,262,1,3,0,0,0,225,41,0,0,0,0,0,0,266,20,69,48,13,36,18,38,1,0,0,1,5,0,1,1,1,0,10,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Schepenstraat 69 (links),0599::SB48,3039 NC,1071,379,0,1,0,0,0,347,33,0,0,0,0,0,0,380,26,28,39,45,99,67,29,8,5,0,3,1,2,0,1,1,0,25,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Boezemsingel 100,0599::SB49,3034 CA,1405,415,1,0,0,0,0,365,51,0,0,0,0,0,0,416,28,117,52,19,45,25,64,20,2,0,7,11,0,0,1,0,1,23,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Tattistraat 23,0599::SB50,3066 CE,1510,461,4,1,0,0,0,407,59,0,0,0,0,0,0,466,32,108,52,33,90,38,54,7,0,0,5,11,0,2,0,2,0,27,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Nieuwe Ommoordseweg 97,0599::SB51,3068 BS,2183,639,3,1,0,0,0,566,77,0,0,0,0,0,0,643,46,179,66,51,77,33,67,47,3,0,12,16,0,3,0,0,0,39,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Hamakerstraat 77,0599::SB52,3052 JA,1305,291,2,2,0,0,1,263,31,0,0,0,0,0,0,295,19,65,45,19,41,19,29,13,0,0,4,14,1,0,0,1,0,15,6
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Wilgenplaslaan 196,0599::SB53,3052 SL,2073,507,1,3,0,2,0,451,62,0,0,0,2,0,0,513,37,65,55,45,115,51,59,21,0,0,5,9,1,1,2,0,1,37,3
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Thomas Mannplaats 150,0599::SB54,3069 NE,1256,570,1,2,0,2,0,532,43,0,0,0,2,0,0,575,84,109,75,52,88,27,48,25,3,0,7,27,2,0,1,2,3,16,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau 's-Gravendijkwal 36,0599::SB55,3014 EA,722,159,3,0,0,0,0,144,18,0,0,0,0,0,0,162,6,12,25,20,37,23,12,9,2,1,4,0,0,0,0,1,2,5,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Hofdijk 651,0599::SB56,3032 CG,1517,457,5,0,0,0,0,417,45,0,0,0,0,0,0,462,17,60,62,47,115,48,59,7,1,0,9,5,3,0,0,0,1,23,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Adriaan Kluitstraat 170,0599::SB57,3052 RJ,1222,323,1,3,2,0,2,292,35,0,0,0,2,0,0,329,33,80,35,20,44,29,40,10,0,0,0,16,1,0,0,0,0,15,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Goudseweg 17 (rechts),0599::SB58,3031 XH,1502,281,3,1,1,0,0,261,25,0,0,0,1,0,0,286,27,48,32,33,63,18,28,2,4,0,6,5,0,0,0,0,0,15,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Van Vlooswijkstraat 2A (links),0599::SB59,3039 TP,1453,613,1,3,0,0,0,552,65,0,0,0,0,0,0,617,32,52,47,84,165,104,49,23,7,1,7,2,1,3,0,2,1,33,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Michelangelostraat 98,0599::SB60,3066 NM,1132,370,1,2,0,0,0,352,21,0,0,0,0,0,0,373,22,54,31,15,43,18,47,116,3,0,1,5,0,0,1,1,1,12,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Hesseplaats 441 (links),0599::SB61,3069 EA,1241,390,2,1,0,0,1,347,45,0,0,0,0,0,0,393,37,84,36,33,71,24,29,12,2,0,4,23,0,2,1,0,1,30,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Paulus Potterstraat 76,0599::SB62,3061 ZW,2273,539,1,5,0,0,3,463,79,0,0,0,0,0,0,545,35,62,49,82,135,41,62,14,8,0,9,5,1,2,1,0,1,32,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Valenciadreef 6,0599::SB63,3067 WL,1364,239,1,1,0,0,0,212,29,0,0,0,0,0,0,241,16,56,23,18,25,15,40,19,0,0,1,8,0,0,0,0,0,18,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Merkelbachstraat 2 (links),0599::SB64,3067 AL,1468,341,0,1,0,0,0,312,30,0,0,0,0,0,0,342,44,60,43,27,32,15,50,19,2,0,6,18,0,5,0,2,0,18,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Cordell Hullplaats 22,0599::SB65,3068 VH,860,270,0,4,1,0,0,256,17,0,0,1,0,0,0,273,32,75,30,19,29,9,28,4,1,1,1,24,1,0,0,0,0,16,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Slaak 15 (links),0599::SB66,3061 CR,2331,568,1,3,16,0,1,518,69,0,0,0,16,0,0,588,38,89,92,61,119,55,63,11,1,0,11,10,2,0,1,2,2,11,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Vaasahof 75,0599::SB67,3067 DX,1435,451,0,2,0,1,2,408,44,0,0,0,1,0,0,454,36,87,48,42,59,29,70,21,1,2,4,20,1,2,0,0,0,29,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Jaffahof 75 (links),0599::SB68,3061 KZ,1401,369,2,4,0,0,0,321,54,0,0,0,0,0,0,375,13,40,55,50,90,30,41,11,2,0,3,5,0,1,0,0,0,28,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Van Bassenstraat 19 (links),0599::SB69,3067 XC,1308,424,0,1,0,2,0,376,51,0,0,0,2,0,0,427,42,78,30,42,62,38,38,36,5,0,6,10,0,0,1,0,2,34,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Jaffahof 75 (rechts),0599::SB70,3061 KZ,1366,446,2,2,0,0,0,401,49,0,0,0,0,0,0,450,22,56,65,52,91,43,46,15,3,0,11,6,0,0,3,1,1,30,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Willem Ruyslaan 17 (links),0599::SB72,3061 TT,1174,370,0,0,2,0,1,333,38,0,0,0,2,0,0,372,30,27,27,79,93,30,43,10,6,0,3,2,1,1,1,0,0,17,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Schimmelpenninckstraat 31,0599::SB73,3039 KS,1632,687,5,5,0,0,0,627,70,0,0,0,0,0,0,697,55,56,64,80,184,99,49,33,1,0,11,10,4,3,2,0,1,35,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Weteringstraat 225,0599::SB74,3061 PN,1188,337,0,1,0,0,2,304,32,0,0,0,0,0,0,338,28,49,37,19,64,36,55,10,4,0,4,10,1,1,2,0,0,17,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Pieter de Hoochstraat 52,0599::SB75,3024 CS,1085,292,1,0,0,0,1,263,29,0,0,0,0,0,0,293,20,20,33,28,92,38,26,9,2,0,2,4,1,1,0,0,0,16,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Westzeedijk 5,0599::SB76,3015 AA,1105,401,2,0,0,1,1,373,30,0,0,0,1,0,0,404,28,12,41,94,129,41,9,7,7,0,10,4,2,0,0,2,0,15,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Sionstraat 42,0599::SB77,3061 ES,978,297,0,1,0,0,0,264,34,0,0,0,0,0,0,298,28,31,21,24,79,28,27,20,1,0,1,4,0,0,0,3,0,30,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Oranjestraat 6 (links),0599::SB78,3043 TN,1342,275,0,1,0,0,0,235,41,0,0,0,0,0,0,276,40,69,22,14,28,21,38,18,2,0,5,4,1,1,0,0,1,11,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Sint-Jobskade 14,0599::SB79,3024 EN,1734,746,3,1,0,2,1,672,79,0,0,0,2,0,0,752,32,60,74,96,244,91,58,13,7,0,10,13,3,2,4,0,2,35,2
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Hilleniussingel 23,0599::SB80,3021 VM,678,384,0,0,0,0,0,331,53,0,0,0,0,0,0,384,28,29,27,113,113,27,10,9,4,0,1,2,0,0,0,0,0,21,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Vredehofweg 13,0599::SB81,3062 EK,1611,730,0,0,1,0,0,635,96,0,0,0,1,0,0,731,39,22,49,245,248,47,11,23,2,0,5,4,0,0,3,0,2,30,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Overschiese Kleiweg 555,0599::SB82,3065 SC,1069,315,0,0,0,0,0,262,53,0,0,0,0,0,0,315,31,50,23,45,59,44,29,13,5,0,1,1,0,2,1,0,0,11,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Waterloostraat 164,0599::SB83,3062 TX,1559,557,2,3,0,0,0,498,64,0,0,0,0,0,0,562,36,19,51,134,194,45,17,8,6,0,9,9,0,1,0,0,0,28,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Catharina Beersmansstraat 78,0599::SB84,3025 EJ,1404,268,2,2,0,0,0,227,45,0,0,0,0,0,0,272,41,28,61,7,37,18,38,8,0,0,1,2,0,0,0,1,1,25,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Oostzeedijk Beneden 5,0599::SB85,3062 VJ,1356,706,3,4,1,0,6,641,67,0,0,0,1,0,0,714,51,70,38,174,213,53,25,11,13,0,4,13,1,0,0,0,0,40,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zeilmakersstraat 59,0599::SB86,3025 NV,1300,190,0,1,0,0,0,160,31,0,0,0,0,0,0,191,15,24,25,8,39,23,30,9,1,1,1,3,0,0,0,1,0,10,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Hendrick Staetsweg 15,0599::SB87,3067 VM,1089,456,0,4,0,0,2,420,38,0,0,0,0,0,0,460,61,93,43,36,64,21,38,53,4,0,3,19,1,3,1,0,1,15,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Rendierstraat 3,0599::SB88,3064 AX,1296,387,0,0,0,0,0,326,61,0,0,0,0,0,0,387,25,108,33,25,54,17,35,43,10,0,1,16,1,0,1,1,0,17,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Rozenlaan 20 (links),0599::SB89,3051 LS,1210,711,1,1,0,0,1,626,86,0,0,0,0,0,0,713,35,91,51,87,169,90,63,39,6,0,16,13,3,5,1,1,1,40,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Johan de Wittlaan 5-9 (links),0599::SB90,3051 HA,1258,453,1,2,0,0,1,396,59,0,0,0,0,0,0,456,27,43,32,68,154,43,25,15,4,0,6,6,2,1,3,0,0,24,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Bilderdijkstraat 322,0599::SB91,3027 SH,1669,247,1,3,0,0,0,200,51,0,0,0,0,0,0,251,29,22,43,9,49,27,28,15,1,0,5,1,0,1,0,2,1,14,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Snelfilterweg 72,0599::SB92,3063 HA,1127,144,0,1,0,0,0,128,17,0,0,0,0,0,0,145,12,23,15,11,29,10,20,5,2,0,1,8,0,0,0,0,1,7,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Corverstraat 15,0599::SB93,3025 TA,1329,277,3,4,0,0,0,250,35,0,1,0,1,0,0,285,26,35,46,12,41,46,40,7,0,0,6,3,1,1,0,0,0,13,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Adenstraat 25,0599::SB94,3067 MN,1635,450,2,7,0,0,0,397,62,0,0,0,0,0,0,459,36,127,57,42,36,19,63,27,3,0,4,7,2,2,0,3,2,20,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Korne 180,0599::SB95,3068 GN,1234,316,1,1,0,0,0,282,36,0,0,0,0,0,0,318,23,81,37,26,30,16,63,8,1,0,0,6,2,0,0,0,0,23,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Rösener Manzstraat 80 (links),0599::SB96,3026 XS,1419,343,1,2,0,1,0,293,54,0,0,0,1,0,0,347,41,48,76,9,43,30,43,20,1,0,6,6,4,0,1,1,0,14,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Korfmakersstraat 139,0599::SB97,3026 XG,1172,152,0,5,0,0,0,134,23,0,0,0,0,0,0,157,15,13,20,9,25,17,18,15,0,0,2,4,0,0,0,0,0,14,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Prinses Margrietlaan 6,0599::SB98,3051 AT,1323,540,2,0,0,0,0,476,66,0,0,0,0,0,0,542,31,60,34,100,145,68,43,17,3,0,2,7,1,0,0,0,0,29,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Oude Raadhuislaan 86,0599::SB99,3054 NT,651,444,2,1,0,0,0,396,51,0,0,0,0,0,0,447,35,42,40,150,96,34,7,12,2,0,1,1,2,0,0,0,1,21,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zernikeplaats 500,0599::SB100,3068 JB,1605,517,2,0,0,0,0,475,44,0,0,0,0,0,0,519,56,114,45,44,64,21,95,10,7,0,6,22,0,0,0,0,0,33,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Schiedamse Vest 188 (rechts),0599::SB101,3011 BH,1089,294,4,0,0,0,0,269,29,0,0,0,0,0,0,298,18,22,40,41,85,30,24,5,7,0,9,2,1,1,0,0,0,9,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Rijnwaterstraat 11 (rechts),0599::SB102,3063 JJ,1059,504,2,1,0,0,0,459,48,0,0,0,0,0,0,507,36,71,52,57,107,34,67,20,1,0,6,17,2,0,1,1,0,31,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Grindweg 100,0599::SB103,3055 VD,1260,614,0,1,0,0,1,534,80,0,0,0,0,0,0,615,52,74,44,163,159,32,24,12,2,0,5,9,0,2,0,0,1,35,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Landstraat 9,0599::SB104,3056 LR,1139,373,0,0,0,0,0,316,57,0,0,0,0,0,0,373,35,75,18,60,75,24,24,22,5,0,2,9,1,1,0,0,0,22,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zevenkampse Ring 301,0599::SB105,3068 GV,1630,372,1,3,0,0,0,326,50,0,0,0,0,0,0,376,22,101,29,22,53,23,69,16,1,0,3,8,0,0,0,0,0,25,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Taandersplein 3,0599::SB106,3027 CN,1251,281,1,0,0,0,0,230,51,0,0,1,0,1,0,281,36,39,52,3,47,21,48,22,0,0,3,3,0,1,0,0,1,5,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Fresiastraat 18,0599::SB107,3053 VH,1176,403,0,3,0,0,2,358,46,0,0,0,0,0,0,406,50,67,34,31,75,33,42,20,1,0,7,15,0,1,0,1,1,25,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Larikslaan 200 (links),0599::SB108,3053 LG,1029,632,0,0,0,0,0,556,76,0,0,0,0,0,0,632,64,77,49,80,151,91,38,16,6,0,3,16,0,1,1,0,0,39,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Delftweg 46,0599::SB109,3043 CH,1258,271,0,1,0,0,0,244,28,0,0,0,0,0,0,272,17,54,18,26,54,36,28,11,2,0,3,2,0,0,0,0,0,20,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Kobehof 5,0599::SB110,3067 MC,1225,352,2,1,0,0,0,313,42,0,0,0,0,0,0,355,19,104,28,24,54,20,47,20,4,0,2,12,0,0,0,0,0,17,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Mendelssohnlaan 11,0599::SB111,3055 HH,1329,784,3,2,2,0,2,690,99,0,0,0,2,0,0,791,83,90,45,227,192,36,17,17,5,0,4,21,1,2,2,0,2,39,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Goudkruid 107,0599::SB112,3068 SV,986,376,3,0,0,0,0,335,44,0,0,0,0,0,0,379,39,92,36,25,38,33,46,23,3,0,4,10,2,2,0,0,0,23,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Mercatorweg 50 (links),0599::SB113,3151 CJ,1565,528,0,3,0,1,1,460,71,0,0,0,1,0,0,532,60,144,39,88,48,20,44,22,6,0,7,14,1,4,1,2,0,28,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Burg. de Josselin de Jonglaan 27,0599::SB114,3042 NC,918,281,0,1,0,0,1,247,34,0,0,0,0,0,0,282,21,77,35,16,39,23,44,3,1,0,2,9,0,0,1,0,0,10,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Nieuwe Ommoordseweg 89,0599::SB115,3068 PC,907,322,3,0,2,0,0,282,45,0,0,0,2,0,0,327,38,66,33,16,38,15,36,31,7,0,4,16,1,2,0,5,1,13,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Merkelbachstraat 2 (rechts),0599::SB116,3067 AL,1545,323,1,1,0,0,0,303,22,0,0,0,0,0,0,325,39,75,46,19,38,14,36,20,2,0,2,10,1,0,0,0,0,21,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zuiderlaan 10,0599::SB117,3043 XM,937,216,0,3,0,0,0,181,38,0,0,0,0,0,0,219,16,76,11,21,32,20,8,4,2,0,1,7,0,0,1,2,0,15,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Kipstraat 37 (rechts),0599::SB118,3011 RS,1473,468,1,1,0,1,2,430,39,0,0,0,1,0,0,471,26,65,45,72,121,45,27,14,3,0,11,8,8,0,2,0,2,19,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Mombassaplaats 2,0599::SB119,3067 GZ,1111,236,0,0,0,1,0,228,9,0,0,0,1,0,0,237,12,68,32,12,25,11,41,10,0,0,2,10,0,1,1,2,0,9,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Eudokiaplein 35,0599::SB120,3037 BT,1145,710,2,3,0,1,2,627,87,0,0,0,1,0,0,716,27,67,98,49,157,99,95,21,2,0,16,15,2,2,1,1,2,51,5
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Clara Egginkstraat 4 (links),0599::SB121,3066 JG,1177,422,0,2,0,0,0,373,51,0,0,0,0,0,0,424,35,94,32,52,72,31,46,8,3,0,4,15,1,2,0,1,0,24,2
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Gijsingstraat 51,0599::SB122,3026 RH,1347,327,5,1,0,0,0,283,50,0,0,0,0,0,0,333,52,37,48,21,50,32,36,20,5,0,2,5,1,0,0,1,0,14,3
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Hoogstraat 108 (rechts),0599::SB123,3011 PV,1141,309,0,1,2,0,1,285,26,0,0,0,2,0,0,312,24,18,35,56,85,37,25,7,0,0,7,2,1,1,0,0,0,11,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Lisplein 31,0599::SB124,3037 AS,764,286,5,1,0,0,0,263,29,0,0,0,0,0,0,292,11,28,22,21,71,50,26,22,1,0,8,0,1,0,0,1,2,22,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Tidemanstraat 80 (links),0599::SB125,3022 SM,1568,289,2,7,1,0,0,252,44,0,1,2,0,0,0,296,15,21,44,9,50,44,54,15,1,1,12,6,0,0,0,0,0,16,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Varnasingel 600,0599::SB126,3067 EZ,1484,398,0,2,0,1,0,373,28,0,0,0,1,0,0,401,29,109,36,24,44,22,66,12,3,0,0,22,1,0,1,4,0,25,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Van der Sasstraat 61,0599::SB127,3042 NC,872,309,3,5,0,0,0,273,44,0,0,0,0,0,0,317,41,56,34,19,42,22,38,24,1,0,2,4,0,1,1,2,0,20,2
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Aar 193 (ingang 2),0599::SB128,3068 HA,1467,307,1,1,0,0,0,284,25,0,0,0,0,0,0,309,22,88,41,15,27,16,45,13,1,0,0,14,1,6,1,2,0,15,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Barbarakruid 24,0599::SB129,3068 SB,1250,333,0,0,0,0,0,296,37,0,0,0,0,0,0,333,44,61,29,34,47,11,48,20,2,1,2,13,0,0,0,0,0,20,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Oostervantstraat 25 (links),0599::SB130,3021 CC,1521,459,1,3,0,0,1,413,49,0,0,0,0,0,0,463,17,28,60,43,112,93,44,10,4,2,9,5,2,0,0,0,1,26,3
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Burgemeester de Villeneuvesingel 1,0599::SB131,3055 AK,1063,569,1,0,0,1,0,486,85,0,0,0,1,0,0,571,73,35,16,170,191,35,12,6,5,0,0,6,0,0,1,2,2,15,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Robert van 't Hoffstr 10 (links),0599::SB132,3059 PN,1561,318,0,0,0,0,0,264,54,0,0,0,0,0,0,318,39,29,13,84,70,16,18,32,6,0,1,2,0,0,0,0,0,8,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Meidoornsingel 181,0599::SB133,3053 BP,1209,594,1,2,0,0,0,551,46,0,0,0,0,0,0,597,96,61,73,49,96,59,71,23,2,1,3,18,3,0,1,3,0,35,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Kelloggplaats 664,0599::SB134,3068 XK,798,266,0,2,0,0,0,251,17,0,0,0,0,0,0,268,28,62,30,20,23,17,25,5,4,0,2,23,3,0,0,0,0,23,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Rauwenhoffstraat 42,0599::SB136,3022 RP,1462,248,0,2,0,0,0,220,31,0,1,0,1,0,0,251,11,24,43,13,51,41,33,6,0,1,8,4,3,1,0,0,1,8,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Rammelandstraat 4,0599::SB137,3042 EZ,1434,298,0,3,0,0,0,267,34,0,0,0,0,0,0,301,31,81,47,10,31,19,50,8,1,0,3,10,0,0,0,0,0,7,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Tidemanstraat 59,0599::SB138,3022 SE,1491,446,2,7,0,0,0,389,66,0,0,0,0,0,0,455,38,39,59,18,111,71,52,21,1,0,6,3,1,0,0,0,1,25,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau De Jagerstraat 42,0599::SB139,3022 NR,1500,377,2,0,0,1,1,337,42,0,0,0,1,0,0,380,25,22,46,18,85,69,51,13,2,1,13,4,2,0,0,0,1,25,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Nozemanstraat 75,0599::SB140,3023 TM,1472,545,0,0,0,0,0,478,67,0,0,0,0,0,0,545,25,62,74,33,129,102,57,16,2,0,8,5,6,4,0,0,0,22,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Varenhof 1,0599::SB141,3069 KG,980,500,2,0,0,1,0,464,39,0,0,0,1,0,0,503,81,86,30,86,77,36,37,30,0,0,2,11,0,0,0,1,0,23,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Oudedijk 15,0599::SB142,3062 AB,1434,772,3,3,0,3,3,669,109,0,0,0,3,0,0,781,79,42,49,228,243,37,17,17,3,0,3,10,6,1,1,0,0,35,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Pinkstraat 10,0599::SB143,3028 XX,1136,262,3,4,0,0,0,244,25,0,0,0,0,0,0,269,16,53,37,11,38,21,42,14,5,0,4,5,0,1,0,0,0,15,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Piccolo 50,0599::SB144,3068 HR,1358,333,0,2,0,0,0,289,46,0,0,0,0,0,0,335,24,88,41,23,40,12,39,30,1,0,3,16,1,1,0,1,1,12,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Crooswijksestraat 93,0599::SB145,3034 AE,1624,257,3,0,0,0,1,228,31,0,0,0,0,0,0,260,16,50,43,12,42,22,48,3,2,0,1,1,0,0,0,1,1,14,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Robert Kochplaats 348,0599::SB146,3068 JD,795,297,2,2,0,1,0,271,31,0,0,0,1,0,0,302,24,87,36,12,25,11,53,13,3,0,1,15,0,0,0,1,2,14,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Van Beethovenlaan 60,0599::SB147,3055 JD,1079,606,1,1,4,0,1,520,91,0,0,0,4,0,0,612,61,95,35,161,118,36,28,24,1,0,0,11,0,1,0,0,0,35,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Gerdesiaweg 494,0599::SB148,3031 BR,1078,309,0,2,0,0,0,274,37,0,0,0,0,0,0,311,28,50,22,31,63,21,35,20,1,1,4,10,1,1,1,0,0,20,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Provenierssingel 55,0599::SB149,3033 EH,1030,394,2,1,0,0,0,351,46,0,0,0,0,0,0,397,21,28,45,35,110,59,44,8,3,1,5,6,1,1,1,0,0,26,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Abtsweg 4,0599::SB150,3042 GD,1247,475,1,6,0,0,1,432,49,0,0,0,0,0,0,482,29,149,49,23,49,21,80,15,1,0,6,16,1,3,1,3,1,28,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Klein-Coolstraat 37,0599::SB151,3033 XS,1160,415,0,0,0,1,0,385,31,0,0,0,1,0,0,416,20,28,48,28,127,81,26,8,4,0,10,2,0,0,5,0,2,26,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Kastanjeplein 8,0599::SB152,3053 CD,1581,358,1,2,0,0,0,317,43,0,0,1,0,1,0,360,27,75,44,36,91,12,17,9,1,0,4,10,2,0,0,2,2,26,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Jaap Valkhoffplein 5,0599::SB153,3023 VJ,1450,385,2,5,0,1,0,329,64,0,0,0,1,0,0,393,48,32,72,24,79,41,47,9,5,0,7,9,3,1,0,0,0,8,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Hammarskjöldplaats 103,0599::SB154,3069 RA,1001,349,1,0,0,0,0,326,24,0,0,0,0,0,0,350,46,81,28,31,35,9,36,22,4,0,9,17,0,2,1,4,0,23,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Bok de Korverweg 1,0599::SB155,3056 PD,1132,348,1,0,0,0,0,292,57,0,0,0,0,0,0,349,18,53,22,55,98,37,18,12,3,0,2,6,1,0,0,0,0,23,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Lieve Verschuierstraat 62,0599::SB156,3023 ZE,1363,344,3,1,0,0,0,314,34,0,0,0,0,0,0,348,17,39,28,25,105,48,24,9,3,0,13,6,1,0,0,0,1,25,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Nansenplaats 4,0599::SB157,3069 CV,1636,529,2,5,0,0,0,469,67,0,0,0,0,0,0,536,48,104,53,58,88,42,65,13,4,1,3,19,0,1,1,0,0,28,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Curieplaats 24 (links),0599::SB158,3069 HA,1177,421,0,2,2,0,0,379,46,0,0,0,2,0,0,425,32,114,52,36,57,32,40,13,1,0,2,15,0,1,1,1,0,24,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Bertrand Russellplaats 20,0599::SB159,3069 CA,1319,582,5,3,2,0,1,536,51,0,0,2,0,0,0,588,44,90,54,51,136,40,58,31,2,0,7,20,3,4,2,0,0,40,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Hoekse Brink 219 (HvH),0599::SB160,3151 GB,1787,721,2,5,0,4,1,648,75,0,0,4,0,0,0,724,98,178,68,102,103,23,61,33,0,0,3,15,0,1,0,1,0,35,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Oostervantstraat 25 (rechts),0599::SB161,3021 AD,1578,445,3,0,0,0,1,402,45,0,0,0,0,0,0,448,22,29,64,25,115,99,39,11,3,0,7,4,3,0,0,0,0,24,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Kolkmanstraat 8,0599::SB162,3038 CZ,1649,292,1,0,0,0,0,269,23,0,0,1,0,1,0,292,18,26,32,21,85,52,19,11,5,0,7,4,1,1,0,0,0,10,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Prins Hendrikstraat 161 (H.v.H.),0599::SB163,3151 AE,1407,315,0,1,0,0,4,279,33,0,0,0,0,0,0,316,24,107,23,25,31,8,47,9,2,0,0,12,0,1,0,4,0,21,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Coolsingel 40 (rechts),0599::SB164,3011 AD,851,296,4,0,0,0,0,267,33,0,0,0,0,0,0,300,20,19,43,41,82,27,27,7,4,0,5,4,0,0,1,0,0,16,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau De Vliegerstraat 55 (rechts),0599::SB166,3021 ZN,1375,450,6,0,0,1,2,392,63,0,0,0,1,0,0,457,19,22,72,28,128,72,36,13,2,0,13,5,3,2,1,0,0,34,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Tidemanstraat 80 (rechts),0599::SB168,3022 SM,1477,240,0,2,0,1,0,211,32,0,0,0,1,0,0,243,22,22,41,10,33,41,37,8,3,1,6,2,1,0,0,0,0,13,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Rozenlaan 20 (rechts),0599::SB169,3051 LS,1249,448,1,1,2,0,1,415,36,0,0,0,2,0,0,452,45,67,39,46,71,54,50,36,3,0,3,5,0,1,0,1,0,27,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Johan de Wittlaan 5-9,0599::SB170,3051 HA,1295,519,1,1,1,0,3,447,72,0,0,0,1,0,0,522,31,35,50,85,152,67,39,18,3,0,5,9,5,0,0,1,1,18,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Mercatorweg 50 (rechts),0599::SB171,3151 CJ,1685,532,0,3,0,0,0,462,73,0,0,0,0,0,0,535,69,126,37,82,51,29,46,31,2,0,2,18,2,1,0,2,1,33,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Isaac Hubertstraat 153 (rechts),0599::SB172,3034 CS,1310,229,0,2,0,0,0,193,38,0,0,0,0,0,0,231,17,55,45,13,35,15,34,4,0,0,0,3,0,0,0,0,0,8,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Willem Ruyslaan 17 (rechts),0599::SB174,3061 TT,1203,409,1,1,0,1,1,360,51,0,0,0,1,0,0,412,34,28,34,95,94,38,43,10,5,0,3,4,0,1,0,0,0,20,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Noorderhavenkade 8 (rechts),0599::SB175,3039 RD,1175,403,2,0,6,0,0,362,37,0,0,6,0,0,0,399,19,38,39,35,103,53,50,24,3,0,5,2,0,2,1,1,0,27,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Jan Greshoffstraat 5 (rechts),0599::SB176,3069 WD,1182,335,0,3,0,0,1,305,32,0,0,0,0,0,0,338,18,68,40,21,46,31,58,17,0,1,6,5,3,1,0,0,0,20,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Schepenstraat 69 (rechts),0599::SB177,3039 NC,1077,487,2,4,0,0,0,440,51,0,0,2,0,2,0,491,26,27,47,36,127,97,56,16,2,1,8,9,1,0,1,1,3,29,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Van Vlooswijkstraat 2A (rechts),0599::SB178,3039 TP,1616,494,1,0,0,1,0,443,53,0,0,0,1,0,0,496,20,47,51,59,115,90,36,15,1,0,13,9,2,1,0,0,0,35,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Robert van 't Hoffstraat 10 (rechts,0599::SB179,3059 PN,1468,613,0,3,0,0,0,523,93,0,0,0,0,0,0,616,67,86,38,145,140,27,26,35,8,0,2,10,0,1,1,1,0,26,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Oranjestraat 6 (rechts),0599::SB181,3043 TN,1251,342,1,2,0,0,0,297,48,0,0,0,0,0,0,345,27,113,18,26,47,24,31,20,2,0,4,8,0,1,4,0,1,14,2
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Henegouwerlaan 53B (links),0599::SB183,3014 EA,1647,236,0,0,0,0,1,211,24,0,0,0,0,0,0,236,9,14,32,14,70,50,19,3,1,0,5,0,3,0,0,1,0,14,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Kipstraat 37 (links),0599::SB184,3011 RS,1459,410,2,0,3,0,0,371,44,0,0,0,3,0,0,415,36,46,42,69,115,25,33,8,3,0,5,8,0,0,0,2,1,17,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Cypruslaan 404 (rechts),0599::SB185,3059 XA,1413,502,1,0,0,0,3,410,90,0,0,0,0,0,0,503,37,115,28,91,91,16,34,36,7,0,8,14,1,3,0,0,0,20,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Bergsingel 152 (rechts),0599::SB186,3037 GM,1155,476,2,1,0,1,0,431,49,0,0,0,1,0,0,480,26,34,46,55,126,74,42,25,1,0,7,2,5,0,0,0,0,32,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Jacques Dutilhweg 494A (rechts),0599::SB187,3065 GA,1312,431,2,1,0,0,0,378,56,0,0,0,0,0,0,434,41,75,39,72,82,27,30,20,3,0,5,10,2,0,0,0,0,24,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Van Bassenstraat 19 (rechts),0599::SB189,3067 XC,1269,377,1,2,0,0,0,341,39,0,0,0,0,0,0,380,52,48,36,48,69,30,26,25,1,0,7,8,1,0,1,1,0,24,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Adriaen van der Doeslaan 155,0599::SB190,3054 NT,667,260,1,0,1,0,0,225,35,0,0,1,0,0,0,260,21,26,23,75,62,18,11,3,2,0,3,5,0,1,0,0,0,10,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau De Lugt 17,0599::SB191,3043 RE,1127,576,1,4,0,0,1,501,79,0,0,0,0,0,0,581,55,105,51,54,94,70,61,17,5,0,7,18,0,2,0,0,0,37,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Clara Egginkstraat 4 (rechts),0599::SB192,3066 JG,1398,314,0,0,0,0,0,278,36,0,0,0,0,0,0,314,29,72,27,44,42,26,36,8,2,0,4,7,2,2,0,0,0,13,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Joliotplaats 4,0599::SB193,3069 HA,1185,396,4,1,0,0,0,369,33,0,1,0,1,0,0,402,29,127,49,20,42,21,47,9,1,1,5,21,0,4,0,0,0,20,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau West-Kruiskade 54,0599::SB194,3014 AW,1381,305,2,0,0,0,0,266,41,0,0,0,0,0,0,307,23,23,41,24,58,38,59,7,3,0,6,3,0,1,0,1,1,16,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Nieuwe Binnenweg 33,0599::SB196,3014 GE,840,420,1,4,1,0,4,370,52,0,0,0,1,0,0,426,29,33,48,28,109,53,50,12,4,0,12,10,1,1,2,1,1,26,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Argonautenweg 23,0599::SB197,3054 RP,1181,452,1,1,0,0,0,397,57,0,0,0,0,0,0,454,28,84,28,81,91,33,47,9,5,1,3,11,1,3,1,0,0,26,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Goudseplein 245,0599::SB198,3031 ZH,1541,398,1,4,0,0,0,349,54,0,0,0,0,0,0,403,19,123,53,25,60,19,59,9,1,0,5,3,2,0,1,0,1,18,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Ringvaartweg 125 (rechts),0599::SB199,3027 AW,1645,781,0,4,4,0,1,666,122,0,0,0,4,0,0,789,74,64,42,232,215,47,39,24,0,0,1,10,0,0,0,1,1,31,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Coolsingel 40 (midden),0599::SB200,3027 AW,949,424,3,0,0,1,2,374,52,0,0,0,1,0,0,428,30,53,50,78,107,31,29,7,3,0,6,6,1,2,0,0,0,21,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Hoogstraat 108 (midden),0599::SB201,3069 CA,1104,452,1,1,0,0,2,411,41,0,0,0,0,0,0,454,32,30,51,82,115,51,32,11,6,0,9,8,3,1,2,1,3,15,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Sparta Park West 18,0599::SB202,3015 AA,1526,223,1,0,0,0,1,185,38,0,0,0,0,0,0,224,21,17,39,8,39,32,27,16,1,0,5,7,0,1,1,1,0,8,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Blijvenburgstraat 120,0599::SB203,3012 BA,1070,253,0,4,1,0,0,238,20,0,0,0,1,0,0,258,28,58,26,38,34,9,36,6,2,1,4,2,0,1,0,0,0,8,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Bieslandstraat 61,0599::SB204,3031 ZH,975,256,0,2,0,0,1,222,35,0,0,0,0,0,0,258,8,14,29,27,61,40,32,13,2,2,0,2,1,1,0,1,0,23,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Marcel Duchampplein 801,0599::SB205,3151 PJ,1627,240,0,1,0,0,0,197,44,0,0,0,0,0,0,241,29,37,24,53,41,15,12,9,3,0,0,5,2,0,1,1,0,8,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Rijnhoutplein 3,0599::SB206,3061 PN,773,268,3,2,0,0,1,243,29,0,0,0,0,0,0,273,12,6,36,31,75,52,22,7,4,0,2,2,2,0,2,1,0,14,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Schommelstraat 69 (rechts),0599::SB207,3014 GB,1351,261,2,1,0,0,1,239,24,0,0,0,0,0,0,264,18,50,37,12,49,26,32,6,1,0,4,3,2,1,0,0,1,19,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Paradijslaan 1 (rechts),0599::SB208,3027 AW,1112,263,6,0,0,0,0,236,33,0,0,0,0,0,0,269,10,46,18,35,49,27,41,6,3,0,9,1,1,0,2,0,0,15,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Coloniastraat 5,0599::SB210,3061 KZ,1079,169,0,1,0,0,0,159,11,0,0,0,0,0,0,170,11,24,16,14,43,23,18,5,0,0,1,1,3,0,0,0,0,10,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Rösener Manzstraat 80 (rechts),0599::SB211,3014 RA,1341,226,3,6,0,0,0,203,32,0,0,0,0,0,0,235,33,20,38,2,25,17,47,20,0,0,4,3,1,1,0,2,0,13,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Henegouwerlaan 53B (rechts),0599::SB212,3069 JJ,1501,212,0,0,0,0,0,186,26,0,0,0,0,0,0,212,19,14,24,9,62,37,17,7,0,0,9,3,2,1,1,1,0,6,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Hesseplaats 441 (rechts),0599::SB213,3039 NC,1100,476,1,1,0,0,0,427,51,0,0,0,0,0,0,478,61,111,53,24,48,34,59,23,0,1,10,26,0,0,0,0,0,26,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Larikslaan 215 (midden),0599::SB215,3067 WL,1083,540,1,0,0,0,0,482,60,0,0,0,1,0,0,542,44,54,41,97,142,73,35,11,2,0,5,8,3,0,1,0,0,22,2
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Centraal Station,0599::SB241,3013 AJ,0,1579,9,2,0,0,19,1457,114,0,0,0,0,0,0,1590,72,88,139,174,535,247,124,44,11,0,42,9,5,1,4,3,2,78,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Burgemeester Oudlaan 50,0599::SB242,3062 PA,0,424,5,1,0,0,1,409,20,0,0,0,0,0,0,430,35,10,36,94,167,36,9,13,0,0,8,1,0,1,0,1,1,11,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Prins Alexanderplein 14-21,0599::SB243,3067 GC,0,132,1,1,0,0,1,120,13,0,0,0,0,0,0,134,6,28,18,15,21,11,11,7,1,0,1,2,0,0,1,0,2,8,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Mobiel 1,0599::SB244,,0,109,2,2,0,0,0,110,3,0,0,0,0,0,0,113,22,16,28,4,6,2,12,7,0,0,0,7,0,0,0,0,0,5,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Mobiel 2,0599::SB245,,0,261,0,4,0,0,0,246,19,0,0,0,0,0,0,265,59,68,24,24,16,6,23,8,0,0,1,20,0,1,0,0,0,11,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Maasstadweg 21,0599::SB246,,0,162,0,0,0,0,2,148,12,0,0,0,0,0,0,162,5,26,20,18,34,15,19,9,1,0,0,4,0,0,0,0,0,11,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Cranendonckweg 40 (links),0599::SB301,3077 LA,1664,362,1,5,0,0,0,312,56,0,0,0,0,0,0,368,32,102,27,29,34,17,43,28,7,0,6,5,0,1,1,0,0,30,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Van Wijngaardenlaan 1,0599::SB302,3078 JP,918,243,1,0,0,0,0,219,25,0,0,0,0,0,0,244,32,56,22,21,23,13,23,19,0,0,7,8,0,0,0,1,0,18,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Koninginneweg 228,0599::SB303,3078 GS,988,259,0,0,0,0,0,227,32,0,0,0,0,0,0,259,22,93,30,7,19,12,24,23,1,0,4,8,0,1,0,2,0,13,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Max Havelaarweg 55,0599::SB304,3193 VA,2195,417,2,1,1,0,0,378,43,0,0,0,1,0,0,421,37,140,54,24,37,14,66,14,2,0,1,12,0,1,0,1,1,13,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Aalsdijk 16 (links),0599::SB305,3079 RK,1264,233,0,2,0,0,0,208,27,0,0,0,0,0,0,235,15,66,27,9,34,10,40,11,0,0,3,5,0,0,1,0,0,12,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Katendrechtsestraat 61,0599::SB306,3072 NS,1599,477,1,2,0,0,0,410,70,0,0,0,0,0,0,480,21,122,64,31,85,51,54,9,4,1,2,12,1,1,1,0,1,17,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Molenvliet 208,0599::SB307,3076 CM,1687,520,8,1,0,0,0,486,43,0,0,0,0,0,0,529,48,160,68,28,52,21,68,34,3,0,4,13,0,0,1,1,0,19,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Lede 117,0599::SB308,3075 HH,1313,479,1,5,0,0,0,440,45,0,0,0,0,0,0,485,24,184,39,15,29,26,95,14,1,1,2,14,0,2,0,1,0,32,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Oldenoord 81,0599::SB309,3079 KG,1302,515,0,3,0,0,0,453,65,0,0,0,0,0,0,518,54,136,32,52,46,15,43,91,6,0,7,13,1,0,0,0,0,18,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Bredenoord 124,0599::SB310,3079 JH,1552,329,3,4,0,4,0,310,30,0,0,0,4,0,0,340,33,91,29,24,32,6,45,25,1,2,10,12,1,0,0,0,0,18,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Sparrendaal 91,0599::SB311,3075 ZK,1136,333,1,0,0,0,0,310,24,0,0,0,0,0,0,334,17,121,25,10,16,15,71,10,1,0,2,8,1,3,0,0,0,32,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Beukendaal 99,0599::SB312,3075 LC,1642,551,1,4,0,0,0,505,51,0,0,0,0,0,0,556,26,191,59,20,43,39,86,19,5,0,7,17,2,0,0,2,1,33,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Cor Kieboomplein 180,0599::SB313,3077 MK,1190,298,0,0,0,0,0,272,26,0,0,0,0,0,0,298,19,78,35,42,65,5,29,4,3,0,1,5,0,0,0,1,0,11,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Persoonsstraat 1,0599::SB314,3071 EG,1079,177,3,1,0,0,0,160,21,0,0,0,0,0,0,181,26,39,35,2,14,12,32,4,1,0,0,3,0,1,0,1,0,7,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Enk 134,0599::SB315,3075 VC,1050,301,0,2,0,1,2,275,27,0,0,0,1,0,0,304,11,124,30,7,20,14,49,10,0,0,4,11,0,1,0,0,0,20,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Prins Hendriklaan 22 (links),0599::SB316,3071 LC,1345,345,0,2,0,0,0,318,29,0,0,0,0,0,0,347,19,39,36,37,74,53,48,4,5,1,6,2,2,0,1,0,0,17,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Grote Hagen 98,0599::SB317,3078 RC,882,362,1,5,0,0,2,346,21,0,1,0,1,0,0,369,69,92,42,19,32,10,40,14,1,1,1,15,0,5,0,2,0,18,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Hendrick Croesinckstraat 36,0599::SB318,3074 PG,833,149,0,3,0,0,0,129,23,0,0,0,0,0,0,152,14,25,20,6,25,2,36,9,0,0,3,1,1,2,0,2,0,3,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Hillevliet 139,0599::SB319,3073 KP,1010,209,1,1,0,0,1,187,23,0,0,0,0,0,0,211,25,63,30,2,27,4,30,4,1,0,3,5,0,0,0,2,0,13,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Rollostraat 75,0599::SB320,3084 PJ,1201,207,1,1,0,0,0,186,23,0,0,0,0,0,0,209,4,91,16,2,4,5,37,16,2,0,4,7,0,0,0,0,0,18,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Vlasakkerstraat 12,0599::SB321,3074 WX,1328,155,0,0,0,0,0,127,28,0,0,0,0,0,0,155,20,41,20,7,11,8,25,11,0,1,1,2,0,0,0,3,0,5,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Immanuel Kantstraat 2,0599::SB322,3076 DK,1171,356,0,0,0,0,0,317,39,0,0,0,0,0,0,356,52,95,36,37,25,9,52,21,1,1,2,8,1,2,0,0,1,13,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Stichtseplein 2,0599::SB323,3074 TN,1194,201,3,0,0,0,0,168,36,0,0,0,0,0,0,204,37,44,30,5,31,6,26,6,1,0,1,6,0,0,0,0,0,7,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Nassauhaven 297,0599::SB324,3071 JJ,2260,445,1,12,0,0,0,375,83,0,0,0,0,0,0,458,37,48,93,18,72,38,101,10,2,2,2,6,1,0,0,0,0,14,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Middelharnisstraat 53A,0599::SB325,3086 JL,1547,416,1,2,0,3,0,372,44,0,0,3,0,0,0,416,60,103,77,3,23,13,83,15,2,0,1,15,1,4,0,1,0,15,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Stieltjesstraat 30,0599::SB326,3071 JX,1466,580,2,2,0,0,3,525,56,0,0,0,0,0,0,584,30,59,73,80,148,69,46,26,8,0,12,11,1,2,1,0,0,14,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Aalreep 8,0599::SB327,3192 SE,1107,384,0,1,0,0,0,332,53,0,0,0,0,0,0,385,41,111,25,30,41,22,54,24,1,0,3,9,3,0,0,0,2,18,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Lokhorst 200,0599::SB328,3085 WZ,1023,274,5,1,0,1,0,240,39,0,0,1,0,0,0,279,25,69,38,18,34,10,41,7,4,1,1,12,0,1,0,0,0,13,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Herkingenstraat 84,0599::SB329,3086 BJ,1758,152,1,1,1,0,0,133,22,0,0,0,1,0,0,155,17,33,31,3,15,2,25,9,0,0,0,8,0,2,0,0,0,7,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Langenhorst 104,0599::SB330,3085 HR,1000,264,0,0,0,0,0,222,42,0,0,0,0,0,0,264,22,87,29,6,23,11,42,22,1,0,1,7,0,0,0,2,1,10,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Putsebocht 89 (links),0599::SB331,3073 HE,2449,402,2,3,0,0,0,333,74,0,0,0,0,0,0,407,77,48,90,10,78,17,49,11,0,0,1,7,1,1,1,2,0,9,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Krabbendijkestraat 238 (rechts),0599::SB332,3086 LW,1471,235,1,3,1,0,0,209,29,0,0,1,0,0,0,238,21,60,28,16,26,13,28,16,1,0,4,9,0,0,0,2,0,11,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Puitstraat 101,0599::SB333,3192 SH,1267,324,3,2,0,1,0,298,32,0,0,0,1,0,0,330,32,93,23,16,22,12,55,34,4,0,3,14,0,0,0,1,0,15,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Krabbendijkestraat 238 (links),0599::SB334,3086 LW,1433,366,1,0,0,0,0,326,41,0,0,0,0,0,0,367,35,106,43,18,36,14,51,26,2,0,4,9,1,1,0,0,0,20,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Nieuwe Wetering 251,0599::SB335,3194 TB,2442,586,1,3,0,0,0,514,76,0,0,0,0,0,0,590,52,195,55,46,44,22,86,14,2,1,8,15,0,3,1,2,3,37,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Herkingenstraat 84 (rechts),0599::SB336,3086 HH,1599,275,0,1,0,0,0,242,34,0,0,0,0,0,0,276,31,69,42,11,25,7,53,9,3,2,4,4,2,0,1,0,0,11,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Afrikaanderplein 7,0599::SB337,3072 EA,2383,412,2,3,0,0,0,343,74,0,0,0,0,0,0,417,76,84,72,7,48,18,77,2,2,0,3,4,3,1,1,0,2,12,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Herenoord 6,0599::SB338,3079 JJ,1534,231,1,2,0,0,0,204,30,0,0,0,0,0,0,234,11,76,28,14,18,8,28,26,0,0,0,5,0,2,0,2,0,13,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Joubertstraat 13A,0599::SB339,3072 XS,1348,191,1,1,0,0,0,154,39,0,0,0,0,0,0,193,38,32,40,7,30,9,19,0,1,1,1,3,2,0,0,0,0,7,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Montfoortverloop 15,0599::SB340,3077 XM,1405,180,2,1,0,0,0,158,25,0,0,0,0,0,0,183,5,69,24,7,14,2,27,8,3,0,1,7,0,0,0,0,1,12,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Asterlo 10 (links),0599::SB341,3085 AD,1380,406,0,2,0,0,0,354,54,0,0,0,0,0,0,408,30,158,32,21,27,10,65,14,3,0,9,17,0,3,1,2,0,14,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Noorderhagen 80,0599::SB342,3078 CK,1057,197,0,3,0,0,0,171,29,0,0,0,0,0,0,200,31,53,17,7,12,10,40,15,0,0,0,3,0,0,0,0,0,9,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Biezenkreek 15,0599::SB343,3079 SK,1170,303,0,2,0,0,0,255,50,0,0,0,0,0,0,305,12,97,36,17,15,5,53,41,0,0,1,10,1,5,0,0,0,10,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Carnissedreef 280,0599::SB344,3084 NN,1523,316,4,2,0,0,0,278,44,0,0,0,0,0,0,322,16,92,30,6,43,16,48,15,2,1,9,8,2,1,1,1,0,25,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Hijkerveld 9,0599::SB345,3085 PA,1466,269,2,4,0,0,0,246,29,0,0,0,0,0,0,275,25,83,45,11,24,5,39,5,2,1,0,12,0,1,0,0,1,15,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Pietersdijk 60,0599::SB346,3079 TD,1007,209,1,0,0,0,0,187,23,0,0,0,0,0,0,210,17,76,17,7,19,8,30,18,1,0,0,4,1,1,0,1,1,8,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Slaghekstraat 5,0599::SB347,3074 LA,1267,212,1,1,0,0,0,177,37,0,0,0,0,0,0,214,27,47,48,3,25,15,24,7,1,1,4,3,0,0,0,0,1,6,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Putselaan 64,0599::SB348,3074 JC,1276,239,0,3,0,0,0,200,42,0,0,0,0,0,0,242,57,33,43,6,30,10,45,5,1,0,3,3,0,0,0,2,0,1,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Polderplein 26,0599::SB349,3074 XE,1456,203,2,2,0,0,0,172,35,0,0,0,0,0,0,207,37,26,37,3,46,9,25,9,1,1,0,3,1,0,0,0,1,3,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Arcenstraat 31 (links),0599::SB351,3077 HA,1597,188,1,0,0,0,0,159,30,0,0,0,0,0,0,189,17,63,23,7,13,4,24,11,1,0,4,7,1,1,0,1,2,9,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Lampreistraat 163,0599::SB352,3192 BJ,1761,395,1,1,0,0,0,358,39,0,0,0,0,0,0,397,32,120,44,21,34,12,52,16,3,0,10,20,2,3,0,2,2,22,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Heer Danielstraat 29,0599::SB353,3073 DC,989,94,0,0,0,0,0,88,6,0,0,0,0,0,0,94,4,40,9,1,4,6,19,3,2,0,0,0,0,0,0,0,0,6,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Oudelandstraat 75,0599::SB354,3073 LJ,2850,449,0,4,0,4,0,403,54,0,0,0,4,0,0,457,28,189,53,15,33,8,68,5,2,0,7,13,0,2,2,2,1,21,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Pirandellostraat 43,0599::SB355,3076 KB,1624,293,0,0,0,0,0,267,26,0,0,0,0,0,0,293,27,100,28,22,29,10,37,16,2,0,1,6,0,0,0,0,0,15,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Schinnenbaan 130,0599::SB357,3077 JJ,1643,372,1,5,0,0,0,334,44,0,0,0,0,0,0,378,28,111,53,12,39,9,71,9,0,1,2,15,0,3,0,1,1,17,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Barbeelsingel 55,0599::SB359,3192 BA,1143,283,2,3,0,2,0,269,21,0,0,0,2,0,0,290,27,74,23,19,30,13,46,10,3,1,0,16,0,0,0,0,0,21,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Jagerslaan 15,0599::SB360,3075 AA,940,165,0,3,0,0,0,144,24,0,0,0,0,0,0,168,11,59,23,5,9,2,27,11,1,0,1,4,1,1,0,0,0,10,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Grift 42,0599::SB361,3075 SB,1404,369,2,2,0,0,0,338,36,1,0,0,1,0,0,374,34,122,20,6,14,21,79,20,2,0,3,13,3,0,0,0,2,29,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Schuilingsoord 8,0599::SB362,3079 NG,730,248,1,1,0,0,0,235,15,0,0,0,0,0,0,250,31,76,29,17,21,11,24,14,3,0,1,12,0,0,0,1,0,8,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Jan Ligthartstraat 6,0599::SB363,3075 AM,1124,249,1,4,0,0,2,224,30,0,0,0,2,0,2,256,10,105,17,5,16,11,39,11,2,0,6,7,0,2,0,1,0,15,2
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Oude Watering 324,0599::SB364,3077 RE,930,195,1,5,0,0,0,173,28,0,0,0,0,0,0,201,14,60,28,7,26,7,31,9,0,0,1,4,0,1,0,1,0,6,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Persoonshaven 650,0599::SB365,3071 CL,1026,157,0,2,0,0,0,140,19,0,0,0,0,0,0,159,23,30,29,3,21,7,26,4,0,0,2,5,0,0,0,0,0,6,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Asterlo 10 (rechts),0599::SB366,3085 AD,1417,238,1,2,0,0,0,217,24,0,0,0,0,0,0,241,24,68,29,12,20,9,55,5,0,0,1,5,0,2,0,0,1,7,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Spoorweghaven 172 (links),0599::SB367,3071 ZA,1484,281,0,3,0,0,2,246,36,0,0,0,0,0,0,284,16,53,46,18,43,17,58,8,2,0,4,7,1,0,0,2,1,4,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Van Langendonckstraat 51,0599::SB368,3076 SH,1523,295,3,2,0,0,0,268,32,0,0,0,0,0,0,300,19,101,33,13,27,18,31,17,6,0,1,9,0,3,2,1,1,13,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Heidestraat 9,0599::SB369,3073 GZ,2186,168,1,4,0,0,0,147,26,0,0,0,0,0,0,173,25,26,38,1,27,7,24,6,0,0,2,1,1,2,0,1,1,6,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Othelloweg 377,0599::SB370,3194 EH,1067,207,2,3,0,0,0,190,22,0,0,0,0,0,0,212,15,69,23,11,9,5,40,8,3,0,3,8,0,0,0,3,0,9,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau W.G.Witteveenplein 10,0599::SB371,3071 MA,1317,563,2,0,0,0,1,508,56,0,0,0,0,0,0,565,19,43,70,59,194,71,39,15,6,0,7,5,3,0,3,0,2,27,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Gebbeweg 10 (links),0599::SB372,3192 GE,1445,338,1,2,0,0,0,308,32,0,0,1,0,1,0,340,31,98,34,26,32,10,50,11,2,0,2,18,1,0,1,0,0,22,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Mosoelstraat 20,0599::SB373,3193 EL,1246,276,1,1,0,0,0,246,32,0,0,0,0,0,0,278,49,79,30,18,23,7,37,2,2,0,4,6,0,5,1,0,0,13,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Prins Hendriklaan 22 (rechts),0599::SB374,3071 LE,1226,448,4,0,0,0,0,409,43,0,0,0,0,0,0,452,31,56,44,45,106,63,49,4,7,1,10,7,1,0,0,0,0,24,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Talingstraat 8,0599::SB375,3082 MH,866,245,0,6,0,0,0,231,20,0,0,0,0,0,0,251,24,50,26,21,33,21,32,11,2,0,2,5,0,0,0,1,0,17,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Hollands tuin 79,0599::SB376,3078 EE,791,162,0,0,0,0,0,141,21,0,0,0,0,0,0,162,12,63,18,6,12,4,19,10,1,0,2,5,1,0,0,0,2,7,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Maashaven O.z. 230,0599::SB377,3072 HS,1233,233,0,4,0,0,0,199,38,0,0,0,0,0,0,237,35,42,36,12,28,18,28,9,0,0,3,3,1,1,0,0,0,16,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Millinxstraat 69,0599::SB378,3081 PE,1305,214,0,0,0,0,0,185,29,0,0,0,0,0,0,214,28,33,27,7,34,3,41,14,2,0,7,9,0,1,0,1,0,7,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Homerusplein 1,0599::SB379,3076 LZ,893,199,0,2,0,0,0,181,20,0,0,0,0,0,0,201,30,58,35,6,10,7,27,7,1,1,2,5,0,0,0,0,1,9,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Hoogvlietstraat 25,0599::SB380,3081 ST,1312,240,0,1,0,0,0,216,25,0,0,0,0,0,0,241,42,71,39,4,23,5,29,6,0,1,0,3,1,1,0,0,0,15,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Aesopusplaats 2,0599::SB381,3076 BA,1046,258,3,0,0,0,0,244,17,0,0,0,0,0,0,261,17,61,36,14,30,8,42,19,2,3,5,7,1,0,0,1,0,12,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Clemensstraat 111 (links),0599::SB382,3082 CE,1013,327,1,2,0,0,2,289,39,0,0,0,0,0,0,330,25,74,50,16,28,24,60,12,0,0,2,6,1,5,0,2,3,19,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Gebbeweg 10 (rechts),0599::SB383,3192 GE,1727,370,0,3,0,0,0,341,32,0,0,0,0,0,0,373,44,110,24,14,42,6,55,14,5,0,4,20,0,4,1,2,1,24,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Polslandstraat 47,0599::SB384,3081 TK,1068,153,1,2,0,0,0,143,13,0,0,0,0,0,0,156,16,58,17,5,13,5,21,1,2,0,1,4,0,0,0,4,1,5,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Ravenswaard 5,0599::SB385,3078 PG,1195,360,1,0,0,0,0,330,31,0,0,0,0,0,0,361,53,119,35,9,15,14,45,12,2,0,3,30,0,0,1,0,0,22,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Groene tuin 1,0599::SB386,3078 KA,977,277,0,14,0,0,0,255,36,0,0,0,0,0,0,291,26,79,34,16,20,9,30,9,1,3,2,23,0,0,0,0,0,24,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Menanderstraat 89,0599::SB387,3076 AG,1795,351,2,1,0,0,0,317,37,0,0,0,0,0,0,354,27,114,54,14,23,12,53,14,0,0,3,13,0,4,0,2,0,18,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Wolphaertsbocht 399,0599::SB388,3081 KK,1425,169,3,0,0,0,0,150,22,0,0,0,0,0,0,172,36,27,22,2,25,4,36,6,1,1,2,0,0,1,0,1,0,4,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Katendrechtse Lagedijk 186,0599::SB389,3081 ZD,1341,193,2,1,0,0,0,178,18,0,0,0,0,0,0,196,15,48,22,10,22,23,21,11,3,0,3,2,1,3,0,0,0,9,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Gooilandsingel 11,0599::SB390,3083 DP,1156,293,3,2,0,0,0,273,25,0,0,0,0,0,0,298,17,73,33,16,45,25,38,15,1,0,3,9,0,0,0,0,0,18,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Bevelandsestraat 30 (links),0599::SB391,3083 NA,996,181,3,1,0,0,0,169,16,0,0,0,0,0,0,185,8,53,19,5,13,10,21,16,2,0,5,6,0,1,0,0,1,20,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Middenbaan-Zuid 400,0599::SB392,3191 BZ,1367,269,2,4,0,0,1,237,37,0,0,0,0,0,0,275,26,102,25,11,22,9,32,10,2,0,2,7,0,1,0,2,1,16,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Boomgaardhoekseweg 93,0599::SB393,3191 VB,1417,337,0,2,0,0,1,298,40,0,0,0,0,0,0,339,26,93,32,21,44,9,40,25,5,0,6,17,0,2,0,0,0,17,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Carnissedreef 6,0599::SB394,3084 NN,1374,149,1,1,0,0,0,129,22,0,0,0,0,0,0,151,19,39,22,6,17,6,15,10,0,0,2,4,0,1,0,2,0,5,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Aalsdijk 16 (rechts),0599::SB395,3079 RK,1059,223,0,1,0,0,0,200,24,0,0,0,0,0,0,224,13,63,31,9,24,8,32,12,1,0,4,14,0,0,1,0,0,11,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Spoorweghaven 172 (rechts),0599::SB396,3071 ZE,1642,177,0,2,0,0,0,154,25,0,0,0,0,0,0,179,7,45,29,10,20,6,32,6,2,0,5,6,1,0,0,1,0,7,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Landmanstraat 2,0599::SB397,3082 WL,2863,441,0,0,0,0,0,393,48,0,0,0,0,0,0,441,39,98,49,17,48,44,56,37,0,0,13,9,0,0,2,3,2,23,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Klencke 7,0599::SB398,3191 VK,1207,299,0,1,0,0,0,282,18,0,0,0,0,0,0,300,37,83,35,5,25,3,53,19,1,0,0,19,1,1,0,0,1,16,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Huniadijk 251,0599::SB399,3079 EG,1252,386,0,2,0,1,2,332,55,0,0,0,1,0,0,389,24,104,52,15,25,16,55,43,0,0,3,17,0,2,0,4,2,21,3
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Velsenaerstraat 4,0599::SB400,3195 RP,1193,335,0,0,0,0,0,301,34,0,0,0,0,0,0,335,89,81,24,8,20,5,40,30,6,0,1,13,1,2,0,0,0,15,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Sluiskreek 322,0599::SB401,3079 BD,1089,353,1,2,0,0,1,317,38,0,0,0,0,0,0,356,37,98,46,15,30,17,48,24,2,0,1,15,0,1,0,2,0,17,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Akkerwinde 1 (links),0599::SB402,3191 RA,1658,411,0,2,0,0,0,373,40,0,0,0,0,0,0,413,24,127,52,35,36,15,46,10,1,0,4,18,0,4,0,2,0,37,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Slinge 303 (links),0599::SB403,3085 ER,1339,342,1,1,0,0,0,319,25,0,0,0,0,0,0,344,19,95,41,16,29,15,64,17,1,0,0,20,3,5,1,0,1,15,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Othelloweg 8,0599::SB404,3194 GS,1064,169,0,3,0,0,0,160,12,0,0,0,0,0,0,172,7,70,17,7,11,7,20,7,3,0,2,4,0,2,0,3,0,9,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Voornsevliet 4,0599::SB405,3082 HK,1475,336,2,1,0,0,0,304,35,0,0,0,0,0,0,339,26,93,26,11,24,20,69,29,2,0,1,7,2,3,0,0,0,22,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Bevelandsestraat 30 (rechts),0599::SB406,3083 NA,1200,218,1,2,0,0,0,202,19,0,0,0,0,0,0,221,11,67,29,12,8,9,33,22,2,0,1,5,2,3,2,0,0,12,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Schulpplein 50,0599::SB407,3082 PX,1257,253,0,0,0,0,0,224,29,0,0,0,0,0,0,253,16,63,34,12,25,13,28,36,1,0,2,2,0,0,0,0,0,17,4
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Heysekade 1,0599::SB408,3089 PE,1051,332,0,3,0,0,0,309,26,0,0,0,0,0,0,335,21,120,28,15,25,12,69,9,1,0,1,9,0,2,0,1,0,18,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Kruisnetlaan 410,0599::SB409,3192 KE,1630,409,2,2,0,0,0,377,36,0,0,0,0,0,0,413,41,115,33,22,49,11,51,28,7,0,0,23,0,0,1,3,1,23,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Velsenaerstraat 214,0599::SB410,3195 AG,1523,482,0,1,0,0,0,429,54,0,0,0,0,0,0,483,76,137,32,38,52,12,57,31,3,1,2,6,3,5,0,0,1,26,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Van Lieshoutstraat 20,0599::SB411,3078 XS,1468,331,1,6,0,0,0,302,36,0,0,0,0,0,0,338,18,130,44,10,25,12,50,10,0,0,2,14,1,3,0,1,0,11,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Vroomstraat 14,0599::SB412,3195 AA,1021,306,0,0,0,0,0,281,25,0,0,0,0,0,0,306,49,111,22,18,15,3,47,12,1,0,2,10,0,1,0,0,0,12,3
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Sara Burgerhartweg 60,0599::SB413,3193 TB,1296,289,1,5,0,0,0,268,27,0,0,0,0,0,0,295,34,89,39,11,18,12,45,14,5,0,1,9,0,1,0,0,0,11,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zwartewaalstraat 191,0599::SB414,3081 HZ,1235,161,3,1,0,0,0,148,17,0,0,0,0,0,0,165,23,33,18,4,17,13,21,14,0,0,6,0,4,0,0,0,0,8,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Strevelsweg 350,0599::SB415,3075 NN,1069,239,0,1,0,1,2,206,33,0,0,0,1,0,0,241,17,78,26,8,23,9,38,7,1,0,1,15,2,1,0,1,0,12,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Jan van Goyenstraat 1 (links),0599::SB416,3181 HR,1129,483,1,0,0,0,0,442,42,0,0,0,0,0,0,484,71,134,35,52,48,12,47,19,6,1,4,28,1,2,1,2,1,19,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Vincent van Goghstraat 1 (links),0599::SB417,3181 VJ,1354,197,2,0,0,0,0,182,17,0,0,0,0,0,0,199,21,52,11,24,21,4,30,8,1,0,1,14,0,1,0,0,1,8,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Vincent van Goghstraat 1 (rechts),0599::SB418,3181 VJ,1277,180,1,0,0,0,0,161,20,0,0,0,0,0,0,181,17,61,11,20,14,5,25,9,0,0,2,7,0,0,0,0,2,7,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Bramenpad 1 (links),0599::SB419,3181 SN,1143,286,0,1,0,0,0,243,44,0,0,0,0,0,0,287,26,55,12,35,37,10,49,14,5,0,2,13,0,2,1,1,0,24,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Bramenpad 1 (rechts),0599::SB420,3181 PX,1155,294,0,1,0,1,0,256,38,0,0,1,0,0,0,294,36,68,24,28,35,10,51,14,3,0,3,5,0,1,1,3,0,12,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Laan van Nieuw Blankenburg 10,0599::SB421,3181 DA,1248,349,1,5,0,0,0,321,34,0,0,0,0,0,0,355,55,72,26,33,24,9,52,38,0,0,2,11,0,4,0,6,0,17,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Blankenburg 5,0599::SB422,3181 BC,1193,518,0,0,0,1,0,450,69,0,0,0,1,0,0,519,85,129,40,55,39,5,61,36,5,0,6,26,0,2,2,1,0,25,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Akkerwinde 1 (rechts),0599::SB424,3191 RA,1665,445,2,4,0,0,0,380,69,0,0,2,0,2,0,449,36,123,30,47,67,11,58,18,5,0,5,18,1,2,0,0,1,23,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Cranendonckweg 40 (rechts),0599::SB425,3077 LA,1674,521,1,2,10,0,1,455,58,0,0,10,0,0,0,514,30,150,31,57,49,36,61,51,5,1,4,7,0,1,0,0,0,37,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Posthumalaan 90,0599::SB426,3072 AG,607,254,1,2,0,0,2,229,26,0,0,0,0,0,0,257,11,22,23,47,82,29,11,6,2,0,4,3,2,0,1,0,0,11,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Arcenstraat 31 (rechts),0599::SB429,3077 HA,1386,298,0,0,0,0,0,249,49,0,0,0,0,0,0,298,14,137,25,5,15,9,44,4,3,0,1,11,0,1,0,2,0,26,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Jan van Goyenstraat 1 (rechts),0599::SB430,3181 HR,1155,376,1,0,0,2,0,350,29,0,0,0,2,0,0,379,51,107,31,31,30,12,47,16,1,0,3,19,1,3,1,3,0,20,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Walhallalaan 110-114,0599::SB431,3072 EX,1361,308,0,2,0,1,0,270,41,0,0,0,1,0,0,311,14,23,27,33,92,56,33,6,0,0,6,1,3,0,0,0,0,13,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Clemensstraat 11 (rechts),0599::SB432,3082 CE,1248,256,1,2,0,0,1,221,37,0,0,0,0,0,0,259,27,56,32,9,22,21,48,15,2,0,7,7,1,0,0,1,0,8,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Eksterstraat 101,0599::SB433,3083 XA,1412,341,1,0,0,0,0,308,34,0,0,0,0,0,0,342,26,87,35,18,32,24,50,19,1,0,11,8,1,0,0,2,0,27,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Hollands Tuin 100-284,0599::SB434,3071 MA,773,141,0,1,0,0,0,130,12,0,0,0,0,0,0,142,6,42,20,7,15,6,17,10,0,0,0,8,0,0,0,0,0,10,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Wilhelminakade 177,0599::SB435,3194 EH,636,184,3,0,0,0,0,176,11,0,0,0,0,0,0,187,5,19,15,49,59,18,5,3,0,0,1,1,0,0,3,1,1,4,0
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Hoensbroeksingel 15,0599::SB436,3076 SH,1233,216,0,0,0,0,1,182,33,0,0,0,0,0,0,216,12,70,26,2,17,4,47,5,4,0,3,11,0,2,1,0,0,11,1
+,Rotterdam,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Slinge 303 (rechts),0599::SB439,3076 JK,1490,271,2,12,0,0,0,263,22,0,0,0,0,0,0,285,32,83,36,16,16,12,38,6,4,0,1,9,1,3,0,1,0,13,0

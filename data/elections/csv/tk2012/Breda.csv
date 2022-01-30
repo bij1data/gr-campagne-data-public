@@ -1,0 +1,85 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,VVD,Partij van de Arbeid (P.v.d.A.),PVV (Partij voor de Vrijheid),Christen Democratisch Appèl (CDA),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,ChristenUnie,Staatkundig Gereformeerde Partij (SGP),Partij voor de Dieren,Piratenpartij,Partij voor Mens en Spirit (MenS),Nederland Lokaal,Libertarische Partij (LP),Democratisch Politiek Keerpunt DPK,50PLUS,Liberaal Democratische Partij (LibDem),Anti Europa Partij,SOPN,Partij van de Toekomst (PvdT)
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadhuis,0758::SB1,,1891,1508,4,3,521,330,75,68,150,232,52,12,0,36,13,3,0,2,0,8,2,1,2,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau RK BS St. Joseph,0758::SB2,,2116,1065,1,0,345,258,50,34,98,196,42,4,0,19,7,0,0,0,1,7,2,0,2,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cingel College,0758::SB3,,2369,1602,5,5,522,382,83,59,174,235,54,10,1,39,8,7,0,1,0,24,1,0,1,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorg en Behandelcentrum Elisabeth,0758::SB4,,1633,867,3,3,228,190,71,60,119,108,34,5,3,24,5,4,0,0,1,12,0,0,0,3
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Singel,0758::SB5,,1999,1208,6,4,358,299,93,26,160,169,38,8,2,30,4,2,0,0,1,10,0,0,5,3
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadskantoor,0758::SB6,,1790,2062,8,1,696,450,121,109,227,280,51,12,0,37,23,4,0,6,1,36,1,0,6,2
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau NHTV,0758::SB10,,1630,945,2,4,185,291,87,30,134,120,33,2,1,27,6,5,2,0,2,17,0,0,0,3
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Rudolf Steinerschool,0758::SB11,,2278,1487,2,3,303,437,159,34,175,213,73,8,0,30,11,3,0,0,1,37,0,0,2,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Liniedoorn,0758::SB12,,1972,1234,0,0,206,408,181,56,210,83,26,7,0,24,15,2,0,1,0,11,0,1,1,2
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 't Rietveldhuis,0758::SB13,,899,478,1,4,54,161,93,26,83,21,11,4,0,10,1,2,0,0,0,7,1,0,3,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau BS De Fontein,0758::SB14,,1514,791,4,3,78,310,112,62,130,27,8,7,4,10,2,2,0,0,0,34,1,1,2,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woon- zorgcentrum Raffy,0758::SB15,,2429,1377,2,1,277,505,170,42,177,77,32,18,8,27,9,4,0,0,1,26,1,0,1,2
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Wegwijzer,0758::SB16,,1816,1074,2,4,201,319,196,49,159,65,20,13,4,15,6,1,0,0,4,21,0,0,0,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Wisselaar,0758::SB17,,1827,915,2,3,101,335,186,39,160,31,11,4,1,12,4,2,0,0,2,26,0,0,1,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gemeenschapshuis De Biesdonk,0758::SB18,,1695,973,0,8,140,319,177,59,144,49,12,5,2,16,6,2,0,0,2,27,0,0,11,2
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Vuchterhage,0758::SB19,,1607,1165,2,5,187,337,204,71,190,62,17,15,2,22,5,2,0,0,4,46,0,0,1,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Leye,0758::SB25,,1435,771,3,6,151,259,77,42,126,51,13,7,0,19,6,4,0,0,1,15,0,0,0,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau H. Michaëlkerk,0758::SB26,,1978,1249,7,1,258,364,95,101,173,116,39,9,6,32,7,2,0,2,0,36,1,0,7,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Poelewei,0758::SB27,,2209,1450,2,10,330,395,111,67,239,171,36,12,3,32,7,8,0,1,2,33,0,0,3,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau NHTV,0758::SB28,,2031,1646,5,4,446,406,92,95,198,262,66,14,1,27,11,2,1,0,0,22,1,0,1,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 't Houwke,0758::SB29,,1504,1193,5,2,320,306,120,106,143,97,24,8,0,21,0,1,1,0,1,44,1,0,0,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau KBS ""Weilust""",0758::SB30,,1213,996,0,1,259,284,118,59,129,80,11,3,1,14,5,2,0,1,0,29,0,0,0,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau OBS De Tweesprong,0758::SB31,,1539,1075,1,2,303,292,99,89,119,95,14,8,1,19,4,2,0,1,1,27,0,1,0,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Serviceresidentie Vredenbergh,0758::SB32,,1611,1014,2,3,406,187,36,84,71,167,36,3,3,8,2,0,0,1,0,9,0,0,1,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sacramentskerk,0758::SB33,,1938,2013,0,3,685,454,68,125,188,342,66,11,0,37,4,3,0,0,1,25,0,0,2,2
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gemeenschapshuis Zandberg,0758::SB34,,2003,1374,4,4,439,338,46,67,116,259,53,3,0,20,4,8,0,2,1,17,0,0,1,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dr. de Visserschool,0758::SB40,,1646,1459,0,1,673,260,40,59,81,255,49,3,0,21,4,0,0,0,0,14,0,0,0,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Rotonde,0758::SB41,,1931,1567,0,0,563,321,82,111,144,214,50,3,1,23,3,7,0,3,1,35,1,1,2,2
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gemeenschapshuis Erasmus,0758::SB42,,1299,906,4,3,233,273,81,44,132,80,18,4,1,8,3,4,0,0,1,20,0,0,2,2
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau St. Liduina,0758::SB43,,1741,1270,2,6,432,259,91,130,125,143,17,8,0,19,0,4,0,0,1,39,0,0,1,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau BS De Burchtgaarde,0758::SB44,,1463,1188,3,1,326,312,76,110,135,128,23,9,4,21,7,1,1,2,1,28,0,0,2,2
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Huize De Werve,0758::SB45,,1585,1111,1,0,482,201,31,91,73,169,23,2,0,23,4,1,0,0,0,11,0,0,0,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Christoffelschool,0758::SB46,,1444,1031,1,2,275,277,96,86,117,105,20,4,1,14,2,1,0,0,0,32,0,0,0,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum De IJpelaar,0758::SB47,,1410,1046,3,4,323,253,80,78,115,112,26,8,0,23,3,1,0,0,0,22,1,0,1,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woon- zorgcentrum Overakker,0758::SB48,,1357,1236,0,1,498,239,67,133,76,137,25,10,2,22,0,3,0,0,0,21,0,0,2,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Scoutinggebouw De Mokkenboom,0758::SB55,,2000,1440,3,1,562,265,57,78,100,248,62,7,3,35,4,3,0,0,0,11,1,0,3,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Brederocollege,0758::SB56,,2008,1536,1,2,514,374,63,99,110,277,48,3,0,21,1,4,0,1,1,19,0,0,1,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verpleeghuis Aeneas,0758::SB57,,1057,834,2,2,276,189,46,79,69,104,20,8,1,18,2,1,0,0,0,16,0,0,2,3
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Clubhuis Tennisvereniging BLTV,0758::SB58,,1782,1199,1,0,689,109,31,108,44,160,26,5,4,5,1,2,1,0,0,13,0,0,1,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum De Meidoorn 1,0758::SB65,,1966,1183,1,2,245,308,248,26,179,85,29,8,0,30,5,1,1,0,0,16,1,0,1,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum De Meidoorn 2,0758::SB66,,1979,898,4,4,170,240,173,23,150,70,15,6,0,19,1,2,0,1,0,23,1,0,3,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Weerijs,0758::SB67,,1718,886,7,4,186,238,129,19,137,78,33,5,0,25,9,4,0,1,0,16,1,1,3,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurthuis Scheldestraat,0758::SB68,,1872,935,1,6,181,275,142,16,129,123,23,1,1,13,10,5,0,1,0,13,0,0,1,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gymzaal Boksvereniging De Bredase Ring,0758::SB69,,1791,982,5,3,199,291,117,16,148,109,48,7,3,20,4,0,0,0,0,20,0,0,0,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Huis van de Heuvel,0758::SB70,,1688,1090,1,4,236,283,168,41,151,95,32,6,2,34,3,5,0,1,1,26,0,0,2,4
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Kompas,0758::SB71,,1491,957,4,2,212,231,98,45,155,117,28,7,5,23,10,3,1,0,0,18,0,0,1,3
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Huis van de heuvel,0758::SB72,,2231,1116,4,4,324,290,147,49,145,78,21,4,2,20,1,4,0,0,2,25,0,0,0,4
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau BS Effen,0758::SB73,,785,608,0,0,292,66,40,85,30,58,9,1,0,15,3,2,0,0,0,7,0,0,0,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Jongerenwerkwinkel Princenhage,0758::SB74,,2048,1380,1,5,341,377,142,73,188,133,29,13,1,37,3,4,0,1,0,36,0,0,1,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gemeenschapshuis De Koe,0758::SB75,,1579,1402,0,1,428,322,130,87,182,153,24,10,0,17,3,5,0,0,0,38,0,0,3,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verpleeg en verzorgingshuis Haga,0758::SB76,,1371,933,2,5,271,197,114,100,87,86,17,7,1,21,4,1,0,0,0,26,0,0,0,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau BS De Boomgaard,0758::SB77,,2024,1400,3,2,479,341,117,56,150,162,33,8,2,18,2,7,0,0,0,22,0,0,0,3
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gemeenschapshuis Liesbos,0758::SB78,,644,449,0,1,190,56,42,83,21,30,6,1,5,8,0,1,0,0,2,4,0,0,0,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Beemdentil,0758::SB85,,2051,1444,3,0,338,427,146,52,203,125,41,11,3,30,8,17,0,0,1,33,2,0,6,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Hoogakker,0758::SB86,,1747,1052,4,1,204,335,115,29,165,104,27,9,3,32,3,3,0,0,0,20,0,0,2,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ontmoetingsruimte Sporthal,0758::SB87,,1860,1160,4,2,258,307,143,46,188,97,33,8,0,40,9,2,0,1,0,24,2,0,0,2
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Nutsbasisschool De Hoogakker,0758::SB88,,2036,1280,3,1,319,332,194,43,188,100,18,9,1,27,10,9,0,0,3,21,1,0,5,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kindcentrum Olympia,0758::SB89,,1956,974,1,1,181,286,123,30,180,67,14,26,3,21,13,6,0,4,2,14,0,0,3,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Muizenberglaan 13,0758::SB90,,1888,1046,3,3,237,283,187,27,131,67,28,12,3,30,4,2,0,0,1,29,2,0,2,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Nutsbasisschool Burgst,0758::SB91,,1675,1216,1,3,424,287,116,50,129,111,21,10,1,23,8,6,0,0,1,22,0,1,5,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum Heksenwiel,0758::SB92,,1454,1177,3,5,224,320,192,60,175,92,28,12,4,26,3,4,0,0,0,32,0,0,2,3
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau SCC 't Kraaienest,0758::SB93,,1703,1328,4,2,495,284,116,88,121,135,26,17,0,21,6,2,0,0,0,15,1,0,1,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau KBS De Driezwing,0758::SB94,,2430,1575,1,6,566,386,177,67,158,132,20,16,2,18,6,3,0,0,0,22,0,0,2,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau KBS Kievitsloop,0758::SB95,,1583,1184,3,4,362,300,156,52,147,81,25,3,3,19,5,3,0,0,1,26,0,0,1,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau H. Willibrorduskerk,0758::SB101,,954,911,1,0,305,145,71,140,83,106,20,4,1,13,0,3,0,0,3,16,0,0,1,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dorpshuis 't Web,0758::SB102,,2052,1815,2,1,720,358,106,159,134,208,26,13,2,36,2,4,0,0,2,43,0,0,2,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Mandt,0758::SB103,,1217,811,2,2,244,177,83,64,104,87,15,9,4,9,2,1,0,0,0,11,0,0,1,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum Zuiderhout,0758::SB104,,1227,889,2,1,368,118,57,158,59,74,12,4,0,15,1,3,0,0,1,19,0,0,0,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau SSC De Pekhoeve,0758::SB201,,1909,1742,2,4,798,289,104,125,131,185,38,4,0,32,3,1,1,0,0,30,0,0,0,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Woon- zorgcentrum ""De Donk""",0758::SB202,,1680,1309,0,3,593,202,70,152,89,138,15,3,1,14,4,2,0,1,0,24,0,0,1,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau SCC 't Klooster,0758::SB203,,1490,1190,7,3,435,233,70,118,149,106,8,3,2,21,6,3,0,1,0,33,0,0,2,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau OBS De Toermalijn,0758::SB204,,1332,1039,1,0,431,188,62,103,90,97,18,8,1,14,2,2,0,0,1,21,0,1,0,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau BS ""de Spindel""",0758::SB205,,1546,1266,1,2,466,242,92,117,140,130,21,3,3,16,3,8,0,0,2,20,0,0,3,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Amarant,0758::SB206,,1536,1174,0,3,607,186,53,58,72,147,15,3,2,11,1,3,1,1,0,14,0,0,0,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau RK Kerk OLV Ten Hemelopneming,0758::SB301,,1532,1107,1,1,467,189,76,124,98,101,14,8,0,9,1,2,0,0,1,16,0,0,1,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ouderencentrum De Zilverberk,0758::SB302,,1862,1457,1,5,491,271,166,146,156,133,20,10,0,21,0,0,0,0,0,42,0,0,0,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verzorgingshuis Hagedonk,0758::SB303,,1861,1437,3,3,512,265,137,173,148,112,21,9,3,16,3,0,1,1,1,33,0,0,2,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sportpark De Heikant,0758::SB304,,1835,1357,2,1,606,194,94,176,100,117,16,3,4,15,5,2,2,1,0,21,0,0,0,1
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Drie Linden,0758::SB305,,1828,1515,3,2,704,204,112,166,116,124,24,11,0,18,6,0,0,0,2,25,0,0,1,2
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Mobiel Breedonk,Ruitersobs,Leystroom",0758::SB401,,0,237,0,3,63,30,7,92,16,15,3,4,2,2,0,0,0,0,0,3,0,0,0,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Mobiel BSW,  AVANS + Westerwiek",0758::SB402,,0,368,1,0,71,131,38,16,46,35,10,5,0,3,4,0,0,0,0,7,0,0,2,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kiezerspasbureau Amphia Molengracht,0758::SB450,,0,461,1,1,152,107,38,30,48,45,14,3,0,12,0,1,0,0,1,10,0,0,0,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kiezerspasbureau Amphia Langendijk,0758::SB451,,0,408,0,1,120,95,46,17,49,41,9,5,6,10,1,0,0,0,0,9,0,0,0,0
+Tilburg,Breda,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kiezerspasbureau NS Station Breda,0758::SB452,,0,1699,9,3,406,468,75,49,214,295,89,12,0,46,25,6,0,0,0,9,0,1,3,1

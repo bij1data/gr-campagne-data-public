@@ -1,0 +1,23 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,Christen Democratisch Appèl (CDA),Partij van de Arbeid (P.v.d.A.),SP (Socialistische Partij),VVD,PVV (Partij voor de Vrijheid),GROENLINKS,ChristenUnie,Democraten 66 (D66),Partij voor de Dieren,Staatkundig Gereformeerde Partij (SGP),Nieuw Nederland,TROTS OP NEDERLAND LIJST RITA VERDONK,Partij voor Mens en Spirit (MenS),Heel NL,Partij één,17,Piratenpartij,19
+Arnhem,Harderwijk,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Stadhuis (1),0243::SB1,,1600,1668,1,8,295,273,142,351,229,95,138,80,17,37,1,7,3,0,0,0,0,0
+Arnhem,Harderwijk,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Dienstencentrum S.W.O.,0243::SB2,,1442,1046,1,1,207,157,61,242,115,70,85,63,14,20,0,4,1,1,0,1,4,1
+Arnhem,Harderwijk,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Bibliotheek Noordwest Veluwe,0243::SB3,,1627,937,1,1,122,135,61,264,105,81,53,73,19,5,3,4,7,0,0,4,1,0
+Arnhem,Harderwijk,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Zorgcentrum ""De Aanleg""",0243::SB4,,1624,1278,4,2,288,160,81,260,191,45,137,49,11,46,0,5,1,0,0,1,3,0
+Arnhem,Harderwijk,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Sociaal Centrum ""De Kiekmure"" (1)",0243::SB5,,1446,925,0,4,175,160,72,138,127,33,107,57,11,39,1,2,1,0,1,0,0,1
+Arnhem,Harderwijk,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Sociaal Centrum ""De Kiekmure"" (2)",0243::SB6,,1464,1187,1,1,226,236,91,208,176,43,98,60,13,23,0,4,6,0,1,1,1,0
+Arnhem,Harderwijk,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Basisschool de Delta,0243::SB7,,1528,1032,1,4,196,127,88,151,184,39,137,61,11,23,0,3,4,0,1,1,4,2
+Arnhem,Harderwijk,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Harmoniegebouw,0243::SB9,,1815,1130,0,7,193,211,62,188,211,52,109,46,16,25,0,10,3,1,0,1,0,2
+Arnhem,Harderwijk,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Basisschool ""Willem-Alexander""",0243::SB10,,1675,1386,0,1,282,234,86,299,132,86,144,66,15,26,0,6,8,0,0,1,0,1
+Arnhem,Harderwijk,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Gebouw van het Leger des Heils,0243::SB11,,1525,1207,0,2,229,147,66,300,103,80,134,80,24,23,0,5,10,5,0,0,1,0
+Arnhem,Harderwijk,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Zorgcentrum ""Randmeer""",0243::SB12,,1773,1277,0,5,304,224,75,258,100,73,122,67,13,26,0,6,4,0,0,0,5,0
+Arnhem,Harderwijk,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Wijkcentrum ""De Roef"" (1)",0243::SB13,,1487,1341,0,3,191,227,119,230,179,121,146,88,15,14,0,5,3,0,0,0,3,0
+Arnhem,Harderwijk,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Wijkcentrum ""De Roef"" (2)",0243::SB14,,1451,937,0,3,152,148,69,175,130,81,104,50,12,9,0,3,1,1,0,0,1,1
+Arnhem,Harderwijk,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Basisschool ""Fontanusschool""",0243::SB15,,1645,1250,1,3,177,216,83,287,137,84,154,66,20,14,0,8,2,0,0,1,0,1
+Arnhem,Harderwijk,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Hervormde Kerk,0243::SB16,,1667,1522,0,1,505,76,43,327,203,38,191,43,9,74,0,6,3,0,0,1,3,0
+Arnhem,Harderwijk,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Humanistisch Wooncentrum ""Walstein""",0243::SB18,,1762,1037,0,4,218,122,69,222,148,42,127,44,14,17,1,4,6,0,0,0,3,0
+Arnhem,Harderwijk,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Basisschool ""De Bron""",0243::SB19,,1782,1419,1,0,374,148,70,305,168,55,187,49,17,33,1,3,2,0,0,3,2,2
+Arnhem,Harderwijk,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Voormalige schoolwoning,0243::SB20,,1488,1007,1,0,188,127,56,308,99,43,101,56,10,14,0,3,1,0,0,0,1,0
+Arnhem,Harderwijk,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau MFC ""De Bogen"" (Aula)(1)",0243::SB21,,1620,1449,2,0,279,195,90,389,166,63,143,91,14,12,0,1,0,0,0,0,3,3
+Arnhem,Harderwijk,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau MFC ""De Bogen"" (Aulal)(2)",0243::SB22,,1077,1235,3,1,193,162,92,384,139,44,110,76,6,20,1,4,3,1,0,0,0,0
+Arnhem,Harderwijk,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau CBS 'Het startblok',0243::SB23,,1694,873,2,0,169,76,61,314,79,27,89,40,5,5,0,8,0,0,0,0,0,0
+Arnhem,Harderwijk,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Mobiel stembureau,0243::SB24,,0,371,0,1,122,51,17,69,27,15,35,15,3,15,0,0,1,0,0,1,0,0

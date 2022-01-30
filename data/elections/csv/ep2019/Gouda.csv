@@ -1,0 +1,36 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Democraten 66 (D66),CDA - Europese Volkspartij,PVV (Partij voor de Vrijheid),VVD,SP (Socialistische Partij),P.v.d.A./Europese Sociaaldemocraten,ChristenUnie-SGP,GROENLINKS,Partij voor de Dieren,50PLUS,JEZUS LEEFT,DENK,De Groenen,Forum voor Democratie,vandeRegio & Piratenpartij,Volt Nederland
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Agnietenkapel,0513::SB101,,1260,1462,3,3,0,0,11,1312,146,1,0,1,0,0,1469,161,84,29,190,39,259,97,297,86,49,1,5,4,117,4,40
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal Herpstraat,0513::SB102,,2076,810,2,1,0,0,1,759,53,0,0,0,0,0,813,98,45,11,116,25,122,45,174,54,18,2,5,2,63,2,28
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorgcentrum Gouwestein,0513::SB104,,1502,660,2,0,0,0,2,583,77,0,0,0,0,0,662,49,70,3,85,9,107,141,69,13,20,2,4,0,64,2,22
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurthuis De Speelwinkel,0513::SB105,,1685,686,2,1,0,0,1,619,69,0,0,0,0,0,689,84,37,13,80,18,145,33,147,39,11,1,9,2,45,2,20
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum Jan Ligthart,0513::SB201,,2120,556,3,4,0,0,2,502,59,0,0,0,0,0,563,35,22,28,33,16,128,61,62,27,16,2,29,0,90,4,3
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool de Goudakker,0513::SB204,,1907,686,1,2,0,0,2,579,107,0,1,0,1,0,688,33,44,55,59,26,99,103,75,26,25,2,7,1,119,1,11
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal Korte Akkeren,0513::SB206,,1641,526,0,1,0,0,0,468,59,0,0,0,0,0,527,21,32,37,48,22,85,61,59,23,39,0,8,0,85,1,5
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool De Kas,0513::SB207,,1370,527,2,2,0,0,0,468,63,0,0,0,0,0,531,19,33,52,44,25,71,92,43,16,21,0,8,1,94,2,6
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Ronssehof Revalidatiecentrum,0513::SB301,,1398,684,1,1,0,0,2,633,51,0,0,0,0,0,686,41,99,32,85,23,116,89,41,24,37,0,4,1,82,2,8
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal Columbuslaan,0513::SB302,,1805,906,0,0,0,0,2,782,122,0,0,0,0,0,906,64,90,17,78,24,179,193,96,34,24,6,12,0,64,0,25
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Groenhovenbad,0513::SB303,,2025,1011,4,2,0,0,0,896,121,0,0,0,0,0,1017,70,106,24,155,16,201,120,122,45,29,1,4,0,109,2,7
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymnastiekzaal Coniferensingel,0513::SB304,,1712,801,1,1,0,0,0,711,92,0,0,0,0,0,803,37,81,32,91,28,153,81,89,39,46,4,8,2,99,2,9
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Huis van de Stad,0513::SB305,,690,1199,2,1,0,0,9,1072,121,0,0,0,0,0,1202,130,70,12,118,26,173,216,230,68,28,1,4,9,78,6,30
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Groene Hart Ziekenhuis (hoofdingang),0513::SB306,,568,398,0,0,0,0,4,353,42,0,0,1,0,1,399,29,46,8,47,4,75,59,46,14,19,0,1,1,43,0,6
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dienstencentrum Prinsenhof,0513::SB403,,2048,800,2,0,0,0,0,718,84,0,0,0,0,0,802,43,112,21,95,20,130,119,82,16,49,2,4,0,88,3,16
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool het Vlot,0513::SB405,,1861,761,1,0,0,0,0,690,72,0,0,0,0,0,762,68,62,28,85,22,169,45,98,28,29,0,8,2,90,3,24
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool De Cirkel,0513::SB406,,1703,597,0,3,0,0,0,545,56,1,0,1,0,0,601,33,45,35,58,27,123,67,52,19,33,4,17,1,71,1,11
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum de Buurtstee,0513::SB407,,1932,1109,0,4,0,0,0,1008,106,1,0,1,0,0,1114,72,110,52,96,48,199,136,146,51,48,1,4,3,116,3,24
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sportzaal Aakwerf,0513::SB408,,1946,1088,2,1,0,0,1,967,123,0,0,0,0,0,1091,101,143,14,206,20,181,92,127,36,40,2,3,3,102,2,16
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum De Bühne,0513::SB501,,1713,582,1,1,0,0,2,528,54,0,0,0,0,0,584,39,60,8,69,24,82,122,56,30,18,0,9,0,58,0,7
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau MBO Rijnland (zij ingang),0513::SB502,,0,199,0,0,0,0,0,169,30,0,0,0,0,0,199,17,22,7,20,3,34,26,35,13,3,0,1,0,13,1,4
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorgcentrum Savelberg,0513::SB503,,2131,858,2,1,0,0,2,762,97,0,0,0,0,0,861,63,74,25,108,20,142,139,123,40,44,1,2,0,69,2,6
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool Vindingrijk,0513::SB504,,1765,921,3,2,0,0,0,816,110,0,0,0,0,0,926,57,89,35,117,22,174,132,94,40,43,0,13,4,90,1,10
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Pauluskerk ingang De Brug,0513::SB505,,1784,791,1,3,0,0,0,707,88,0,0,0,0,0,795,41,93,19,68,20,101,161,87,36,38,2,10,2,103,1,9
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Zuidrandflat,0513::SB603,,999,591,1,1,0,0,0,534,59,0,0,0,0,0,593,42,56,22,56,19,134,75,77,24,24,1,7,2,46,0,6
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorgcentrum De Hanepraij,0513::SB604,,1077,412,2,1,0,0,2,356,57,0,0,0,0,0,415,48,35,14,61,9,65,44,45,17,15,0,0,0,45,1,13
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau BSC Nelson Mandela,0513::SB605,,1631,603,3,2,0,0,0,535,73,0,0,0,0,0,608,32,62,28,48,11,84,134,89,21,17,4,18,0,38,1,16
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurthuis de Kade,0513::SB607,,1657,702,3,1,0,0,0,637,69,0,0,0,0,0,706,36,38,19,75,23,114,114,120,37,20,0,3,4,75,4,20
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal Johan den Haenstraat,0513::SB608,,2123,997,1,3,0,0,2,901,98,0,0,0,0,0,1001,77,53,21,114,23,172,199,184,41,27,3,3,2,54,1,23
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Ring,0513::SB701,,1389,455,0,0,0,0,0,405,50,0,0,0,0,0,455,23,55,20,45,15,93,63,42,19,19,0,10,0,42,0,9
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Molenkap,0513::SB702,,1713,716,2,1,0,0,0,631,88,0,0,0,0,0,719,44,72,24,112,20,139,61,81,29,18,1,16,1,91,0,7
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Oostpoort,0513::SB703,,1809,955,0,0,0,2,2,843,112,0,0,2,0,0,957,66,103,18,136,22,153,131,128,35,42,0,0,2,92,1,26
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Kindcentrum Goejanverwelle,0513::SB704,,1885,685,3,0,0,0,0,588,100,0,0,0,0,0,688,56,69,27,85,17,106,67,107,21,26,1,13,3,73,0,14
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorgcentrum Irishof,0513::SB705,,1358,763,0,1,0,0,4,709,51,0,0,0,0,0,764,44,82,34,73,20,156,92,87,31,36,2,18,1,79,0,8
+,Gouda,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Kindcentrum De Ontdekkingsreizigers,0513::SB901,,789,335,1,0,0,0,2,290,44,0,0,0,0,0,336,28,30,7,74,4,46,40,26,18,12,0,9,0,35,0,6

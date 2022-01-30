@@ -1,0 +1,23 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,CDA,SGP-ChristenUnie,Lokale Partij Borsele,Partij van de Arbeid (P.v.d.A.),VVD,Democraten 66 (D66),OPA Borsele
+,Borsele,GR2018_Borsele,Gemeenteraad Borsele 2018,0654,Borsele,2018-03-21,Stembureau Heinkenszand (Trouwzaal),0654::SB1,4451 KB,1110,775,4,2,0,0,0,696,85,0,0,0,0,0,781,199,32,107,136,106,96,99
+,Borsele,GR2018_Borsele,Gemeenteraad Borsele 2018,0654,Borsele,2018-03-21,Stembureau Heinkenszand (Raadzaal),0654::SB2,4451 KB,949,700,0,1,0,0,0,631,70,0,0,0,0,0,701,178,25,89,94,99,126,89
+,Borsele,GR2018_Borsele,Gemeenteraad Borsele 2018,0654,Borsele,2018-03-21,Stembureau Heinkenszand (Dijkstede A),0654::SB3,4451 LA,1173,497,1,1,0,0,0,453,46,0,0,0,0,0,499,155,16,69,67,71,75,44
+,Borsele,GR2018_Borsele,Gemeenteraad Borsele 2018,0654,Borsele,2018-03-21,Stembureau Heinkenszand (Dijkstede B),0654::SB4,4451 LA,1223,460,1,0,0,0,0,408,53,0,0,0,0,0,461,163,16,60,58,66,51,46
+,Borsele,GR2018_Borsele,Gemeenteraad Borsele 2018,0654,Borsele,2018-03-21,Stembureau Lewedorp (A),0654::SB5,4456 AL,692,361,1,1,0,0,0,339,24,0,0,0,0,0,363,123,31,61,43,32,29,42
+,Borsele,GR2018_Borsele,Gemeenteraad Borsele 2018,0654,Borsele,2018-03-21,Stembureau Nieuwdorp,0654::SB6,4455 TL,937,550,0,1,0,0,0,481,70,0,0,0,0,0,551,69,208,141,42,35,31,24
+,Borsele,GR2018_Borsele,Gemeenteraad Borsele 2018,0654,Borsele,2018-03-21,Stembureau 's-Heerenhoek (Zaal A),0654::SB7,4453 BE,786,377,2,1,0,0,0,342,38,0,0,0,0,0,380,91,8,74,80,76,21,27
+,Borsele,GR2018_Borsele,Gemeenteraad Borsele 2018,0654,Borsele,2018-03-21,Stembureau Borssele,0654::SB8,4454 AS,1022,684,2,2,0,1,0,625,64,0,0,1,0,0,689,48,421,84,41,32,39,19
+,Borsele,GR2018_Borsele,Gemeenteraad Borsele 2018,0654,Borsele,2018-03-21,Stembureau Driewegen,0654::SB9,4438 AH,458,271,0,0,0,0,0,243,28,0,0,0,0,0,271,53,20,68,35,41,27,27
+,Borsele,GR2018_Borsele,Gemeenteraad Borsele 2018,0654,Borsele,2018-03-21,Stembureau Ellewoutsdijk,0654::SB10,4437 AE,309,159,2,1,0,0,0,156,6,0,0,0,0,0,162,39,7,32,32,11,24,14
+,Borsele,GR2018_Borsele,Gemeenteraad Borsele 2018,0654,Borsele,2018-03-21,Stembureau Ovezande,0654::SB11,4441 AE,942,558,0,4,0,0,0,514,48,0,0,0,0,0,562,271,14,64,68,44,62,35
+,Borsele,GR2018_Borsele,Gemeenteraad Borsele 2018,0654,Borsele,2018-03-21,Stembureau Oudelande,0654::SB12,4436 AC,570,354,0,0,0,0,0,309,45,0,0,0,0,0,354,53,17,126,45,50,37,26
+,Borsele,GR2018_Borsele,Gemeenteraad Borsele 2018,0654,Borsele,2018-03-21,Stembureau Baarland,0654::SB13,4435 AD,491,309,2,3,0,0,0,288,26,0,0,0,0,0,314,46,57,77,50,30,28,21
+,Borsele,GR2018_Borsele,Gemeenteraad Borsele 2018,0654,Borsele,2018-03-21,Stembureau Hoedekenskerke,0654::SB14,4433 AL,547,366,4,0,0,0,0,341,29,0,0,0,0,0,370,79,100,76,33,21,31,26
+,Borsele,GR2018_Borsele,Gemeenteraad Borsele 2018,0654,Borsele,2018-03-21,Stembureau Kwadendamme,0654::SB15,4434 AC,783,462,0,0,0,0,0,428,34,0,0,0,0,0,462,249,20,81,34,31,34,13
+,Borsele,GR2018_Borsele,Gemeenteraad Borsele 2018,0654,Borsele,2018-03-21,Stembureau Nisse,0654::SB16,4443 AE,508,352,1,2,0,0,0,321,35,1,0,1,0,0,356,90,67,44,49,32,51,19
+,Borsele,GR2018_Borsele,Gemeenteraad Borsele 2018,0654,Borsele,2018-03-21,Stembureau 's-Heer Abtskerke,0654::SB17,4444 AG,423,269,1,0,0,0,0,245,25,0,0,0,0,0,270,71,21,53,29,53,31,11
+,Borsele,GR2018_Borsele,Gemeenteraad Borsele 2018,0654,Borsele,2018-03-21,Stembureau 's-Gravenpolder (Zaal A),0654::SB18,4431 BP,1066,773,3,2,0,0,0,688,90,0,0,0,0,0,778,118,452,78,29,41,32,23
+,Borsele,GR2018_Borsele,Gemeenteraad Borsele 2018,0654,Borsele,2018-03-21,Stembureau 's-Gravenpolder (Zaal B),0654::SB19,4431 BP,1119,725,0,2,0,0,0,622,105,0,0,0,0,0,727,88,392,53,49,60,41,42
+,Borsele,GR2018_Borsele,Gemeenteraad Borsele 2018,0654,Borsele,2018-03-21,Stembureau 's-Gravenpolder 20,0654::SB20,4431 EK,1239,904,2,4,0,0,0,795,115,0,0,0,0,0,910,108,590,58,39,44,38,27
+,Borsele,GR2018_Borsele,Gemeenteraad Borsele 2018,0654,Borsele,2018-03-21,Stembureau Lewedorp (B),0654::SB21,4456 AL,694,354,0,5,0,0,0,321,38,0,0,0,0,0,359,114,42,39,49,37,32,41
+,Borsele,GR2018_Borsele,Gemeenteraad Borsele 2018,0654,Borsele,2018-03-21,Stembureau 's-Heerenhoek (Zaal B),0654::SB22,4453 BE,772,443,3,0,0,0,0,393,53,0,0,0,0,0,446,100,14,68,123,76,32,30

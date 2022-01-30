@@ -1,0 +1,26 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Democraten 66 (D66),CDA - Europese Volkspartij,PVV (Partij voor de Vrijheid),VVD,SP (Socialistische Partij),P.v.d.A./Europese Sociaaldemocraten,ChristenUnie-SGP,GROENLINKS,Partij voor de Dieren,50PLUS,JEZUS LEEFT,DENK,De Groenen,Forum voor Democratie,vandeRegio & Piratenpartij,Volt Nederland
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Hof van Coevorden,0109::SB1,,1209,623,3,4,0,0,15,554,61,0,0,0,0,0,630,26,100,31,96,38,154,24,35,18,16,0,0,0,82,1,2
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Het nieuwe Bastion,0109::SB2,,1080,376,1,0,0,0,0,348,29,0,0,0,0,0,377,11,89,18,62,20,63,21,9,8,8,0,0,1,61,4,1
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Voorde,0109::SB3,,1234,545,0,1,0,1,5,494,46,0,1,0,0,0,545,18,100,34,79,33,135,18,16,13,26,0,1,0,69,1,2
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zaal de Loo,0109::SB4,,1893,667,3,0,0,0,0,603,67,0,0,0,0,0,670,27,107,45,65,33,161,19,30,15,36,6,1,1,117,3,1
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau BSV Tuindorp,0109::SB5,,1357,165,0,0,0,0,1,147,17,0,0,0,0,0,165,5,22,14,16,8,47,7,8,6,14,0,1,0,17,0,0
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sint-Franciscus,0109::SB6,,1615,578,2,2,0,0,0,525,58,1,0,1,0,0,583,25,153,19,81,18,101,23,26,20,20,2,0,0,86,0,4
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Drostenhal,0109::SB7,,2187,624,2,2,0,0,1,567,60,0,0,0,0,0,628,28,76,25,87,49,137,25,35,19,26,0,1,0,108,1,7
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Schutse,0109::SB8,,950,303,0,3,0,0,0,276,30,0,0,0,0,0,306,10,47,29,31,18,78,11,12,6,15,3,0,1,41,1,0
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis de Schalm,0109::SB9,,751,319,0,0,0,0,0,284,35,0,0,0,0,0,319,13,98,7,46,21,33,6,11,7,14,0,0,0,59,1,3
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis de Breiberg,0109::SB10,,706,237,0,0,0,0,0,207,30,0,0,0,0,0,237,5,53,18,18,17,37,10,11,8,8,0,0,0,48,1,3
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau MFC de Spinde,0109::SB11,,1591,747,4,1,0,0,9,660,83,0,0,0,0,0,752,38,149,10,213,22,176,15,32,12,20,1,0,0,55,0,4
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis Boerhoorn,0109::SB12,,569,245,0,0,0,0,3,219,23,0,0,0,0,0,245,17,51,9,56,6,26,9,15,7,10,0,0,0,37,1,1
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Selkersgoorn,0109::SB13,,1530,581,1,0,0,0,0,538,44,0,0,0,0,0,582,30,80,19,116,20,178,9,38,19,23,1,0,1,44,0,3
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis de Kom,0109::SB14,,294,160,1,1,0,0,0,145,17,0,0,0,0,0,162,11,33,2,54,10,24,3,5,5,1,1,0,0,11,0,0
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Etgaarde,0109::SB15,,1535,798,2,1,0,0,2,710,89,0,0,0,0,0,801,28,122,17,165,19,220,35,50,26,34,2,1,1,66,5,7
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Het Pluspunt,0109::SB16,,746,415,0,0,0,0,45,366,4,0,0,0,0,0,415,11,100,8,62,15,81,49,29,18,10,0,0,0,30,0,2
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Tiphof,0109::SB17,,1101,375,0,2,0,0,6,320,51,0,0,0,0,0,377,14,80,29,30,10,57,37,7,8,12,0,0,0,83,1,7
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau MFC de Brink,0109::SB18,,1842,908,1,4,0,0,9,827,77,0,0,0,0,0,913,52,179,20,181,35,226,18,76,25,33,0,0,1,55,1,6
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS de Vlinderhof,0109::SB19,,692,361,0,0,0,0,0,326,35,0,0,0,0,0,361,30,72,3,79,11,83,13,19,16,11,0,0,1,20,1,2
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Het Ellertsveld,0109::SB20,,1755,632,2,0,0,0,4,563,67,0,0,0,0,0,634,21,81,34,88,54,147,22,21,27,28,0,0,0,104,1,4
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis de Kiel,0109::SB21,,320,196,0,0,0,0,10,158,28,0,0,0,0,0,196,5,20,12,30,15,40,12,13,13,9,2,0,0,24,0,1
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau d' Aol Schoelstee,0109::SB22,,337,175,1,0,0,0,2,158,16,0,0,0,0,0,176,15,22,3,45,4,33,3,11,11,9,0,0,0,14,1,4
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Steakhouse Route 34,0109::SB23,,796,320,0,0,0,0,2,270,48,0,0,0,0,0,320,16,73,3,49,7,58,10,12,14,12,2,0,3,57,1,3
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Korenhof,0109::SB24,,1812,901,0,1,0,0,32,787,82,0,1,0,1,0,901,47,164,11,159,22,225,30,74,32,30,0,0,7,80,2,18
+,Coevorden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Brasserie Tramlokaal,0109::SB25,,342,200,0,1,0,0,11,166,24,0,0,0,0,0,201,12,18,4,37,4,42,11,21,6,5,0,0,2,33,1,4

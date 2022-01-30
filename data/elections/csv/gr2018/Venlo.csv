@@ -1,0 +1,53 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,EENLokaal,VVD,CDA,Partij van de Arbeid (P.v.d.A.),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,50PLUS,PVV (Partij voor de Vrijheid)
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Stadhuis Venlo,0983::SB1,5911 HD,2276,1019,1,7,0,0,0,950,77,0,0,0,0,0,1027,83,263,143,111,80,55,144,64,76
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Huize Beerendonck,0983::SB2,5911 AD,1878,838,11,6,0,0,0,772,83,0,0,0,0,0,855,93,167,125,90,82,64,117,48,52
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Gemeentearchief Venlo,0983::SB3,5914 PV,1894,902,2,2,0,0,0,807,99,0,0,0,0,0,906,130,151,124,84,93,49,142,60,69
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Lokaal Veestraat,0983::SB4,5914 RN,1498,589,2,3,0,0,0,538,56,0,0,0,0,0,594,106,44,78,72,72,31,61,34,91
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Basisschool de Meule,0983::SB5,5914 XS,1635,822,2,2,0,1,0,759,66,0,1,0,0,0,825,92,138,121,103,86,52,79,81,70
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Stichting de Witte Kerk,0983::SB6,5914 PE,1358,592,1,10,0,0,0,521,82,0,0,0,0,0,603,101,53,53,91,80,13,50,39,112
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Gilde Opleidingen,0983::SB7,5913 ES,1445,847,4,0,0,0,0,776,75,0,0,0,0,0,851,73,249,117,77,55,58,93,56,69
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau De Bantuin,0983::SB8,5916 SW,1791,1057,5,2,0,0,0,938,126,0,0,0,0,0,1064,97,281,202,79,69,78,112,57,82
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau wijkgebouw d'n Dörpel,0983::SB9,5913 CZ,1974,1241,3,5,0,0,0,1140,109,0,0,0,0,0,1249,81,310,169,208,79,102,114,100,78
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Talentencampus Venlo,0983::SB10,5913 GB,1678,899,3,2,0,0,0,827,77,0,0,0,0,0,904,93,216,177,109,40,50,112,56,46
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau School aan de Vijver,0983::SB11,5913 TV,1828,1043,5,3,0,0,0,940,111,0,0,0,0,0,1051,94,244,139,143,74,75,140,93,41
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Gemeenschapshuis Maagdenberg,0983::SB12,5915 CP,1403,703,5,3,0,0,0,635,76,0,0,0,0,0,711,88,70,96,96,90,33,83,64,83
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Huis van de Wijk,0983::SB13,5915 ES,1277,422,1,3,0,0,0,382,44,0,0,0,0,0,426,77,28,41,57,69,14,32,44,60
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Scheidsrechtersvereniging Venlo eo,0983::SB14,5915 CM,1784,805,3,2,0,0,0,710,100,0,0,0,0,0,810,57,228,110,79,61,40,89,51,90
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Scouting St Paulus,0983::SB16,5912 CG,1566,507,6,3,0,0,0,449,67,0,0,0,0,0,516,91,39,50,73,54,27,60,48,65
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Huis van de Wijk Venlo-Zuid,0983::SB17,5912 XN,1663,748,4,3,0,0,0,638,117,0,0,0,0,0,755,139,51,79,148,75,11,60,57,128
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Basisschool de Zuidstroom,0983::SB18,5912 BT,1497,638,2,4,0,0,0,574,70,0,0,0,0,0,644,89,46,81,114,64,36,70,76,62
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Gemeenschapsruimte d'n Baand,0983::SB19,5913 SE,1376,630,2,4,0,0,0,577,59,0,0,0,0,0,636,83,72,76,80,66,42,65,79,67
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau 't Raodhoes,0983::SB20,5921 GV,1930,1153,8,1,0,0,0,1026,136,0,0,0,0,0,1162,202,179,222,106,103,41,78,105,117
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Huis van de Wijk de Vijfsprong,0983::SB21,5922 VV,2061,721,4,2,0,0,0,641,86,0,0,0,0,0,727,164,87,97,59,94,29,45,69,77
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Zorggroep inzake Ruysdonck,0983::SB22,5921 VJ,1440,507,2,0,0,0,0,450,59,0,0,0,0,0,509,83,45,95,53,60,15,36,45,75
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Basisschool Mikado,0983::SB23,5922 BL,1413,607,3,2,0,0,0,544,68,0,0,0,0,0,612,210,30,50,75,80,9,38,24,91
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Boulevard Hazenkamp,0983::SB24,5921 AZ,1428,521,2,2,0,0,0,458,67,0,0,0,0,0,525,117,14,80,71,78,19,18,38,86
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Stichting Het Muspelheim,0983::SB25,5922 AT,1838,749,0,6,0,0,0,693,62,0,0,0,0,0,755,222,31,92,115,77,27,34,38,113
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Basissschool 't Palet,0983::SB26,5923 CJ,1442,663,1,2,0,0,0,589,77,0,0,0,0,0,666,162,74,97,64,83,28,29,47,79
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Zaal de Egelantier,0983::SB27,5925 AV,3000,958,5,5,0,0,0,858,110,0,0,0,0,0,968,223,83,72,129,150,29,49,78,145
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau MFC Op Expeditie,0983::SB29,5924 AC,3019,1308,3,4,0,0,0,1168,147,0,0,0,0,0,1315,406,99,125,120,167,43,59,101,188
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Stichting de Ark,0983::SB31,5923 AJ,1357,576,5,1,0,0,0,527,55,0,0,0,0,0,582,100,65,90,46,82,20,42,60,71
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Zalzershaof,0983::SB32,5926 PL,2112,1350,4,6,0,0,0,1211,149,0,0,0,0,0,1360,363,393,211,75,67,45,65,50,81
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Cafe Feestzaal de Boostenhof,0983::SB33,5927 NP,801,444,4,0,0,0,0,396,52,0,0,0,0,0,448,140,78,50,47,39,16,16,17,41
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Basisschool de Koperwiek,0983::SB34,5912 PB,1852,966,2,3,0,0,0,971,0,0,0,0,0,0,971,203,139,105,165,72,41,96,64,81
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Stadskantoor,0983::SB35,5912 AT,1351,665,6,5,0,0,0,593,83,0,0,0,0,0,676,80,115,106,77,64,34,80,55,54
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Raadhuis Tegelen,0983::SB101,5931 NR,1369,750,7,4,0,0,0,698,63,0,0,0,0,0,761,170,93,104,86,68,33,44,71,81
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Basisschool Maasveld,0983::SB102,5931 DP,1608,839,3,1,0,0,0,749,94,0,0,0,0,0,843,148,218,87,76,71,50,60,55,74
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Basisschool PassePartout,0983::SB103,5931 KS,1521,827,3,4,0,0,0,737,97,0,0,0,0,0,834,162,98,106,82,102,56,59,66,96
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Café Schillings,0983::SB104,5931 BW,1840,921,2,2,0,0,0,797,128,0,0,0,0,0,925,167,165,195,69,82,43,52,66,82
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Bijbelgemeente,0983::SB105,5935 AX,1896,1139,3,3,0,0,0,1018,127,0,0,0,0,0,1145,237,237,189,117,86,46,77,64,86
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Stichting Marokkaanse Moskee Elfath,0983::SB106,5931 PC,1540,520,4,2,0,0,0,449,77,0,0,0,0,0,526,83,86,72,73,56,18,46,36,50
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Cafe de Witte,0983::SB107,5932 CE,1398,566,2,2,0,0,0,495,75,0,0,0,0,0,570,102,75,70,59,87,24,31,38,80
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Ontmoetingscentrum De Glazenap,0983::SB108,5932 VK,1441,680,4,4,0,0,0,585,103,0,0,0,0,0,688,135,59,72,79,84,17,46,61,127
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Basisschool de Toermalijn,0983::SB109,5932 TP,1612,531,3,2,0,0,0,473,63,0,0,0,0,0,536,95,40,37,73,80,19,35,56,96
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Huize Julia,0983::SB110,5931 GT,1285,474,2,6,0,0,0,440,43,1,0,1,0,0,483,123,40,74,51,46,19,27,23,71
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau 't Prônk-Eppelke Belfeld,0983::SB201,5951 CW,1682,444,1,2,0,0,0,403,44,0,0,0,0,0,447,178,35,112,17,20,7,22,12,41
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Basisschool  KOM Mijn,0983::SB202,5951 BR,1485,849,1,1,0,0,0,756,95,0,0,0,0,0,851,424,56,167,51,42,18,19,21,51
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Gemeenschapscentrum De Hamar,0983::SB203,5951 DV,1286,914,6,3,0,0,0,830,93,0,0,0,0,0,923,434,76,208,42,46,20,20,28,40
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau MFA De Schans Arcen,0983::SB301,5944 BN,2106,1283,4,5,0,0,0,1173,119,0,0,0,0,0,1292,63,104,284,211,279,25,187,58,72
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Pastoorshof Lomm,0983::SB302,5943 AE,829,553,2,1,0,0,0,505,51,0,0,0,0,0,556,25,40,359,16,25,4,13,50,21
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Cafe de Sport 2.0,0983::SB303,5941 GA,1746,1005,5,0,0,0,0,919,91,0,0,0,0,0,1010,58,76,563,53,58,23,38,65,71
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau BMV de Vilgaard,0983::SB304,5941 CP,2456,1407,4,9,0,0,0,1280,140,0,0,0,0,0,1420,94,118,740,88,71,61,87,70,78
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Mobiel stembureau 1,0983::SB305,5913 AA,0,350,5,0,0,0,0,331,24,0,0,0,0,0,355,38,54,56,42,22,42,61,17,18
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Mobiel stembureau 2,0983::SB306,5912 BL,0,277,1,1,0,0,0,254,25,0,0,0,0,0,279,44,44,41,36,30,16,21,29,16
+,Venlo,GR2018_Venlo,Gemeenteraad Venlo 2018,0983,Venlo,2018-03-21,Stembureau Mobiel stembureau 3,0983::SB307,5911 AD,0,59,1,0,0,0,0,53,7,0,0,0,0,0,60,15,19,8,6,2,3,6,0,0

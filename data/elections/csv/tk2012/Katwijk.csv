@@ -1,0 +1,35 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,VVD,Partij van de Arbeid (P.v.d.A.),PVV (Partij voor de Vrijheid),Christen Democratisch Appèl (CDA),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,ChristenUnie,Staatkundig Gereformeerde Partij (SGP),Partij voor de Dieren,Piratenpartij,Partij voor Mens en Spirit (MenS),Nederland Lokaal,Libertarische Partij (LP),Democratisch Politiek Keerpunt DPK,50PLUS,Liberaal Democratische Partij (LibDem),Anti Europa Partij,SOPN,Partij van de Toekomst (PvdT)
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gemeentehuis,0537::SB1,2224 EW,1488,1103,1,1,262,171,110,158,48,58,15,111,130,16,4,2,0,1,2,15,0,0,0,0
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bibliotheek Katwijk a/d Rijn,0537::SB2,2223 XA,1669,1183,1,2,295,241,192,151,89,44,9,67,41,20,4,1,2,1,1,20,2,1,2,0
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Wilbert,0537::SB3,2223 ER,1224,963,1,1,335,95,88,146,52,49,15,70,64,20,1,1,0,0,1,24,0,0,1,1
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Horizon,0537::SB4,2223 AP,1546,1325,1,0,458,182,117,235,88,52,11,71,59,26,2,4,0,0,1,18,0,0,0,1
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gemeentehuis,0537::SB5,2224 EW,1477,1158,1,1,304,141,137,143,62,48,15,98,151,22,5,4,0,0,0,21,2,0,2,3
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Huize Salem,0537::SB6,2225 RT,1530,1054,2,1,233,79,56,202,40,29,7,140,230,9,5,2,0,0,0,22,0,0,0,0
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bibliotheek Katwijk Zee,0537::SB7,2225 MA,1312,1474,2,2,313,121,146,225,48,34,9,148,383,15,6,2,1,3,1,15,1,0,0,3
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau K&O Gebouw,0537::SB8,2225 XM,1433,1266,2,1,387,123,106,187,42,41,9,136,200,13,5,0,0,1,0,15,0,0,1,0
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkgeb 't Zandgat,0537::SB9,2225 AS,1456,891,1,0,219,72,102,127,48,21,8,129,141,10,2,0,0,1,0,9,0,0,2,0
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dienstencentr. Zwanenburg,0537::SB10,2225 DZ,1220,1150,1,2,236,132,113,175,28,34,4,127,263,4,2,0,0,2,1,27,1,0,0,1
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gr van Prinstererschool,0537::SB11,2224 SZ,1284,1190,4,0,170,114,151,165,65,32,7,148,288,19,2,1,0,0,1,22,0,0,0,5
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sporthal Cleijn Duin,0537::SB12,2224 BN,1487,1068,0,2,258,201,133,133,78,33,13,65,95,15,6,1,1,0,2,33,0,0,1,0
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Pr Willem-Alexanderschool,0537::SB13,2221 SM,1586,990,3,4,164,236,167,101,73,17,9,71,94,16,4,2,0,1,3,29,0,0,3,0
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Duinrand,0537::SB14,2221 CE,1663,1184,2,1,310,131,161,170,77,36,8,116,141,15,2,0,0,0,1,11,0,3,1,1
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Pieter Groen,0537::SB15,2221 VV,1306,1193,2,2,356,164,128,169,58,51,5,137,77,15,3,0,0,0,2,26,0,0,1,1
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sporthal Rijnsoever,0537::SB16,2221 EP,1171,537,0,0,150,78,53,66,30,17,1,46,62,13,1,0,0,0,2,18,0,0,0,0
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Hockeyclub ""Catwyck""",0537::SB17,2221 KJ,1386,687,2,0,227,90,87,83,38,23,12,50,48,14,3,0,0,0,1,9,1,0,0,1
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Rijnmond,0537::SB18,2224 VT,1477,855,0,2,244,128,139,75,64,37,2,85,54,9,5,0,0,0,0,10,0,0,0,3
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sport- en recreatiecentrum De Terp 1,0537::SB19,2235 BC,1216,946,0,1,349,128,78,132,45,46,10,88,19,16,10,2,2,0,2,15,0,0,0,4
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sport- en recreatiecentrum De Terp 2,0537::SB20,2235 BC,1208,945,0,1,311,127,84,161,35,55,14,97,18,27,2,3,0,0,0,10,0,0,0,1
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Vlietstede,0537::SB21,2231 CN,1280,1026,1,0,353,94,76,247,28,49,5,111,33,18,1,1,0,0,0,10,0,0,0,0
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Maranathakerk,0537::SB22,2231 KW,1423,971,2,1,198,132,124,216,73,32,10,96,47,16,1,1,0,0,0,22,0,2,0,1
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Petrakerk,0537::SB23,2231 JJ,1199,902,1,3,373,82,73,152,39,37,14,80,24,8,2,0,0,1,0,15,0,0,1,1
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gereformeerde Kerk Vrijgemaakt,0537::SB24,2231 SE,1438,1163,3,4,396,120,74,212,60,60,9,161,40,10,3,3,0,1,0,12,0,0,0,2
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Julianaschool,0537::SB25,2231 TK,1537,1261,0,0,473,147,105,229,44,66,4,116,30,19,4,3,0,0,0,20,0,0,0,1
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool De Wegwijzer,0537::SB26,2231 TD,1452,1202,1,0,459,101,112,207,43,63,12,126,42,13,2,0,0,1,0,17,1,2,1,0
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool De Schakel,0537::SB27,2231 ZD,1391,1129,1,2,384,150,117,154,53,71,11,114,33,17,6,2,0,1,1,14,0,0,0,1
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wellantcollege,0537::SB28,2231 CE,1137,703,0,0,278,76,39,131,31,33,10,71,9,8,2,2,0,1,1,11,0,0,0,0
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Brandweerkazerne Katwijk,0537::SB29,2224 RG,1169,671,0,3,215,64,77,77,33,14,3,65,103,4,1,0,0,0,2,12,0,0,0,1
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zeehospitium,0537::SB30,2225 JJ,1223,755,5,0,213,95,40,120,31,24,5,90,111,7,0,2,0,0,0,17,0,0,0,0
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zeevaartschool,0537::SB31,2225 GV,1475,777,1,1,170,51,81,99,30,19,1,108,185,11,2,1,0,0,0,18,0,0,0,1
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sporthal Rijnsoever,0537::SB32,2221 EP,1039,885,0,0,238,104,104,105,47,29,12,85,118,14,1,2,0,0,1,23,0,0,2,0
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Jeugdhuis ""de Poolster""",0537::SB33,2221 NT,1434,1476,1,0,347,202,189,186,103,34,6,157,189,25,3,2,1,0,1,29,0,1,0,1
+Leiden,Katwijk,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Voetbalvereniging Valken '68,0537::SB34,2235 SL,1122,758,2,1,270,107,61,97,28,72,6,57,27,18,2,0,0,1,1,10,0,0,0,1

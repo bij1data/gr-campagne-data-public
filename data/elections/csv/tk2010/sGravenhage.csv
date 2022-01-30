@@ -1,0 +1,370 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,Christen Democratisch Appèl (CDA),Partij van de Arbeid (P.v.d.A.),SP (Socialistische Partij),VVD,PVV (Partij voor de Vrijheid),GROENLINKS,ChristenUnie,Democraten 66 (D66),Partij voor de Dieren,Staatkundig Gereformeerde Partij (SGP),Nieuw Nederland,TROTS OP NEDERLAND LIJST RITA VERDONK,Partij voor Mens en Spirit (MenS),Partij één,17,Piratenpartij
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Woon- zorgvoorziening Duinhage,0518::SB101,,1497,1330,1,1,154,176,50,440,177,83,23,171,42,1,1,8,3,1,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Middelbare School Dalton Den Haag,0518::SB102,,1458,1279,1,3,121,209,71,428,123,112,11,159,33,4,0,2,3,0,2,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Inspecteur S. de Vriesschool,0518::SB103,,994,750,0,1,79,155,67,132,177,32,16,56,19,6,0,5,2,0,1,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Haags Centrum voor Onderwijsbegeleiding,0518::SB104,,1487,1001,0,0,102,127,31,421,166,31,7,92,14,3,0,7,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijkgebouw de Wiekslag,0518::SB105,,1220,960,5,2,91,143,71,229,250,58,17,65,20,4,0,7,2,0,2,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijkgebouw de Wiekslag,0518::SB106,,1463,908,2,3,113,141,77,193,223,53,13,69,17,3,0,3,3,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Parnassia, Gehoorzaal nr. 87",0518::SB107,,1385,867,3,6,67,135,59,316,105,66,24,67,19,4,0,3,1,0,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau R.K. Basisschool De Octaaf,0518::SB108,,1692,1070,0,1,92,187,97,148,368,56,13,53,33,1,2,14,1,1,3,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Stadsdeelkantoor Loosduinen,0518::SB109,,1517,1706,1,8,163,301,168,294,512,89,38,77,32,2,0,13,13,0,2,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Senioren Woning Mozartduin,0518::SB110,,970,547,0,2,82,103,37,107,134,34,10,28,10,1,0,0,1,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau WoonZorgPark Loosduinen,0518::SB111,,1623,1158,6,6,191,216,105,193,270,58,40,46,15,8,0,12,3,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau R.K. Basisschool De Schakel,0518::SB112,,947,740,0,1,60,139,71,154,168,59,15,50,14,6,0,3,0,0,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau R.K. Basisschool De Schakel,0518::SB113,,1238,820,0,1,54,136,79,209,215,55,10,42,9,3,0,5,2,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau WZH Zorgcentrum Nieuw Berkendael,0518::SB114,,1213,796,0,1,74,138,75,144,264,45,9,26,10,3,0,5,1,0,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Houtwijk,0518::SB115,,1149,839,1,0,68,193,73,137,219,52,16,50,12,4,0,11,3,0,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Houtwijk,0518::SB116,,1017,663,1,2,38,155,57,113,184,46,5,34,17,4,0,4,2,1,1,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Florence Zorgcentrum Houthaghe,0518::SB117,,1072,1083,0,5,114,227,99,141,325,62,24,42,24,6,1,14,4,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Verpleeghuis Houtwijk,0518::SB118,,1497,1213,0,2,128,283,85,230,214,97,15,114,22,12,0,9,1,1,2,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Kath. Basisschool De Oase,0518::SB120,,1648,1321,0,6,115,235,124,283,284,97,15,122,28,5,1,7,1,0,1,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Gemeentecentrum Bethelkerk-Loosduinen,0518::SB122,,1532,1367,0,0,159,265,80,383,163,105,15,147,38,1,0,3,4,0,3,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau R.K. Basisschool Het Lichtbaken,0518::SB123,,2711,655,0,0,44,150,97,88,166,46,8,40,15,0,0,1,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Multifunctioneel Centrum de Geest,0518::SB125,,1328,1007,1,3,39,257,98,144,291,64,14,63,23,7,0,6,1,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Woon- zorgcentrum Wijndaelercentrum,0518::SB126,,1443,1019,0,3,122,198,97,172,257,61,10,58,32,1,0,5,3,1,2,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Woon- zorgcentrum Tabitha,0518::SB127,,1208,829,3,3,153,125,38,213,142,40,13,64,22,7,2,5,4,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Verzorgingshuis Loosduinse Hof,0518::SB128,,1011,477,1,2,41,94,64,53,142,28,8,21,16,0,0,4,2,0,2,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Verzorgingshuis Loosduinse Hof,0518::SB129,,1191,885,1,4,62,197,91,100,278,55,10,43,32,0,0,10,1,0,2,4
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Woon en Zorgcentrum Tabitha,0518::SB130,,1187,1062,0,6,160,145,54,285,195,71,19,102,13,7,0,6,3,1,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Schoolgebouw Veluweplein,0518::SB201,,1218,548,0,5,28,183,37,61,149,41,5,32,8,0,1,1,2,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De La Reyschool,0518::SB202,,1164,639,1,1,31,231,59,47,115,71,23,42,10,0,0,7,2,0,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau R.K. Rosabasisschool,0518::SB203,,960,570,2,3,26,175,42,61,157,46,11,36,3,1,0,7,2,0,0,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Gelderlandschool,0518::SB204,,847,459,0,1,17,103,64,59,128,29,14,33,6,4,0,1,0,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau R.K. Rosabasisschool,0518::SB205,,1391,773,3,7,52,219,75,88,189,51,19,43,22,9,0,2,1,0,2,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. basisschool Ds. D.J. Karressschool,0518::SB206,,1293,636,4,1,34,150,49,75,192,46,15,45,16,2,0,8,3,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. Basisschool Ds.D.J. Karresschool,0518::SB207,,1453,625,1,3,26,139,64,91,185,44,18,34,12,3,0,2,2,0,0,5
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. Basisschool Ds. D.J. Karreschool,0518::SB208,,1246,567,0,1,29,120,67,78,181,33,7,33,9,1,0,9,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Het Galjoen,0518::SB209,,1643,937,2,8,24,484,73,73,135,55,6,74,7,3,0,2,0,0,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Zorgcentrum Zuiderpark,0518::SB210,,854,642,3,4,49,191,61,68,142,51,15,39,12,1,1,5,6,1,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Basement Sion Kerk,0518::SB211,,1407,1274,1,2,60,233,147,233,291,102,56,107,20,4,3,11,2,0,0,5
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Gelderlandschool,0518::SB212,,969,574,0,1,23,137,61,65,197,37,10,29,4,5,0,2,2,1,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Andre Castens Sportzaal,0518::SB213,,1167,762,0,2,51,131,71,120,247,49,8,45,18,7,0,10,4,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Andre Castens Sportzaal,0518::SB214,,1407,744,0,3,52,118,70,137,252,46,13,30,17,3,0,3,2,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Christelijke Thomaskerk,0518::SB215,,1432,1056,0,0,82,188,89,193,324,60,11,72,20,3,0,9,2,0,1,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Openbare Daltonschool Helen Parkhurst,0518::SB216,,1351,951,2,1,59,160,90,185,250,79,15,83,17,3,0,7,0,0,1,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Verzorgingshuis Swaenesteijn,0518::SB219,,2329,1944,6,8,251,421,173,323,484,91,28,106,42,7,0,9,4,0,4,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Verzorgingshuis Swaenehove,0518::SB221,,2008,1385,4,2,171,300,100,210,350,75,31,100,25,11,0,8,2,1,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Pr. Chr. Prof. Mr. A. Anemaschool,0518::SB222,,1428,630,1,4,35,225,55,43,147,36,21,34,14,9,0,5,3,1,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Bibliotheek Bouwlust,0518::SB223,,969,592,0,0,39,203,63,60,140,31,3,37,8,1,0,2,2,2,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Pr. Chr. Prof. Mr. A. Anemaschool,0518::SB224,,1117,637,1,6,28,269,64,40,141,40,13,19,13,4,0,3,1,2,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijkcentrum Bouwlust,0518::SB225,,986,716,3,5,28,380,53,31,128,28,6,37,16,1,0,3,2,0,2,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Florence Marterrade,0518::SB226,,1442,942,0,7,97,301,92,98,185,59,16,52,18,6,1,10,2,1,1,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau R.K.Basisschool de Zuidwester,0518::SB227,,1052,399,4,0,25,158,34,40,73,18,5,31,8,1,0,1,3,0,2,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Verpleeghuis De Lozerhof,0518::SB228,,1219,571,4,3,65,178,51,44,165,27,4,17,12,3,1,2,2,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Verpleeghuis De Lozerhof,0518::SB229,,1131,671,1,1,72,187,57,48,216,38,11,24,11,2,0,2,0,0,0,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Verpleeghuis Florence Gulden Huis,0518::SB230,,923,675,2,3,80,191,62,59,201,27,10,36,0,0,0,6,0,2,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Centrum Carel van den Oever,0518::SB231,,1137,643,3,5,65,242,75,57,121,30,6,25,15,5,0,2,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Pr. Chr. Basisschool De Springplank,0518::SB232,,1373,880,2,1,91,263,90,127,203,45,11,22,17,4,0,4,2,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Erasmus,0518::SB233,,1766,965,0,2,46,374,106,104,189,54,11,63,14,1,0,1,2,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Verpleeghuis Vrederust-West,0518::SB235,,1558,980,2,3,116,306,65,97,242,60,24,47,10,5,0,4,2,0,0,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Christelijke Vredekerk,0518::SB236,,1308,794,1,5,49,241,81,101,197,36,20,32,23,2,0,8,3,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Bibliotheek Bouwlust,0518::SB237,,964,578,0,0,28,187,57,69,131,26,7,43,15,0,0,7,5,1,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijkplatform Morgenstond,0518::SB238,,1398,692,3,2,63,214,67,67,196,41,3,29,7,0,0,4,0,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Stadsdeelkantoor Escamp,0518::SB239,,990,949,3,6,35,354,102,94,221,58,16,48,8,2,0,7,4,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS de Wissel,0518::SB240,,1154,809,0,8,38,276,77,70,226,40,11,37,29,1,0,3,0,0,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Gemiva-SVG Groep,0518::SB241,,962,294,0,1,34,92,28,14,78,24,6,7,8,0,0,2,1,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Ontmoetingscentrum Morgenstond,0518::SB242,,1557,701,4,7,31,226,69,89,164,34,11,55,17,1,0,2,1,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau R.K. Basisschool De Krullevaar,0518::SB243,,1248,819,2,2,56,286,68,103,184,27,19,50,16,2,0,8,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Zorgcentrum Steinmetz de Compaan,0518::SB245,,1626,610,0,3,50,156,55,69,196,32,8,21,12,2,1,7,1,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau De Mondriaan Onderwijsgroep,0518::SB246,,1541,749,1,3,35,195,58,135,204,38,5,47,20,0,1,8,1,0,0,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau De Mondriaan Onderwijsgroep,0518::SB247,,1537,877,2,3,47,205,77,177,231,68,6,47,12,1,1,2,2,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau De Haagse VMBO Economie,0518::SB249,,1599,778,2,8,39,232,78,103,204,48,15,34,12,1,1,4,1,0,0,6
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Kleine Wereld,0518::SB251,,1181,491,0,6,17,154,48,48,139,32,13,24,3,1,1,4,4,1,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Kleine Wereld,0518::SB252,,1258,536,1,6,28,192,54,56,110,41,7,15,16,3,0,8,2,0,2,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. Ds. D.A. van den Boschschool,0518::SB253,,892,573,0,4,37,230,50,39,120,40,9,25,13,4,0,5,1,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Woonzorgcentrum Moerwijk,0518::SB254,,1038,540,2,2,56,187,59,31,135,29,13,11,13,3,0,2,1,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Basisschool Grote Beer,0518::SB255,,795,478,2,3,14,201,43,38,111,22,13,25,9,0,0,1,1,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Basisschool Grote Beer,0518::SB256,,1320,492,0,2,23,179,34,33,127,38,11,27,12,3,1,0,3,0,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Woon- zorgcentrum Coornhertcentrum,0518::SB258,,1291,796,5,5,40,307,86,50,205,40,13,40,11,2,0,1,0,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. Victory Outreachkerk,0518::SB259,,1446,526,1,5,35,182,52,47,121,32,14,23,11,3,1,1,1,1,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. Victory Outreachkerk,0518::SB260,,1429,500,0,5,31,175,58,31,138,23,8,12,16,4,0,3,1,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Verzorgingshuis De Waterhof,0518::SB261,,1400,658,1,3,70,170,60,111,150,32,13,23,15,1,0,6,4,0,0,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wateringse Veld College,0518::SB262,,2202,893,0,0,56,159,42,343,157,47,6,65,11,0,0,2,3,0,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Focus Leefstijl Studio,0518::SB263,,2644,1634,2,7,116,281,114,498,359,66,33,129,16,4,0,11,3,0,2,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Openbare Daltonschool De Vijver,0518::SB264,,2632,1533,1,6,96,315,73,477,339,65,23,115,13,1,0,16,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau R.K. Basisschool De Fontein,0518::SB265,,2521,1398,0,2,130,301,72,400,293,56,14,107,14,1,0,5,4,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau R.K. Basisschool De Fontein,0518::SB266,,1862,1595,2,3,124,304,93,453,359,82,10,136,22,1,0,6,3,0,2,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Porto Cabin Parijsplein,0518::SB267,,0,1376,3,1,90,298,118,286,355,59,25,93,24,3,0,13,5,0,3,4
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Zorghuis Dr. W. Drees,0518::SB301,,1154,1012,1,3,80,181,72,230,113,94,17,167,20,11,0,12,5,8,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Openbare Montessorischool Valkenbos,0518::SB302,,1363,1318,1,0,63,337,117,222,140,187,18,172,40,5,0,4,4,1,3,5
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Klimop,0518::SB303,,1517,524,1,0,7,166,67,40,88,65,7,63,11,0,0,5,3,0,0,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Bonte Vlinder,0518::SB304,,1230,852,2,2,48,169,76,199,92,117,9,115,17,3,0,3,2,0,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Buurtcentrum de Lijsterbes,0518::SB305,,747,522,0,3,38,123,34,99,78,45,7,83,9,3,0,1,2,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau R.K. Basisschool De Drie Linden,0518::SB306,,1089,865,0,2,47,229,90,118,169,90,15,80,22,1,0,1,1,0,0,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Zonnebloem,0518::SB307,,1472,1458,0,0,100,248,92,479,140,144,12,183,35,6,1,13,5,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijkcentrum De Hyacint,0518::SB308,,1138,958,1,1,89,170,64,232,132,106,18,108,18,6,0,3,10,0,0,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijkcentrum De Hyacint,0518::SB309,,1331,1056,1,3,105,189,62,235,165,107,17,125,24,8,1,7,6,0,1,4
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. College De Populier,0518::SB310,,1342,1137,1,2,99,215,70,249,143,145,23,135,30,6,0,9,8,0,3,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Houtrust,0518::SB311,,1167,991,0,2,90,145,39,356,60,80,14,159,31,10,0,2,4,0,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. O.G. Heldringschool,0518::SB312,,1487,1363,1,1,108,157,26,612,104,93,25,201,28,3,0,1,4,0,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nutsschool Laan van Poot,0518::SB313,,1392,1325,1,1,87,176,37,632,92,77,8,187,18,6,0,2,1,0,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Verzorgingshuis Huize Eykenburg,0518::SB314,,1421,1038,2,0,109,193,69,281,104,109,22,122,17,1,0,6,3,0,0,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Protestantse kerk Bosbeskapel,0518::SB315,,1835,1388,4,0,93,260,103,339,229,120,28,165,37,2,0,4,6,0,2,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Klimop,0518::SB316,,1092,515,0,1,17,166,53,61,70,63,16,50,11,3,0,1,1,0,0,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Stichting Saffier Locatie Preva,0518::SB317,,1680,938,0,2,72,189,64,256,117,83,14,122,13,2,0,3,1,2,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Vlierboom,0518::SB319,,1443,1057,0,0,74,202,78,291,136,88,18,139,16,4,0,3,6,0,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Vlierboom,0518::SB320,,1454,1172,1,2,82,208,65,344,145,120,22,144,31,1,1,4,2,0,2,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. Basisschool de Elout,0518::SB322,,2073,1003,0,5,52,289,66,160,88,165,17,146,11,2,0,1,3,0,1,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Katholieke Kerk De Overkant,0518::SB324,,748,390,1,2,9,149,38,47,54,34,8,36,8,0,0,4,1,1,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Florence Woonzorgcentrum Jonker Frans,0518::SB325,,2155,1182,1,3,39,442,88,132,154,120,19,142,26,0,0,5,9,2,1,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Stichting Federatie Eekta,0518::SB326,,1132,746,1,3,30,199,81,118,85,99,11,91,20,2,0,2,5,1,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Stichting Federatie Eekta,0518::SB327,,1064,613,1,4,31,175,61,100,83,68,11,60,15,2,1,1,2,0,0,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau De Goede Herder Kapel,0518::SB328,,1826,964,1,5,39,191,112,158,230,90,20,76,30,4,1,5,1,1,4,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau R.K. Basisschool De Drie Linden,0518::SB329,,1048,565,1,0,26,118,65,94,104,69,9,58,12,0,1,5,4,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Ontmoetingscentrum De Luifel,0518::SB331,,1225,490,1,1,22,117,51,51,100,62,11,62,8,1,0,2,1,1,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Evangelische Broedergemeente,0518::SB332,,0,535,1,3,12,140,58,94,20,91,4,87,20,2,0,2,4,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Bewonerscentrum REVA,0518::SB333,,1247,778,0,5,13,219,55,122,57,142,11,132,17,1,1,3,1,0,0,4
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Katholieke Sint Agneskerk,0518::SB335,,1097,777,0,3,24,324,62,85,98,89,6,57,15,0,2,3,6,0,4,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijkcentrum De Regenvalk,0518::SB336,,1156,1224,2,4,41,298,94,186,101,218,19,223,22,3,1,5,9,1,0,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. Basisschool de Elout,0518::SB337,,1027,926,0,1,37,261,55,170,52,179,9,137,17,1,0,1,2,1,2,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Ouder en Kind Centrum,0518::SB401,,1656,1149,2,1,85,178,68,381,227,61,13,103,18,4,0,4,5,0,2,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Ouder en Kind Centrum,0518::SB402,,1614,1246,2,0,87,189,63,464,221,68,18,98,21,8,0,5,1,0,3,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Verpleeghuis De Eshoeve,0518::SB403,,1884,1516,1,0,129,180,56,619,109,91,22,259,18,13,2,6,9,0,1,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Woonzorgcentrum Oldeslo,0518::SB405,,758,736,1,1,66,66,13,377,55,31,10,97,14,0,1,0,4,1,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Verzorgingshuis Duinrust,0518::SB406,,1165,642,0,0,67,84,11,279,37,33,10,102,8,5,0,4,1,0,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Buurtcentrum Kommunika,0518::SB407,,1389,1103,1,3,89,155,68,265,263,80,33,108,24,13,0,1,4,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Het Volle Leven,0518::SB408,,1168,844,0,1,51,102,38,288,156,69,14,99,14,3,0,5,3,1,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Het Volle Leven,0518::SB409,,1160,580,0,1,31,94,39,187,111,36,3,61,10,2,0,3,2,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Muzee Scheveningen,0518::SB410,,1033,982,4,0,77,135,44,313,179,55,15,133,17,8,0,2,2,0,0,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Stichting De Thuishaven,0518::SB411,,891,687,0,1,95,99,51,133,156,30,19,64,17,16,1,4,0,1,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijkcentrum Het Kalhuis,0518::SB412,,1438,1028,3,0,104,161,84,161,283,90,27,51,19,38,0,4,4,1,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Woon- zorgcentrum Huize Royal,0518::SB413,,968,710,0,0,84,104,34,203,78,72,9,94,19,3,0,5,3,1,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Buurtcentrum Mallemok,0518::SB414,,1301,993,0,1,118,115,85,205,301,42,35,47,10,30,0,2,0,1,0,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Woonzorgcentrum Het Uiterjoon,0518::SB415,,1398,996,0,4,124,130,58,178,330,43,35,41,26,20,1,6,2,0,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Stadsdeelkantoor Scheveningen,0518::SB416,,1234,1182,2,7,121,183,74,243,222,95,33,145,31,17,1,6,7,0,3,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijkgebouw Rehoboth,0518::SB417,,1398,911,4,0,92,88,45,188,305,55,24,70,16,23,0,1,2,1,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. basisschool De Meerpaal,0518::SB418,,794,1260,1,4,94,167,119,167,516,41,43,54,23,23,1,8,2,0,0,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijk- en dienstcentrum Het Trefpunt,0518::SB419,,1432,660,0,0,54,73,62,67,313,20,19,13,7,19,0,8,2,0,1,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijk- en dienstcentrum Het Trefpunt,0518::SB420,,1625,439,0,2,44,43,31,61,178,17,26,16,5,9,0,7,1,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Protestantse Maranathakerk,0518::SB422,,2019,1741,5,2,79,313,108,502,152,175,13,329,48,0,0,7,10,0,3,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijkgebouw Thabor,0518::SB423,,2120,1233,0,3,152,181,63,260,286,54,47,120,22,40,1,5,0,0,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Woonzorgcentrum Bosch en Duin,0518::SB424,,1814,1025,1,1,81,171,32,352,71,102,7,170,22,7,0,2,7,0,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. Gereformeerde Kerk,0518::SB425,,0,553,1,0,43,74,25,193,37,41,5,103,14,11,0,1,4,0,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. Basisschool Het Mozaïek,0518::SB427,,1075,1029,3,1,80,160,46,329,100,104,8,158,26,6,0,2,7,0,2,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. Basisschool Het Mozaiek,0518::SB429,,2222,770,1,0,74,125,28,237,56,70,11,143,14,5,0,2,2,0,1,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Evangelische Gemeente Morgenstond,0518::SB430,,1283,682,0,2,98,73,34,148,140,27,43,49,13,50,0,2,4,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Annie M.G. Schmidt,0518::SB431,,1323,825,2,1,51,130,43,296,64,71,11,138,17,0,0,1,3,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Gereformeerde Noorderkerk,0518::SB432,,1119,583,0,1,27,104,33,153,47,86,4,102,17,1,0,1,6,0,0,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Ouderencomplex Groot Hertoginneduin,0518::SB435,,1048,819,0,1,59,158,26,197,73,109,19,150,18,3,0,1,4,0,0,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Zorgcentrum Het Schakelpunt,0518::SB501,,1477,1289,1,3,90,231,59,447,121,110,19,165,34,6,0,4,1,0,0,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijkcentrum 't Klokhuis,0518::SB503,,1105,863,2,2,46,156,36,287,67,74,4,160,27,0,0,1,3,1,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. Basisschool De Spiegel,0518::SB504,,1072,640,1,0,37,138,49,96,48,92,9,143,19,1,0,0,5,0,0,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Institute of Social Studies,0518::SB505,,912,695,2,0,25,149,37,196,48,87,5,135,9,0,0,0,2,0,0,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Café De Vriendenkring,0518::SB506,,1016,930,2,5,31,235,66,176,113,143,8,132,16,1,0,1,4,0,1,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Café De Vriendenkring,0518::SB507,,1041,816,3,3,31,186,70,138,109,115,10,116,26,2,0,3,5,0,2,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Buurthuis Deedrie,0518::SB508,,1440,1004,5,2,47,282,102,134,100,166,6,129,22,2,0,3,5,0,0,6
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Woonzorgcentrum Op de Laan,0518::SB509,,1350,950,6,0,38,196,85,183,91,151,9,164,17,0,1,2,8,1,1,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Gereformeerde Noorderkerk,0518::SB510,,1945,778,0,2,33,148,34,215,47,122,8,152,11,0,0,1,4,0,0,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Clubhuis Cantaloup,0518::SB511,,1166,947,1,0,50,142,37,350,84,83,7,159,23,1,0,7,4,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Woonzorgcentrum Rivierenbuurt,0518::SB512,,2479,776,3,4,19,217,73,115,127,88,8,95,23,0,0,2,2,0,3,4
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Fontys Hogeschool Pedagogiek,0518::SB514,,1707,574,0,0,20,190,43,74,58,71,14,84,14,0,0,1,0,0,1,4
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Verzorginshuis Van Limburg Stirum Huis,0518::SB515,,2049,801,1,7,30,311,76,62,121,85,16,69,19,3,1,2,1,1,2,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Doopsgezinde Kerk,0518::SB516,,1080,790,1,1,58,114,32,321,48,67,10,125,11,0,2,1,0,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Stadhuis Spui,0518::SB517,,1232,1383,3,7,59,416,93,227,122,173,19,225,30,1,0,7,3,1,2,5
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Woonzorgcentrum Rivierenbuurt,0518::SB518,,1025,901,4,5,25,275,60,135,127,95,11,141,19,2,0,6,3,0,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Zuidwalschool,0518::SB519,,1716,634,0,5,16,187,67,75,81,86,9,89,16,1,0,2,1,0,1,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Zuidwalschool,0518::SB520,,1762,775,2,3,23,258,55,109,92,106,10,95,17,0,0,4,0,4,0,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Leger des Heils Congrescentrum,0518::SB521,,1786,1370,2,2,71,310,109,228,128,214,14,242,33,3,0,4,5,1,2,6
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijk- en Dienstencentrum De Kronkel,0518::SB522,,1545,1070,2,3,39,301,121,146,215,92,8,99,31,3,1,6,4,0,3,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau R.K. Basisschool St. Carolus,0518::SB523,,1629,939,4,3,25,252,99,138,180,100,8,103,17,6,0,3,5,0,1,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau HOF Promotie Haags Vrijwilligerswerk,0518::SB524,,929,967,1,3,52,226,58,235,53,155,11,146,16,2,0,1,5,1,2,4
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Voorsprong,0518::SB525,,1391,516,0,3,10,264,44,23,88,39,3,34,9,1,0,1,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Parnassia b.v. afd. Woodstock,0518::SB526,,1497,1096,0,19,26,677,69,23,158,71,13,45,11,0,0,2,1,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Verpleeghuis De Schildershoek,0518::SB527,,1403,505,0,2,9,302,45,17,43,51,2,30,1,0,0,3,1,0,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. Basisschool Prinses Irene,0518::SB528,,1024,570,1,7,28,282,46,25,77,56,8,40,6,0,0,0,1,1,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. Basisschool Prinses Irene,0518::SB529,,1398,496,0,9,8,229,61,32,89,40,4,23,7,0,0,2,1,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Buurtcentrum de Tuimelaar,0518::SB530,,1369,593,1,0,14,424,34,21,42,19,5,28,1,2,0,0,2,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. Koningin Beatrixschool,0518::SB531,,1293,542,0,14,13,363,36,10,63,15,7,29,3,2,0,0,0,0,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Shri Vishnu Basisschool,0518::SB533,,2043,921,1,2,24,601,73,23,114,23,0,47,12,1,0,0,0,0,1,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Buurtcentrum Octopus,0518::SB535,,1443,887,2,3,31,595,81,21,54,35,3,59,4,1,0,1,0,0,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Voorsprong,0518::SB536,,1318,496,2,5,10,249,37,24,77,40,8,27,14,3,0,4,1,1,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Springbok,0518::SB537,,1247,660,2,11,17,405,57,25,81,32,5,30,2,2,0,2,0,0,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Springbok,0518::SB538,,1237,617,1,5,14,399,41,31,58,39,3,21,6,0,0,1,3,1,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Buurthuis Boerenplein,0518::SB539,,2006,1061,2,14,35,631,105,47,157,27,3,42,4,1,0,4,1,2,2,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Sporthal Transvaal,0518::SB541,,1152,385,0,6,23,206,39,20,61,11,2,18,3,0,0,0,2,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Sporthal Transvaal,0518::SB542,,934,350,0,2,9,169,47,18,68,16,6,13,1,1,0,2,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Buurt- en Kerkhuis De Paardenberg,0518::SB543,,471,322,0,5,6,169,28,21,54,20,3,21,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Woonzorgcentrum Transvaal,0518::SB544,,1054,631,2,2,24,379,64,41,73,21,7,8,7,0,0,0,3,0,0,4
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Buurtcentrum Octopus,0518::SB546,,1264,843,0,4,21,594,46,38,62,36,1,43,1,1,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Verpleeghuis De Schildershoek,0518::SB547,,1447,462,0,4,7,282,45,16,48,34,2,16,4,1,0,2,2,0,1,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. Koningin Beatrixschool,0518::SB548,,1246,849,1,14,19,602,38,25,80,26,12,38,0,1,4,2,1,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. Basisschool De Spiegel,0518::SB549,,966,679,0,0,27,162,33,147,49,111,7,121,17,1,0,0,3,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijkcentrum 't Klokhuis,0518::SB550,,999,915,0,3,49,148,37,314,58,76,9,188,26,2,1,1,3,0,2,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Haagse Hogeschool,0518::SB601,,1732,1693,10,4,68,515,143,260,181,198,37,232,21,2,1,10,8,2,10,5
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Activiteitencentrum Masaico,0518::SB602,,677,364,2,4,14,220,23,10,37,34,6,18,1,0,0,0,0,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Stadsdeelkantoor Laak,0518::SB603,,2098,1532,2,24,51,744,191,97,219,95,14,81,24,0,0,6,4,1,3,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Voorzieningencentrum LIPA,0518::SB604,,1139,547,0,1,28,153,50,63,147,38,13,33,10,3,0,4,2,0,1,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Esloo Praktijkonderwijs,0518::SB605,,1556,728,0,3,25,370,53,49,110,44,12,53,5,1,0,2,1,1,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Stichting IO Laak,0518::SB606,,930,480,2,5,14,271,43,25,65,27,4,17,7,0,0,2,4,0,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Voorzieningencentrum LIPA,0518::SB607,,1204,676,2,3,23,182,63,100,200,43,9,37,7,1,0,7,0,0,0,4
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijkcentrum De Veegpost,0518::SB608,,1593,764,1,2,30,223,72,68,234,52,5,55,14,2,0,3,0,1,0,5
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Prot.Chr. Basisschool De Horizon,0518::SB609,,1051,547,0,2,17,111,49,62,205,40,11,33,11,0,1,2,2,0,0,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Prot.Chr. Basisschool De Horizon,0518::SB610,,1432,626,0,2,17,100,60,93,266,42,5,20,9,3,0,5,5,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijk- en dienstencentrum De Wissel,0518::SB611,,836,659,3,2,34,226,77,50,181,37,11,20,12,1,0,5,0,0,1,4
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijk- en dienstencentrum De Wissel,0518::SB612,,1155,708,4,11,20,244,79,61,200,41,10,34,14,1,0,0,1,1,0,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Spoorzoeker,0518::SB613,,1026,478,0,2,19,191,67,63,69,24,9,24,8,2,0,0,1,1,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Senioren Soos De Tak,0518::SB615,,1214,547,1,6,34,199,59,35,137,29,5,36,7,2,0,2,2,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. Dr. J.A. Gerth van Wijkschool,0518::SB616,,1311,790,2,4,29,252,62,100,247,40,12,28,9,3,0,2,0,0,2,4
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Het Agé,0518::SB618,,1409,542,0,6,15,134,47,69,173,32,9,38,11,1,1,9,2,0,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Het Agé,0518::SB619,,1154,416,0,0,21,99,57,55,119,27,5,24,7,1,0,1,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Evenementenlocatie Fokker Terminal,0518::SB620,,477,354,0,0,32,64,24,95,76,25,5,21,5,1,0,2,4,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau De Oase,0518::SB621,,2135,755,0,5,38,251,84,62,170,55,21,44,26,2,0,0,1,0,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Woonzorgcentr. Maison Gaspard de Coligny,0518::SB701,,1783,1629,0,6,195,140,27,875,95,60,11,193,15,10,0,4,3,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Verpleeghuis Nebo,0518::SB703,,1322,1093,0,0,131,103,14,534,80,50,6,139,29,1,0,4,1,0,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. Basisschool Oranje Nassau School,0518::SB704,,1070,1019,1,0,116,132,23,423,51,59,13,180,13,2,0,4,3,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Kath. Basisschool Paschalisschool,0518::SB705,,994,1001,1,0,115,127,6,450,41,62,15,163,16,1,0,1,1,0,3,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Maerlant Lyceum,0518::SB706,,837,733,1,1,58,82,13,366,33,39,1,122,10,0,0,2,3,3,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Florence Verzorgingshuis Oostduin,0518::SB707,,1306,997,0,1,104,120,19,449,40,44,13,183,16,1,0,2,5,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Basisschool Schoolvereniging Wolters,0518::SB708,,1367,1367,0,1,104,139,22,715,50,67,13,229,13,4,0,3,7,0,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chr. Basisschool Van Hoogstratenschool,0518::SB709,,1233,949,1,2,56,138,39,294,76,117,10,178,33,1,0,1,5,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nutsbasisschool Bezuidenhout,0518::SB711,,1241,948,0,2,74,166,72,204,119,128,19,125,22,6,0,4,8,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Stadsdeelkantoor Haagse Hout,0518::SB712,,1485,1198,0,5,66,226,67,306,196,124,12,168,23,2,0,4,3,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Stadsdeelkantoor Haagse Hout,0518::SB713,,1541,1250,0,2,59,233,82,318,189,126,21,174,28,1,0,5,10,1,1,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Stichting Breakthrough Sanctuary,0518::SB714,,1615,1241,0,2,72,229,59,385,88,131,7,239,17,1,1,2,8,1,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijkcentrum Bezuidenhout,0518::SB715,,1023,929,3,0,68,139,82,238,125,104,18,127,21,2,0,1,2,0,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijkcentrum Bezuidenhout-West,0518::SB717,,1618,972,2,8,40,327,103,122,169,89,16,75,18,1,1,4,1,1,2,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau ASB Centrum Bezuidenhout,0518::SB718,,1512,1068,0,1,102,177,40,328,101,104,12,170,27,2,0,3,1,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Cardia Woonzorgcentrum Landscheiding,0518::SB719,,1177,940,2,0,122,153,32,403,77,30,10,83,15,4,1,7,2,1,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Stichting KunstPost,0518::SB720,,1706,1043,3,6,97,252,113,181,185,72,30,63,32,6,2,7,0,0,1,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijkcentrum Mariahoeve,0518::SB721,,1255,808,3,2,90,175,47,166,151,55,15,74,27,2,0,4,1,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Verpleeghuis Mariahoeve,0518::SB722,,1492,602,2,2,66,137,58,95,100,42,14,65,12,2,0,4,6,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Verpleeghuis Mariahoeve,0518::SB723,,1236,916,2,3,87,206,81,183,171,61,15,76,26,2,0,6,1,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijkcentrum Mariahoeve,0518::SB725,,1060,686,4,2,45,148,64,146,122,46,14,70,19,4,0,4,3,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Woonzorgcentrum Ametisthorst,0518::SB726,,1109,813,1,3,108,182,77,160,143,43,20,59,10,1,0,8,0,1,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Protestantse Gemeente Kruispunt,0518::SB727,,1295,867,0,4,89,157,58,247,130,55,16,78,18,4,1,10,4,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Prot. Chr. Basisschool De Vlieger,0518::SB728,,1859,1487,2,1,119,292,106,393,299,87,34,129,20,0,0,5,0,1,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS de Notenkraker,0518::SB729,,1889,1079,0,3,67,192,84,331,231,51,22,86,5,1,1,5,1,0,0,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Samenwerkingsschool Balans,0518::SB730,,1257,967,1,0,88,155,72,319,172,40,23,66,10,4,0,12,5,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Waterland,0518::SB731,,1780,1349,0,3,78,265,111,387,286,75,14,106,13,1,3,7,2,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Samenwerkingsschool Balans,0518::SB732,,1376,987,2,2,73,168,75,326,192,53,12,69,5,3,2,7,1,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Stadhuis Spui,0518::SB733,,0,1251,5,13,46,364,89,244,102,162,12,201,16,2,0,5,2,2,1,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Buurtcentrum Piet Vink,0518::SB734,,1560,948,1,2,72,199,54,227,217,50,17,72,19,3,1,12,0,0,2,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Waterland,0518::SB735,,2205,1279,1,0,75,251,100,335,272,69,15,126,14,4,0,13,0,0,2,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Notenkraker,0518::SB736,,1872,1165,1,1,57,229,90,333,227,53,32,101,26,4,1,5,3,1,0,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Kinderopvang Waterrijk,0518::SB737,,1839,1218,6,0,53,280,78,323,255,55,31,103,17,5,3,10,1,1,2,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau R.K. Basisschool De Bras,0518::SB738,,2016,1227,1,1,96,198,64,395,188,107,22,116,21,1,0,12,6,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau R.K. Basisschool Christoffel,0518::SB739,,1825,1480,1,2,96,176,54,679,219,61,19,148,16,3,0,6,3,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Steunpunt IJsduikerstraat,0518::SB740,,1674,1170,2,0,116,184,89,386,210,56,11,84,22,0,0,5,6,0,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Prinses Catharina-Amalia,0518::SB741,,2054,1198,0,1,73,212,82,397,249,49,18,88,16,3,0,7,1,0,2,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Startbaan,0518::SB742,,1192,846,2,1,39,168,49,185,240,42,12,77,22,0,0,8,1,1,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Prinses Catharina-Amalia,0518::SB743,,1947,1244,3,3,96,201,52,485,236,47,16,85,14,2,0,9,0,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wijkcentrum De Bras,0518::SB744,,1554,1339,3,1,82,179,66,508,241,75,16,142,15,0,0,11,3,1,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau De Bijenkorf,0518::SB801,,0,683,1,0,30,177,56,140,57,103,9,87,14,0,0,6,2,0,0,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau V & D Leyweg,0518::SB802,,0,410,0,0,33,116,38,66,77,24,9,18,10,3,0,11,2,0,0,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Hogeschool InHolland,0518::SB803,,0,474,0,1,26,85,39,116,45,57,4,91,8,0,0,0,1,0,2,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Tweede Kamer Binnenhof,0518::SB804,,0,1004,1,0,53,185,53,248,77,148,21,190,17,6,0,3,0,0,0,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Boekhandel Paagman,0518::SB805,,0,1692,1,4,105,288,70,535,153,193,9,266,47,6,0,1,9,3,4,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Centraal Station,0518::SB806,,0,2293,1,10,108,512,145,466,169,308,55,453,46,7,0,7,11,0,4,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Haags Historisch Museum,0518::SB807,,0,203,0,0,9,38,8,63,9,16,1,51,6,0,0,1,0,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Bibliotheek Transvaalkwartier,0518::SB808,,0,359,0,7,9,205,33,18,46,29,4,8,4,0,0,1,0,0,2,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau MCH Westeinde,0518::SB809,,0,524,1,1,29,162,41,82,86,53,8,51,7,2,0,0,0,0,1,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Bibliotheek Schilderswijk,0518::SB810,,0,392,0,5,10,221,47,15,43,19,3,28,4,0,0,1,0,0,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Bibliotheek Ypenburg,0518::SB812,,0,572,0,1,45,106,49,147,97,46,5,57,12,2,0,3,1,0,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Bibliotheek Leidschenveen,0518::SB813,,0,849,0,2,52,131,58,262,174,48,20,78,20,2,0,4,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Hollands Spoor,0518::SB817,,0,1667,4,7,46,521,132,256,86,261,33,277,33,3,2,5,2,1,5,4
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Zevende Dag Adventisten Chr. Koningkerk,0518::SB818,,0,178,0,0,12,42,15,34,38,12,4,14,2,0,0,5,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Stadhuis Spui,0518::SB819,,0,1624,7,10,60,426,120,300,175,208,17,260,35,1,0,10,4,1,4,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Afganistan/Locatie 302 /HMA Kabul,0518::SB901,,0,4,0,0,0,1,0,0,0,1,0,2,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Albanië/Locatie 520 /HMA Tirana,0518::SB902,,11,16,0,0,1,3,0,2,1,4,3,0,0,2,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Algerije/Locatie 105 /HMA Algiers,0518::SB903,,5,8,0,0,1,2,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Angola/Locatie 318 /HMA Luanda,0518::SB904,,2,13,0,0,1,3,0,6,0,2,0,1,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Argentinië/Locatie 130 /HMA Buenos Aires,0518::SB905,,44,30,0,2,3,5,3,7,4,4,0,4,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Aruba/Vert. Willemstad,0518::SB906,,390,361,0,2,43,95,9,63,19,53,8,67,2,1,0,0,1,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Australië/Locatie 131 /HMA Canberra,0518::SB907,,587,521,1,15,32,97,17,123,57,77,21,85,6,1,0,3,2,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Bangladesh/Locatie 204 /HMA Dhaka,0518::SB908,,17,18,0,0,1,4,0,0,2,3,6,2,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Benin/Locatie 134 /HMA Cotonou,0518::SB909,,0,16,0,0,0,2,0,1,0,3,2,8,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Bolivia/Locatie 313 /HMA La Paz,0518::SB910,,15,17,0,0,1,6,1,1,2,4,0,2,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Bosnië-Herzegovina/Locatie 505 /HMA Sarajevo,0518::SB911,,16,14,0,1,1,6,1,0,1,0,2,3,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Brazilië/Locatie 126 /HMA Brasilia,0518::SB912,,111,42,0,8,7,5,0,4,4,11,0,10,1,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Burkina Faso/Locatie 421 /HMA Ouagadougou,0518::SB913,,9,22,0,0,0,8,0,0,0,9,1,4,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Canada/Locatie 420 /HMA Ottawa,0518::SB914,,544,460,2,21,45,77,14,110,51,55,17,57,10,21,0,0,0,0,0,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Chili/Locatie 503 /HMA Santiago de Chile,0518::SB915,,15,15,0,1,0,4,1,2,0,3,0,5,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau China/Locatie 424 /HMA Peking,0518::SB916,,284,111,1,4,5,19,0,42,4,10,4,25,0,2,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Colombia/Locatie 125 /HMA Bogota,0518::SB917,,13,18,0,0,0,5,2,3,0,3,1,4,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Costa Rica/Locatie 501 /HMA San José,0518::SB918,,27,15,0,0,2,5,0,1,3,0,0,4,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Cuba/Locatie 215 /HMA Havanna,0518::SB919,,3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Democratische Republiek Congo/Locatie 309 /HMA Kinshasa,0518::SB920,,0,5,0,0,0,3,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Dominicaanse Republiek/Locatie 504 /HMA Santo Domingo,0518::SB921,,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Ecuador/Locatie 429 /HMA Quito,0518::SB922,,13,8,0,1,0,3,0,1,0,1,1,1,0,1,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Egypte/Locatie 303 /HMA Kairo,0518::SB923,,40,46,0,6,4,8,2,7,2,9,3,9,0,1,0,0,0,1,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Eritrea/Locatie 110 /HMA Asmara,0518::SB924,,2,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Etiopië/Locatie 104 /HMA Addis Abeba,0518::SB925,,38,45,0,1,4,13,0,9,0,7,2,10,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Filipijnen/Locatie 403 /HMA Manilla,0518::SB926,,51,31,0,2,2,5,1,9,5,6,1,0,1,0,0,0,1,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Georgië/Locatie 517 /HMA Tbilisi,0518::SB927,,4,4,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Ghana/Locatie 103 /HMA Accra,0518::SB928,,32,21,0,0,6,0,1,7,1,2,0,4,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Guatemala/Locatie 212 /HMA Guatemala,0518::SB929,,14,17,0,0,0,5,2,2,4,1,0,3,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau India/Locatie 413 /HMA New Dehli,0518::SB930,,61,58,0,2,4,12,1,15,0,10,2,12,2,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Indonesië/Locatie 221 /HMA Jakarta,0518::SB931,,141,61,0,2,2,16,2,15,5,11,0,8,1,1,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Iran/Locatie 518 /HMA Teheran,0518::SB932,,0,11,0,0,0,3,0,5,0,1,0,2,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Israël/Locatie 519/HMA Tel Aviv,0518::SB933,,242,221,0,7,10,28,1,55,80,11,26,8,1,0,0,0,0,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Japan/Locatie 521 /HMA Tokio,0518::SB934,,91,78,0,3,5,16,0,19,3,12,1,20,1,0,0,0,0,0,0,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Jemen/Locatie 502 /HMA Sana’a,0518::SB935,,2,8,0,0,0,3,0,0,1,3,0,1,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Jordanië/Locatie 107 /HMA Amman,0518::SB936,,11,11,0,0,0,1,0,3,0,3,1,3,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Kameroen/Locatie 533 /HMA Yaoundé,0518::SB937,,6,12,0,0,0,4,0,2,0,1,2,1,0,2,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Katar/Locatie 205 /HMA Doha,0518::SB938,,66,53,0,1,6,6,2,24,1,3,0,10,1,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Kazachstan/Locatie 106 /NAK Almaty,0518::SB939,,6,8,0,0,0,1,1,3,0,2,1,0,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Kenya/Locatie 412 /HMA Nairobi,0518::SB940,,120,64,0,2,8,17,2,8,0,16,6,7,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Koeweit/Locatie 310 /HMA Koeweit,0518::SB941,,23,24,0,0,1,4,0,14,0,2,0,3,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Kosovo/Locatie 428 /HMA Pristina,0518::SB942,,0,6,0,0,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Kroatië/Locatie 534 /HMA Zagreb,0518::SB943,,15,14,0,0,0,6,0,3,1,3,0,1,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Libanon/Locatie 118 /HMA Beiroet,0518::SB944,,10,10,0,0,0,3,0,1,0,0,0,6,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Libië/Locatie 523 /HMA Tripoli,0518::SB945,,5,8,0,1,1,3,1,3,0,0,0,0,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Macedonië/Locatie 510/HMA Skopje,0518::SB946,,8,17,0,0,0,3,1,7,0,1,2,3,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Maleisië/Locatie 312 /HMA Kuala Lumpur,0518::SB947,,125,101,0,6,6,20,1,33,7,6,2,26,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Mali/Locatie 115 /HMA Bamako,0518::SB948,,9,26,0,0,0,9,2,2,3,6,0,4,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Marokko/Locatie 430 /HMA Rabat,0518::SB949,,38,26,0,6,0,9,0,0,4,7,0,4,2,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Mexico/Locatie 405 /HMA Mexico,0518::SB950,,35,20,0,0,1,4,0,6,2,5,0,2,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Mozambique/Locatie 404 /HMA Maputo,0518::SB951,,14,17,0,0,0,6,0,1,0,6,2,1,1,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nederland/'s-Gravenhage,0518::SB952,,3484,3894,1,157,359,659,117,1175,371,520,79,515,63,4,0,19,8,0,2,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nederland/'s-Gravenhage,0518::SB953,,3483,2575,5,89,208,434,94,735,260,340,45,373,52,6,1,7,7,1,2,10
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nederland/'s-Gravenhage,0518::SB954,,3483,1628,0,71,146,299,37,523,172,191,28,176,42,3,0,3,4,0,2,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nederland/'s-Gravenhage,0518::SB955,,3483,2294,5,64,205,365,100,655,207,324,52,327,34,7,0,12,2,1,1,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nederland/'s-Gravenhage,0518::SB956,,3483,2809,3,91,209,510,115,748,201,430,63,462,42,5,0,10,8,1,1,4
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nederland/'s-Gravenhage,0518::SB957,,3483,4160,4,149,338,692,140,1296,427,541,75,510,76,11,3,16,10,0,17,8
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nederland/'s-Gravenhage,0518::SB958,,3483,3200,1,115,245,553,102,955,327,428,66,417,74,6,1,12,6,0,1,7
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nederland/'s-Gravenhage,0518::SB959,,3483,938,2,51,67,172,32,258,50,145,23,166,13,2,0,3,4,0,2,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nederlandse Antillen/Vert. Curaçao,0518::SB960,,547,784,1,26,78,148,12,231,40,62,22,174,9,1,0,3,2,0,1,1
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nederlandse Antillen/Vert. St. Maarten,0518::SB961,,546,110,0,8,6,26,1,35,1,13,1,24,3,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nicaragua/Locatie 402 /HMA Managua,0518::SB962,,15,22,0,0,0,13,1,0,1,3,0,4,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nieuwzeeland/Locatie 529 /HMA Wellington,0518::SB963,,226,187,0,4,19,34,7,26,34,39,7,15,3,2,0,0,1,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nigeria/Locatie 102 /HMA Abuja,0518::SB964,,9,3,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Noorwegen/Locatie 418 /HMA Oslo,0518::SB965,,450,414,0,14,15,98,21,80,26,97,9,57,7,1,0,0,1,0,2,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Oekraine/Locatie 307 /HMA Kiev,0518::SB966,,26,19,0,2,0,1,0,10,2,1,5,0,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Oman/Locatie 411 /HMA Muscat,0518::SB967,,84,89,0,1,8,15,0,42,3,7,0,14,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Pakistan/Locatie 219 /HMA Islamabad,0518::SB968,,3,2,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Palestijns gebied/Locatie 519/Vert. Ramallah,0518::SB969,,0,2,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Peru/Locatie 314 /HMA Lima,0518::SB970,,27,19,0,0,1,8,0,1,0,2,5,2,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Rusland/Locatie 408 /HMA Moskou,0518::SB971,,38,54,0,1,9,4,1,22,1,5,1,10,0,1,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Rwanda/Locatie 308 /HMA Kigali,0518::SB972,,11,45,0,0,2,16,0,10,0,10,2,4,1,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Saoediarabië/Locatie 433 /HMA Riyadh,0518::SB973,,13,9,0,2,2,1,0,2,1,2,0,1,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Senegal/Locatie 201 /HMA Dakar,0518::SB974,,6,3,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Servië/Locatie 119 /HMA Belgrado,0518::SB975,,22,24,0,2,0,8,1,5,1,3,0,6,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Singapore/Locatie 509 /HMA Singapore,0518::SB976,,351,263,0,19,14,32,1,134,13,15,0,54,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Soedan/Locatie 306 /HMA Khartoum,0518::SB977,,3,12,0,0,3,5,0,3,0,1,0,0,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Sri Lanka/Locatie 133 /HMA Colombo,0518::SB978,,13,13,0,0,1,6,0,0,0,5,1,0,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Suriname/Locatie 422 /HMA Paramaribo,0518::SB979,,162,169,0,4,14,58,10,24,5,39,1,17,1,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Syrië/Locatie 202 /HMA Damascus,0518::SB980,,3,3,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Tanzania/Locatie 203 /HMA Dar es Salaam,0518::SB981,,30,30,0,0,1,10,0,4,1,4,2,5,0,2,0,1,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Thailand/Locatie 116 /HMA Bangkok,0518::SB982,,355,287,1,15,8,46,14,73,55,36,13,37,1,4,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Trinidad en Tobago/Locatie 425 /HMA Port of Spain,0518::SB983,,6,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Tunesië/Locatie 524 /HMA Tunis,0518::SB984,,20,13,0,0,2,3,0,1,3,1,0,3,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Turkije/Locatie 108 /HMA Ankara,0518::SB985,,110,94,0,2,9,16,0,21,9,20,0,19,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Uganda/Locatie 304 /HMA Kampala,0518::SB986,,27,45,0,0,0,21,0,4,0,16,2,2,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Uruguay/Locatie 407 /HMA Montevideo,0518::SB987,,31,26,1,0,1,3,3,14,2,1,1,1,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Venezuela/Locatie 132 /HMA Caracas,0518::SB988,,3,12,0,0,1,0,0,7,0,0,2,2,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Verenigde Arabische Emiraten/Locatie 101 /HMA Abu Dhabi,0518::SB989,,234,165,0,7,12,19,2,75,3,7,3,42,2,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Verenigde Staten van Amerika/Locatie 528 /HMA Washington,0518::SB990,,2128,1767,3,84,109,372,35,557,100,195,41,316,25,8,0,3,2,1,0,3
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Viëtnam/Locatie 213 /HMA Hanoi,0518::SB991,,31,47,0,2,1,7,3,8,4,7,6,11,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Zambia/Locatie 319 /HMA Lusaka,0518::SB992,,41,38,0,0,8,11,1,4,0,6,0,8,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Zimbabwe/Locatie 214 /HMA Harare,0518::SB993,,41,12,0,0,1,3,0,2,2,1,2,1,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Zuidafrika/Locatie 427 /HMA Pretoria,0518::SB994,,542,472,0,17,66,43,2,158,91,36,13,51,5,5,0,2,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Zuidkorea/Locatie 507 /HMA Seoel,0518::SB995,,19,17,0,4,4,2,0,7,1,1,2,0,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Zwitserland/Locatie 121 /HMA Bern,0518::SB996,,2128,1864,1,88,143,331,24,636,125,224,34,315,14,5,0,6,2,0,3,2
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nederland/'s-Gravenhage,0518::SB997,,0,2477,6,86,208,448,111,663,158,369,60,405,32,7,1,5,3,1,1,5
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nederland/'s-Gravenhage,0518::SB998,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nederland/'s-Gravenhage,0518::SB999,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nederland/'s-Gravenhage,0518::SB1000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nederland/'s-Gravenhage,0518::SB1001,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nederland/'s-Gravenhage,0518::SB1002,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nederland/'s-Gravenhage,0518::SB1003,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+'s-Gravenhage,'s-Gravenhage,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Nederland/'s-Gravenhage,0518::SB1004,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

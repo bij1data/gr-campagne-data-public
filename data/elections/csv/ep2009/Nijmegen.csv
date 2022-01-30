@@ -1,0 +1,82 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,CDA - Europese Volkspartij,P.v.d.A./Europese Sociaaldemocraten,VVD - Europese Liberaal-Democraten,GROENLINKS,SP (Socialistische Partij),ChristenUnie-SGP,Democraten 66 (D66),Newropeans,Europa Voordelig! & Duurzaam,Solidara,Partij voor de Dieren,EUROPESE KLOKKENLUIDERS PARTIJ (EKP),De Groenen,PVV (Partij voor de Vrijheid),Liberaal Democratische Partij,Partij voor Europese Politiek (PEP),Libertas
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Stadswinkel,0268::SB1,,2161,1418,11,1,114,204,123,338,132,16,343,11,1,10,47,1,3,60,3,0,12
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Stadhuis,0268::SB2,,1759,914,6,0,79,128,78,209,119,4,159,6,1,5,38,3,3,77,2,2,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Activiteitenc.Doddendaal,0268::SB3,,2136,626,3,1,60,70,65,159,59,6,142,4,0,1,22,1,4,26,4,2,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Buurthuis Het Oude Weeshuis,0268::SB4,,1378,554,0,5,44,63,33,139,79,1,95,8,0,3,29,0,1,57,0,0,2
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Concertgebouw De Vereeniging,0268::SB5,,1868,623,7,1,76,75,74,137,56,4,130,3,1,1,18,0,6,39,3,0,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Wijkcentrum Burghardt,0268::SB6,,2202,987,5,4,52,145,74,299,85,8,236,7,0,6,29,11,3,28,2,1,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School de Driemaster,0268::SB7,,1510,621,1,0,27,107,29,214,78,3,107,5,0,1,25,4,2,16,0,1,2
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Karel de Grote College,0268::SB8,,1878,791,8,1,70,92,78,213,68,9,187,4,1,1,24,0,5,31,5,1,2
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Wijkcentrum Daalsehof,0268::SB9,,1946,865,0,1,48,119,54,264,91,12,198,6,0,1,29,2,4,32,2,0,3
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Canisiuscollege,0268::SB10,,2200,921,1,2,112,137,54,254,91,5,175,5,0,2,35,3,0,46,2,0,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Het Badhuis,0268::SB11,,1549,1085,0,0,65,146,62,333,133,4,237,5,2,1,32,1,5,57,1,0,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Dependance de Buut,0268::SB12,,1943,800,3,1,97,116,47,200,79,7,191,9,1,3,25,1,1,20,3,0,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Oud Burgeren Gasthuis,0268::SB13,,1142,802,4,2,197,103,67,131,48,11,179,10,0,0,19,1,0,29,2,0,5
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Verpleeghuis Margriet,0268::SB14,,969,509,3,3,86,47,73,93,36,11,102,2,0,4,14,0,0,38,3,0,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School de Buut,0268::SB15,,1373,660,1,3,84,82,41,179,66,9,144,3,0,2,20,2,1,21,2,0,4
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School de Sterredans,0268::SB16,,679,384,0,0,88,53,29,74,25,4,78,1,0,1,10,0,1,17,1,0,2
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Montessori College,0268::SB17,,1168,545,2,0,81,55,93,86,32,11,116,2,0,0,21,2,0,43,2,0,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Huize Nijevelt,0268::SB18,,1911,990,9,0,141,109,71,261,72,15,223,11,0,2,26,4,2,49,1,0,3
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Ark van Oost 1,0268::SB19,,1901,619,1,0,58,89,28,151,90,3,105,1,0,1,30,1,8,53,0,0,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Ark van Oost 2,0268::SB20,,1771,630,2,0,50,84,25,174,99,5,99,3,1,1,23,4,4,55,2,1,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Grand Café Restaurant De Kolonie,0268::SB21,,1238,624,4,1,90,102,55,135,40,4,147,3,0,0,13,1,0,30,2,0,2
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Verpleeghuis Joachim en Anna,0268::SB22,,1383,677,0,2,154,63,81,131,43,9,112,5,1,0,24,0,1,52,1,0,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School Groot Nijeveld,0268::SB23,,1216,407,0,0,29,42,11,129,54,5,77,2,0,1,6,2,3,42,4,0,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau De Vrijbuiter,0268::SB24,,1708,337,1,1,14,64,9,64,44,4,73,3,1,0,5,1,2,48,2,0,3
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau De Klif 1,0268::SB25,,1866,773,0,0,106,92,111,136,64,10,164,5,0,1,26,2,1,50,0,0,5
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School R.O.C.,0268::SB26,,1845,993,6,2,119,158,55,269,80,7,214,4,1,2,10,5,5,54,2,0,8
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau De Blikvanger,0268::SB27,,1120,420,0,2,84,55,20,62,60,7,66,0,1,0,10,1,3,48,2,1,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Martinus van Beekschool,0268::SB28,,1944,1088,2,5,173,152,62,266,86,15,219,6,0,0,37,1,0,67,3,0,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Flex College Nijmegen,0268::SB29,,1688,497,2,3,52,58,36,108,65,4,77,1,1,2,27,2,4,58,0,0,2
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Islamitische School Hidaya,0268::SB30,,1691,670,0,8,103,89,53,139,79,10,105,4,0,0,13,2,1,71,1,0,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Pauluskerk,0268::SB31,,1888,666,2,2,99,85,31,117,97,7,80,3,0,7,20,2,3,108,4,1,2
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Wijkcentrum de Schakel,0268::SB32,,1880,645,0,0,117,108,22,84,118,2,45,8,2,4,27,3,2,101,1,0,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Roomsch Leven,0268::SB33,,1606,805,0,4,145,96,43,205,91,6,113,4,2,3,29,5,3,54,4,2,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Huize Boszicht,0268::SB34,,1437,619,1,1,143,94,50,105,58,5,83,3,0,0,12,2,2,62,0,0,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Restaurant Valdin,0268::SB35,,1994,950,3,0,138,156,73,197,86,8,190,11,2,1,28,4,1,50,4,0,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Wijkcentrum de Klokketoren 1,0268::SB36,,1305,300,2,0,14,34,10,83,60,5,34,3,1,3,20,0,2,29,1,0,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Groenschool Nijmegen,0268::SB37,,1581,609,1,0,99,82,55,97,61,2,119,6,1,0,14,2,2,59,3,0,7
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School De Vossenburcht 1,0268::SB38,,1896,406,0,0,66,55,18,37,51,9,33,1,0,4,10,2,0,118,2,0,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School De Vossenburcht 2,0268::SB39,,1344,180,0,0,33,21,9,14,30,0,16,5,0,3,11,0,1,37,0,0,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Wijkcentrum Hatert,0268::SB40,,1703,441,0,3,64,81,19,58,58,7,45,1,2,4,13,4,1,82,1,0,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Ontmoetingsruimte,0268::SB41,,1687,510,4,1,76,85,35,68,56,9,87,4,1,1,29,2,0,56,0,0,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Gemeenschapshuis 1,0268::SB42,,1261,411,1,0,43,44,23,105,60,10,42,2,1,3,19,0,2,54,2,0,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School Aquamarijn,0268::SB43,,1981,582,2,4,34,96,15,168,75,4,88,3,1,0,26,5,4,60,1,0,2
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Gemeenschapshuis 2,0268::SB44,,1925,220,1,1,22,38,14,37,30,2,28,2,0,0,8,0,1,36,1,0,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Basisschool De Wieken,0268::SB45,,1404,401,2,0,38,48,22,81,66,6,65,2,0,2,6,0,2,59,3,0,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Wijkcentrum Villanova,0268::SB46,,1406,341,3,2,13,40,11,116,50,7,44,2,1,0,7,0,1,44,1,0,4
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Wijkcentrum de Brack,0268::SB47,,1723,473,0,0,52,63,47,70,61,14,49,2,0,2,19,2,2,89,0,0,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Wijkcentr. Titus Brandsma,0268::SB48,,1557,561,2,4,25,85,22,146,79,11,100,7,0,8,16,3,3,52,1,0,3
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School GVO,0268::SB49,,1375,534,2,0,44,83,37,146,51,8,106,6,0,0,18,3,2,29,1,0,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School  Zonnewende,0268::SB50,,1433,412,4,0,49,55,29,96,60,1,53,5,0,0,15,1,2,44,0,0,2
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School De Lanteerne,0268::SB51,,1520,462,5,1,88,71,27,62,58,11,74,2,0,0,14,1,1,52,0,1,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Wijkcentrum Heseweide,0268::SB52,,1184,473,1,1,137,45,23,62,78,3,50,3,0,2,19,3,0,48,0,0,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Huize Sonnehaert,0268::SB53,,1915,626,1,0,113,87,40,101,57,6,120,6,1,1,21,3,0,67,1,0,2
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Helicon opleidingen,0268::SB54,,1600,644,2,0,163,69,60,100,69,5,89,5,0,1,13,4,0,64,1,0,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Parochie De Goede Herder,0268::SB55,,2011,474,0,1,90,88,22,46,64,5,37,2,0,1,9,7,1,99,1,1,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Wijkcentrum de Schalmei,0268::SB56,,2055,612,0,0,107,94,27,81,116,12,51,5,0,4,15,2,1,94,2,0,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Bej. centr. De Doekenborg,0268::SB57,,989,227,0,0,29,39,11,26,44,4,12,1,2,0,9,4,0,46,0,0,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Openwijkschool de Aldenhove,0268::SB58,,1041,316,1,2,52,42,19,40,40,6,32,1,0,4,12,2,0,66,0,0,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Nutsschool Lankforst,0268::SB59,,1544,566,3,2,112,93,38,72,90,13,59,5,0,1,12,6,1,61,2,1,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Ontmoetingsruimte Leuvenshof,0268::SB60,,1528,317,3,0,33,43,19,36,49,9,42,1,1,0,16,1,0,66,0,1,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau De Orangerie, zorgcentrum",0268::SB61,,1821,478,2,0,100,90,19,31,60,7,28,2,0,2,21,1,1,112,1,1,2
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School De Meiboom,0268::SB62,,1955,457,0,2,79,71,19,54,67,9,52,6,1,0,13,5,0,76,1,0,4
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School de Dukendonck,0268::SB63,,1541,435,4,1,73,76,34,75,61,4,48,2,0,2,15,1,0,41,0,1,2
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Stichting Hobbywerkplaats Dukenburg,0268::SB64,,1663,458,2,1,71,73,25,60,72,13,42,2,0,0,13,2,0,82,1,0,2
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau De Dageraad,0268::SB65,,1340,590,4,1,82,92,37,95,64,14,86,2,1,0,25,5,3,83,1,0,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Prins Clausschool,0268::SB66,,1503,833,0,2,159,106,78,131,71,20,162,3,0,1,21,1,3,73,2,1,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School Prins Maurits,0268::SB67,,1237,393,0,0,38,46,11,44,81,16,52,1,0,1,13,2,2,85,1,0,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Parochie Lindenholt,0268::SB68,,2027,635,2,2,115,85,40,74,97,16,72,1,0,0,14,0,3,113,0,0,5
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School De Luithorst,0268::SB69,,2018,554,0,1,68,67,35,90,84,7,101,4,0,1,15,1,0,75,5,0,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Sporthal De Horstacker,0268::SB70,,1273,314,2,0,26,57,27,44,64,2,24,2,1,0,19,1,1,44,2,0,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Openwijkschool de Interacker,0268::SB71,,1451,304,0,2,16,36,15,25,53,5,29,5,0,4,13,0,0,100,0,0,3
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School De Wingerd,0268::SB72,,1535,308,3,0,32,30,21,39,60,6,26,1,1,0,6,0,1,80,2,0,3
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Lindenholt College,0268::SB73,,1149,284,0,2,24,37,39,33,29,4,55,0,0,0,4,0,1,56,1,0,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Wijkcentrum De Klokketoren 2,0268::SB74,,1086,329,1,1,26,45,6,65,62,6,38,1,0,0,22,0,1,53,3,0,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Bibliotheek Zwanenveld,0268::SB75,,1746,536,2,0,85,76,34,39,81,6,54,5,0,2,33,1,2,114,3,0,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Sportcentrum De Spil,0268::SB76,,1487,553,3,1,119,53,48,104,55,4,97,2,1,0,16,5,3,45,0,0,1
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Zorgc. Betuweland,lokatie St. Jozef",0268::SB77,,1141,463,1,3,163,44,37,65,44,6,37,3,0,0,8,5,1,50,0,0,0
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Station NS,0268::SB78,,0,1849,0,0,133,230,112,560,153,42,457,13,1,5,43,4,7,70,5,3,11
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau UMC St Radboud,0268::SB79,,357,1333,7,2,144,189,132,287,96,30,342,14,1,4,24,3,5,47,10,0,5
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Voorzieningenhart De Ster,0268::SB80,,1767,662,4,1,64,88,45,163,85,6,128,6,1,1,21,3,5,43,0,0,3
+,Nijmegen,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau De Klif 2,0268::SB81,,1319,398,3,0,36,46,55,74,43,9,70,5,1,1,14,2,0,40,2,0,0

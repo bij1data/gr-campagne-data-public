@@ -1,0 +1,52 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_kwijtgeraakte stembiljetten,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,VVD,CDA,Partij van de Arbeid (P.v.d.A.),GROENLINKS,SP (Socialistische Partij),VenLokaal,Democraten 66 (D66),Lokale Democraten,Partij Groot Venlo
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Stadswinkel Venlo,0983::SB1,5911 HT,1806,872,10,3,0,0,0,806,79,0,0,0,0,0,0,885,260,111,198,49,71,45,70,61,7
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Huize Beerendonck,0983::SB2,5911 AD,1779,932,9,3,0,0,0,866,78,0,0,0,0,0,0,944,285,129,143,54,122,53,91,37,18
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Gemeentearchief Venlo,0983::SB3,5914 PV,1770,813,6,4,0,0,0,751,72,0,0,0,0,0,0,823,210,170,146,49,88,47,55,37,11
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Lokaal Veestraat,0983::SB4,5914 RR,1563,596,7,7,0,0,0,543,67,0,0,0,0,0,0,610,67,96,126,33,112,32,31,84,15
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Basissschool de Meule,0983::SB5,5914 XS,1647,809,1,5,0,0,0,728,87,0,0,0,0,0,0,815,168,149,142,30,101,80,60,67,12
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Stichting de Witte Kerk,0983::SB6,5914 PE,1341,584,3,10,0,0,0,493,104,0,0,0,0,0,0,597,59,77,113,32,122,57,17,91,16
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Gilde Opleidingen,0983::SB7,5913 ES,1460,903,1,0,0,0,0,816,88,0,0,0,0,0,0,904,318,156,157,34,64,51,82,31,10
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau De Bantuin,0983::SB8,5916 SW,1788,1042,1,0,0,0,0,905,138,0,0,0,0,0,0,1043,318,246,145,38,103,54,69,58,11
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau wijkgebouw d'n Dörpel,0983::SB9,5913 CZ,1943,1173,4,11,0,0,0,1069,119,0,0,0,0,0,0,1188,314,206,260,47,105,49,124,55,13
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Schoolgebouw,0983::SB10,5913 VZ,1648,945,3,2,0,0,0,868,82,0,0,0,0,0,0,950,287,164,216,60,58,41,68,42,9
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau School met de Bijbel,0983::SB11,5913 TV,1779,997,4,3,0,0,0,889,115,0,0,0,0,0,0,1004,283,110,267,70,87,44,67,60,9
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Grand Cafe Maagdenberg,0983::SB12,5915 CW,1464,787,4,7,0,0,0,721,77,0,0,0,0,0,0,798,118,100,169,61,147,40,52,83,17
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Huis van de Wijk,0983::SB13,5915 ES,1304,525,4,5,0,0,0,471,63,0,0,0,0,0,0,534,55,84,85,13,115,68,30,61,14
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Scheidsrechtersvereniging Venlo eo,0983::SB14,5915 CM,1388,714,0,0,0,0,0,613,101,0,0,0,0,0,0,714,243,120,101,38,92,31,59,18,12
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Verpleeghuis d'n Horstgraaf,0983::SB15,5915 PN,402,139,5,3,0,0,0,131,16,0,0,0,0,0,0,147,25,21,28,7,16,15,21,6,0
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Scouting St Paulus,0983::SB16,5912 CG,1505,587,3,2,0,0,0,523,69,0,0,0,0,0,0,592,70,75,150,26,81,58,54,59,14
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Welzijnswinkel de Zuidpilaar,0983::SB17,5912 XN,1604,755,3,5,0,0,0,652,111,0,0,0,0,0,0,763,75,168,161,28,108,69,31,97,18
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Basisschool de Zuidstroom,0983::SB18,5912 XW,1469,568,2,2,0,0,0,495,77,0,0,0,0,0,0,572,65,98,115,29,71,64,45,67,14
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Gemeenschapsruimte d'n Baand,0983::SB19,5913 SE,1408,610,4,5,0,0,0,552,67,0,0,0,0,0,0,619,111,71,159,29,88,60,50,34,8
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau 't Raodhoes,0983::SB20,5921 GV,1842,1010,7,3,0,0,0,918,102,0,0,0,0,0,0,1020,219,213,144,39,85,86,50,153,21
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Preuverie de Witte,0983::SB21,5922 AE,1985,797,2,1,0,0,0,703,97,0,0,0,0,0,0,800,156,112,101,36,96,74,51,146,25
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Zorggroep inzake Ruysdonck,0983::SB22,5921 EA,1429,550,3,3,0,0,0,483,73,0,0,0,0,0,0,556,80,111,74,11,80,31,24,127,12
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Basisschool Mikado,0983::SB23,5922 BZ,1401,608,0,4,0,0,0,533,79,0,0,0,0,0,0,612,55,113,110,11,66,35,23,179,16
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Boulevard Hazenkamp,0983::SB24,5921 AZ,1484,507,2,4,0,0,0,453,60,0,0,0,0,0,0,513,37,72,72,16,98,36,23,125,28
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Stichting Het Muspelheim,0983::SB25,5922 AT,1865,810,4,3,0,0,0,697,120,0,0,0,0,0,0,817,78,204,112,23,74,48,28,219,24
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Basissschool 't Palet,0983::SB26,5923 CJ,1580,740,7,1,0,0,0,647,101,0,0,0,0,0,0,748,104,111,139,24,105,56,41,141,19
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Zaal de Egelantier,0983::SB27,5925 AV,3088,971,10,4,0,0,0,873,112,0,0,0,0,0,0,985,99,105,149,53,174,75,52,216,48
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau MFC Op Expeditie,0983::SB29,5924 AC,1623,343,5,5,0,0,0,311,42,0,0,0,0,0,0,353,46,50,58,18,51,21,18,73,8
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau MFC Op Expeditie,0983::SB30,5924 AC,1368,878,11,2,0,0,0,791,100,0,0,0,0,0,0,891,67,159,139,21,125,84,32,229,22
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Stichting de Ark,0983::SB31,5923 AJ,1398,617,4,2,0,0,0,560,63,0,0,0,0,0,0,623,83,97,93,22,83,63,29,134,13
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Zalzershaof,0983::SB32,5926 PL,2024,1245,5,5,0,0,0,1105,150,0,0,0,0,0,0,1255,367,229,160,41,69,46,83,242,8
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Cafe Feestzaal de Boostenhof,0983::SB33,5927 NP,732,364,2,1,0,0,0,326,41,0,0,0,0,0,0,367,83,73,42,17,34,13,24,78,0
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Basisschool de Koperwiek,0983::SB34,5912 TP,1804,905,2,5,0,0,0,799,113,0,0,0,0,0,0,912,180,161,186,50,71,78,64,106,9
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Crescendo,0983::SB35,5912 AV,1240,526,6,2,0,0,0,475,59,0,0,0,0,0,0,534,104,74,128,19,61,46,41,38,15
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Raadhuis Tegelen,0983::SB101,5931 NR,1353,724,4,7,0,0,0,671,64,0,0,0,0,0,0,735,107,109,71,17,61,171,33,148,7
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Basisschool Maasveld,0983::SB102,5931 DP,1543,892,3,0,0,0,0,794,101,0,0,0,0,0,0,895,244,75,156,19,69,137,48,130,14
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Basisschool PassePartout,0983::SB103,5931 KS,1522,751,3,2,0,0,0,653,103,0,0,0,0,0,0,756,92,101,122,20,92,115,32,171,6
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Café Schillings,0983::SB104,5931 BW,1810,930,4,6,0,0,0,718,222,0,0,0,0,0,0,940,194,176,109,38,95,119,36,156,7
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Bijbelgemeente,0983::SB105,5935 AX,1878,1077,4,3,0,0,0,959,125,0,0,0,0,0,0,1084,204,145,167,32,85,168,57,204,15
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,"Stembureau Vijverhofschool,, locatie Tegelen",0983::SB106,5931 PC,1547,677,1,2,0,0,0,577,103,0,0,0,0,0,0,680,112,78,109,20,74,142,29,98,15
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Cafe de Witte,0983::SB107,5932 CE,1391,651,1,1,0,0,0,572,81,0,0,0,0,0,0,653,77,80,116,12,80,145,20,110,11
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Ontmoetingscentrum De Glazenap,0983::SB108,5932 VK,1444,658,4,3,0,0,0,565,100,0,0,0,0,0,0,665,44,75,123,14,126,130,19,119,8
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Basisschool de Toermalijn,0983::SB109,5932 TP,1642,593,3,3,0,0,0,523,76,0,0,0,0,0,0,599,46,49,103,28,116,107,28,110,6
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Brasserie de Nieuwe Munt,0983::SB110,5931 MH,1272,551,0,8,0,0,0,524,35,0,0,0,0,0,0,559,76,85,50,7,53,102,27,138,13
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Openbare bibliotheek Belfeld,0983::SB201,5951 CD,1634,1067,2,3,0,0,0,966,106,0,0,0,0,0,0,1072,189,84,70,19,63,585,26,29,2
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Basisschool  KOM Mijn,0983::SB202,5951 BR,1470,875,2,1,0,0,0,757,121,0,0,0,0,0,0,878,139,58,55,12,63,520,8,18,2
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Gemeenschapscentrum De Hamar,0983::SB203,5951 DV,1287,445,1,0,0,0,0,390,56,0,0,0,0,0,0,446,117,26,23,6,21,225,10,12,5
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau De Klosterhoaf Arcen,0983::SB301,5944 AW,2024,1205,7,6,1,0,0,1116,103,0,0,0,1,0,0,1219,109,361,89,215,312,46,42,21,10
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Pastoorshof Lomm,0983::SB302,5943 AE,792,475,1,2,0,0,0,438,40,0,0,0,0,0,0,478,39,294,36,6,43,15,19,21,2
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau De Kiêsstolp Velden,0983::SB303,5941 GB,1700,923,7,1,0,0,0,857,74,0,0,0,0,0,0,931,174,361,145,38,74,66,35,23,7
+,Venlo,GR2014_Venlo,Gemeenteraad Venlo 2014,0983,Venlo,2014-03-19,Stembureau Sporthal de Visgraaf,0983::SB304,5941 CP,2435,1296,5,1,0,0,0,1152,150,0,0,0,0,0,0,1302,258,477,157,53,116,101,90,39,5

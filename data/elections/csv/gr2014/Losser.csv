@@ -1,0 +1,14 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_kwijtgeraakte stembiljetten,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,CDA,VVD,SDGL/P.v.d.A.,Burgerforum,Democraten 66 (D66)
+,Losser,GR2014_Losser,Gemeenteraad Losser 2014,0168,Losser,2014-03-19,Stembureau Gemeentehuis,0168::SB1,,1706,1186,5,6,0,0,0,1092,105,0,0,0,0,0,0,1197,214,204,111,470,187
+,Losser,GR2014_Losser,Gemeenteraad Losser 2014,0168,Losser,2014-03-19,Stembureau KBS De Verrekijker,0168::SB2,,1707,939,0,1,0,0,0,863,77,0,0,0,0,0,0,940,181,140,82,376,160
+,Losser,GR2014_Losser,Gemeenteraad Losser 2014,0168,Losser,2014-03-19,Stembureau RK school De Wegwijzer,0168::SB3,,1746,897,0,2,0,0,0,799,100,0,0,0,0,0,0,899,183,121,78,409,106
+,Losser,GR2014_Losser,Gemeenteraad Losser 2014,0168,Losser,2014-03-19,Stembureau De Muchte,0168::SB4,,1719,883,4,2,0,0,0,792,97,0,0,0,0,0,0,889,143,137,73,355,175
+,Losser,GR2014_Losser,Gemeenteraad Losser 2014,0168,Losser,2014-03-19,Stembureau Maartens-Stede,0168::SB5,,1791,752,2,2,0,0,0,675,81,0,0,0,0,0,0,756,204,80,61,277,130
+,Losser,GR2014_Losser,Gemeenteraad Losser 2014,0168,Losser,2014-03-19,Stembureau De Schuttersput,0168::SB6,,1608,889,4,0,0,0,0,814,79,0,0,0,0,0,0,893,189,120,63,363,154
+,Losser,GR2014_Losser,Gemeenteraad Losser 2014,0168,Losser,2014-03-19,Stembureau De Driehoek,0168::SB7,,1517,745,3,1,0,0,0,674,75,0,0,0,0,0,0,749,203,62,39,367,74
+,Losser,GR2014_Losser,Gemeenteraad Losser 2014,0168,Losser,2014-03-19,Stembureau Tiekerhook,0168::SB8,,1759,736,1,2,0,0,0,654,85,0,0,0,0,0,0,739,107,74,69,401,85
+,Losser,GR2014_Losser,Gemeenteraad Losser 2014,0168,Losser,2014-03-19,Stembureau Dorpshuis De Glaan,0168::SB9,,404,223,6,0,0,0,0,191,38,0,0,0,0,0,0,229,77,34,37,53,22
+,Losser,GR2014_Losser,Gemeenteraad Losser 2014,0168,Losser,2014-03-19,Stembureau De Vereeniging,0168::SB10,,1323,738,0,0,0,0,0,665,73,0,0,0,0,0,0,738,412,76,27,132,91
+,Losser,GR2014_Losser,Gemeenteraad Losser 2014,0168,Losser,2014-03-19,Stembureau Erve Boerrigter,0168::SB11,,1420,697,3,4,0,0,0,630,74,0,0,0,0,0,0,704,330,109,27,128,103
+,Losser,GR2014_Losser,Gemeenteraad Losser 2014,0168,Losser,2014-03-19,Stembureau Cafe 't Sterrebos,0168::SB12,,685,466,2,0,0,0,0,429,39,0,0,0,0,0,0,468,354,27,9,44,32
+,Losser,GR2014_Losser,Gemeenteraad Losser 2014,0168,Losser,2014-03-19,Stembureau De LosserHof,0168::SB13,,532,150,0,0,0,0,0,137,13,0,0,0,0,0,0,150,70,13,7,35,25

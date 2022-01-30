@@ -1,0 +1,53 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Voor De Gemeenschap (V.D.G.),SP (Socialistische Partij),CDA,VVD,Democraten 66 (D66),Beter Oss,Partij van de Arbeid (P.v.d.A.),GROENLINKS,VZS (Verantwoordelijk voor Zelf en Samen)
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Gemeentehuis Oss,0828::SB1,5341 GM,1561,1224,9,4,0,5,0,1139,104,1,0,6,0,0,1243,206,370,117,175,85,111,70,84,6
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Unit Centraal Station,0828::SB2,,0,692,2,2,0,0,0,646,50,0,0,0,0,0,696,98,168,51,113,72,48,31,108,3
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Wijkcentrum Schadewijk,0828::SB3,5348 XA,1947,773,4,3,0,0,0,685,95,0,0,0,0,0,780,90,303,46,49,53,150,37,42,3
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Basisschool De Nieuwe Link,0828::SB4,5348 AH,1828,974,8,4,0,0,0,885,101,0,0,0,0,0,986,119,342,62,91,91,158,45,63,3
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau St. Ontmoetingscentrum Meteoor,0828::SB5,5346 RT,2038,740,7,3,0,0,0,672,79,1,0,1,0,0,751,134,251,61,66,35,121,30,38,4
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Brabantzorg De Wellen,0828::SB6,5341 AL,1982,829,7,4,0,0,0,766,74,0,0,0,0,0,840,121,293,93,94,45,104,32,42,5
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Unit Centrum,0828::SB7,,0,345,1,0,0,0,0,324,23,1,0,1,0,0,347,50,87,30,44,33,50,13,35,3
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Hub Noord-Brabant,0828::SB8,5342 AH,1279,453,3,0,0,0,0,404,52,0,0,0,0,0,456,75,165,26,31,30,48,25,50,3
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Titus Brandsma Parochie,0828::SB9,5342 GC,1497,546,6,1,0,0,0,494,59,0,0,0,0,0,553,72,183,53,56,35,55,36,51,5
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau RK Basisschool Pius X,0828::SB10,5342 GH,1567,906,5,2,0,0,0,837,76,0,0,0,0,0,913,153,256,92,119,55,155,22,45,9
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,"Stembureau Het Hooghuis, Mondriaan College",0828::SB11,5342 CN,1559,669,4,1,0,0,0,590,82,0,2,0,0,0,672,133,92,73,162,46,71,37,46,9
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,"Stembureau Het Hooghuis, locatie ZuidWest",0828::SB12,5343 VC,1572,565,5,3,0,0,0,504,69,0,0,0,0,0,573,58,235,42,48,35,52,56,32,7
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau D'n Iemhof,0828::SB13,5344 AN,1303,1013,6,4,0,0,0,933,92,2,0,2,0,0,1025,139,449,76,77,78,106,49,37,2
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Kinderboerderij De Elzenhoek,0828::SB14,5344 TX,1608,683,5,2,0,0,0,628,62,0,0,0,0,0,690,75,312,58,35,46,66,50,38,3
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau SV Ruwaard,0828::SB15,5344 KW,1692,713,4,2,0,0,0,667,52,0,0,0,0,0,719,97,255,71,54,70,61,43,56,6
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Horizonschool De Komeet,0828::SB16,5344 GK,1395,508,2,0,0,0,0,461,49,0,0,0,0,0,510,82,205,27,21,44,74,37,16,2
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Rode Kruisgebouw,0828::SB17,5345 AA,1436,647,6,1,0,0,0,595,59,0,0,0,0,0,654,126,217,52,54,50,85,30,33,0
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Basisschool De Korenaer,0828::SB18,5345 TA,1716,1382,1,0,0,0,0,1253,130,0,0,0,0,0,1383,178,454,166,213,109,116,62,78,6
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Wijkcentrum De Hille,0828::SB19,5345 WB,1484,1253,8,12,0,1,0,1117,157,0,0,1,0,0,1274,212,464,78,155,81,152,34,73,4
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Basisschool De Lockaert,0828::SB20,5345 JG,2021,1200,8,0,0,0,0,1092,116,0,0,0,0,0,1208,222,397,80,171,91,124,57,57,1
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Openbare Basisschool Mettegeupel,0828::SB21,5346 JD,1897,1060,5,3,0,0,0,950,118,0,0,0,0,0,1068,171,224,78,226,109,140,37,66,9
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau St. Gemeenschapshuis Acropolis,0828::SB22,5366 BE,1331,811,1,0,0,0,0,724,88,0,0,0,0,0,812,427,176,44,29,20,55,9,51,0
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Gemeenschapshuis Haren,0828::SB23,5368 AM,590,405,0,1,0,0,0,360,46,0,0,0,0,0,406,236,41,55,13,13,29,8,10,0
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Gemeenschapshuis De Bongerd,0828::SB24,5367 AA,613,402,2,0,0,0,0,371,33,0,0,0,0,0,404,157,89,61,17,23,30,8,13,4
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Gemeenschapshuis Vidi Reo,0828::SB25,5371 AX,3009,1731,7,4,0,0,0,1545,197,0,0,0,0,0,1742,517,367,250,173,148,33,63,177,3
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Dorpshuis 't Slotje,0828::SB26,5373 BC,1297,1308,0,6,0,0,0,1170,145,0,0,1,0,1,1315,826,165,122,65,35,43,25,25,2
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Gemeenschapshuis Onder d'n Plag,0828::SB27,5354 KC,747,543,2,1,0,0,0,479,67,0,0,0,0,0,546,260,52,82,36,25,13,27,46,2
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Parochiezaal St. Antonius Abt,0828::SB28,5357 PH,523,315,3,1,0,0,0,283,36,0,0,0,0,0,319,66,66,104,30,30,8,4,6,1
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Gemeenschapshuis De Berchplaets,0828::SB29,5351 BZ,1422,1187,6,4,0,0,0,1102,98,3,0,3,0,0,1200,606,259,79,95,34,60,24,27,3
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Zalencentrum De Merx,0828::SB30,5351 AR,1390,733,2,0,0,0,0,650,92,0,0,7,0,0,742,402,122,61,65,18,27,10,22,6
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Gemeenschapshuis De Hoeve,0828::SB31,5397 BJ,2431,1248,1,4,0,0,0,1101,152,0,0,0,0,0,1253,323,279,240,195,57,82,32,38,2
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Gemeenschapshuis Avanti,0828::SB32,5396 PN,835,573,0,1,0,0,0,486,88,0,0,0,0,0,574,150,66,278,31,19,9,13,7,0
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Gemeenschapshuis Hart van Oijen,0828::SB33,5394 AK,994,590,0,2,0,0,0,525,67,0,0,0,0,0,592,281,88,77,58,28,29,9,18,2
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Gemeenschaphuis De Nolder,0828::SB34,5398 HK,1098,612,4,2,0,0,0,530,88,0,0,0,0,0,618,274,75,117,73,15,19,13,24,2
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Basisschool De Fonkeling,0828::SB35,5351 LB,1682,1206,6,2,0,0,0,1056,158,0,0,0,0,0,1214,595,188,50,189,41,83,15,42,3
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Basisschool De Fonkeling,0828::SB36,5351 MA,1709,390,2,1,0,0,0,350,43,0,0,0,0,0,393,174,59,18,58,31,14,9,23,4
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau MFC De Koppellinck,0828::SB37,5386 AS,2000,1087,2,1,0,0,0,953,138,1,0,1,0,0,1091,443,228,198,99,35,32,21,31,0
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Café Zaal 't Haasje,0828::SB38,5386 AM,2041,811,3,1,0,0,0,706,110,1,0,1,0,0,816,354,181,128,71,32,21,10,14,0
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Daltonschool De Evenaar,0828::SB39,5346 JH,1749,859,0,1,0,0,0,775,85,0,0,0,0,0,860,152,204,74,133,87,106,52,49,2
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Restaurant Zaal 't Putje,0828::SB40,5342 LG,586,303,2,0,0,0,0,264,41,0,0,0,0,0,305,68,33,32,74,27,53,9,7,0
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Golfbaan Oijense Zij,0828::SB41,5346 JG,1375,500,0,1,0,0,0,434,67,0,0,0,0,0,501,96,117,70,83,37,44,20,31,2
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau IKC Regenboog,0828::SB42,5348 HL,2273,560,0,1,0,0,0,488,73,0,0,0,0,0,561,63,222,28,39,54,94,37,20,3
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Brabantzorg Katwijk,0828::SB43,5341 HB,1726,637,5,1,0,0,0,578,65,0,0,0,0,0,643,92,274,50,44,46,74,28,27,2
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Brabantzorg De Ruwaard,0828::SB44,5344 BT,1283,410,3,2,0,4,0,379,40,0,0,4,0,0,419,84,171,45,19,25,36,14,14,2
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Brabantzorg Loovelt,0828::SB45,5345 LH,1519,327,3,0,0,0,0,298,32,0,0,0,0,0,330,39,136,19,28,24,30,20,27,4
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Brabantzorg Sterrebos,0828::SB46,5344 AR,1347,324,1,1,0,0,0,296,30,0,0,0,0,0,326,34,135,29,28,13,37,27,20,1
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Brabantzorg Maasland,0828::SB47,5373 AD,1139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Brabantzorg Wilberthof,0828::SB48,5351 EV,1538,496,2,1,0,0,0,443,56,0,0,0,0,0,499,228,95,46,53,13,35,9,16,1
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Residence Sibelius,0828::SB49,5343 BK,633,307,0,0,0,0,0,282,25,0,0,0,0,0,307,37,62,41,93,23,26,15,9,1
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau ROC De Leijgraaf,0828::SB50,5344 CS,838,361,1,1,0,0,0,337,26,0,0,0,0,0,363,65,88,35,48,38,33,27,27,0
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,"Stembureau Unit Park Mikkeldonk, ingang bij straat: Inlaat",0828::SB51,,1714,736,0,3,0,0,0,665,76,0,0,0,0,0,741,135,212,55,111,57,79,37,41,9
+,Oss,GR2018_Oss,Gemeenteraad Oss 2018,0828,Oss,2018-03-21,Stembureau Mobiel stembureau,0828::SB52,,0,166,1,1,0,0,0,145,23,0,0,0,0,0,168,33,37,15,16,12,23,15,15,0

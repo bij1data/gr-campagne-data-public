@@ -1,0 +1,23 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_kwijtgeraakte stembiljetten,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,VVD-Leefbaar Uden,CDA,SP (Socialistische Partij),Jong Uden,Partij van de Arbeid (P.v.d.A.),Gewoon Uden,Democraten 66 (D66),PVTD
+,Uden,GR2014_Uden,Gemeenteraad Uden 2014,0856,Uden,2014-03-19,Stembureau Gemeentehuis Uden,0856::SB1,5401 EJ,1654,1142,2,3,0,0,0,1054,93,0,0,0,0,0,0,1147,200,141,258,239,45,128,81,50
+,Uden,GR2014_Uden,Gemeenteraad Uden 2014,0856,Uden,2014-03-19,Stembureau Wijkcentrum Balans,0856::SB2,5401 CT,1593,782,5,5,0,0,0,736,56,0,0,0,0,0,0,792,114,121,208,142,72,66,47,12
+,Uden,GR2014_Uden,Gemeenteraad Uden 2014,0856,Uden,2014-03-19,Stembureau RKBS Jan Bluyssen,0856::SB3,5404 LS,1662,954,2,4,0,0,0,860,100,0,0,0,0,0,0,960,197,92,200,201,59,97,75,33
+,Uden,GR2014_Uden,Gemeenteraad Uden 2014,0856,Uden,2014-03-19,Stembureau RK Basisschool De Springplank,0856::SB4,5403 AG,1107,694,1,0,0,0,0,618,77,0,0,0,0,0,0,695,119,72,197,153,47,57,33,16
+,Uden,GR2014_Uden,Gemeenteraad Uden 2014,0856,Uden,2014-03-19,Stembureau OBS Camelot,0856::SB5,5403 XD,1529,764,3,1,0,0,0,686,82,0,0,0,0,0,0,768,93,67,257,188,47,47,48,17
+,Uden,GR2014_Uden,Gemeenteraad Uden 2014,0856,Uden,2014-03-19,Stembureau Tennis- en Squashveren. Park Hoeven,0856::SB6,5403 NA,1412,837,4,1,0,0,0,736,106,0,0,0,0,0,0,842,156,81,193,196,65,58,71,17
+,Uden,GR2014_Uden,Gemeenteraad Uden 2014,0856,Uden,2014-03-19,Stembureau Udens College,0856::SB7,5403 GB,1458,684,2,0,0,0,0,619,67,0,0,0,0,0,0,686,90,62,219,159,47,39,40,28
+,Uden,GR2014_Uden,Gemeenteraad Uden 2014,0856,Uden,2014-03-19,Stembureau OBS de Leeuwerik,0856::SB8,5402 XD,1605,853,2,3,0,0,0,857,1,0,0,0,0,0,0,858,149,112,244,148,39,94,42,25
+,Uden,GR2014_Uden,Gemeenteraad Uden 2014,0856,Uden,2014-03-19,Stembureau Zorgcentrum Sint Jan,0856::SB9,5401 BE,1225,635,0,4,1,0,0,586,52,0,0,1,0,0,0,638,120,170,107,111,38,37,32,20
+,Uden,GR2014_Uden,Gemeenteraad Uden 2014,0856,Uden,2014-03-19,Stembureau Wijkgebouw De Nieuwe Pit,0856::SB10,5401 ZG,1434,611,3,0,0,0,0,549,65,0,0,0,0,0,0,614,75,56,224,107,34,52,49,14
+,Uden,GR2014_Uden,Gemeenteraad Uden 2014,0856,Uden,2014-03-19,Stembureau OBS de Meent,0856::SB11,5402 HA,1294,729,0,4,0,0,0,643,90,0,0,0,0,0,0,733,101,142,189,151,21,79,35,11
+,Uden,GR2014_Uden,Gemeenteraad Uden 2014,0856,Uden,2014-03-19,Stembureau Herpenstraat 60,0856::SB12,5402 KR,1332,561,0,1,1,0,0,506,57,0,0,0,1,0,0,563,61,53,193,100,38,47,42,27
+,Uden,GR2014_Uden,Gemeenteraad Uden 2014,0856,Uden,2014-03-19,Stembureau Ontmoetingsplein Muzerijk,0856::SB13,5402 BE,1520,1120,4,6,0,0,0,1020,110,0,0,0,0,0,0,1130,156,130,345,229,60,112,52,36
+,Uden,GR2014_Uden,Gemeenteraad Uden 2014,0856,Uden,2014-03-19,Stembureau BS De Vlonder,0856::SB14,5403 LV,1414,933,3,2,0,0,0,853,85,0,0,0,0,0,0,938,190,116,196,220,43,64,81,23
+,Uden,GR2014_Uden,Gemeenteraad Uden 2014,0856,Uden,2014-03-19,Stembureau BS De Vlieger,0856::SB15,5408 XL,1451,841,1,1,0,0,0,751,92,0,0,0,0,0,0,843,320,222,163,63,17,27,18,11
+,Uden,GR2014_Uden,Gemeenteraad Uden 2014,0856,Uden,2014-03-19,Stembureau Zorgcentrum St. Antonius,0856::SB16,5408 BK,1386,896,9,1,0,0,0,806,100,0,0,0,0,0,0,906,298,319,138,59,29,24,15,14
+,Uden,GR2014_Uden,Gemeenteraad Uden 2014,0856,Uden,2014-03-19,Stembureau Terra Victa,0856::SB17,5409 AB,1559,961,2,7,0,0,0,853,117,0,0,0,0,0,0,970,74,585,112,30,10,130,14,6
+,Uden,GR2014_Uden,Gemeenteraad Uden 2014,0856,Uden,2014-03-19,Stembureau OBS De Cirkel,0856::SB18,5406 AC,1463,1106,1,4,3,0,0,964,147,0,0,3,0,0,0,1111,285,163,111,312,49,71,96,19
+,Uden,GR2014_Uden,Gemeenteraad Uden 2014,0856,Uden,2014-03-19,Stembureau Speelleercentrum De Wijde Wereld,0856::SB19,5406 DK,2033,795,4,3,0,0,0,711,91,0,0,0,0,0,0,802,174,82,116,253,34,65,52,19
+,Uden,GR2014_Uden,Gemeenteraad Uden 2014,0856,Uden,2014-03-19,Stembureau Ziekenhuis Bernhoven,0856::SB20,5406 PT,1497,360,0,1,0,0,0,317,44,0,0,0,0,0,0,361,60,57,104,56,17,50,13,3
+,Uden,GR2014_Uden,Gemeenteraad Uden 2014,0856,Uden,2014-03-19,Stembureau Retraitehuis,0856::SB21,5405 NA,1283,636,3,1,0,0,0,575,65,0,0,0,0,0,0,640,186,129,79,112,21,54,44,11
+,Uden,GR2014_Uden,Gemeenteraad Uden 2014,0856,Uden,2014-03-19,Stembureau Stichting Eigen Herd,0856::SB22,5401 AT,1471,908,1,0,0,0,0,833,76,0,0,0,0,0,0,909,181,175,212,148,34,88,50,20

@@ -1,0 +1,78 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_kwijtgeraakte stembiljetten,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,CDA - Europese Volkspartij,PVV (Partij voor de Vrijheid),P.v.d.A./Europese Sociaaldemocraten,VVD,Democraten 66 (D66) - ALDE,GROENLINKS,SP (Socialistische Partij),ChristenUnie-SGP,Artikel50,"IQ, de Rechten-Plichten-Partij",Piratenpartij,50PLUS,De Groenen,Anti  EU(ro)  Partij,Liberaal Democratische Partij,JEZUS LEEFT,ikkiesvooreerlijk.eu,Partij voor de Dieren,Aandacht en Eenvoud
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Gemeentehuis,0153::SB1,,1718,750,1,0,0,0,3,678,70,0,0,0,0,0,0,751,79,66,86,94,198,72,53,30,8,2,25,10,1,3,0,1,2,20,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau OBS Het Zeggelt,0153::SB2,,1186,524,1,0,0,0,3,468,54,0,0,0,0,0,0,525,51,28,61,69,118,90,37,18,0,0,7,7,1,1,1,0,0,35,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau OBS La Res,0153::SB3,,1591,371,2,0,1,0,0,335,37,0,0,1,0,0,0,372,32,57,37,34,73,34,43,27,2,0,5,3,1,4,0,0,1,18,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau OBS Freinet,0153::SB4,,1672,500,2,2,0,0,0,465,39,0,0,0,0,0,0,504,39,50,58,23,101,71,77,25,2,0,14,2,2,4,0,0,2,30,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau AriënsZorgpalet De Eschpoort,0153::SB5,,1599,593,2,2,0,3,0,545,55,0,0,0,3,0,0,600,123,49,78,75,56,32,45,78,3,0,3,21,1,2,3,1,0,23,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau De Wedemhoff,0153::SB6,,1171,369,3,1,3,0,1,345,24,0,0,3,0,0,0,370,51,38,56,57,47,32,27,17,6,1,11,8,0,3,0,0,2,13,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Speeltuin Hoogeland,0153::SB7,,1687,461,3,2,0,0,2,417,47,0,0,0,0,0,0,466,61,59,37,49,63,42,54,42,2,0,11,14,1,1,1,0,0,23,1
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zuider Speeltuin,0153::SB8,,1592,731,2,1,0,0,0,652,82,0,0,0,0,0,0,734,97,72,101,58,115,85,102,30,3,0,9,10,1,3,1,1,3,40,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Medisch Spectrum Twente,0153::SB9,,1689,493,4,0,0,0,3,441,53,0,0,0,0,0,0,497,50,48,65,59,109,51,45,27,3,0,12,3,0,3,2,0,0,16,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Basisschool St. Jan,0153::SB10,,1882,462,4,1,0,0,0,433,34,0,0,0,0,0,0,467,55,56,59,30,84,37,65,30,2,0,11,4,1,2,2,0,0,23,1
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Saxion,0153::SB11,,1776,751,5,0,0,0,4,677,75,0,0,0,0,0,0,756,83,38,107,84,167,110,58,27,9,2,21,9,1,0,1,1,0,33,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Stadskantoor,0153::SB12,,1572,954,2,2,0,0,7,878,73,0,0,0,0,0,0,958,98,77,102,112,225,103,85,36,6,0,34,12,2,4,1,4,2,50,1
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau OBS De Lipper,0153::SB101,,1780,461,1,2,2,0,0,417,45,0,0,2,0,0,0,462,49,115,51,20,51,40,58,30,4,0,2,10,2,3,1,2,1,21,1
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Servicecentrum Oost,0153::SB102,,1528,359,2,0,0,0,2,320,39,0,0,0,0,0,0,361,42,64,32,37,48,23,48,21,4,0,8,10,0,0,0,2,0,20,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau OBS Het Wooldrik,0153::SB103,,1578,564,2,2,0,0,1,496,71,0,0,0,0,0,0,568,112,47,52,118,86,30,39,41,8,0,0,12,0,0,0,0,0,17,2
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Prinseschool,0153::SB104,,1139,444,1,1,0,0,49,397,0,0,0,0,0,0,0,446,69,62,50,50,69,36,34,42,1,0,11,6,0,1,0,2,0,11,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau De Roef,0153::SB105,,1661,417,1,3,0,0,0,373,48,0,0,0,0,0,0,421,73,35,45,36,50,42,78,27,1,0,3,8,1,0,0,0,0,18,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Speeltuin 't Varvik,0153::SB106,,1678,481,0,0,0,0,0,443,38,0,0,0,0,0,0,481,53,84,57,58,63,24,78,18,4,0,7,16,0,2,0,0,1,16,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zorgcentrum de Bleekhof,0153::SB201,,1775,361,4,3,0,1,1,328,40,0,0,0,1,0,0,369,56,49,73,21,53,18,19,39,5,0,5,10,0,0,1,0,0,12,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau OBS Europa,0153::SB202,,1487,432,2,1,0,0,1,391,43,0,0,0,0,0,0,435,36,68,61,30,68,26,61,36,2,0,10,4,1,1,2,2,2,22,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Geert de Leeuwhuis,0153::SB203,,1518,442,2,0,0,0,0,394,50,0,0,0,0,0,0,444,54,58,40,18,56,31,69,65,4,0,5,17,0,0,0,7,0,18,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau CBS de Koning,0153::SB204,,1495,340,2,0,0,0,0,312,30,0,0,0,0,0,0,342,37,64,43,15,45,15,47,30,2,0,9,6,3,6,2,0,1,14,1
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Speeltuin Stevenfenne,0153::SB205,,1603,257,2,0,0,0,0,230,29,0,0,0,0,0,0,259,36,54,27,18,26,10,41,24,0,0,5,2,3,0,0,0,0,11,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Pathmosschool,0153::SB206,,1515,357,2,1,0,0,0,318,42,0,0,0,0,0,0,360,23,99,25,12,60,38,49,20,2,0,6,6,0,3,0,2,0,12,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Speeltuin Stadsveld,0153::SB207,,1586,265,1,0,0,0,0,243,23,0,0,0,0,0,0,266,35,70,28,5,25,11,36,30,0,0,1,8,0,1,0,3,2,10,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau OBS Het Stadsveld,0153::SB208,,1744,370,1,0,0,0,0,339,32,0,0,0,0,0,0,371,51,66,44,12,55,19,64,29,0,0,3,11,1,4,0,0,1,10,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau De Triangel,0153::SB209,,1591,528,0,0,0,0,0,460,68,0,0,0,0,0,0,528,80,74,74,48,78,33,59,42,0,0,11,12,2,0,0,1,0,14,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zorgcentrum de Hatteler,0153::SB210,,1519,735,2,1,0,1,2,659,78,0,0,0,1,0,0,739,112,79,91,84,124,56,70,58,3,0,9,15,0,2,0,2,0,29,1
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Wissel,0153::SB211,,1583,337,1,0,0,0,0,307,31,0,0,0,0,0,0,338,40,45,44,30,63,22,39,24,2,0,7,4,0,1,3,2,1,10,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau vv Rigtersbleek,0153::SB301,,1568,509,6,2,0,0,1,461,55,0,0,0,0,0,0,517,40,48,60,46,115,56,54,31,5,1,9,14,2,2,1,0,2,23,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Stichting de Melkweg,0153::SB302,,1603,464,1,0,0,1,0,425,41,0,0,0,1,0,0,466,47,97,56,26,61,34,69,28,2,2,11,6,0,4,0,0,2,19,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau OBS Twekkelerveld,0153::SB303,,1295,345,1,0,0,0,0,324,22,0,0,0,0,0,0,346,35,59,39,18,50,31,56,15,3,0,6,14,2,2,0,2,1,12,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zorgcentrum Twekkelerveld,0153::SB304,,1735,455,5,1,0,0,1,428,32,0,0,0,0,0,0,461,48,85,61,26,64,29,63,26,3,1,15,13,1,0,0,2,1,16,1
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Stichting Enschedese Speeltuinen,0153::SB305,,1521,369,1,0,0,0,0,337,33,0,0,0,0,0,0,370,34,82,46,33,54,27,40,30,0,0,13,0,0,0,0,0,1,9,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau U.T. De Bastille (Atrium),0153::SB306,,1715,1131,17,1,0,0,7,1086,56,0,0,0,0,0,0,1149,79,27,104,147,429,117,51,39,9,2,82,4,2,0,12,1,3,22,1
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Het Roessingh/Revalidatiecentrum,0153::SB401,,1754,675,2,1,0,0,1,604,74,0,1,0,1,0,0,679,62,46,64,65,159,106,69,33,0,0,9,17,2,1,1,1,3,37,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Clubgebouw EMOS,0153::SB402,,1609,875,1,1,0,0,1,778,98,0,0,0,0,0,0,877,154,42,97,145,190,106,57,36,1,0,7,9,6,3,2,1,0,19,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Basisschool Anna van Buren,0153::SB403,,1633,684,3,1,0,0,1,613,74,0,0,0,0,0,0,688,87,44,69,76,151,82,61,69,1,0,11,13,0,1,0,1,0,18,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau AriënsZorgpalet Ariënsstaete,0153::SB404,,1743,632,2,2,0,0,2,586,48,0,0,0,0,0,0,636,148,61,71,47,110,31,77,34,2,0,10,13,3,0,1,1,1,22,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Basisschool Roombeek (dep),0153::SB405,,1639,469,0,2,0,0,2,417,52,0,0,0,0,0,0,471,76,59,69,25,68,41,51,38,2,0,10,12,1,1,0,0,0,16,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau AriënsZorgpalet De Dollard,0153::SB406,,1803,371,2,0,1,0,1,336,37,0,0,0,1,0,0,374,65,48,44,16,55,22,46,46,0,0,6,10,0,0,1,1,0,9,2
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Enschedese Schoolvereniging,0153::SB407,,1616,455,0,0,0,0,2,395,58,0,0,0,0,0,0,455,66,58,42,70,76,35,50,25,1,1,5,5,2,3,3,0,0,13,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau AriënsZorgpalet Het Achtervoort,0153::SB408,,1415,394,2,0,0,0,2,344,50,0,0,0,0,0,0,396,81,40,41,32,72,33,38,20,3,0,4,10,1,1,1,1,1,15,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Voetbalvereniging VOSTA,0153::SB501,,1430,417,0,0,0,0,0,374,43,0,0,0,0,0,0,417,37,74,42,43,65,25,59,35,0,0,12,8,0,3,3,0,0,11,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Schoolgebouw Dotterbloemstraat,0153::SB502,,1453,355,0,0,0,0,0,329,26,0,0,0,0,0,0,355,44,69,51,24,41,36,43,15,3,0,6,7,0,0,0,0,1,15,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau OBS Park Stokhorst,0153::SB503,,1593,650,4,3,0,0,0,592,65,0,0,0,0,0,0,657,94,56,83,107,99,80,61,23,0,0,8,13,2,0,3,1,2,18,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau AriënsZorgpalet Het Florapark,0153::SB504,,1525,206,1,1,0,0,2,195,11,0,0,0,0,0,0,208,53,25,28,13,24,13,23,12,1,0,0,7,1,2,0,0,0,4,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Paus Joannesschool,0153::SB505,,1164,739,1,0,0,0,0,645,95,0,0,0,0,0,0,740,142,49,57,170,135,46,47,32,6,0,9,17,0,0,2,0,0,26,1
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau OBS Het Vastert,0153::SB601,,1695,532,1,0,0,0,0,461,72,0,0,0,0,0,0,533,82,63,82,29,88,44,59,55,4,1,2,3,0,2,0,2,0,15,1
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Wooncentrum Het Veldhof,0153::SB602,,1638,763,0,1,0,0,2,667,95,0,0,0,0,0,0,764,103,108,90,96,96,49,94,52,3,2,13,19,2,3,4,3,1,24,1
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau OBS Het Stroink,0153::SB603,,1803,345,1,0,0,0,3,297,46,0,0,0,0,0,0,346,43,92,34,16,28,18,65,14,1,0,4,11,0,1,0,4,0,14,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Stroinkshuis,0153::SB604,,1719,202,0,0,0,0,2,177,23,0,0,0,0,0,0,202,41,30,35,14,18,13,24,10,2,0,1,7,0,0,2,0,0,5,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau De Regenboog,0153::SB606,,1637,483,0,0,0,1,0,428,54,0,0,1,0,0,0,482,66,100,57,25,44,28,65,53,1,0,3,13,2,0,2,3,1,20,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Bonhoeffer College,0153::SB607,,1587,203,0,0,0,0,1,184,18,0,0,0,0,0,0,203,26,49,23,12,21,10,26,14,0,0,3,5,0,3,0,1,2,8,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau OBS Het Lang,0153::SB608,,1622,460,2,1,0,0,0,431,32,0,0,0,0,0,0,463,46,110,74,13,52,14,86,23,1,0,4,27,1,0,0,0,2,7,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zorgcentrum De Posten,0153::SB609,,1615,532,1,3,0,0,2,477,58,0,1,0,1,0,0,537,118,83,87,24,48,13,65,41,1,0,2,19,0,4,2,5,1,19,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau OBS De Broekheurne,0153::SB610,,1756,412,0,1,0,0,0,352,61,0,0,0,0,0,0,413,91,56,49,35,45,27,45,37,1,0,0,7,2,0,0,5,0,12,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zorgcentrum Broekheurnerstede,0153::SB611,,1087,386,2,2,0,0,0,366,24,0,0,0,0,0,0,390,60,39,66,48,24,10,59,42,1,0,1,15,0,2,0,0,0,18,1
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau OBS Het Bijvank,0153::SB612,,1619,318,1,0,0,0,0,278,41,0,0,0,0,0,0,319,29,57,43,12,38,15,63,10,4,0,16,13,0,1,1,5,1,10,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Victoria '28,0153::SB613,,1687,335,0,0,0,0,0,298,37,0,0,0,0,0,0,335,48,66,46,20,35,14,55,27,1,0,4,5,0,1,1,0,0,12,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Mediant Helmerzijde,0153::SB614,,1796,615,2,0,0,0,1,540,76,0,0,0,0,0,0,617,115,51,65,60,104,49,78,41,4,0,3,17,2,0,0,2,0,24,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau OBS De Helmerhoek,0153::SB615,,1714,431,0,0,0,0,0,381,50,0,0,0,0,0,0,431,42,79,36,26,73,26,90,28,1,0,4,8,2,1,0,0,0,15,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Weth v.d. Heijdenschool,0153::SB616,,1572,388,2,0,0,0,0,300,90,0,0,0,0,0,0,390,42,43,49,47,60,34,54,32,1,0,3,13,1,0,0,0,0,9,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau OBS De Averbeke,0153::SB617,,1659,548,0,3,0,0,1,478,72,0,0,0,0,0,0,551,75,56,79,40,94,51,80,46,1,0,3,6,0,2,0,1,0,14,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau AriënsZorgpalet Dr. Ariënshuis,0153::SB801,,1575,351,0,3,0,0,7,311,36,0,0,0,0,0,0,354,97,79,34,18,40,19,38,4,1,0,4,10,1,0,0,0,0,6,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau BSO De Boomhut,0153::SB802,,1645,333,1,2,0,1,6,289,42,0,0,0,1,0,0,337,63,92,38,17,28,9,49,8,4,0,1,12,0,0,0,0,1,11,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau OBS Glanerbrug Zuid,0153::SB803,,1505,386,0,0,0,0,0,300,86,0,0,0,0,0,0,386,60,91,53,32,35,19,57,12,1,0,5,11,0,0,1,0,0,8,1
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau CBS Drakensteyn,0153::SB804,,1514,239,0,1,0,0,3,205,32,0,0,0,0,0,0,240,29,39,19,25,31,17,23,23,5,1,4,3,0,0,0,1,0,17,2
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Verpleeghuis Bruggerbosch,0153::SB805,,1691,380,1,0,0,0,0,333,48,0,0,0,0,0,0,381,41,46,55,33,56,23,54,30,1,0,7,20,0,1,1,0,0,12,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau OBS De Esmarke,0153::SB806,,1743,562,0,0,0,0,2,479,81,0,0,0,0,0,0,562,66,91,68,70,97,27,61,28,10,0,7,9,0,0,3,0,0,25,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau BSO 't Kraaiennest,0153::SB807,,1559,343,3,1,0,0,2,308,37,0,0,0,0,0,0,347,40,81,40,47,40,11,44,16,1,1,3,9,0,0,1,0,0,9,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Meijer's Hoes,0153::SB808,,1254,310,2,0,0,0,0,272,40,0,0,0,0,0,0,312,65,74,32,13,21,15,57,8,0,1,2,7,0,1,0,1,0,13,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Usselerschool,0153::SB901,,757,335,1,1,0,0,1,295,41,0,0,0,0,0,0,337,67,46,30,70,37,14,33,11,1,0,0,6,0,2,0,0,0,18,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau OBS Molenbeek dep,0153::SB902,,1496,660,2,2,0,0,4,584,76,0,0,0,0,0,0,664,129,53,59,125,135,48,43,16,1,0,0,15,2,3,2,1,2,26,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Marcellinusschool Boekelo,0153::SB903,,1090,437,0,0,0,0,2,379,56,0,0,0,0,0,0,437,112,30,34,69,84,38,35,7,2,0,1,7,3,1,1,0,3,10,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Dorpshuis Lonneker,0153::SB904,,1152,533,3,1,0,0,1,455,81,0,0,0,0,0,0,537,223,51,32,48,74,37,21,20,3,0,0,13,1,1,0,0,0,9,0
+,Enschede,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau St. Liduinaschool,0153::SB905,,1043,357,2,0,0,0,2,304,53,0,0,0,0,0,0,359,134,27,19,56,53,14,26,13,1,0,1,5,0,0,0,0,0,8,0

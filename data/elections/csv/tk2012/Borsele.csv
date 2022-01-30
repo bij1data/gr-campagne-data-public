@@ -1,0 +1,23 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,VVD,Partij van de Arbeid (P.v.d.A.),PVV (Partij voor de Vrijheid),Christen Democratisch Appèl (CDA),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,ChristenUnie,Staatkundig Gereformeerde Partij (SGP),Partij voor de Dieren,Piratenpartij,Partij voor Mens en Spirit (MenS),Nederland Lokaal,Libertarische Partij (LP),Democratisch Politiek Keerpunt DPK,50PLUS,Liberaal Democratische Partij (LibDem),Anti Europa Partij,SOPN,Partij van de Toekomst (PvdT)
+Middelburg,Borsele,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Heinkenszand 1,0654::SB1,4451 KB,1074,998,1,0,257,265,102,102,106,73,19,23,8,18,4,2,0,0,1,15,0,0,2,1
+Middelburg,Borsele,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Heinkenszand 2,0654::SB2,4451 KB,1097,806,1,1,191,214,85,83,95,50,13,27,4,22,2,2,2,3,0,11,1,0,0,1
+Middelburg,Borsele,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Heinkenszand 3,0654::SB3,4451 LA,1026,639,0,0,203,129,45,103,58,43,6,19,10,10,1,1,0,0,1,10,0,0,0,0
+Middelburg,Borsele,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Lewedorp 5,0654::SB5,4456 AL,680,538,0,1,138,120,45,89,65,24,5,10,18,6,0,2,1,0,0,13,0,0,2,0
+Middelburg,Borsele,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Nieuwdorp,0654::SB6,4455 TL,862,650,1,0,117,136,75,56,57,16,4,26,140,12,1,0,0,0,0,5,1,0,1,3
+Middelburg,Borsele,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 's-Heerenhoek 7,0654::SB7,4453 BE,779,596,0,1,177,128,86,77,53,28,8,9,5,6,2,0,0,0,0,14,0,0,1,2
+Middelburg,Borsele,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Borssele,0654::SB8,4454 AS,998,797,1,3,95,78,69,37,45,21,7,24,404,11,1,0,0,0,0,5,0,0,0,0
+Middelburg,Borsele,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Driewegen,0654::SB9,4438 AH,458,351,0,0,104,72,45,25,39,18,11,14,4,7,2,0,0,0,2,7,1,0,0,0
+Middelburg,Borsele,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ellewoutsdijk,0654::SB10,4437 AE,318,217,3,0,54,56,22,10,37,12,11,3,5,3,0,1,0,0,0,2,0,0,1,0
+Middelburg,Borsele,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ovezande,0654::SB11,4441 AE,908,706,1,0,187,160,72,116,64,44,19,4,3,18,2,3,0,0,1,10,0,0,2,1
+Middelburg,Borsele,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Oudelande,0654::SB12,4436 AD,520,406,3,2,118,85,45,38,29,30,21,9,7,15,2,3,0,0,0,3,1,0,0,0
+Middelburg,Borsele,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Baarland,0654::SB13,4435 AD,485,386,2,0,87,79,33,45,35,17,9,9,51,9,2,2,0,0,0,5,1,0,2,0
+Middelburg,Borsele,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hoedekenskerke,0654::SB14,4433 AL,552,457,0,0,112,76,54,50,40,18,4,16,75,3,0,0,0,0,3,4,0,0,2,0
+Middelburg,Borsele,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kwadendamme,0654::SB15,4434 AC,760,577,1,1,190,108,66,94,53,21,10,7,12,9,1,1,1,0,0,3,0,0,1,0
+Middelburg,Borsele,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Nisse,0654::SB16,4443 AE,489,394,2,3,85,80,40,42,29,33,11,11,45,10,3,0,0,0,0,5,0,0,0,0
+Middelburg,Borsele,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 's-Heer Abtskerke,0654::SB17,4444 AG,392,301,0,2,122,58,11,34,28,13,3,10,9,8,0,2,0,0,0,2,0,0,0,1
+Middelburg,Borsele,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 's-Gravenpolder 18,0654::SB18,4431 BP,1009,902,0,5,89,92,48,81,40,24,6,48,458,4,0,0,1,0,0,11,0,0,0,0
+Middelburg,Borsele,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 's-Gravenpolder 19,0654::SB19,4431 BP,1086,933,0,0,160,109,60,82,71,32,6,48,340,9,0,1,0,1,1,11,0,0,1,1
+Middelburg,Borsele,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 's-Gravenpolder 20,0654::SB20,4431 EK,1147,888,1,4,92,97,51,58,29,16,4,47,475,6,2,3,1,0,0,7,0,0,0,0
+Middelburg,Borsele,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Heinkenszand 21,0654::SB21,4451 TL,1047,790,1,4,252,187,65,126,60,38,14,15,9,9,0,1,0,0,0,12,0,0,1,1
+Middelburg,Borsele,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Lewedorp 22,0654::SB22,4456 AG,681,451,1,1,123,70,48,83,43,21,1,14,28,11,0,0,0,1,0,6,0,0,0,2
+Middelburg,Borsele,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 's-Heerenhoek 23,0654::SB23,4453 BE,748,502,0,0,161,110,73,71,36,24,6,3,3,4,0,0,2,0,0,7,1,0,1,0

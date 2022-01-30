@@ -1,0 +1,90 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,VVD,Partij van de Arbeid (P.v.d.A.),PVV (Partij voor de Vrijheid),Christen Democratisch Appèl (CDA),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,ChristenUnie,Staatkundig Gereformeerde Partij (SGP),Partij voor de Dieren,Piratenpartij,Partij voor Mens en Spirit (MenS),Nederland Lokaal,Libertarische Partij (LP),Democratisch Politiek Keerpunt DPK,50PLUS,Liberaal Democratische Partij (LibDem),Anti Europa Partij,SOPN,Partij van de Toekomst (PvdT)
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau oude stadhuis,0307::SB1,,921,1231,4,2,256,404,39,56,111,177,84,40,7,26,6,6,0,0,3,11,0,1,1,3
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ichthuskerk,0307::SB2,,1114,707,2,1,165,165,42,59,58,107,37,30,7,20,8,3,0,1,0,2,0,0,2,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau de Gerfkamer,0307::SB3,,1150,949,1,3,249,253,21,32,71,170,63,27,5,37,4,3,0,2,2,9,0,0,1,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Scholen in de Kunst (naast de Flint),0307::SB4,,1234,968,7,1,170,267,75,50,117,114,59,37,5,50,5,2,0,2,0,13,0,0,1,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau schoolgebouw de Vlindervallei,0307::SB5,,1326,908,1,6,156,328,79,47,78,100,29,39,8,23,2,2,0,0,0,15,0,0,0,2
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum de Roef,0307::SB6,,1403,988,1,3,168,329,96,50,92,93,50,41,15,23,6,3,0,2,0,17,0,1,2,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau verpleeghuis St. Elisabeth,0307::SB7,,1345,834,3,5,127,294,77,80,79,53,23,39,15,16,2,2,0,0,1,23,0,0,2,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau de Tinne (t/o Esso),0307::SB8,,1235,785,2,7,92,290,79,63,75,65,22,47,17,8,0,5,0,0,1,19,0,0,1,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau wijkcentrum de Groene Stee,0307::SB9,,1297,881,2,6,107,347,103,50,81,53,23,55,12,26,1,1,1,0,0,15,0,0,5,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Bron (voorheen Open Hof),0307::SB10,,1233,923,2,4,179,263,93,77,90,69,23,75,12,22,2,0,0,0,0,14,0,0,4,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau woon- en zorgcentrum de Liendert,0307::SB11,,1372,887,1,4,136,316,88,80,73,43,17,53,12,22,3,4,0,0,1,36,1,0,2,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau sporthal Rustenburg,0307::SB12,,1120,813,1,2,139,249,87,51,122,47,20,48,10,9,3,3,0,0,0,16,0,0,9,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Burgemeester Molendijkflat,0307::SB13,,1315,1105,2,2,281,241,100,104,56,81,28,123,17,17,3,4,1,0,0,45,3,1,0,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau sporthal Schuilenburg,0307::SB14,,858,488,1,0,69,184,38,36,64,33,10,33,2,6,4,1,0,1,0,5,0,0,1,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau ABC school het Scala,0307::SB15,,1191,800,2,5,106,318,56,53,86,56,24,58,13,9,6,2,0,0,0,10,0,0,3,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau de Schuilenburght,0307::SB16,,871,734,0,1,256,126,32,109,29,69,23,49,14,12,0,1,0,0,0,13,0,1,0,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau prins Willem III-flat,0307::SB17,,1480,979,4,0,194,307,80,42,101,71,55,51,12,24,4,4,0,1,0,32,0,0,1,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau kerkgebouw de Kandelaar,0307::SB18,,1113,812,2,2,186,203,44,58,49,86,40,96,17,16,4,0,0,1,0,10,0,0,1,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau woon- en zorgcentrum Nijenstede,0307::SB19,,1497,1026,6,6,195,282,67,86,103,92,43,82,12,31,5,3,1,0,0,24,0,0,0,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau wijkcentrum het Klokhuis,0307::SB20,,1090,893,4,3,112,334,78,51,130,54,26,49,10,24,2,1,0,1,0,19,0,0,2,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau sportfondsenbad,0307::SB21,,1573,1232,1,3,273,337,48,48,113,203,99,56,13,24,3,2,0,1,1,8,0,0,2,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau schoolgebouw Guido de Brès,0307::SB22,,1464,1343,2,2,295,383,49,90,103,198,103,44,24,33,7,6,0,2,0,5,0,0,1,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Burg. van Randwijckhuis,0307::SB23,,1477,1026,0,2,272,281,41,89,64,106,31,61,36,24,2,4,1,0,0,13,0,0,0,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau seniorenflat Otto Scheltus,0307::SB24,,1003,681,1,0,189,150,32,54,52,116,32,25,5,11,3,1,0,1,0,10,0,0,0,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Martuskerk,0307::SB25,,1550,1138,0,3,222,309,101,49,102,156,53,60,23,38,4,4,0,1,0,14,0,0,1,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau woon- en zorgcentrum de Amerhorst,0307::SB26,,1391,1119,1,4,217,274,61,93,91,131,67,90,40,23,5,5,0,0,0,18,0,0,3,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Fonteinkerk,0307::SB27,,1302,946,0,0,310,177,39,89,30,155,51,58,16,15,1,0,0,0,1,4,0,0,0,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau sporthal Juliana van Stolberg,0307::SB28,,1410,1181,2,7,216,335,88,52,147,147,67,50,12,32,5,7,1,0,0,17,1,0,2,2
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau St. Ansfriduskerk,0307::SB29,,1313,1141,1,0,287,293,48,52,67,210,70,37,15,35,2,8,1,1,0,15,0,0,0,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau schoolgebouw ROC Midden-Nederland,0307::SB30,,1379,1143,1,0,302,245,51,68,99,170,83,59,12,32,1,2,0,3,1,9,2,0,4,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zon en Schild,0307::SB31,,443,269,2,3,26,89,18,25,30,18,12,13,5,23,1,2,1,0,1,4,0,0,1,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau zorgcentrum de Lichtenberg,0307::SB32,,331,225,1,0,66,44,13,40,16,12,9,16,2,5,0,0,0,0,0,2,0,0,0,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bergkerk,0307::SB33,,1481,1587,0,1,730,231,17,119,29,308,51,54,10,22,5,4,0,3,0,3,0,0,1,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau congrescentrum de Eenhoorn,0307::SB34,,1523,761,0,2,299,140,14,47,18,164,39,17,3,13,1,1,0,1,0,4,0,0,0,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau verpleeghuis Birkhoven,0307::SB35,,82,71,0,0,20,11,5,7,5,7,3,5,5,0,0,0,0,0,0,2,0,0,1,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau schoolgebouw de Kubus,0307::SB36,,1426,1075,3,3,152,292,220,32,140,72,39,54,9,30,6,1,0,2,1,21,0,0,4,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau schoolgebouw de Magneet,0307::SB37,,1414,836,0,2,114,263,161,28,122,32,20,31,5,16,2,3,0,1,0,32,0,2,3,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Emmauskerk,0307::SB38,,1418,1210,6,0,153,325,220,44,150,101,43,85,10,35,4,3,0,0,4,28,0,0,3,2
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Westerkerk,0307::SB39,,1558,658,2,0,102,158,83,37,58,64,52,68,8,14,2,2,0,1,0,7,0,1,1,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau woon- en zorgcentrum Puntenburg,0307::SB40,,1276,1072,4,6,246,289,86,62,101,115,34,66,11,28,1,1,1,1,0,28,0,0,1,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau St. Henricusparochie,0307::SB41,,1589,742,2,2,87,219,100,35,80,73,26,57,8,26,2,3,0,0,1,18,0,1,5,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau café 't Hoekje,0307::SB42,,357,324,0,0,136,25,22,82,10,22,6,4,5,4,1,0,0,0,0,5,0,1,1,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau verenigingsgebouw Juliana en Bernhard,0307::SB43,,992,652,4,0,150,176,75,35,68,75,22,23,4,13,1,1,0,0,0,5,0,0,3,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau schoolgebouw de Triangel,0307::SB44,,934,578,1,2,72,233,45,36,69,42,14,42,7,8,1,2,0,0,1,6,0,0,0,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau sociëteitsruimte seniorenflat,0307::SB45,,1392,1117,0,4,289,259,72,109,91,94,28,104,19,20,2,1,0,0,0,28,1,0,0,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau schoolgebouw de Tafelronde,0307::SB46,,1205,672,2,4,145,218,52,27,75,46,28,27,5,18,3,2,1,0,0,20,0,1,3,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau woon- en zorgcentrum de Koperhorst,0307::SB47,,1063,985,6,1,199,255,68,96,85,63,22,137,14,19,3,2,0,0,1,20,1,0,0,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau schoolgebouw de Zevensprong,0307::SB48,,1077,997,0,2,202,321,102,50,95,72,26,63,8,22,1,1,0,0,0,31,0,0,2,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau wijkcentrum de Trefhorst,0307::SB49,,1152,806,0,2,182,229,70,36,93,62,12,62,10,23,2,0,0,0,1,24,0,0,0,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau kerkelijk centrum de Hoeksteen,0307::SB50,,1075,761,0,0,158,220,56,52,74,50,30,67,3,23,5,0,0,0,1,22,0,0,0,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau schoolgebouw de Weesboom,0307::SB51,,1262,1069,3,2,194,341,82,49,138,87,42,73,17,18,2,4,0,0,0,17,0,0,4,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau schoolgebouw de Drieslag,0307::SB52,,1193,566,1,3,128,156,48,31,60,49,22,36,5,10,2,1,0,0,1,14,1,0,2,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau sporthal Zielhorst,0307::SB53,,1431,1415,5,3,370,359,115,97,112,134,56,82,16,24,8,3,0,0,0,34,1,2,1,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Overseldert,0307::SB54,,1165,633,1,2,122,194,64,41,69,45,20,43,7,11,0,0,0,0,0,16,0,0,1,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau wijkcentrum 't Middelpunt,0307::SB55,,1364,711,0,1,173,196,62,38,84,53,13,52,8,11,3,3,0,1,0,12,0,0,2,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau schoolgebouw de Kameleon,0307::SB56,,1228,1020,3,1,280,276,74,53,97,85,31,73,4,16,3,3,0,0,1,19,0,0,4,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau kerkgebouw de Lichtkring,0307::SB57,,1378,1218,1,1,323,315,75,76,87,129,41,116,5,21,4,2,1,0,3,18,0,0,2,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau kerkgebouw het Brandpunt,0307::SB58,,1242,1361,5,2,418,358,99,87,104,135,42,70,5,25,5,1,0,0,0,9,0,0,1,2
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau ouderensteunpunt het Pluspunt,0307::SB59,,1146,915,1,1,270,210,76,58,81,91,18,51,9,18,4,2,0,1,0,22,0,0,2,2
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau MFC de Boomfontein,0307::SB60,,1411,893,3,3,252,241,37,43,67,121,46,55,2,12,1,6,0,3,1,4,0,0,2,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau schoolgebouw Gabrie Mehen,0307::SB61,,1403,1427,5,1,400,348,107,69,110,176,47,99,8,31,6,7,0,0,2,16,0,0,1,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau schoolgebouw de Breede Hei,0307::SB62,,1486,618,1,1,174,165,25,35,48,89,28,30,3,11,2,1,0,0,2,5,0,0,0,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau schoolgebouw de Dubbelster,0307::SB63,,1499,1140,2,1,261,337,80,43,91,159,40,65,4,27,2,2,1,0,1,23,0,1,2,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau kerkgebouw de Inham,0307::SB64,,1318,1244,4,2,378,254,77,111,106,123,46,85,12,19,2,3,0,0,0,27,0,0,1,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau de Faam,0307::SB65,,1291,789,0,1,246,154,60,67,53,90,31,48,3,9,4,2,0,2,1,19,0,0,0,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau de Malehoeve,0307::SB66,,1259,1051,0,1,331,248,77,94,89,92,29,44,7,14,8,0,1,0,1,16,0,0,0,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau wijkcentrum de Neng,0307::SB67,,1097,1159,1,1,342,241,82,141,90,109,30,50,6,26,2,2,0,0,1,28,0,0,3,6
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau sporthal de Bieshaar I,0307::SB68,,1547,1186,2,2,349,280,103,94,92,114,41,60,6,19,4,1,0,1,0,22,0,0,0,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau sporthal de Bieshaar II,0307::SB69,,1335,1143,1,0,388,252,74,122,66,97,35,44,15,14,2,1,1,0,3,27,0,0,2,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau schoolgebouw de Malelande,0307::SB70,,1562,1441,1,1,562,295,81,99,66,166,37,93,7,9,4,1,0,2,3,12,0,1,1,2
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau schoolgebouw de Border,0307::SB71,,1239,738,1,0,274,192,51,35,35,77,15,25,7,8,6,5,1,1,0,4,0,0,2,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kerkelijk centrum de Herberg,0307::SB72,,1372,902,1,1,277,216,77,69,50,75,27,71,7,13,2,0,0,2,0,12,0,0,3,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau sporthal Nieuwland,0307::SB73,,1532,1597,4,2,618,412,116,65,95,138,32,67,7,22,3,2,0,0,1,14,0,0,3,2
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Boogkerk,0307::SB74,,1426,890,0,1,312,175,45,48,63,67,14,130,17,7,3,0,0,1,2,6,0,0,0,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau wijkcentrum de Boerderij,0307::SB75,,1643,1352,2,2,484,280,99,77,76,162,23,85,15,20,4,1,2,0,0,22,0,0,1,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau schoolgebouw de Wonderboom,0307::SB76,,1491,895,3,1,306,200,85,47,44,93,24,57,10,11,4,1,0,1,1,10,0,0,1,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau informatiecentrum Vathorst,0307::SB77,,1862,1189,1,0,560,207,78,50,62,100,17,81,9,17,1,4,0,0,0,2,0,0,1,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau schoolgebouw het Zwaluwnest,0307::SB78,,1361,644,0,0,251,96,34,27,35,44,8,125,10,7,1,1,0,0,0,5,0,0,0,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau sporthal de Brink,0307::SB79,,1512,902,1,0,393,171,48,49,55,89,19,35,8,10,4,1,0,0,0,17,2,0,0,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau schoolgebouw de Marke,0307::SB80,,1481,1485,6,1,616,319,114,62,87,114,29,78,10,23,4,2,0,0,3,13,0,2,4,5
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau schoolgebouw de Gondelier,0307::SB81,,948,621,1,0,285,114,22,25,21,88,15,30,4,10,3,1,0,0,0,2,0,0,1,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau St. Pieters en Bloklands Gasthuis,0307::SB82,,1148,1010,1,2,364,199,80,54,73,97,18,75,7,19,8,1,0,0,0,11,1,0,2,1
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau schoolgebouw Atlantis,0307::SB83,,1041,1250,1,0,571,248,57,70,68,110,31,61,10,12,2,2,1,0,0,6,0,1,0,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau ICOON theater,0307::SB84,,873,891,2,0,335,195,59,41,58,106,14,38,9,19,3,3,0,2,0,6,0,1,2,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau woon- en zorgcentrum St. Jozef,0307::SB85,,1526,1333,6,1,499,179,97,199,97,135,20,54,3,11,2,0,0,3,3,28,2,0,1,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau sporthal de Dissel,0307::SB86,,1329,1077,3,2,445,195,69,74,61,92,14,70,14,25,7,1,1,1,0,8,0,0,0,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau restaurant Fuji Yama,0307::SB87,,326,246,0,0,82,19,19,34,11,13,6,15,38,5,0,0,0,0,0,3,0,0,1,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau stationshal Ned. Spoorwegen I,0307::SB88,,0,1061,7,1,205,306,47,35,84,164,84,70,6,34,10,2,0,3,1,8,0,0,2,0
+Utrecht,Amersfoort,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau stationshal Ned. Spoorwegen II,0307::SB89,,0,1289,1,0,225,349,48,55,134,206,107,85,5,35,16,6,0,3,0,12,0,0,1,2

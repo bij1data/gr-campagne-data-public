@@ -1,0 +1,377 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,CDA - Europese Volkspartij,P.v.d.A./Europese Sociaaldemocraten,VVD - Europese Liberaal-Democraten,GROENLINKS,SP (Socialistische Partij),ChristenUnie-SGP,Democraten 66 (D66),Newropeans,Europa Voordelig! & Duurzaam,Solidara,Partij voor de Dieren,EUROPESE KLOKKENLUIDERS PARTIJ (EKP),De Groenen,PVV (Partij voor de Vrijheid),Liberaal Democratische Partij,Partij voor Europese Politiek (PEP),Libertas
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Coolsingel 40 (achter),0599::SB1,,1741,553,6,2,48,64,81,84,33,13,109,5,0,0,28,4,1,77,3,0,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Goudseweg 17 (achter),0599::SB2,,1135,291,0,1,30,41,36,13,32,6,40,2,0,2,13,1,1,69,3,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Schoterbosstraat 17 (rechts),0599::SB3,,1531,293,1,1,14,50,26,46,22,12,57,5,0,3,5,1,1,49,1,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Looiershof 1 (rechts),0599::SB4,,1278,337,1,1,19,61,30,68,27,7,54,3,0,5,13,1,1,44,2,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Springerstraat 340 (achter),0599::SB5,,952,365,0,0,78,40,20,29,24,57,26,1,0,1,16,2,0,69,1,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Schoterbosstraat 17 (links),0599::SB6,,1269,299,0,2,17,58,35,34,37,12,55,2,0,2,10,1,2,32,0,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Anna van Westrienenstraat 1,0599::SB7,,1599,510,2,1,32,76,34,95,50,7,101,6,0,2,31,3,1,70,1,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Bergsingel 152 (rechts),0599::SB8,,1239,464,0,0,30,42,43,106,28,24,91,5,1,4,11,0,3,68,4,2,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Cole Porterstraat 2 (voor),0599::SB9,,864,284,2,0,28,32,34,35,27,14,39,1,0,0,9,0,0,63,0,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Schiedamsesingel 2 (links),0599::SB10,,848,325,0,0,22,35,53,44,17,4,76,4,0,2,16,1,1,46,0,0,4
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Statensingel 103,0599::SB11,,1090,489,0,2,43,44,64,67,40,17,117,4,3,3,22,1,0,59,1,1,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Bergsingel 152 (links),0599::SB12,,875,358,1,0,24,35,31,78,32,16,84,2,0,5,8,0,0,43,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Burgemeester van Walsumweg 520,0599::SB13,,1433,532,2,2,46,54,91,54,31,7,125,1,0,0,15,2,2,96,3,0,5
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Achillesstraat 290,0599::SB14,,1498,503,2,3,62,73,62,25,43,12,57,0,0,1,28,2,0,136,1,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Dempostraat 143 (rechts),0599::SB15,,914,164,0,5,3,47,11,13,25,8,10,0,0,0,8,0,0,39,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Nicolaas Beetsstraat 4 (achter),0599::SB16,,993,174,0,3,9,47,9,19,20,14,21,0,1,1,6,0,0,27,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Vrijenbansestraat 50 (voor),0599::SB17,,931,324,2,3,11,55,32,56,39,21,56,4,0,0,18,0,0,28,1,0,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Snauwstraat 7 (voor),0599::SB18,,1018,170,1,2,10,28,7,24,23,11,16,0,0,0,6,0,0,45,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Vrijenbansestraat 50 (achter),0599::SB19,,970,310,2,0,12,46,25,62,35,17,48,2,2,4,23,2,0,29,1,1,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Hoogstraat 110 (links),0599::SB20,,1712,631,6,0,49,64,105,87,42,8,154,3,1,1,19,1,0,91,2,1,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Maria Wesselingstraat 8 (links),0599::SB21,,1475,588,0,1,85,76,88,51,33,16,85,1,1,1,26,3,2,118,1,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau 3e Pijnackerstraat 6B,0599::SB22,,1041,300,0,7,10,50,13,41,41,6,40,0,1,5,17,1,1,72,1,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Westerstraat 10,0599::SB23,,873,527,1,0,49,52,101,65,16,14,136,5,0,1,12,1,1,70,0,0,4
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau 2e Pijnackerstraat 13,0599::SB24,,1052,280,0,1,13,35,17,48,25,4,46,3,0,4,18,0,1,64,0,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Meidoornstraat 47 (rechts),0599::SB25,,1652,285,1,4,7,56,10,58,37,2,36,3,0,5,9,1,0,58,1,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Pergolesilaan 7,0599::SB26,,806,480,0,0,65,18,172,18,11,6,89,3,0,0,19,0,0,75,3,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Nieuwe Binnenweg 25 (voor),0599::SB27,,1231,574,1,1,48,76,49,119,40,6,136,4,1,0,24,1,4,64,1,1,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Ruivenstraat 39,0599::SB28,,1136,213,0,0,7,42,12,36,35,2,32,1,1,6,2,1,1,30,2,0,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Engelsestraat 40 (voor),0599::SB29,,1099,236,0,1,27,30,10,26,29,18,9,0,2,1,23,0,0,59,2,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau 's-Gravenwetering 98,0599::SB30,,862,565,0,1,54,26,202,32,8,14,150,2,0,0,11,3,1,57,2,1,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Hooglandstraat 67,0599::SB31,,1337,279,0,4,13,74,14,35,33,3,37,2,0,6,17,1,2,42,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau 's-Gravenweg 451,0599::SB32,,1663,672,1,1,68,76,117,67,25,30,139,4,1,1,11,5,0,125,1,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Dempostraat 143 (links),0599::SB33,,1194,107,0,2,3,35,1,3,9,3,5,0,1,1,7,0,0,38,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Mahustraat 170 (rechts),0599::SB34,,1025,387,1,2,56,50,49,17,28,13,25,1,1,0,17,3,0,125,1,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Jacques Dutilhweg 401,0599::SB35,,1241,449,1,2,36,47,47,60,38,22,63,2,0,0,16,2,0,113,2,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Boompjes 680,0599::SB36,,1496,647,1,0,54,59,131,70,39,5,158,6,2,2,17,2,0,97,4,1,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Zevenkampse Ring 40,0599::SB37,,1936,529,0,1,56,83,47,46,44,39,33,5,0,3,24,6,0,142,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Van Speykstraat 107 (links),0599::SB38,,1169,207,3,5,14,55,12,34,20,2,29,1,0,4,9,3,1,19,1,0,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Erasmusstraat 26 (links),0599::SB39,,1148,213,1,3,12,39,10,20,42,5,19,0,0,2,9,2,0,48,2,1,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Erasmusstraat 26 (rechts),0599::SB40,,1185,209,1,2,8,41,10,22,41,6,18,0,0,2,5,0,1,52,2,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Ben Websterstraat 9,0599::SB41,,1518,457,1,0,51,72,30,43,37,19,53,0,1,0,28,0,1,122,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Victor E.v.Vrieslandstr.150(rechts),0599::SB42,,1417,423,3,0,29,64,14,50,39,26,43,1,0,0,46,2,0,107,0,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Berberisweg 4,0599::SB43,,1267,701,0,3,94,78,105,81,33,19,122,2,1,0,32,1,0,130,0,0,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Rodaristraat 31,0599::SB44,,1268,435,0,2,69,69,22,29,28,22,26,0,0,1,18,4,0,146,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Rusthoflaan 56 (links),0599::SB45,,1000,168,2,1,1,33,8,18,24,4,19,1,0,0,16,1,0,43,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Apollostraat 163 (links),0599::SB46,,975,570,1,1,68,71,93,28,29,17,79,1,1,0,30,4,0,149,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Isaäc Hubertstraat 153 (links),0599::SB47,,1021,259,1,1,7,80,10,19,29,4,25,3,0,3,13,0,1,65,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Schepenstraat 69 (voor),0599::SB48,,1001,366,1,0,22,61,34,66,27,7,93,3,0,2,22,0,0,29,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Boezemsingel 100,0599::SB49,,1134,296,0,2,29,48,23,27,24,17,30,1,0,10,13,2,0,70,0,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Isaäc Hubertstraat 153 (rechts),0599::SB50,,1330,192,0,0,9,58,7,6,24,4,19,1,0,5,5,1,0,51,1,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Nwe Ommoordseweg 97 (rechts),0599::SB51,,995,342,1,0,48,45,35,21,22,26,24,0,0,0,15,4,0,100,2,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Hamakerstraat 77,0599::SB52,,1257,318,0,3,44,56,15,25,34,11,28,1,0,4,18,2,1,76,0,1,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Wilgenplaslaan 196,0599::SB53,,1032,295,1,1,47,41,19,23,27,14,54,1,0,2,13,3,0,50,0,1,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Thomas Mannplaats 150,0599::SB54,,1069,544,1,1,102,112,54,29,30,9,59,5,3,0,20,4,0,115,2,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Robert Fruinstraat 26 (voor),0599::SB55,,1002,362,0,3,10,65,36,79,36,3,70,2,0,0,19,2,13,26,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Maria Wesselingstraat 8 (rechts),0599::SB56,,1278,543,4,0,83,83,75,39,23,12,89,0,0,0,15,4,2,117,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Adriaan Kluitstraat 170,0599::SB57,,1060,276,0,4,41,28,14,27,29,8,24,0,1,1,12,1,0,90,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Goudseplein 245 (links),0599::SB58,,1052,241,3,1,24,41,15,18,26,3,34,2,0,0,9,4,0,64,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Van Vlooswijkstraat 2A (links),0599::SB59,,1775,610,2,0,42,57,54,111,56,25,149,3,2,0,32,1,2,73,1,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Michelangelostraat 98,0599::SB60,,1201,406,0,1,44,33,23,16,46,111,24,1,0,2,11,2,2,91,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau G.B. Shawplaats 100,0599::SB61,,824,328,0,0,82,32,22,14,33,2,24,0,0,0,19,2,0,96,0,1,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Paulus Potterstraat 76 (links),0599::SB62,,910,270,0,0,20,37,51,32,16,10,42,1,0,0,11,0,1,46,2,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Victor E.v.Vrieslandstr.150 (links),0599::SB63,,1213,312,1,1,28,39,21,27,39,17,26,1,0,1,18,2,0,93,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Berlagepad 10,0599::SB64,,1203,349,0,8,42,59,14,15,46,19,20,1,1,2,19,0,0,110,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Cordell Hullplaats 22,0599::SB65,,859,322,1,1,51,54,23,11,25,15,24,0,0,0,18,0,0,101,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Vredenoordplein 62,0599::SB66,,1088,270,2,0,15,60,18,25,20,4,26,0,0,0,11,3,0,87,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Springerstraat 340 (voor),0599::SB67,,1087,348,0,0,68,46,15,29,23,49,29,0,1,0,16,0,0,72,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Jaffahof 75 (links),0599::SB68,,974,321,0,1,18,49,39,44,30,15,62,2,0,0,16,3,0,42,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Van Bassenstraat 19 (voor),0599::SB69,,1208,408,1,2,60,35,34,37,30,33,49,0,1,0,20,6,2,98,1,1,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Ommoordsestraat 12,0599::SB70,,1132,197,0,0,13,35,10,24,37,7,22,1,0,2,11,0,2,33,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Looiershof 1 (links),0599::SB71,,1389,322,3,0,11,56,16,70,29,9,53,1,0,0,14,4,2,52,1,1,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Willem Ruyslaan 17 (rechts),0599::SB72,,1296,469,2,2,45,39,98,48,37,7,116,0,1,0,10,2,2,58,3,0,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Huslystraat 316,0599::SB73,,1267,279,0,2,32,42,12,12,18,6,21,1,0,1,24,0,0,107,1,1,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Van Bassenstraat 19 (achter),0599::SB74,,1316,425,0,2,64,51,66,43,34,16,42,3,0,0,16,4,0,85,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Pieter de Hoochstraat 52 (rechts),0599::SB75,,876,175,2,0,20,29,12,29,19,0,37,2,0,0,9,0,0,15,1,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Willem Ruyslaan 17 (links),0599::SB76,,1080,429,0,8,35,37,91,47,25,11,118,3,0,2,5,0,0,49,4,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Sionstraat 42 (zijingang),0599::SB77,,942,290,1,2,27,33,27,33,31,15,53,1,0,1,21,0,0,44,3,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Oranjestraat 6 (links),0599::SB78,,1603,537,1,1,81,45,37,37,39,26,54,2,0,0,30,1,1,181,1,2,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Sint-Jobskade 140 (zijingang),0599::SB79,,1025,541,0,0,33,58,57,79,30,5,167,2,2,2,19,3,1,79,0,2,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Pieter de Hoochstraat 52 (links),0599::SB80,,943,236,0,0,19,28,18,43,26,4,60,1,0,1,6,0,0,28,0,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Vredehofweg 13,0599::SB81,,1186,604,0,0,54,34,170,59,5,16,156,3,3,1,25,2,0,65,3,0,8
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Ringvaartweg 125,0599::SB82,,1606,775,1,2,73,52,248,57,9,13,162,7,2,1,24,2,0,122,0,0,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Waterloostraat 164,0599::SB83,,1265,592,0,0,48,49,136,70,21,5,185,10,0,1,15,2,2,40,3,0,5
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Catharina Beersmansstraat 78,0599::SB84,,1279,187,0,3,9,62,5,20,16,9,17,0,1,4,9,2,0,32,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Oostzeedijk Beneden 5,0599::SB85,,1620,731,0,2,55,49,177,54,39,14,181,4,1,1,20,5,0,124,4,0,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Zeilmakersstraat 59,0599::SB86,,679,141,0,3,1,35,3,16,21,3,16,1,1,1,6,0,0,37,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Hendrick Staetsweg 15,0599::SB87,,1129,580,0,2,132,58,57,27,36,63,45,1,1,0,25,2,0,131,1,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Rendierstraat 3,0599::SB88,,1295,415,0,0,34,40,27,27,45,57,30,1,0,0,21,3,0,127,2,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Rozenlaan 20 (rechts),0599::SB89,,1179,411,2,0,42,51,33,66,36,19,54,0,0,0,20,7,0,82,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Antony Duyklaan 9 (voor),0599::SB90,,1379,566,2,2,48,64,74,75,44,24,133,6,1,1,22,5,1,64,3,1,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Rozenlaan 20 (links),0599::SB91,,1203,560,2,2,44,55,55,87,32,39,100,2,2,0,37,1,2,97,2,0,5
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Watertorenweg 3,0599::SB92,,1160,424,2,0,17,64,35,65,37,8,53,1,2,0,27,3,1,105,4,2,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Albregt-Engelmanstr. 34 (links),0599::SB93,,1205,220,0,0,8,60,10,33,36,10,23,0,0,2,11,1,1,25,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Adenstraat 25 (achter),0599::SB94,,975,307,0,0,35,56,28,20,22,21,19,1,0,0,16,1,1,85,1,1,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Antony Duyklaan 9 (achter),0599::SB95,,1160,519,0,0,47,54,81,69,28,14,120,0,3,0,18,4,1,79,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Taandersstraat 121 (voor),0599::SB96,,904,244,2,5,23,84,5,17,28,23,14,0,0,4,12,2,0,29,2,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Jan Kobellstraat 2,0599::SB97,,1345,289,0,2,5,76,10,48,22,31,26,1,1,4,12,2,0,48,2,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Prinses Margrietlaan 6,0599::SB98,,1304,549,1,0,52,52,76,77,33,25,107,0,0,2,14,4,2,97,3,2,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Oude Raadhuislaan 86 (links),0599::SB99,,1089,530,0,0,63,34,133,55,13,5,125,4,0,1,20,0,0,76,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Oude Raadhuislaan 86 (rechts),0599::SB100,,882,542,1,0,54,39,138,42,12,11,128,3,1,0,20,1,0,90,1,2,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Albregt-Engelmanstr. 34 (rechts),0599::SB101,,1258,240,0,6,13,62,8,39,21,12,30,4,0,2,9,0,0,40,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Apollostraat 163 (rechts),0599::SB102,,1040,128,0,0,20,14,13,8,10,3,15,0,0,0,2,0,0,41,2,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Grindweg 100,0599::SB103,,1253,658,1,2,86,59,146,37,15,10,141,1,0,0,28,4,0,127,3,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Landstraat 9,0599::SB104,,1088,408,0,0,62,29,63,28,29,19,61,0,0,0,12,0,0,102,2,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Ambachtsplein 141,0599::SB105,,1435,351,3,0,22,68,24,33,42,9,20,1,1,3,16,3,0,105,1,1,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Meidoornsingel 120,0599::SB106,,1210,643,1,1,84,80,65,78,54,26,130,3,2,0,35,5,0,72,4,0,5
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Fresiastraat 18 (ing Kastanjeplein),0599::SB107,,1158,378,1,1,51,47,27,48,40,17,44,0,0,1,24,2,1,72,2,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Larikslaan 200 (links),0599::SB108,,1121,434,0,0,60,47,64,62,23,12,81,2,0,0,18,0,0,64,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Pieter van Aschstraat 3 (voor),0599::SB109,,1187,488,3,2,46,46,53,61,29,15,65,4,2,0,29,1,3,131,1,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Kobehof 5,0599::SB110,,1258,325,4,1,18,52,12,24,46,16,31,1,0,0,23,3,1,97,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Mendelssohnlaan 11,0599::SB111,,1309,775,3,0,110,45,195,58,11,22,160,2,0,0,27,8,0,133,0,0,4
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Goudkruid 107,0599::SB112,,1050,422,0,1,59,56,35,37,22,26,55,1,0,3,17,1,1,109,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Mercatorweg 50 (rechts),0599::SB113,,1317,487,1,0,84,41,64,32,20,21,36,3,0,0,31,2,1,151,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Mercatorweg 50 (midden),0599::SB114,,1175,313,0,1,35,36,29,13,26,14,20,0,0,1,27,0,0,105,4,0,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Mercatorweg 50 (links),0599::SB115,,1387,413,0,0,78,53,27,14,33,21,24,2,2,0,24,2,0,125,3,1,4
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Van Vlooswijkstraat 2A (rechts),0599::SB116,,1247,494,3,2,33,53,37,97,52,25,104,2,1,0,25,0,3,56,1,0,5
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Zuiderlaan 10,0599::SB117,,748,161,0,1,8,15,9,6,7,3,13,1,0,0,17,0,0,81,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Kipstraat 37,0599::SB118,,1478,606,2,1,38,63,150,54,43,16,123,7,0,0,14,3,0,91,1,1,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Mombassaplaats 2,0599::SB119,,1125,289,1,2,35,52,11,22,30,12,10,2,0,1,22,2,0,87,0,0,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Eudokiaplein 35,0599::SB120,,1162,478,3,4,28,65,37,84,54,13,77,3,1,1,27,4,0,81,1,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Clara Egginkstraat 4,0599::SB121,,1271,488,0,0,66,53,76,50,35,12,55,1,0,1,22,1,0,109,2,0,5
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Gijsingstraat 51,0599::SB122,,882,204,2,0,7,58,11,23,27,13,21,0,0,2,11,0,0,30,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Jagthuisstraat 20,0599::SB123,,991,273,0,8,19,46,16,59,52,5,33,0,0,4,12,1,0,25,0,1,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Bieslandstraat 61,0599::SB124,,706,254,0,2,16,43,11,43,27,11,46,1,0,4,16,1,1,33,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Meidoornstraat 47 (links),0599::SB125,,1536,283,1,3,9,76,13,31,43,8,27,2,0,3,10,0,1,58,0,1,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Varnasingel 600,0599::SB126,,1583,474,5,0,69,98,30,17,43,11,36,1,0,0,24,0,0,142,1,1,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Burg. de Josselin de Jonglaan 35,0599::SB127,,1524,467,0,1,71,70,28,29,45,28,38,0,0,1,26,1,0,128,0,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Rusthoflaan 56,0599::SB128,,546,187,3,2,8,36,8,33,33,3,18,1,0,0,7,0,0,40,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Barbarakruid 24,0599::SB129,,1268,403,0,1,61,46,35,39,31,24,36,2,1,1,27,3,0,93,0,1,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Graaf Florisstraat 45,0599::SB130,,1294,468,3,2,34,58,29,100,41,7,135,3,0,2,19,1,2,32,0,0,5
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Burgemeester de Villeneuvesingel 1,0599::SB131,,1071,621,1,1,77,32,196,44,9,8,150,3,2,0,19,1,0,73,2,1,4
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Robert van 't Hoffstr 10 (achter),0599::SB132,,1475,383,0,0,40,36,71,28,19,25,55,3,1,1,13,1,1,83,0,1,5
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Overschiese Kleiweg 555,0599::SB133,,454,129,0,0,16,10,19,8,12,9,17,2,0,0,8,0,0,27,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Kelloggplaats 664,0599::SB134,,615,274,1,0,37,45,23,14,26,4,20,0,2,1,9,5,0,85,3,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Meidoornsingel 181,0599::SB135,,1045,419,2,1,105,78,25,25,35,31,32,1,1,0,12,0,0,73,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Oranjestraat 6 (rechts),0599::SB136,,1599,310,0,3,31,32,20,26,25,13,29,1,0,0,26,2,1,101,1,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Rammelandstraat 4 (achter),0599::SB137,,920,215,0,5,19,45,7,17,22,16,23,0,2,1,8,2,1,52,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Robert van 't Hoffstr 10 (voor),0599::SB138,,1240,517,0,0,72,52,111,26,16,33,73,2,2,0,19,6,0,97,0,0,8
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Taandersstraat 121 (achter),0599::SB139,,1102,207,1,1,19,65,7,16,29,12,16,1,0,5,9,2,1,23,0,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Paulus Potterstr 76 (rechts),0599::SB140,,1206,358,0,0,28,53,63,36,27,12,62,7,0,3,13,3,0,47,1,0,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Varenhof 1,0599::SB141,,1029,537,0,0,119,52,82,26,19,35,55,1,1,0,21,2,0,123,0,1,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Oudedijk 15,0599::SB142,,759,476,0,8,63,24,171,27,5,13,123,0,0,0,12,1,2,32,2,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Hoogstraat 110 (rechts),0599::SB143,,1475,685,4,4,60,58,112,69,28,10,189,8,1,0,32,3,2,106,4,0,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Goudseweg 17 (voor),0599::SB144,,1241,290,1,2,24,35,28,23,33,6,45,1,1,3,19,2,1,69,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Pijperstraat 37 (links),0599::SB145,,921,189,0,3,7,43,8,28,30,5,12,1,0,1,11,0,0,42,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Robert Kochplaats 348,0599::SB146,,944,276,0,1,34,53,9,15,24,6,16,0,2,0,13,1,1,100,0,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Van Beethovenlaan 60,0599::SB147,,1031,592,1,2,91,39,129,34,13,15,108,3,1,0,23,0,0,132,0,0,4
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Slaak 15,0599::SB148,,1239,379,1,5,31,58,51,39,27,12,83,2,1,4,12,3,0,55,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Provenierssingel 55,0599::SB149,,981,396,2,1,27,61,33,70,38,8,75,6,0,7,16,1,0,49,3,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Abtsweg 4,0599::SB150,,826,319,0,0,39,50,2,25,42,10,21,0,0,2,20,4,1,103,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Klein-Coolstraat 37,0599::SB151,,1142,444,0,0,26,61,35,91,30,2,114,3,0,1,21,0,2,54,3,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Kastanjeplein 28,0599::SB152,,1126,334,1,1,34,35,32,38,25,17,45,4,0,3,16,0,1,83,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Rammelandstraat 4 (voor),0599::SB153,,1026,202,0,2,15,35,3,21,23,13,15,0,0,3,17,1,0,56,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Hammarskjöldplaats 103,0599::SB154,,1069,371,0,1,51,46,26,23,36,11,36,0,1,0,15,1,0,123,0,1,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Bok de Korverweg 1,0599::SB155,,1124,371,0,2,25,29,49,42,5,11,102,3,0,0,20,3,1,79,0,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Larikslaan 200 (rechts),0599::SB156,,1061,569,0,2,54,50,67,88,40,20,121,2,2,0,27,0,2,96,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Nansenplaats 4,0599::SB157,,1130,484,0,0,74,67,44,31,47,13,67,2,0,0,16,2,0,121,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Joliotplaats 4 (achter),0599::SB158,,1075,250,1,0,24,29,27,21,26,2,27,0,0,1,11,2,0,79,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Bertrand Russellplaats 20 (links),0599::SB159,,1300,433,4,1,37,63,41,28,28,20,51,0,0,0,34,4,0,123,2,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Hoekse Brink 219 (HvH),0599::SB160,,1368,589,3,4,100,67,88,26,33,27,61,6,2,0,24,2,0,147,3,0,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Velsenluststraat 7,0599::SB161,,966,294,0,0,14,50,26,70,25,4,66,2,0,0,12,0,1,23,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Kerdijkstraat 16,0599::SB162,,1544,501,1,0,31,60,44,87,38,28,117,1,2,1,24,3,0,62,3,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Taandersplein 3,0599::SB163,,1538,255,0,1,12,80,4,29,38,19,28,2,0,1,10,0,0,31,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Schimmelpenninckstraat 31,0599::SB164,,1870,894,1,3,108,118,104,132,53,38,203,5,0,0,36,2,2,87,2,0,4
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Joost van Geelstraat 4,0599::SB165,,1255,288,0,1,21,70,19,56,37,12,45,1,0,0,4,0,0,19,2,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Robert Fruinstraat 26 (achter),0599::SB166,,1303,356,1,3,20,42,26,97,28,3,78,2,0,1,12,2,0,42,2,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau De Vliegerstraat 55 (voor),0599::SB167,,1055,300,0,0,19,53,23,66,24,10,64,0,0,0,12,0,3,26,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Sinclair Lewisplaats 22 (zijingang),0599::SB168,,854,383,0,1,59,68,29,23,25,15,32,0,0,0,16,5,1,109,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Noorderhavenkade 17D (voor),0599::SB169,,1315,422,0,0,34,44,45,69,46,17,75,7,1,3,20,3,1,54,3,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Schonebergerweg 7,0599::SB170,,1315,423,0,1,20,96,32,77,33,6,82,6,1,3,14,0,2,49,1,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Heemraadstraat 60 (achter),0599::SB171,,970,332,1,4,24,64,21,58,34,7,62,2,0,6,12,0,0,42,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Piccolo 50 (ing. Ocarina),0599::SB172,,1389,351,2,0,29,54,22,22,30,33,34,0,0,0,25,2,0,98,1,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Snauwstraat 7 (achter),0599::SB173,,846,170,3,1,12,28,10,17,19,13,13,1,0,2,7,0,0,48,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Cole Porterstraat 2 (achter),0599::SB174,,1057,298,1,1,36,33,46,20,12,8,45,2,0,1,13,1,0,80,0,1,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Heemraadstraat 60 (voor),0599::SB175,,1092,217,0,0,10,43,11,33,26,15,44,0,0,7,9,1,0,18,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Boezemweg 166,0599::SB176,,1483,378,3,1,38,45,52,30,28,18,68,0,0,1,12,2,0,81,0,1,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Pinkstraat 10,0599::SB177,,996,247,0,2,17,38,14,22,28,16,22,2,1,0,18,2,2,60,1,2,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Nozemanstraat 75 (links),0599::SB178,,1012,290,3,2,17,60,16,44,42,9,48,1,1,3,14,1,1,31,2,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Engelsestraat 40 (achter),0599::SB179,,1081,256,0,3,25,45,8,9,35,11,18,0,1,2,12,2,0,85,2,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Noorderhavenkade 17D (achter),0599::SB180,,906,264,1,0,19,31,20,50,17,16,55,1,1,3,9,0,0,39,1,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Hugo Molenaarstraat 18,0599::SB181,,975,322,2,1,17,31,23,81,35,16,79,1,0,1,8,0,3,25,2,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Buitenhofstraat 145,0599::SB182,,1096,299,0,0,21,44,18,52,42,17,37,2,1,2,8,1,1,51,0,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Pieter van Aschstraat 3 (achter),0599::SB183,,1255,414,0,0,47,42,27,34,32,15,53,1,1,0,19,5,1,136,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Tidemanstraat 59,0599::SB184,,1185,328,2,3,20,108,14,58,27,20,45,1,1,0,13,3,1,16,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Nozemanstraat 75 (rechts),0599::SB185,,1179,243,1,1,23,44,14,41,24,7,42,1,1,0,8,1,0,34,2,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Aar 193 (ingang 2),0599::SB186,,1543,335,2,2,46,53,13,25,27,15,21,0,0,0,18,0,0,116,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Tidemanstraat 80 (rechts),0599::SB187,,1169,209,1,8,12,55,9,33,23,5,33,2,0,1,4,1,1,27,0,0,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau De Vliegerstraat 55 (achter),0599::SB188,,825,272,0,1,11,40,17,65,39,7,49,1,0,1,12,2,0,23,2,1,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Merkelbachstraat 6,0599::SB189,,1127,461,1,1,82,67,40,30,30,26,50,1,1,0,14,2,0,113,2,1,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Dwerggras 3,0599::SB190,,830,255,0,0,26,29,13,17,19,40,18,0,0,1,12,3,0,75,2,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Van Noortwijckstraat 30,0599::SB191,,1164,389,2,3,51,66,52,19,36,9,42,1,0,0,15,2,1,94,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Tidemanstraat 80 (rechts),0599::SB192,,1001,203,0,1,18,46,4,33,21,8,28,1,0,1,20,0,0,19,2,2,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Nwe Ommoordseweg 97 (links),0599::SB193,,1123,421,0,0,54,36,40,29,32,26,41,2,0,0,22,1,1,136,0,1,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Snelfilterweg 270,0599::SB194,,1044,413,3,0,25,42,45,39,56,14,61,3,2,0,16,2,0,103,1,0,4
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Wilhelminakade 699 (zijingang),0599::SB195,,876,277,1,1,29,29,57,18,5,1,84,2,0,0,14,0,1,33,0,0,4
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Zernikeplaats 500,0599::SB196,,1176,449,2,1,45,70,27,28,50,11,41,1,0,1,19,3,1,150,1,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Nicolaas Beetsstraat 4 (voor),0599::SB197,,1318,200,1,2,14,60,6,12,31,7,27,1,0,3,6,0,1,30,0,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Pijperstraat 37 (rechts),0599::SB198,,1024,216,4,1,6,44,11,34,41,11,15,2,0,0,4,0,0,48,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Korne 80,0599::SB199,,1254,329,0,0,26,67,42,20,30,13,30,2,0,1,14,3,0,79,1,1,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau P.C.Hooftplein 45 (links),0599::SB200,,791,186,0,1,6,63,9,17,19,10,26,0,0,3,8,0,0,24,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Bertrand Russellplaats 20 (rechts),0599::SB201,,1208,508,1,1,46,68,49,47,43,35,65,0,2,0,31,4,0,115,1,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Westzeedijk 5,0599::SB202,,989,405,1,0,36,36,72,51,12,10,125,7,1,1,8,2,3,39,1,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Schiedamsesingel 2 (rechts),0599::SB203,,1330,430,4,1,31,53,59,59,27,4,115,2,0,3,18,2,1,54,0,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Goudseplein 245 (rechts),0599::SB204,,1140,228,0,1,18,50,13,17,16,1,25,1,0,5,12,0,0,69,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Mahustraat 170 (links),0599::SB205,,1289,300,1,1,52,49,42,13,12,10,22,0,0,1,14,3,0,80,1,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Weteringstraat 225,0599::SB206,,1140,334,0,0,33,75,19,38,35,12,39,1,1,1,25,0,3,49,0,0,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Nieuwe Binnenweg 25 (achter),0599::SB207,,912,267,1,2,15,35,18,56,23,4,67,3,0,0,4,0,2,39,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau P.C.Hooftplein 45 (rechts),0599::SB208,,1161,136,0,1,2,49,2,7,25,7,10,1,0,1,3,1,0,28,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Gaffelstraat 1 (links),0599::SB209,,1149,172,2,0,11,39,19,36,19,5,13,1,0,0,4,1,0,23,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Jaffahof 75 (rechts),0599::SB210,,983,363,1,1,24,51,46,57,28,8,73,0,0,1,33,1,2,39,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Gaffelstraat 1 (rechts),0599::SB211,,1173,227,1,2,5,60,10,37,29,4,35,0,0,0,13,0,0,32,1,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Joliotplaats 4 (voor),0599::SB212,,1204,591,2,0,50,87,33,44,48,8,63,0,0,2,50,7,0,199,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Schepenstraat 69 (achter),0599::SB213,,1139,500,4,0,23,63,52,109,43,26,107,3,1,3,20,1,0,48,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Vaasahof 75,0599::SB214,,1220,445,0,1,52,64,47,39,28,26,51,1,0,4,25,1,0,105,2,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Valenciadreef 6,0599::SB215,,1174,255,2,0,21,24,18,33,29,21,18,2,1,0,12,0,0,76,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Adenstraat 25 (voor),0599::SB216,,1152,251,0,1,29,44,17,15,23,14,25,1,0,0,11,1,2,67,1,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Hofdijk 651,0599::SB217,,1302,492,1,0,24,70,77,66,46,6,72,0,0,3,21,1,4,96,2,0,4
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Coolsingel 40 (voor),0599::SB218,,1005,901,1,4,58,122,123,119,57,11,193,3,1,5,28,2,2,166,5,0,6
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Van Speykstraat 107 (rechts),0599::SB219,,996,180,0,8,6,51,7,31,34,4,20,1,0,2,5,0,0,15,1,1,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Michelangelostraat 375,0599::SB220,,1538,507,3,4,67,70,28,60,45,11,72,5,1,0,18,2,0,122,0,1,5
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Lage Filterweg 4,0599::SB221,,1283,381,2,2,47,46,36,41,50,10,52,4,1,0,16,2,1,72,1,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Schouwburgplein 25,0599::SB222,,1542,503,4,0,37,60,61,88,41,13,87,6,0,1,18,2,3,79,3,0,4
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Oostzeedijk 276,0599::SB223,,698,500,3,0,43,40,115,39,25,5,118,5,0,0,17,1,1,82,3,2,4
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Bergwegplantsoen 10,0599::SB224,,988,360,2,1,24,60,30,48,38,13,38,2,0,0,26,1,0,80,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Cypruslaan 404 (links),0599::SB225,,1197,397,1,1,61,44,63,17,23,23,49,2,1,0,14,1,1,94,2,1,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Cypruslaan 404 (rechts),0599::SB226,,1174,402,0,0,53,32,70,27,15,17,56,2,1,1,12,1,0,111,3,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Oudedijk 2,0599::SB227,,1003,537,1,0,62,42,133,37,23,9,150,3,3,0,17,1,1,55,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Centraal Station,0599::SB241,,0,571,3,0,34,82,62,120,52,17,119,6,0,3,22,2,1,44,1,3,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Burgemeester Oudlaan 50,0599::SB242,,0,453,1,0,28,41,122,45,16,10,151,6,0,1,5,1,3,16,4,0,4
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Cranendonckweg 40 (rechts),0599::SB301,,1716,376,2,0,33,32,36,20,25,35,30,0,4,1,38,2,1,119,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Van Wijngaardenlaan 1,0599::SB302,,941,313,0,2,44,35,20,14,26,8,24,1,1,1,28,5,0,105,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Hendrik van Winkelhofstraat 10,0599::SB303,,1050,234,1,1,31,31,17,17,23,15,11,0,0,2,14,1,1,71,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Van Lieshoutstraat 20,0599::SB304,,473,121,0,0,11,20,5,9,14,5,11,0,0,0,7,1,0,38,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Susannadijk 153,0599::SB305,,1301,389,0,0,45,59,18,21,48,13,22,0,0,1,24,0,0,135,2,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Katendrechtsestraat 61 (voor),0599::SB306,,1368,213,1,2,8,33,15,42,25,3,16,0,0,2,11,0,0,56,0,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Molenvliet 208 (ing. Pythagorasweg),0599::SB307,,1029,370,0,1,44,67,24,29,33,17,20,3,1,0,22,3,1,102,2,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Lede 117,0599::SB308,,1159,348,0,3,22,31,6,24,55,19,23,1,1,1,17,5,1,141,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Oldenoord 81 (zijingang),0599::SB309,,1197,340,1,0,31,50,19,20,23,26,23,6,0,0,13,1,0,127,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Bredenoord 124,0599::SB310,,1227,301,0,0,47,41,16,5,22,20,28,0,1,1,9,1,0,109,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Sparrendaal 91,0599::SB311,,1097,365,3,1,34,53,11,15,51,12,12,0,2,0,26,3,1,145,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Beukendaal 99 (links),0599::SB312,,868,338,0,0,32,49,17,28,46,13,26,0,0,3,23,4,1,94,0,1,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Cor Kieboomplein 180,0599::SB313,,1210,313,5,1,33,32,42,16,18,6,41,1,0,2,13,0,0,107,0,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Persoonsstraat 1,0599::SB314,,675,154,0,0,12,32,4,27,26,3,18,0,0,6,4,0,0,22,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Groenezoom 245 (tuiningang),0599::SB315,,1040,369,0,0,21,58,10,23,44,8,13,1,1,2,39,0,1,147,0,1,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Maaskade 39,0599::SB316,,909,301,1,1,21,55,34,29,21,11,62,1,1,0,15,0,0,49,0,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Grote Hagen 98,0599::SB317,,1130,470,0,0,97,75,29,14,28,11,19,1,1,0,25,5,0,164,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Hendrick Croesinckstraat 36,0599::SB318,,877,161,4,2,9,44,3,12,22,9,13,1,0,6,12,1,0,28,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Hillevliet 139,0599::SB319,,904,220,2,2,18,66,1,10,21,8,14,0,1,1,11,0,0,68,0,1,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Slinge 70,0599::SB320,,812,241,2,3,39,44,8,2,15,11,14,0,0,0,6,2,0,99,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Vlasakkerstraat 12,0599::SB321,,1262,169,0,0,9,48,4,11,21,4,9,0,0,8,9,0,0,44,2,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Spinozaweg 451,0599::SB322,,1224,398,2,3,79,36,36,14,40,31,26,0,0,0,15,7,0,114,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Riederlaan 200,0599::SB323,,1213,212,0,3,18,57,6,8,25,19,12,2,0,6,9,0,0,50,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Nassauhaven 297 (links),0599::SB324,,1482,237,4,5,16,86,5,20,30,4,24,1,1,0,8,1,0,37,3,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Sliedrechtstraat 55 (rechts),0599::SB325,,842,239,0,0,27,60,3,19,28,9,7,1,1,0,5,0,0,75,1,1,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Stieltjesstraat 30,0599::SB326,,1456,580,3,1,39,78,80,79,38,7,138,3,0,0,15,1,0,96,3,0,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Aalreep 8,0599::SB327,,1124,431,1,1,54,55,25,31,33,31,33,1,0,0,26,1,0,139,2,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Nassauhaven 297 (rechts),0599::SB328,,1165,158,0,5,4,64,0,14,24,3,18,1,0,4,4,0,2,18,1,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Herkingenstraat 84,0599::SB329,,968,193,0,0,17,53,9,15,16,10,18,0,0,7,14,3,1,29,0,1,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Langenhorst 104,0599::SB330,,911,167,0,1,19,24,5,9,12,20,5,0,0,0,6,1,0,62,0,2,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Putsebocht 89 (links),0599::SB331,,1560,211,0,4,8,97,7,14,23,2,17,0,0,11,3,2,1,25,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Traviataweg 53,0599::SB332,,527,110,0,0,12,30,3,2,13,6,2,0,0,3,6,0,0,33,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Puitstraat 101,0599::SB333,,1257,388,0,1,38,76,10,16,39,34,13,5,1,0,27,4,1,122,1,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Krabbendijkestraat 238 (links),0599::SB334,,963,195,0,0,14,47,7,15,24,12,15,0,0,3,13,0,1,43,0,1,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Katendrechtsestraat 61 (achter),0599::SB335,,1092,340,1,2,18,48,29,48,43,7,49,1,1,0,15,3,1,75,2,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Kerkwervesingel 8 (links),0599::SB336,,1008,138,1,0,16,32,5,6,14,10,2,0,0,0,9,0,0,43,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Afrikaanderplein 7 (links),0599::SB337,,987,191,2,4,7,73,4,2,22,2,9,0,1,6,5,0,0,60,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Herenoord 6,0599::SB338,,957,154,0,0,13,28,7,4,15,7,13,0,0,1,13,1,0,51,0,1,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Joubertstraat 13A,0599::SB339,,1229,158,0,2,5,47,8,10,21,1,19,0,0,4,8,3,0,31,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Montfoortverloop 15,0599::SB340,,1284,166,0,2,10,34,7,8,20,5,6,0,0,0,15,0,0,59,0,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Schoonegge 60,0599::SB341,,1343,377,1,1,60,88,17,25,50,9,11,0,0,1,12,1,1,102,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Noorderhagen 80,0599::SB342,,1097,196,3,2,17,39,7,12,16,23,8,2,0,4,9,1,0,56,1,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Biezenkreek 15,0599::SB343,,1188,333,0,0,38,49,11,11,42,23,10,3,0,0,13,0,0,129,0,1,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Afrikaanderplein 7 (rechts),0599::SB344,,1865,293,1,1,9,108,5,21,44,3,26,1,0,9,4,0,0,62,0,1,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Hijkerveld 9 (links),0599::SB345,,1366,267,0,2,28,57,9,21,25,11,19,0,0,2,10,1,0,84,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Pietersdijk 60,0599::SB346,,1049,217,2,0,19,32,8,9,16,21,11,1,0,1,18,2,0,76,1,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Slaghekstraat 5,0599::SB347,,971,195,0,1,9,65,3,25,16,4,8,1,0,3,3,0,0,58,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Putselaan 64,0599::SB348,,917,159,0,0,10,58,2,14,24,7,15,1,0,7,2,0,0,19,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Zuidpolderstraat 47,0599::SB349,,1555,221,0,2,8,60,7,20,32,14,15,4,1,11,7,0,2,40,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Nieuwe Wetering 251 (voor),0599::SB350,,1068,232,0,0,26,38,24,10,19,9,17,0,0,2,3,0,0,83,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Arcenstraat 31 (voor),0599::SB351,,1525,277,0,0,20,51,12,12,31,5,15,2,2,3,19,0,0,104,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Alverstraat 141,0599::SB352,,1514,357,0,2,45,65,21,10,31,15,31,1,0,7,21,1,2,105,2,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Lange Hilleweg 380,0599::SB353,,1021,179,2,0,19,19,12,14,20,6,7,2,0,1,11,0,0,66,0,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Oudelandstraat 75 (links),0599::SB354,,939,139,0,1,6,19,3,3,16,3,9,1,0,0,12,0,0,66,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Oudelandstraat 75 (rechts),0599::SB355,,945,192,0,0,7,35,5,8,18,3,5,1,0,0,14,2,0,94,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Weimansweg 9 (achteringang),0599::SB356,,945,229,0,1,13,29,8,17,32,10,9,0,0,2,11,2,0,96,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Mr. Arend vd Woudensln 41,0599::SB357,,666,152,6,0,13,27,13,11,16,1,13,4,1,0,5,1,0,46,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Saffraanstraat 105,0599::SB358,,1104,262,1,0,34,40,22,4,25,16,12,0,1,0,8,2,0,96,2,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Barbeelsingel 55,0599::SB359,,1065,325,0,2,49,46,12,10,40,12,26,0,1,0,10,0,0,118,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Arcenstraat 31 (achter),0599::SB360,,1522,259,2,0,11,42,4,21,24,11,10,0,2,1,21,0,1,111,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Grift 42,0599::SB361,,1487,441,0,2,36,49,13,29,45,26,24,1,0,1,28,2,0,183,1,0,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Schuilingsoord 8,0599::SB362,,729,304,2,0,69,46,17,11,18,8,7,0,2,0,15,1,1,107,1,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Pinksterweide 31,0599::SB363,,1176,288,0,0,26,42,7,12,30,18,6,0,1,0,17,2,0,125,0,1,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Oude Watering 324 (rechts),0599::SB364,,1272,224,0,1,20,46,8,14,16,10,13,0,2,2,19,2,0,71,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Persoonshaven 650,0599::SB365,,945,164,0,1,7,63,8,10,22,5,10,0,0,1,3,0,0,35,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Nudenoord 38,0599::SB366,,1038,390,1,1,36,33,27,22,19,121,25,0,0,0,14,3,0,89,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Rijtuigweg 1,0599::SB367,,1200,181,0,5,5,64,3,13,23,4,19,1,0,1,4,0,1,42,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Sliedrechtstraat 55 (links),0599::SB368,,1120,181,0,1,28,42,4,12,25,7,6,1,0,3,7,2,0,44,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Putsebocht 183,0599::SB369,,1561,224,0,1,10,96,5,10,25,5,12,0,0,3,7,0,0,46,1,1,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Nieuwe Wetering 251 (achter),0599::SB370,,1360,281,0,0,25,30,21,7,31,11,18,0,1,5,22,3,0,103,3,1,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Putsebocht 89 (rechts),0599::SB371,,1029,165,0,0,8,81,4,12,19,5,10,0,0,5,3,1,0,16,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Gebbeweg 10 (rechts),0599::SB372,,1490,372,0,2,39,59,30,19,45,14,31,1,3,3,15,2,0,107,3,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Mosoelstraat 20,0599::SB373,,1183,305,1,0,41,53,18,6,31,13,23,2,0,0,22,3,0,93,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Prins Hendriklaan 22,0599::SB374,,1548,520,1,1,34,52,37,100,71,15,89,5,0,4,22,1,1,81,2,1,5
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Horatiusstraat 50,0599::SB375,,902,210,0,2,30,43,5,3,21,6,9,0,0,0,8,0,0,85,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Hollands tuin 85,0599::SB376,,982,215,2,1,16,55,5,13,16,11,4,0,0,1,9,0,0,83,2,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Maashaven O.z. 151,0599::SB377,,1243,207,1,10,15,71,10,13,20,2,10,0,1,4,14,0,0,46,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Millinxstraat 69,0599::SB378,,999,155,2,3,11,39,7,15,21,12,20,0,0,0,4,2,0,24,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Rijsoordpad 15,0599::SB379,,594,99,1,1,5,17,2,9,10,12,3,3,0,1,4,0,0,31,0,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Hoogvlietstraat 43,0599::SB380,,1231,215,0,4,7,67,3,12,30,1,13,2,0,5,5,3,0,67,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Aesopusplaats 2,0599::SB381,,1094,289,0,1,34,50,16,19,21,20,17,3,0,0,12,2,0,92,1,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Clemensstraat 111 (voor),0599::SB382,,1431,348,1,3,20,77,19,36,42,13,34,2,0,0,16,3,2,84,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Lengweg 25,0599::SB383,,803,134,0,0,11,27,2,4,5,8,11,0,0,0,11,2,1,49,0,1,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Polslandstraat 47,0599::SB384,,1102,133,0,0,11,30,7,6,19,10,6,0,0,1,5,2,0,35,0,1,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Ravenswaard 5,0599::SB385,,1245,396,0,1,88,68,16,17,31,23,19,0,0,0,14,1,0,118,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Groene tuin 1,0599::SB386,,1046,308,0,1,46,61,17,15,26,8,15,0,1,0,17,2,0,95,1,0,4
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Menanderstraat 89,0599::SB387,,847,180,0,6,9,57,6,17,22,9,6,1,0,2,6,1,0,43,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Wolphaertsbocht 500,0599::SB388,,980,153,0,0,8,36,3,4,22,8,16,0,0,4,2,1,0,47,1,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Katendrechtse Lagedijk 186 (links),0599::SB389,,1123,537,1,1,81,45,37,37,39,26,54,2,0,0,30,1,1,181,1,2,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Gooilandsingel 11,0599::SB390,,1177,320,1,1,32,64,23,24,27,11,35,3,0,2,15,1,1,81,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Bevelandsestraat 30,0599::SB391,,1097,266,4,0,23,50,3,18,47,17,16,4,0,0,14,1,0,72,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Beukendaal 99 (rechts),0599::SB392,,1062,259,0,0,17,38,14,18,34,9,21,1,2,0,16,1,2,84,2,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Boomgaardhoekseweg 93,0599::SB393,,1294,354,0,0,34,61,33,19,33,24,26,1,0,2,8,0,0,112,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Gruttostraat 9,0599::SB394,,826,234,0,0,15,49,12,32,23,15,20,0,1,2,8,2,0,55,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Eksterstraat 101,0599::SB395,,892,214,0,0,25,48,6,10,27,13,4,0,1,1,15,1,2,60,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Spoorweghaven 172,0599::SB396,,1337,337,3,2,13,72,16,33,47,5,44,1,0,3,9,5,0,88,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Voornsevliet 4 (voor),0599::SB397,,1195,254,1,1,25,36,7,20,25,25,15,1,1,3,14,3,0,78,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Klencke 7,0599::SB398,,1035,311,1,1,56,55,13,10,34,20,11,0,0,1,15,2,0,93,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Huniadijk 251,0599::SB399,,1221,321,0,0,36,53,9,19,46,30,16,1,1,0,12,0,1,94,0,0,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Scherpenhoek 5,0599::SB400,,558,172,0,0,19,35,11,10,9,9,10,1,1,0,8,0,0,58,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Katendrechtse Lagedijk 186 (rechts),0599::SB401,,680,111,0,1,6,14,9,5,13,9,16,0,0,3,3,1,0,32,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Akkerwinde 1 (links),0599::SB402,,1370,278,0,0,29,34,28,13,30,11,28,0,0,2,14,2,0,85,0,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Slinge 303,0599::SB403,,844,199,2,2,17,28,8,12,32,5,18,0,0,2,11,3,0,62,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Voornsevliet 4 (achter),0599::SB404,,1619,288,0,1,22,32,10,29,42,29,20,1,0,1,11,1,0,90,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Landmanstraat 2,0599::SB405,,1426,378,0,0,36,32,28,44,49,28,46,1,0,8,16,1,0,88,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Texelsestraat 18,0599::SB406,,1252,220,1,3,16,22,13,13,35,14,20,1,0,1,15,2,1,67,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Schulpplein 50,0599::SB407,,873,245,0,2,39,45,4,19,22,20,29,0,0,4,9,0,1,51,2,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Akkerwinde 1 (midden),0599::SB408,,897,368,0,0,39,38,36,18,45,7,22,2,1,0,24,5,0,131,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Akkerwinde 1 (rechts),0599::SB409,,1316,258,0,0,30,38,25,11,23,10,25,5,0,1,13,2,0,74,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Burgemeester van Esstraat 34,0599::SB410,,1526,545,2,5,137,43,44,24,23,48,31,2,0,0,26,3,0,163,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Gebbeweg 10 (rechts),0599::SB411,,1004,346,0,1,44,50,31,21,38,13,22,0,0,0,14,1,0,110,0,0,2
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Cornelis van Dijckstraat 3,0599::SB412,,1055,274,0,3,54,41,7,12,20,16,7,2,0,0,3,2,0,108,0,2,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Sara Burgerhartweg 60,0599::SB413,,1318,289,0,3,55,48,11,17,30,19,10,1,0,1,12,0,0,85,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Zwartewaalstraat 191,0599::SB414,,1011,177,2,1,15,32,5,8,17,25,9,1,0,0,13,1,0,51,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Strevelsweg 350,0599::SB415,,893,181,0,1,17,24,10,9,16,8,14,0,0,2,11,1,0,68,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Clemensstraat 111 (achter),0599::SB416,,1455,317,5,2,31,64,7,24,40,6,27,4,1,1,27,2,0,83,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Albatroslaan 10,0599::SB417,,844,231,0,0,36,54,8,21,21,6,15,0,0,2,10,0,0,57,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Kerkwervesingel 8 (rechts),0599::SB418,,904,168,0,0,20,44,10,15,9,2,6,0,0,1,3,0,1,57,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Roerdomplaan 22,0599::SB419,,1098,301,2,2,25,40,21,24,32,17,21,0,0,4,14,2,1,96,1,0,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Heindijk 20 (zijingang),0599::SB420,,1023,203,0,0,25,42,5,10,23,15,15,0,0,4,10,1,0,53,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Rollostraat 75,0599::SB421,,908,209,1,1,9,29,3,10,36,20,5,0,0,0,18,1,0,78,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Boekenstein 6 (ingang Schere),0599::SB422,,1416,390,0,0,39,76,13,25,40,10,17,2,1,1,14,2,0,145,4,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Cranendonckweg 40 (links),0599::SB423,,1640,472,1,4,61,36,42,24,45,35,34,3,2,3,29,4,0,150,1,0,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Sportsingel 62,0599::SB424,,786,223,0,0,13,45,2,6,19,3,10,0,0,0,11,1,0,112,0,1,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Kruisnetlaan 410,0599::SB425,,1561,415,0,2,58,58,23,20,33,30,48,0,0,0,17,1,1,124,0,2,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Courzandseweg 51,0599::SB426,,1150,341,0,0,35,54,7,16,57,6,27,0,0,0,25,2,0,109,2,1,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Oude Watering 324 (links),0599::SB427,,1487,262,2,0,24,44,7,17,24,13,14,0,1,4,16,2,1,95,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Othelloweg 6,0599::SB428,,1235,190,0,3,16,43,7,6,24,5,7,1,0,1,7,0,0,70,2,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Sluiskreek 322,0599::SB429,,1105,397,3,1,68,62,12,16,24,24,14,0,2,0,16,0,1,157,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Hijkerveld 9 (rechts),0599::SB430,,1023,282,0,0,29,38,13,23,35,11,15,1,1,0,16,2,0,97,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Ring 15,0599::SB431,,1170,342,1,1,71,40,17,10,27,27,7,0,0,0,16,3,0,123,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Gerrit-Jan v.d. Veenpad 30,0599::SB432,,1376,293,0,0,38,21,25,18,26,17,15,2,0,0,14,5,0,112,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Homerusplein 1 (zijingang),0599::SB433,,829,173,1,0,25,45,4,9,20,7,6,0,0,3,5,1,0,47,1,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau W.G. Witteveenplein 10,0599::SB434,,1358,623,0,0,33,95,60,122,36,11,196,4,1,0,13,3,1,40,3,0,5
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Marthalaan 2,0599::SB435,,655,191,2,0,33,42,4,11,18,8,9,1,1,0,12,1,0,51,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Van Langendonckstraat 51,0599::SB436,,945,251,0,0,25,47,14,10,13,15,21,1,0,0,19,1,0,80,3,1,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Jagerslaan 15 (ingang Vorkstraat),0599::SB437,,924,170,1,1,9,25,6,6,23,14,7,0,0,0,15,1,0,64,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Schinnenbaan 130,0599::SB438,,1467,268,0,1,24,59,4,17,33,13,5,0,1,5,19,0,0,88,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Pascalweg 41,0599::SB439,,1495,386,2,4,52,73,24,19,36,28,25,1,0,2,24,1,2,97,1,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Carnissedreef 4 (achter),0599::SB440,,513,92,0,1,6,22,3,3,7,0,3,0,0,2,5,0,1,40,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Carnissedreef 4 (voor),0599::SB441,,996,135,0,2,7,24,2,17,17,4,13,1,0,1,5,1,1,39,0,0,3
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Groene-Kruisweg 381,0599::SB442,,321,96,0,1,28,22,5,3,3,12,3,0,0,0,3,2,1,12,0,1,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Krabbendijkestraat 238 (rechts),0599::SB443,,1189,203,1,0,27,41,12,14,17,10,11,1,0,2,5,1,0,62,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Plein 1953 nr. 191,0599::SB444,,1210,357,1,2,26,79,15,14,32,14,18,1,1,0,12,6,0,138,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Guido Gezelleweg 22,0599::SB445,,632,135,0,1,8,20,6,17,14,9,8,2,1,1,8,2,1,38,0,0,0
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Lokhorst 200,0599::SB446,,1054,296,0,0,30,57,19,20,16,10,22,4,0,5,14,2,0,96,0,0,1
+,Rotterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Max Havelaarweg 53,0599::SB447,,1097,222,0,2,35,38,23,13,27,4,10,0,3,2,13,3,1,50,0,0,0

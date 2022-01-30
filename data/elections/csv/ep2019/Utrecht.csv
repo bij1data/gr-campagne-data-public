@@ -1,0 +1,176 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Democraten 66 (D66),CDA - Europese Volkspartij,PVV (Partij voor de Vrijheid),VVD,SP (Socialistische Partij),P.v.d.A./Europese Sociaaldemocraten,ChristenUnie-SGP,GROENLINKS,Partij voor de Dieren,50PLUS,JEZUS LEEFT,DENK,De Groenen,Forum voor Democratie,vandeRegio & Piratenpartij,Volt Nederland
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stadhuis,0344::SB1,3512 GG,1378,1116,1,3,0,1,6,1022,91,0,0,0,0,0,1119,172,36,2,170,17,168,27,336,70,7,0,1,3,25,4,78
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stadhuis,0344::SB2,3512 GG,1377,858,4,0,0,2,10,795,59,0,0,2,0,0,864,132,26,3,97,10,117,21,313,49,9,0,4,3,21,0,53
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau TivoliVredenburg,0344::SB3,3511 WC,1310,1070,0,1,1,0,11,993,68,0,0,1,0,0,1072,157,38,14,129,11,155,18,371,59,15,0,7,1,44,6,45
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Kargadoor,0344::SB4,3511 AP,1560,1420,1,0,0,0,5,1292,124,0,0,0,0,0,1421,205,73,9,173,23,232,15,466,100,7,0,4,3,38,7,65
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Singelzicht,0344::SB5,3512 CR,1099,1043,0,2,0,3,8,950,90,0,0,3,0,0,1048,174,32,2,151,13,122,7,376,57,4,0,1,4,29,5,66
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau ODBS Pieterskerkhof,0344::SB6,3512 JR,2233,1131,0,2,0,0,4,1024,105,0,0,0,0,0,1133,166,48,7,120,23,215,27,353,73,3,0,3,0,40,4,49
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal Agatha Snellen School,0344::SB7,3512 XG,1731,1143,0,0,0,1,6,1029,109,0,0,1,0,0,1144,191,33,9,146,18,206,17,329,75,11,0,2,2,26,2,76
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Bartholomeus Gasthuis,0344::SB8,3511 PZ,506,1157,6,0,0,0,2,1072,89,0,0,0,0,0,1163,151,35,15,108,24,251,18,362,86,12,0,0,3,33,1,58
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau ODBS Puntenburg,0344::SB9,3511 ER,231,249,0,0,0,0,1,222,26,0,0,0,0,0,249,37,10,2,35,4,45,4,75,8,1,0,0,1,13,2,12
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Nieuwe Vaart,0344::SB10,3511 MH,899,412,0,0,0,0,1,370,41,0,0,0,0,0,412,57,13,2,49,5,87,6,123,21,7,1,6,1,14,0,20
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Chr. Jenaplanschool De Brug,0344::SB13,3531 JJ,1908,1182,0,0,0,0,2,1076,104,0,0,0,0,0,1182,154,35,11,114,22,222,12,404,68,21,4,28,1,42,3,41
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurthuis Muntmeesters,0344::SB14,3531 HD,873,749,2,2,0,2,2,697,56,0,0,2,0,0,755,103,23,3,75,5,126,11,289,52,2,0,7,2,16,1,34
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau KBS De Catharijnepoort,0344::SB16,3532 VM,1630,655,0,3,0,4,0,614,48,0,0,4,0,0,662,105,25,4,62,5,129,15,208,42,4,0,10,1,16,1,28
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau KBS De Catharijnepoort,0344::SB17,3532 VM,1413,749,1,2,0,2,0,685,69,0,0,2,0,0,754,115,25,1,73,21,119,9,283,33,6,0,15,1,12,3,33
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Van Asch van Wijckschool,0344::SB18,3532 CX,1176,725,2,1,0,2,3,659,68,0,0,2,0,0,730,110,25,7,62,8,123,18,276,32,11,0,11,2,17,3,20
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau KBS De Catharijnepoort,0344::SB20,3532 HK,2408,988,4,0,0,0,7,892,93,0,0,0,0,0,992,117,52,15,72,15,156,67,310,69,10,1,18,2,55,3,26
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal OBS Oog in Al,0344::SB22,3533 TE,1334,790,3,0,0,1,2,704,88,0,0,1,0,0,794,93,48,5,96,17,156,25,235,47,7,0,18,4,20,1,18
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal Franz Schubertstraat,0344::SB23,3533 GW,742,952,1,1,1,0,5,849,99,0,1,0,0,0,953,157,50,5,126,9,222,10,271,41,7,0,0,4,25,0,25
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Wartburg,0344::SB24,3533 KJ,1065,385,0,2,0,0,1,348,38,0,0,0,0,0,387,36,29,7,58,19,96,7,65,19,11,0,3,1,24,1,9
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Park Welgelegen (hoofdingang),0344::SB25,3533 HD,1653,747,2,3,0,1,2,692,59,0,0,1,0,0,753,118,54,7,101,6,139,20,189,43,13,0,3,3,29,1,21
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurtcentrum Oase,0344::SB26,3534 BA,1610,489,1,0,0,0,0,447,45,2,0,2,0,0,492,51,19,8,50,18,60,16,177,30,7,0,4,1,29,1,18
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Ludgerschool,0344::SB27,3553 SR,1651,631,1,0,0,0,4,567,61,0,0,0,0,0,632,63,27,19,65,10,110,16,205,44,2,0,2,4,46,2,16
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurthuis Zuilen,0344::SB28,3553 CX,1073,814,1,0,0,0,4,741,70,0,0,0,0,0,815,96,48,15,68,18,146,17,245,45,16,4,5,3,59,5,24
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Bij Bosshardt (Leger des Heils),0344::SB29,3554 GE,1747,296,0,0,0,0,0,269,27,0,0,0,0,0,296,28,8,27,22,13,40,15,76,12,10,1,7,0,33,0,4
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Kleine Vliegenier,0344::SB30,3555 AM,1843,735,1,2,0,2,3,661,76,0,0,2,0,0,740,86,50,34,56,30,113,35,175,43,10,2,12,1,66,0,22
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Vorstelijk Complex,0344::SB31,3554 JK,1554,650,0,0,0,0,0,566,84,0,0,0,0,0,650,80,34,17,63,12,115,25,175,31,19,0,14,1,32,3,29
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymlokaal Prof. H. Bavinckstraat,0344::SB32,3555 GS,2297,703,4,0,0,0,0,635,75,3,0,3,0,0,710,76,41,34,71,30,127,28,129,27,14,1,27,1,76,3,18
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal Mereveldlaan,0344::SB33,3454 CA,1696,708,0,0,0,0,1,630,78,0,0,1,0,0,709,73,74,27,147,14,133,35,68,24,18,0,3,3,69,2,18
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS De Cirkel,0344::SB34,3554 GJ,1401,460,0,0,0,1,0,411,48,0,1,0,0,0,459,55,21,4,41,10,81,26,122,30,6,0,29,0,15,5,15
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Bibliotheek Zuilen,0344::SB35,3554 GL,1844,1016,1,2,0,0,3,918,98,0,0,0,0,0,1019,101,53,32,74,27,146,46,276,56,23,2,63,3,72,1,41
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Ludgerschool,0344::SB36,3554 AW,1766,690,1,2,0,0,1,633,59,0,0,0,0,0,693,95,37,18,72,24,95,28,193,29,11,0,28,3,33,4,20
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau KBS Wijzer aan de Vecht,0344::SB37,3554 VZ,1168,314,0,1,0,0,4,279,32,0,0,0,0,0,315,34,10,14,23,11,52,10,82,16,5,1,21,0,22,2,11
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal Amsterdamsestraatweg,0344::SB38,3513 AA,1602,848,3,2,0,1,0,766,86,0,1,0,0,0,852,127,24,5,105,16,130,12,269,41,5,0,24,3,33,4,50
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal Amsterdamsestraatweg,0344::SB39,3513 AA,1472,892,1,2,2,0,4,818,75,0,0,2,0,0,897,137,28,5,93,26,132,18,278,59,7,1,20,1,36,1,50
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Speeltuin Noordsepark,0344::SB40,3513 GW,2253,582,2,0,0,0,2,520,63,0,0,1,0,0,585,80,26,11,65,13,83,8,175,57,2,0,10,0,28,1,23
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurthuis De Uithoek,0344::SB41,3551 EJ,1654,640,3,0,0,1,2,590,52,0,0,1,0,0,644,84,33,6,72,17,88,14,219,36,2,2,6,1,23,3,34
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkservicecentrum Noordwest,0344::SB42,3551 DJ,1884,1053,1,1,0,0,3,973,80,0,0,1,0,0,1056,151,32,25,121,21,151,29,324,68,13,0,14,3,56,0,45
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal Opzoomerstraat,0344::SB43,3551 BP,1655,682,2,0,0,1,1,633,49,0,1,0,0,0,683,86,30,12,52,20,86,19,219,52,2,0,23,2,51,1,27
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Taalschool Utrecht,0344::SB44,3552 EB,1895,804,1,0,0,0,3,718,84,0,0,0,0,0,805,119,30,29,72,10,109,17,217,47,10,0,45,3,71,0,25
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Kerkcentrum Nicolaas Monica,0344::SB45,3552 CT,1865,542,1,0,0,7,2,478,56,0,7,0,0,0,536,55,21,25,45,20,74,22,136,31,23,0,23,0,46,0,21
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau St. Antonius ziekenhuis,0344::SB46,3543 AZ,0,246,0,1,0,0,2,224,21,0,0,0,0,0,247,39,11,2,31,11,47,5,57,7,4,1,9,2,17,0,3
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Muziekhuis Utrecht,0344::SB47,3552 XE,1580,523,1,1,0,0,1,478,46,0,0,0,0,0,525,74,18,13,44,14,77,9,168,34,9,0,9,1,35,2,16
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Provinciehuis,0344::SB48,3584 BA,571,371,0,0,0,0,2,338,31,0,0,0,0,0,371,64,21,0,53,2,51,11,114,17,5,0,0,2,5,1,25
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Ondernemingshuis Overvecht,0344::SB49,3561 VA,1329,485,2,1,0,0,1,435,52,0,0,0,0,0,488,39,28,12,29,18,80,38,128,20,9,0,38,0,28,3,15
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Bibliotheek Overvecht,0344::SB50,3562 KW,1962,875,4,2,0,0,4,812,65,0,0,0,0,0,881,96,52,27,83,26,162,39,185,47,26,1,38,4,59,2,28
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Johannescentrum,0344::SB52,3561 GD,1518,688,2,1,0,0,0,635,56,0,0,0,0,0,691,68,51,19,53,22,111,67,186,25,5,0,25,3,30,3,20
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau PC Basisschool Op Dreef,0344::SB53,3561 SB,1676,329,1,1,0,0,0,290,41,0,0,0,0,0,331,26,11,10,24,15,55,10,68,13,5,0,66,0,19,0,7
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Kantine,0344::SB54,3561 CB,1592,346,0,1,0,0,0,298,49,0,0,0,0,0,347,26,13,23,29,18,76,14,51,13,5,0,23,2,44,1,8
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau R.O.C. Kretadreef,0344::SB55,3562 VA,1681,256,4,0,0,0,3,235,22,0,0,0,0,0,260,19,20,20,11,21,29,14,35,8,5,0,44,0,24,0,6
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sociëteit Dombra,0344::SB56,3562 AL,1417,404,1,0,0,0,0,349,56,0,0,0,0,0,405,16,25,29,22,18,55,25,79,16,16,1,39,0,49,1,13
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorgcentrum Zuylenstede,0344::SB58,3563 VA,1819,510,2,1,0,0,2,465,46,0,0,0,0,0,513,33,54,21,25,16,86,19,114,34,23,1,32,0,43,3,6
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Castellum Hoge Woerd,0344::SB59,3454 PB,588,433,0,0,0,0,1,378,54,0,0,0,0,0,433,62,41,9,95,9,70,17,82,11,8,2,0,0,20,1,6
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Huis aan de Vecht,0344::SB60,3563 TA,1772,477,3,3,0,0,0,428,58,0,0,3,0,0,486,34,41,27,28,16,95,28,85,24,21,0,26,2,44,2,4
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBO De Klopvaart,0344::SB61,3564 XZ,1523,256,1,0,0,0,0,233,24,0,0,0,0,0,257,19,7,11,11,16,48,16,60,11,9,0,20,1,17,0,10
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Verpleeghuis Rosendael,0344::SB62,3564 GV,1719,543,1,2,0,0,1,482,63,0,0,0,0,0,546,21,46,20,50,40,84,26,90,19,18,2,62,2,57,0,6
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurthuis De Boog,0344::SB64,3564 ES,1403,382,0,2,0,0,3,351,30,0,0,0,0,0,384,16,17,14,16,19,63,35,84,15,7,1,53,2,30,3,7
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Katholieke basisschool Mattheus,0344::SB65,3564 RA,2112,497,0,0,0,0,2,448,47,0,0,0,0,0,497,20,28,23,32,21,89,26,88,23,10,0,69,1,49,4,14
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS De Koekoek,0344::SB66,3514 TT,1312,794,1,0,4,0,0,720,71,0,4,0,0,0,791,136,16,6,115,10,133,8,260,42,6,0,1,4,10,3,44
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau St. Josephkerk,0344::SB67,3515 EM,892,756,3,0,0,0,0,692,67,0,0,0,0,0,759,104,21,4,85,4,131,21,286,41,5,0,5,4,23,1,21
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS De Koekoek,0344::SB68,3514 TT,1311,776,1,0,3,0,2,697,75,0,3,0,0,0,774,135,25,3,105,9,131,10,231,48,6,0,1,5,29,1,37
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sportschool Olympia,0344::SB69,3515 AG,1302,687,2,0,0,0,0,630,59,0,0,0,0,0,689,111,29,11,92,15,107,11,200,43,1,0,5,5,26,2,29
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stadsboerderij/Speeltuin Griftsteede,0344::SB70,3514 XR,1381,939,2,0,0,0,1,855,87,0,0,2,0,0,943,134,27,6,114,20,181,19,309,73,3,0,0,1,21,3,28
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal Maria van Reedestraat,0344::SB71,3515 XJ,1327,887,0,0,0,0,2,808,77,0,0,0,0,0,887,126,32,3,94,18,170,14,295,48,5,1,4,1,28,3,45
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurthuis De Leeuw,0344::SB72,3515 EA,2588,1186,3,2,0,0,5,1068,119,0,0,1,1,0,1192,114,42,15,77,33,244,52,391,76,8,4,39,6,33,1,51
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau ZIMIHC theater Wittevrouwen,0344::SB74,3572 SP,1603,1042,1,0,0,0,2,929,112,0,0,0,0,0,1043,143,41,6,164,12,187,24,335,54,2,0,1,4,16,1,52
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Jenaplanschool Wittevrouwen,0344::SB76,3572 HD,1792,1481,3,1,0,2,1,1326,160,0,0,2,0,0,1487,257,57,9,195,21,276,15,466,80,5,1,0,1,28,3,67
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Jenaplanschool Wittevrouwen,0344::SB77,3572 TJ,1932,896,1,0,0,1,4,819,75,0,0,1,0,0,898,143,36,6,132,10,153,13,277,46,8,0,0,0,20,2,50
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School Nimeto Utrecht,0344::SB78,3572 LP,1568,804,0,3,0,1,3,721,84,0,0,1,0,0,808,107,32,7,126,14,158,15,221,47,9,0,5,1,22,4,36
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Nieuw Bleyenburg / Wijkcentrum de Helden,0344::SB79,3572 LA,1792,995,4,1,0,0,2,917,81,0,0,0,0,0,1000,102,62,12,112,21,239,31,277,46,18,1,1,2,38,2,31
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau RK Kerk,0344::SB80,3571 VK,1633,1417,0,0,0,0,4,1250,164,0,0,1,0,0,1418,237,89,7,209,20,336,55,304,51,13,0,1,4,40,2,49
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Jeruzalemkerk,0344::SB81,3571 NN,1635,1112,1,1,0,0,2,1023,89,0,0,0,0,0,1114,124,89,15,128,20,261,29,282,50,16,0,2,3,61,1,31
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau USV Hercules,0344::SB82,3573 PV,1070,595,2,0,0,0,1,525,71,0,0,0,0,0,597,82,39,11,76,12,145,8,136,34,7,0,0,0,28,1,16
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS Voordorp,0344::SB83,3573 BK,1490,896,1,1,0,1,4,815,80,0,0,1,0,0,899,106,39,6,85,20,245,13,216,54,15,0,10,2,54,1,30
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorgcentrum Tuindorp-Oost,0344::SB84,3571 KE,962,545,0,1,0,2,0,491,57,0,0,2,0,0,548,78,52,18,62,12,114,18,107,23,12,0,5,0,31,0,13
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS Tuindorp,0344::SB85,3571 EN,1992,1131,0,0,0,1,6,976,150,0,0,1,0,0,1132,203,54,6,182,5,266,21,264,44,8,1,3,3,25,1,45
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Krammstate,0344::SB87,3571 AX,1356,681,0,2,0,0,1,629,53,0,0,0,0,0,683,95,31,7,56,14,102,26,254,24,2,0,1,1,22,6,40
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Parnassos,0344::SB88,3581 GK,935,741,1,0,0,0,2,678,62,0,0,0,0,0,742,103,26,8,87,19,124,12,244,46,10,0,1,7,15,2,37
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Nieuwe Regentesseschool,0344::SB89,3581 GL,1665,859,2,1,0,0,2,767,93,0,0,0,0,0,862,142,24,5,110,14,160,12,273,55,3,0,3,3,25,1,29
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal Schoolplein,0344::SB90,3581 PX,1113,936,0,1,0,0,1,854,82,0,0,0,0,0,937,158,46,3,142,11,175,9,256,32,8,1,0,0,31,0,64
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Podium Oost,0344::SB91,3581 LJ,1316,927,2,2,0,0,3,826,102,0,0,0,0,0,931,137,49,3,136,11,167,13,264,57,8,1,1,5,24,1,50
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sporting '70,0344::SB92,3573 PV,882,305,0,0,0,0,2,273,30,0,0,0,0,0,305,70,12,2,49,5,56,5,67,17,2,0,0,0,10,0,10
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool De Odyssee,0344::SB93,3581 MJ,1433,952,2,4,0,0,3,858,97,0,0,0,0,0,958,159,34,10,141,24,147,16,307,39,8,1,4,5,24,2,31
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Geerteschool,0344::SB94,3582 AX,1871,999,3,3,0,0,4,921,80,0,0,0,0,0,1005,150,31,10,122,15,146,11,309,69,6,0,3,2,47,6,72
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurthuis Sterrenzicht,0344::SB95,3582 PL,1259,625,2,0,0,1,2,554,72,0,0,1,0,0,628,92,35,22,55,15,80,10,184,39,7,2,3,0,57,2,22
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal Burg. Fockema Andreaelaan,0344::SB96,3582 KA,2651,1183,5,0,0,0,2,1103,83,0,0,0,0,0,1188,170,50,9,103,19,205,20,403,73,9,0,5,5,47,10,55
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Prof. Kohnstammschool,0344::SB98,3582 HD,1385,530,2,2,0,0,0,487,47,0,0,0,0,0,534,101,36,5,57,5,101,17,152,24,4,0,0,2,8,0,18
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Rode Kruis,0344::SB99,3582 GE,1120,686,1,1,0,0,1,633,56,0,0,2,0,0,690,90,28,7,51,17,104,13,237,75,10,0,0,0,27,3,24
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Utrechtse Schoolvereniging,0344::SB100,3583 BP,1603,1233,1,2,0,2,2,1088,148,0,0,2,0,0,1238,186,54,11,194,14,244,18,333,68,22,0,2,1,31,1,54
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Hoogstraat Revalidatie,0344::SB101,3583 TM,1813,1164,1,2,0,1,1,1019,149,1,0,2,0,0,1169,177,43,6,189,20,232,20,304,56,7,0,0,4,29,2,75
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Daltonschool Rijnsweerd,0344::SB103,3584 GV,1068,912,0,1,0,0,2,793,118,0,0,0,0,0,913,149,40,6,160,12,202,18,205,38,6,0,1,31,8,1,35
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau University College Utrecht,0344::SB104,3584 EE,1107,505,0,2,0,0,4,450,53,0,0,0,0,0,507,70,16,2,65,6,92,11,171,16,4,0,1,2,13,1,35
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Saffier,0344::SB106,3523 RC,1773,1004,4,1,0,0,1,925,84,1,0,1,0,0,1010,122,33,9,78,35,163,45,358,63,10,0,4,4,29,3,48
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Kinderboerderij Nieuw Rotsoord,0344::SB107,3523 CL,1717,1009,2,1,0,2,6,915,89,0,2,0,0,0,1010,155,48,4,109,8,144,24,395,49,2,0,3,5,30,4,29
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Grand Hotel Karel V,0344::SB108,3511 XA,979,601,3,0,0,0,4,551,49,0,0,0,0,0,604,93,19,1,63,8,91,11,216,45,2,0,0,5,23,1,23
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sporthal Hoograven,0344::SB109,3523 KJ,1328,798,3,2,0,3,5,709,92,0,0,3,0,0,806,124,48,17,82,19,143,19,238,36,10,0,2,1,34,4,21
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Scoutcentrum Utrecht,0344::SB110,3525 BL,1291,554,1,0,0,0,4,506,45,0,0,0,0,0,555,73,27,14,59,11,103,15,154,24,19,2,2,0,36,1,14
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Kringloopcentrum De Arm,0344::SB111,3525 BB,1626,654,4,0,0,0,2,581,75,0,0,0,0,0,658,88,34,6,59,19,127,10,199,31,13,2,16,0,24,0,26
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkbureau Zuid,0344::SB112,3525 AA,1510,871,1,1,2,0,5,782,84,0,2,0,0,0,871,113,37,14,80,16,141,14,280,48,22,2,26,8,41,3,26
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wooncomplex Nieuw Plettenburgh,0344::SB113,3523 XZ,2702,1204,6,3,0,0,3,1099,111,0,0,0,0,0,1213,142,83,31,132,37,213,32,305,68,32,1,14,2,75,4,33
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Baanbreker,0344::SB114,3524 HH,1533,658,0,0,0,2,1,578,81,0,0,2,0,0,660,64,33,2,39,26,144,35,224,29,10,0,1,2,29,0,20
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal Goeree 6,0344::SB115,3524 ZZ,2633,1092,3,2,0,0,2,993,103,1,0,1,0,0,1098,80,41,19,74,37,252,29,381,59,23,2,12,5,47,4,27
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Koppelsteede,0344::SB116,3524 SK,1714,666,3,2,0,0,0,600,71,0,0,0,0,0,671,55,25,23,38,20,130,19,206,50,13,0,3,2,58,3,21
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wooncentrum De Koppel,0344::SB118,3524 BX,1689,782,3,2,0,0,4,732,51,0,0,0,0,0,787,84,26,14,64,24,135,21,273,61,10,1,5,3,29,4,28
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Activiteitencentrum De Musketon,0344::SB119,3524 BP,1316,1371,2,4,0,3,7,1242,125,0,3,0,0,0,1374,142,49,19,81,45,272,42,456,119,21,3,8,3,58,8,45
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorghotel Domstate,0344::SB121,3526 KJ,766,227,1,0,0,0,3,215,10,0,0,0,0,0,228,22,15,7,29,12,54,6,40,16,5,1,0,0,11,3,6
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau MBO Utrecht,0344::SB122,3526 AB,2121,302,1,5,0,0,1,271,36,0,0,0,0,0,308,24,6,9,18,15,60,16,54,14,4,1,53,0,21,1,6
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Da Costaschool Kanaleneiland,0344::SB123,3526 VN,1895,526,3,0,0,1,1,451,78,0,0,1,0,0,530,48,21,7,33,18,91,21,109,21,7,0,109,1,24,2,14
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Universitair Medisch Centrum Utrecht,0344::SB124,3584 CX,0,488,0,1,0,2,8,451,32,0,0,2,0,0,491,94,37,1,65,2,57,20,153,13,6,0,2,0,6,0,32
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau R.O.C. Marco Pololaan,0344::SB125,3526 GJ,2191,869,3,1,0,1,3,786,85,0,0,1,0,0,874,117,35,6,82,13,121,36,276,47,9,0,47,7,25,5,43
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Hart van Noord,0344::SB126,3527 BR,1722,400,1,2,3,0,1,333,66,0,3,0,0,0,400,40,11,1,16,7,74,16,92,21,1,0,102,1,6,1,11
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkspeeltuin De Boog,0344::SB128,3521 ER,787,444,2,0,0,0,5,401,40,0,0,0,0,0,446,78,21,4,45,4,68,10,146,22,5,0,0,1,19,1,20
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorgcentrum De Bijnkershoek,0344::SB129,3527 XL,1433,558,2,2,0,2,2,517,45,0,0,2,0,0,564,78,39,16,68,16,90,16,127,27,11,0,16,1,38,2,13
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Serviceflat De Keizershof,0344::SB130,3527 JK,1197,516,1,0,0,0,2,478,37,0,0,0,0,0,517,43,29,16,49,4,89,31,121,37,12,0,14,3,39,4,25
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Parc Transwijk,0344::SB131,3526 XB,1370,458,0,3,0,0,1,425,35,0,0,0,0,0,461,30,35,18,31,19,99,11,99,25,22,0,31,0,31,1,6
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Wereldwijzer,0344::SB132,3522 TM,2845,777,1,2,0,0,2,691,87,0,0,0,0,0,780,95,48,18,75,21,138,17,212,46,13,1,19,3,46,2,23
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Maaspleinschool,0344::SB134,3522 BV,2307,938,1,2,0,2,5,836,102,0,0,2,0,0,943,95,46,35,79,30,174,22,235,57,14,1,50,5,60,5,30
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau R.O.C. Vondellaan,0344::SB136,3521 GH,2065,1102,3,1,0,3,3,989,117,0,0,3,0,0,1109,184,41,9,134,21,195,20,330,64,12,1,9,1,36,0,45
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gertrudisschool,0344::SB137,3522 AR,874,738,1,2,0,0,1,655,85,0,0,0,0,0,741,103,29,10,86,11,138,11,236,35,6,0,3,1,30,2,37
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Kindercluster Voorn,0344::SB139,3544 TT,1854,1023,0,0,0,2,2,893,130,0,0,2,0,0,1025,157,47,14,156,11,182,26,242,47,12,2,26,2,58,5,36
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS De Klimroos,0344::SB140,3544 AK,1340,773,1,1,2,0,1,688,84,0,2,0,0,0,773,81,41,26,110,30,130,17,167,31,18,2,33,2,57,2,26
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Projecthuis De Kersentuin,0344::SB141,3544 VD,1527,610,2,0,0,1,1,537,73,0,1,0,0,0,611,67,41,14,80,11,92,20,147,39,14,1,13,1,51,1,18
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Boerderij de Hoef,0344::SB142,3541 BC,2206,476,0,0,0,0,0,404,72,0,0,0,0,0,476,83,24,7,72,5,59,23,99,31,9,2,15,2,20,1,24
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sportcampus,0344::SB143,3544 DA,3891,1060,1,1,0,1,5,862,196,0,0,1,0,0,1063,169,54,21,184,16,166,42,194,47,10,0,50,0,69,4,34
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkservicecentrum Vleuten-De Meern,0344::SB144,3451 BK,2113,645,0,2,0,0,0,587,60,0,0,0,0,0,647,50,99,14,140,10,106,18,70,25,25,2,1,3,71,0,11
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau St. Bonifatiusschool,0344::SB145,3455 SK,344,207,0,0,0,0,1,177,29,0,0,0,0,0,207,20,24,3,52,5,30,4,30,6,8,2,0,0,19,0,4
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Kees Valkensteinschool,0344::SB146,3451 VD,1540,687,0,1,0,0,2,610,76,0,0,0,0,0,688,64,74,25,141,9,124,40,75,22,24,0,1,0,58,0,30
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Fletiohal,0344::SB147,3451 EC,1579,740,0,0,0,0,1,678,61,0,0,0,0,0,740,71,70,24,151,8,141,28,82,23,24,3,5,0,88,4,18
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Waterwin,0344::SB148,3543 BT,1574,678,2,1,0,0,3,586,92,0,0,0,0,0,681,82,62,6,166,13,109,11,118,28,10,0,8,1,48,3,13
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Kerkestein,0344::SB149,3451 CC,1237,591,2,1,0,0,2,515,76,0,1,0,0,0,593,54,84,19,110,11,100,33,76,29,12,0,2,2,52,0,7
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sportcentrum Oudenrijn,0344::SB150,3451 HG,2019,891,0,1,0,0,2,749,142,1,0,1,0,0,893,103,89,28,270,17,144,18,75,28,24,1,3,0,71,2,18
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Vereenigingsgebouw De Zandweg,0344::SB151,3454 HA,1505,668,2,1,0,0,3,585,83,0,0,0,0,0,671,66,97,23,122,12,98,34,86,21,16,0,1,1,70,0,21
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal Mereveldlaan,0344::SB153,3454 CA,1675,676,0,0,0,1,2,586,89,0,0,1,0,0,677,67,82,23,153,12,85,23,79,33,22,1,1,1,82,1,11
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dienstencentrum De Roef,0344::SB154,3454 GV,1305,553,4,1,0,0,0,501,57,0,0,0,0,0,558,38,74,22,94,17,114,26,54,20,16,0,1,3,68,0,6
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Activiteitencentrum De Pijler,0344::SB155,3453 NP,1717,738,4,1,0,0,1,649,94,1,0,1,0,0,744,66,72,30,167,17,122,19,54,15,33,0,4,2,120,0,17
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Krullevaar,0344::SB156,3453 PH,3058,832,5,5,0,0,1,719,120,0,2,0,2,0,840,87,65,18,166,21,143,26,74,43,31,2,19,7,112,2,16
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal Ten Veldestraat,0344::SB158,3454 EN,1323,673,3,1,0,1,1,599,78,0,0,1,0,0,678,47,86,22,121,12,138,31,60,26,25,0,2,2,86,0,15
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Paviljoen Wieler- en Skeelercentrum,0344::SB159,3546 PM,197,103,0,0,0,0,2,87,14,0,0,0,0,0,103,7,29,2,26,0,9,3,11,4,5,0,0,0,6,0,1
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau UW bedrijven,0344::SB160,3542 CA,118,142,0,0,0,0,3,126,13,0,0,0,0,0,142,14,6,8,21,11,16,0,24,8,6,0,3,0,17,0,8
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal De Twaalfruiter,0344::SB161,3452 SR,1953,533,1,3,0,0,3,440,95,0,0,1,1,0,538,87,34,12,179,10,62,11,58,17,10,1,6,0,39,2,5
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau KBS De JazzSingel,0344::SB162,3543 GB,566,275,0,0,0,0,2,235,38,0,0,0,0,0,275,34,19,0,67,4,45,20,45,17,1,1,9,0,9,2,2
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sportzaal Broos Gerssen,0344::SB163,3453 RD,1680,707,0,0,0,3,1,589,114,0,3,0,0,0,704,61,52,30,168,17,116,26,68,17,20,5,26,1,82,3,15
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Kindercluster De Weide Wereld,0344::SB164,3452 CB,1941,1025,4,1,0,2,0,880,152,0,0,2,0,0,1032,143,61,18,250,16,160,39,148,31,25,0,14,0,82,3,35
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Stits,0344::SB165,3452 DN,1920,492,2,0,0,0,1,416,77,0,0,0,0,0,494,46,54,17,118,6,82,19,45,19,20,0,5,2,40,2,17
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Boogh Utrecht Leidsche Rijn,0344::SB166,3543 BR,1719,727,1,1,0,0,1,632,96,0,0,0,0,0,729,79,61,24,139,24,110,17,119,22,26,2,23,3,53,2,23
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau 't Zand,0344::SB167,3544 DB,1721,878,4,1,0,0,3,747,133,0,0,0,0,0,883,146,54,15,152,25,170,16,179,17,10,0,28,1,38,1,26
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorgcentrum De Drie Ringen,0344::SB168,3544 NW,1793,685,2,2,0,0,1,596,92,0,0,0,0,0,689,76,59,18,140,12,86,32,108,42,25,1,13,1,45,2,25
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Cultuurcampus Vleuterweide,0344::SB169,3452 MD,1963,1015,2,5,0,4,7,872,147,0,0,4,0,0,1026,117,77,17,217,16,197,20,145,34,29,4,14,0,98,0,30
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Brandweer Vleuterweide,0344::SB170,3451 WE,1682,555,1,0,0,0,1,477,78,0,0,0,0,0,556,68,53,19,118,10,90,16,75,21,20,0,5,0,47,2,11
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Educatoruim,0344::SB171,3584 CE,1576,803,2,0,0,0,2,758,45,0,0,0,0,0,805,110,54,4,60,14,91,14,344,35,1,1,2,2,17,5,49
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Kantoor MAX,0344::SB172,3526 WH,1378,966,2,0,0,0,2,916,50,0,0,0,0,0,968,120,31,3,107,17,132,14,354,55,8,1,1,2,46,9,66
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS De Klimroos,0344::SB173,3544 AK,1391,625,1,0,0,0,2,559,66,0,0,1,0,0,627,73,32,22,110,18,115,14,118,30,8,2,25,0,49,1,8
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Woonzorgcentrum Ingelanden,0344::SB175,3543 EB,1774,625,1,1,0,0,5,554,68,0,0,0,0,0,627,67,37,10,128,12,76,16,118,35,17,0,8,0,56,4,41
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Educatorium,0344::SB176,3584 CE,509,1099,6,0,0,0,6,1047,52,0,0,0,0,0,1105,157,54,3,73,6,123,16,490,50,7,0,4,7,32,4,73
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal Franz Schubertstraat,0344::SB178,3533 GW,1280,927,1,0,1,1,0,829,101,0,0,2,0,0,930,155,45,2,116,15,232,18,252,34,7,0,0,2,27,1,21
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sportcentrum De Paperclip,0344::SB179,3451 GX,1683,537,0,1,0,0,2,450,87,1,0,1,0,0,539,79,27,13,147,6,71,23,91,17,9,0,11,1,33,0,9
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau KBS Op De Groene Alm,0344::SB180,3541 SC,1582,549,0,0,0,0,1,465,83,0,0,0,0,0,549,86,26,11,94,6,84,19,106,15,7,0,50,3,26,0,16
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Waterwin,0344::SB181,3543 BT,1558,741,3,2,0,0,1,642,103,0,0,0,0,0,746,141,47,8,173,7,121,12,122,23,12,1,13,1,38,4,18
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS De Kleine Dichter,0344::SB182,3521 EX,1483,1362,1,0,0,2,7,1190,168,0,0,2,0,0,1365,232,53,10,233,14,233,16,370,81,5,1,5,1,48,4,56
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Centraal Station,0344::SB183,3511 CE,0,2379,10,2,0,5,41,2209,136,0,5,0,0,0,2386,429,93,12,258,22,339,42,875,107,13,2,10,8,47,8,114
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stadskantoor,0344::SB184,3521 AZ,1771,862,1,1,0,0,8,775,81,0,0,0,0,0,864,135,48,3,110,8,135,26,275,43,3,1,11,2,28,2,32
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zwembad De Kwakel,0344::SB185,3563 AX,1682,710,0,0,0,0,2,644,64,0,0,0,0,0,710,78,32,17,62,36,106,33,186,48,10,1,20,3,49,5,24
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Centraal Station,0344::SB186,3511 CE,0,1737,4,1,0,0,38,1579,126,0,0,1,1,0,1743,286,51,7,222,9,238,36,680,65,11,0,5,4,30,5,88
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau HNK (Het Nieuwe Kantoor),0344::SB189,3511 MJ,1108,577,0,0,0,0,1,536,40,0,0,0,0,0,577,81,29,4,101,6,116,7,134,28,6,0,2,1,25,1,36
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkservicecentrum Vleuten-De Meern,0344::SB190,3451 BK,0,415,2,1,0,0,5,360,53,0,0,0,0,0,418,33,45,4,82,14,65,27,50,23,13,0,3,0,44,1,11
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stadskantoor,0344::SB192,3521 AZ,0,652,1,2,0,0,15,595,45,0,0,0,0,0,655,97,22,8,82,12,111,15,211,27,4,0,10,4,21,5,23
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Antoniuskerk,0344::SB193,3531 CR,2936,987,2,3,0,2,1,904,89,0,0,2,0,0,994,148,41,8,66,14,139,9,378,64,7,1,34,3,31,2,42
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Universitair Medisch Centrum Utrecht,0344::SB194,3584 CX,0,464,2,0,0,0,14,416,36,0,0,0,0,0,466,65,31,5,60,11,80,10,138,19,9,0,3,2,12,1,18
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Antoniuskerk,0344::SB196,3531 CR,2918,987,2,2,2,0,3,882,108,0,0,2,0,0,993,125,32,14,95,22,136,14,334,59,8,0,60,2,29,11,46
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Treinwagon,0344::SB197,3531 BL,0,565,0,1,0,0,1,529,36,0,0,0,0,0,566,89,15,1,47,4,84,13,230,37,4,0,3,1,7,1,29
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Diakonessenhuis,0344::SB198,3582 KE,0,436,2,0,0,0,1,388,49,0,0,0,0,0,438,62,31,7,63,11,67,10,129,16,11,0,0,1,15,0,13
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Podium Oost,0344::SB199,3581 LJ,1818,1110,2,1,0,4,2,1014,101,0,0,0,0,0,1117,174,50,11,134,31,200,10,317,58,6,0,0,3,34,5,77
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Hart van Noord,0344::SB200,3527 BR,1877,334,1,5,3,0,2,290,51,0,0,3,0,0,343,20,18,6,19,6,53,12,57,18,1,1,103,0,9,0,11
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Mobiel stembureau 1,0344::SB901,,0,237,1,1,0,0,2,218,19,0,0,0,0,0,239,36,12,4,38,5,25,2,66,12,2,0,6,1,11,2,15
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Mobiel stembureau 2,0344::SB902,,0,318,2,2,0,2,7,282,31,0,2,0,0,0,320,50,14,1,36,5,43,2,94,16,4,0,5,0,38,0,10
+,Utrecht,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Mobiel stembureau 3,0344::SB903,,0,191,0,0,0,0,2,168,21,0,0,0,0,0,191,18,7,8,6,7,25,3,75,11,7,0,6,0,10,0,8

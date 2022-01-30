@@ -1,0 +1,14 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,BURGERFORUM,CDA,Democraten 66 (D66),VVD,GROENLINKS,Partij van de Arbeid (P.v.d.A.)
+,Losser,GR2018_Losser,Gemeenteraad Losser 2018,0168,Losser,2018-03-21,Stembureau Aleida Leurinkhuis,0168::SB1,,1692,1163,7,4,0,0,0,1053,121,0,0,0,0,0,1174,446,262,123,224,56,52
+,Losser,GR2018_Losser,Gemeenteraad Losser 2018,0168,Losser,2018-03-21,Stembureau KBS De Verrekijker,0168::SB2,,1707,1132,5,2,0,0,0,1046,93,0,0,0,0,0,1139,445,217,116,243,63,48
+,Losser,GR2018_Losser,Gemeenteraad Losser 2018,0168,Losser,2018-03-21,Stembureau RK school De Wegwijzer,0168::SB3,,1758,925,1,2,0,0,0,842,86,0,0,0,0,0,928,347,205,76,173,48,76
+,Losser,GR2018_Losser,Gemeenteraad Losser 2018,0168,Losser,2018-03-21,Stembureau Basisschool De Saller,0168::SB4,,1648,819,1,3,0,0,0,754,69,0,0,0,0,0,823,303,149,106,192,32,37
+,Losser,GR2018_Losser,Gemeenteraad Losser 2018,0168,Losser,2018-03-21,Stembureau Maartens-Stede,0168::SB5,,1907,897,2,1,0,2,0,820,82,0,0,2,0,0,902,282,220,89,232,38,36
+,Losser,GR2018_Losser,Gemeenteraad Losser 2018,0168,Losser,2018-03-21,Stembureau De Schuttersput,0168::SB6,,1564,928,3,2,0,0,0,862,71,0,0,0,0,0,933,379,178,91,189,41,50
+,Losser,GR2018_Losser,Gemeenteraad Losser 2018,0168,Losser,2018-03-21,Stembureau De Driehoek,0168::SB7,,1526,738,0,2,0,0,0,666,75,0,0,1,0,0,741,282,224,47,84,25,76
+,Losser,GR2018_Losser,Gemeenteraad Losser 2018,0168,Losser,2018-03-21,Stembureau Tiekerhook,0168::SB8,,1711,818,1,2,0,0,0,751,71,0,0,1,0,0,822,362,138,52,77,26,163
+,Losser,GR2018_Losser,Gemeenteraad Losser 2018,0168,Losser,2018-03-21,Stembureau Dorpshuis De Glaan,0168::SB9,,398,218,0,0,0,0,0,188,30,0,0,0,0,0,218,66,84,12,39,8,9
+,Losser,GR2018_Losser,Gemeenteraad Losser 2018,0168,Losser,2018-03-21,Stembureau De Vereeniging,0168::SB10,,1332,856,5,3,0,0,0,778,84,0,2,0,0,0,862,88,579,64,66,32,27
+,Losser,GR2018_Losser,Gemeenteraad Losser 2018,0168,Losser,2018-03-21,Stembureau Erve Boerrigter,0168::SB11,,1587,837,0,1,0,2,0,748,92,0,0,2,0,0,840,147,453,61,125,29,22
+,Losser,GR2018_Losser,Gemeenteraad Losser 2018,0168,Losser,2018-03-21,Stembureau Cafe 't Sterrebos,0168::SB12,,722,503,3,0,0,0,0,456,50,0,0,0,0,0,506,35,409,13,27,18,1
+,Losser,GR2018_Losser,Gemeenteraad Losser 2018,0168,Losser,2018-03-21,Stembureau De LosserHof,0168::SB13,,563,167,0,0,0,0,0,155,12,0,0,0,0,0,167,29,72,19,31,8,8

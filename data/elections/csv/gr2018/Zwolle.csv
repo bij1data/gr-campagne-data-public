@@ -1,0 +1,69 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,ChristenUnie,Partij van de Arbeid (P.v.d.A.),Democraten 66 (D66),VVD,SP (Socialistische Partij),CDA,GROENLINKS,SWOLLWACHT
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Stadhuis,0193::SB1,,1719,1375,4,4,0,4,0,1290,99,2,0,6,0,0,1389,142,116,202,344,34,115,290,132
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Kantine tennisvereniging ZLTB,0193::SB2,,1826,1149,6,3,0,0,0,1059,99,0,0,0,0,0,1158,194,70,148,279,25,136,178,119
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Woonzorgcentrum De Nieuwe Haven,0193::SB3,,1752,613,8,2,0,0,0,589,34,0,0,0,0,0,623,86,69,72,82,42,57,127,78
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Stadkamer Centrum,0193::SB4,,1612,1059,9,3,0,0,0,995,76,0,0,0,0,0,1071,176,84,169,158,39,80,287,66
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Wijkcentrum De Enk,0193::SB5,,1622,1346,4,7,0,0,0,1274,83,0,0,0,0,0,1357,170,162,172,148,104,78,407,105
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Het Mozaïek locatie De Mozadance,0193::SB6,,1385,735,2,11,0,0,0,702,46,0,0,0,0,0,748,93,85,117,64,56,51,193,76
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Woonzorgcentrum De Molenhof,0193::SB7,,1240,780,5,1,0,0,0,735,51,0,0,0,0,0,786,136,103,84,79,45,51,185,97
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau School Het Veldboeket,0193::SB8,,1741,889,3,2,0,0,0,837,57,0,0,0,0,0,894,118,135,71,62,95,75,164,169
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau School De Vlieger,0193::SB9,,1168,620,3,3,0,0,0,551,75,0,0,0,0,0,626,105,33,66,171,7,85,59,94
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau School Aquamarijn,0193::SB10,,1625,892,4,3,0,0,0,858,42,1,0,1,0,0,900,163,72,142,124,42,74,160,115
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Historisch Centrum Overijssel,0193::SB11,,1604,857,12,5,0,0,0,811,63,0,0,0,0,0,874,125,101,90,81,72,81,175,132
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Woonzorgcentrum De Esdoorn,0193::SB12,,1655,671,17,10,0,0,0,642,55,0,1,0,1,0,697,116,116,66,49,64,56,113,91
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Kerk De Fontein,0193::SB13,,1531,1168,8,2,0,0,0,1057,119,0,2,0,2,0,1176,301,105,109,195,36,118,154,150
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Woonzorgcentrum Fermate,0193::SB14,,1450,702,5,4,0,0,0,673,38,0,0,0,0,0,711,116,92,78,95,61,64,85,111
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Wijkcentrum Holtenbroek,0193::SB15,,1477,1132,9,6,0,0,0,1049,98,0,0,0,0,0,1147,218,175,104,107,86,67,207,168
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Scholengem. van der Capellen,0193::SB16,,1583,563,12,9,0,0,0,523,61,0,0,0,0,0,584,108,78,55,46,61,26,90,99
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Woonzorgcentrum De Havezate,0193::SB17,,1691,620,12,12,1,0,0,598,45,0,1,0,0,0,643,125,93,51,79,41,61,85,85
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Gymnasium Celeanum,0193::SB18,,1739,625,4,3,0,0,0,600,32,0,0,0,0,0,632,98,68,55,69,49,62,125,99
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau De Hoeksteen,0193::SB19,,1424,995,5,9,0,0,0,924,85,0,0,0,0,0,1009,187,128,88,102,62,96,182,150
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau School De Werkschuit,0193::SB20,,1579,1144,0,0,0,0,0,1044,100,0,0,0,0,0,1144,185,119,98,127,65,129,223,198
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau School De Wieden,0193::SB21,,1378,1028,6,2,0,1,0,956,81,0,0,1,0,0,1037,171,137,97,98,72,101,198,154
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Sionskerk,0193::SB22,,1234,652,4,2,0,0,0,602,56,0,0,0,0,0,658,118,76,45,62,46,68,135,102
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Woonzorgcentrum Rivierenhof,0193::SB23,,1434,947,4,2,0,0,0,880,73,0,0,0,0,0,953,150,132,96,84,83,111,171,120
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau School Het Stroomdal,0193::SB24,,1761,911,7,2,0,0,0,815,105,0,0,0,0,0,920,157,117,64,95,106,79,111,182
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Dienstencentrum De Terp,0193::SB25,,1480,855,6,6,2,0,0,833,36,0,0,2,0,0,869,169,82,84,89,65,85,150,131
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Geb. Muz. Ver. De Bazuin,0193::SB26,,1375,629,6,1,0,0,0,603,33,0,0,0,0,0,636,129,72,54,52,52,48,127,95
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau School De Oosterenk,0193::SB27,,1255,1125,2,3,0,3,0,1043,90,0,0,3,0,0,1133,139,105,191,207,32,131,217,103
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Wijkcentrum Bestevaer,0193::SB28,,1268,754,0,1,0,0,0,710,45,0,0,0,0,0,755,132,70,64,85,56,55,174,118
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Sportservice Zwolle,0193::SB29,,1080,799,2,1,0,0,0,739,63,0,0,0,0,0,802,97,80,122,167,28,93,132,80
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Sportcampus De Pelikaan,0193::SB30,,1009,666,1,2,0,0,0,576,93,0,0,0,0,0,669,150,20,52,173,9,134,60,68
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Woonzorgcentrum Berkumstede,0193::SB31,,1584,1123,1,2,0,0,0,979,147,0,0,0,0,0,1126,271,80,94,162,51,198,113,154
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Wijkcentrum De Weijenbelt,0193::SB32,,1610,1265,7,3,0,0,0,1160,115,0,0,0,0,0,1275,259,84,108,196,33,235,162,188
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Kulturhus Wijthmen,0193::SB33,,937,529,1,1,0,0,0,477,54,0,0,0,0,0,531,78,23,22,72,26,211,37,60
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Woonzorgcentrum Westenhage,0193::SB34,,1816,961,1,3,0,0,0,868,97,0,0,0,0,0,965,244,68,66,130,60,141,84,168
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau School De Ridderspoor,0193::SB35,,1504,983,7,0,0,0,0,893,97,0,0,0,0,0,990,187,75,64,87,65,187,104,214
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau School De Schatkamer,0193::SB36,,1878,1004,4,0,0,0,0,885,123,0,0,0,0,0,1008,150,65,123,207,35,119,142,163
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Wijkcentrum S.I.O.,0193::SB37,,1677,1308,5,4,0,0,0,1220,97,0,0,0,0,0,1317,297,127,110,143,68,188,194,181
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau School De Wingerd,0193::SB38,,1711,1112,2,2,0,0,0,1019,97,0,0,0,0,0,1116,235,105,107,119,61,152,189,144
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Gymzaal De Marshof,0193::SB39,,1240,767,0,0,0,0,0,689,78,0,0,0,0,0,767,156,85,61,62,43,96,120,144
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Gymzaal in de Marshof,0193::SB40,,1349,724,0,1,0,0,0,660,66,1,0,1,0,0,726,170,75,69,90,42,77,92,109
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Dorpshuis De Molenkamp,0193::SB41,,528,358,1,0,0,0,0,334,25,0,0,0,0,0,359,91,19,18,39,25,39,23,104
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau School IJsselhof,0193::SB42,,1571,963,5,1,0,0,0,882,87,0,0,0,0,0,969,209,70,89,123,48,113,114,197
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Windesheim Hogeschool,0193::SB43,,1407,963,3,3,0,2,1,890,80,0,0,2,0,0,971,173,105,131,101,32,114,214,93
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau School De Ark,0193::SB44,,1613,1166,3,6,0,0,0,1065,110,0,0,0,0,0,1175,187,110,103,183,77,121,175,210
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Koningskerk,0193::SB45,,1490,808,4,2,0,2,0,752,60,0,2,0,0,0,812,172,89,66,104,44,99,105,129
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau School De Ichthus,0193::SB46,,1752,1169,2,1,0,0,0,1063,109,0,0,0,0,0,1172,220,106,144,181,25,157,177,159
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Woonzorgcentrum De Kievitsbloem,0193::SB47,,1665,961,4,2,0,0,0,898,69,0,0,0,0,0,967,179,113,64,114,76,117,121,177
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau IJsselheem locatie Werkeren,0193::SB48,,1823,1058,3,3,0,0,0,975,89,0,0,0,0,0,1064,178,117,103,139,88,112,144,177
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau School De Krullevaar,0193::SB49,,1584,719,5,1,0,0,0,659,66,0,0,0,0,0,725,136,71,63,95,43,71,130,110
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Ontmoetingsruimte BVI,0193::SB50,,1706,768,1,1,0,0,0,723,49,1,0,2,1,0,772,155,72,76,87,42,105,107,124
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau School De Phoenix,0193::SB51,,1565,1082,3,2,0,0,0,996,91,0,0,0,0,0,1087,175,107,122,176,70,123,160,149
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau IJsselbolder,0193::SB52,,1473,950,5,0,0,0,0,875,80,0,0,0,0,0,955,153,73,95,110,57,133,183,146
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Dislokatie De Zevensprong,0193::SB53,,1657,999,7,1,0,0,0,909,98,0,0,0,0,0,1007,188,85,102,164,49,106,153,152
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau ArtEZ Conservatorium,0193::SB54,,1636,874,4,2,0,0,0,827,54,1,0,1,0,0,881,83,77,166,149,32,77,209,81
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Stadskantoor,0193::SB55,,857,946,3,0,0,0,0,893,56,0,0,0,0,0,949,146,93,136,140,51,87,179,114
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Woonzorgcentrum Het Zonnehuis,0193::SB56,,1622,1024,2,0,0,0,0,920,106,0,0,0,0,0,1026,233,80,99,186,31,135,111,149
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau School Hilal,0193::SB57,,1503,364,10,1,0,0,0,351,24,0,0,0,0,0,375,65,41,26,27,36,27,69,73
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Geb. IJsvereniging WVF,0193::SB58,,1486,791,4,1,0,1,0,736,61,0,0,1,0,0,797,201,69,57,96,37,105,76,150
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Gymzaal van Het Mozaïek,0193::SB59,,1376,885,4,2,0,0,0,840,51,0,0,0,0,0,891,136,114,118,87,54,75,187,114
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Milligers,0193::SB60,,1380,834,2,2,0,0,0,767,71,0,0,0,0,0,838,128,74,86,149,31,95,111,160
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau School De Octopus,0193::SB61,,1384,1002,2,2,0,0,0,938,66,0,2,0,2,0,1004,199,103,113,130,49,91,167,150
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau School Talentum,0193::SB62,,1237,819,3,0,0,0,0,737,85,0,0,0,0,0,822,155,54,81,128,36,108,120,137
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Wijkcentrum De Vlasakkers,0193::SB63,,1274,515,2,2,0,0,0,488,31,0,0,0,0,0,519,66,45,55,58,54,48,115,74
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Recreatiezaal Parkzicht,0193::SB64,,1236,625,6,2,0,0,0,587,46,0,0,0,0,0,633,118,70,44,83,42,80,86,102
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Cultuurhuis Stadshagen,0193::SB65,,1599,1260,7,0,0,0,3,1156,108,0,0,0,0,0,1267,218,106,155,211,51,150,186,183
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Sportpark De Verbinding,0193::SB66,,1655,733,1,5,0,0,0,655,81,0,3,0,3,0,736,144,27,69,150,23,84,105,131
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau NS Station,0193::SB67,,0,762,7,0,0,0,2,734,33,0,0,0,0,0,769,107,65,131,85,31,65,220,58
+,Zwolle,GR2018_Zwolle,Gemeenteraad Zwolle 2018,0193,Zwolle,2018-03-21,Stembureau Mobiel Stembureau,0193::SB68,,0,255,2,2,0,0,0,244,15,0,0,0,0,0,259,47,25,35,45,7,47,33,16

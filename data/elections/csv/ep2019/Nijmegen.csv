@@ -1,0 +1,87 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Democraten 66 (D66),CDA - Europese Volkspartij,PVV (Partij voor de Vrijheid),VVD,SP (Socialistische Partij),P.v.d.A./Europese Sociaaldemocraten,ChristenUnie-SGP,GROENLINKS,Partij voor de Dieren,50PLUS,JEZUS LEEFT,DENK,De Groenen,Forum voor Democratie,vandeRegio & Piratenpartij,Volt Nederland
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurthuis Het Oude Weeshuis,0268::SB1,6511 WT,2070,1098,3,3,0,0,1,1007,97,1,0,1,0,0,1105,118,39,11,115,47,209,3,326,65,26,0,0,7,86,2,44
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stadhuis,0268::SB2,6511 PP,2036,1213,5,2,0,0,6,1119,95,0,0,0,0,0,1220,117,47,14,136,54,236,8,360,91,15,0,4,3,79,3,46
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stadswinkel,0268::SB3,6511 PS,2042,1430,3,3,0,0,3,1335,101,3,0,3,0,0,1439,196,56,10,200,43,230,20,425,96,24,0,1,2,54,0,73
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Titus Brandsma kapel,0268::SB4,6511 DW,1570,590,1,0,0,0,0,555,36,0,0,0,0,0,591,70,25,2,81,25,101,12,164,47,4,0,0,0,28,2,29
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Kolpinghuis,0268::SB5,6511 ER,1735,914,3,1,0,3,2,862,57,0,0,3,0,0,921,125,51,9,155,31,146,10,237,65,12,0,2,1,37,8,25
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zelf Regie Centrum Nijmegen,0268::SB6,6511 TD,1534,230,0,0,0,0,3,214,13,0,0,0,0,0,230,23,13,0,34,16,37,2,69,13,2,0,0,0,6,5,10
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum Burghardt,0268::SB7,6512 DR,1093,1064,1,1,0,4,1,1010,59,0,0,4,0,0,1070,138,47,7,103,42,218,10,346,60,8,0,0,3,39,0,43
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Cordium Centrum voor groei en ontwikkeling,0268::SB8,6512 GB,1991,907,1,0,0,0,1,820,87,0,0,0,0,0,908,100,17,5,65,47,195,4,330,70,10,0,5,1,30,1,27
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Parochiehuis Antonius van Paduakerk,0268::SB9,6524 JL,1567,550,2,1,0,1,1,500,53,0,0,1,0,0,554,69,33,3,56,5,126,8,171,37,4,0,0,0,15,1,22
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau restaurant Mi Barrio,0268::SB10,6524 JE,1468,802,4,1,0,3,1,747,62,0,0,3,0,0,810,143,25,2,112,13,160,8,234,49,4,0,0,4,19,0,29
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Oud Burgeren Gasthuis,0268::SB11,6524 PJ,1398,1083,1,1,0,0,1,987,97,0,0,0,0,0,1085,108,99,14,160,38,249,13,240,56,24,1,1,3,43,0,34
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool Klein Heyendaal,0268::SB12,6524 NP,1391,883,1,2,0,0,1,792,93,0,0,0,0,0,886,127,84,2,107,15,215,13,230,29,4,0,1,3,23,2,28
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Boekhandel Augustinus,0268::SB13,6524 DG,1454,790,1,1,0,4,0,793,3,0,0,4,0,0,796,118,36,3,101,25,182,10,209,52,3,0,3,3,20,1,24
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum Daalsehof,0268::SB14,6521 GT,1394,977,7,0,0,2,2,930,54,0,0,2,0,0,986,105,38,9,90,46,204,18,286,73,16,1,2,2,46,2,39
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Het Badhuis,0268::SB15,6523 CD,1612,1964,2,4,0,1,4,1799,168,0,0,1,0,0,1971,213,74,16,163,77,473,16,657,129,21,1,4,8,40,3,69
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Ark van Oost,0268::SB16,6523 HR,846,453,1,0,0,0,0,426,28,0,0,0,0,0,454,26,19,13,21,29,111,8,120,38,10,0,6,2,35,0,15
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Amrâth Hotel Belvoir,0268::SB17,6522 AX,1814,1088,4,1,0,0,4,981,108,0,0,0,0,0,1093,137,68,6,170,22,266,13,231,55,15,1,0,2,59,4,39
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Sterredans,0268::SB18,6522 HE,2053,910,1,2,0,0,1,799,113,0,0,0,0,0,913,138,54,9,102,30,274,7,179,28,13,0,5,3,43,2,23
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Voormalig Montessori College Verbaas Jezelf,0268::SB19,6522 CH,1352,536,0,1,0,2,4,480,55,0,0,2,0,0,539,48,26,7,56,28,137,3,147,27,7,0,0,4,36,0,10
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Logegebouw,0268::SB20,6523 DG,1734,527,0,0,0,0,1,483,43,0,0,0,0,0,527,49,17,4,50,20,131,3,178,38,2,0,0,0,28,1,6
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stip Oost,0268::SB21,6523 EV,1531,771,4,0,0,0,1,702,72,0,0,0,0,0,775,63,17,13,53,50,202,1,217,53,14,1,3,4,49,1,30
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Erica Terpstra Sportfondsenbad,0268::SB22,6523 MJ,1523,806,1,2,0,0,2,706,101,0,0,0,0,0,809,106,65,6,164,18,141,6,157,35,8,1,3,1,62,0,33
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Waalboog locatie Joachim en Anna,0268::SB23,6523 PA,1651,859,1,2,0,2,2,757,105,0,0,2,0,0,864,91,68,3,110,24,213,7,226,37,8,0,0,2,43,1,26
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Waalboog locatie Nijevelt,0268::SB24,6525 AH,1084,590,6,1,0,0,1,566,31,1,0,1,0,0,598,79,29,3,62,19,101,10,171,35,20,0,1,2,23,3,32
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Voorzieningenhart 't Hert,0268::SB25,6531 CS,1999,921,3,0,0,0,1,844,79,0,0,0,0,0,924,103,23,28,71,61,165,4,242,49,20,0,66,4,67,3,15
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum De Klokketoren,0268::SB26,6532 AD,1187,673,1,1,0,0,4,619,52,0,0,0,0,0,675,76,28,16,59,42,104,5,193,52,13,0,8,5,43,2,27
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Martinus van Beekschool,0268::SB27,6531 RR,1527,773,0,0,0,0,0,709,64,0,0,0,0,0,773,82,53,7,71,11,198,3,239,43,15,0,1,4,29,2,15
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau VC Nijmegen,0268::SB28,6531 TH,1636,1158,0,1,0,0,1,1050,109,1,0,1,0,0,1160,125,81,9,115,28,323,11,312,63,18,0,0,7,28,3,35
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School R.O.C. Marterstraat,0268::SB29,6531 KA,1379,1015,0,0,0,0,2,901,112,0,0,0,0,0,1015,115,50,1,107,18,325,7,277,45,8,0,0,6,31,0,25
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau CWZ,0268::SB30,6532 SZ,1033,401,0,0,0,0,6,351,44,0,0,0,0,0,401,45,25,12,34,22,93,6,98,16,14,0,1,1,19,0,15
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Blikvanger,0268::SB31,6532 DB,1890,707,0,1,0,0,0,645,63,0,0,0,0,0,708,66,51,23,71,42,158,12,165,32,22,1,2,2,47,2,11
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Café Piet Huisman,0268::SB32,6533 BT,1764,1027,2,1,0,1,1,927,103,0,0,1,0,0,1031,110,54,13,134,50,222,8,277,54,19,0,0,3,45,3,35
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Turks Cultureel Centrum,0268::SB33,6533 SZ,1818,825,0,1,0,1,1,740,86,0,0,1,0,0,827,106,41,16,82,45,174,8,208,35,16,0,29,0,32,2,31
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Hennes Automobielen BV,0268::SB34,6533 HJ,2293,896,0,0,0,2,2,800,96,0,0,2,0,0,898,59,47,33,78,61,198,7,217,54,29,0,11,2,85,2,13
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum De Schakel,0268::SB35,6533 MA,1906,753,4,2,0,0,2,705,52,0,0,0,0,0,759,56,36,38,55,79,145,9,153,42,31,1,13,2,76,1,16
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Ontmoetingscentrum De Toermalijn,0268::SB36,6534 VZ,1491,470,0,0,0,0,1,435,34,0,0,0,0,0,470,46,37,20,42,37,87,6,97,34,16,0,1,0,33,0,14
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Vossenburcht,0268::SB37,6535 TK,1755,560,1,2,0,0,0,497,66,0,0,0,0,0,563,40,39,28,62,42,115,5,88,22,25,0,7,1,78,1,7
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum Hatert,0268::SB38,6535 RZ,2791,862,7,3,0,0,5,790,77,0,0,0,0,0,872,41,47,63,60,102,152,13,158,41,40,1,30,2,85,1,26
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Restaurant bij de Buren,0268::SB39,6535 NB,2291,572,1,0,0,5,1,528,49,0,0,5,0,0,578,32,37,29,60,49,119,9,85,32,26,2,3,3,70,1,15
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Universiteitsrestaurant De Refter,0268::SB40,6525 HT,196,1493,6,0,0,0,21,1412,67,1,0,1,0,0,1500,181,85,0,124,14,266,29,595,74,8,1,0,4,31,2,79
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Woonzorgcentrum Boszicht,0268::SB41,6525 TJ,1362,611,1,1,0,0,1,565,47,0,0,0,0,0,613,62,45,15,55,40,151,4,127,34,19,0,2,3,33,0,21
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Roomsch Leven,0268::SB42,6525 SG,1563,1003,0,1,0,1,1,908,96,0,0,1,0,0,1005,76,105,9,88,45,242,16,270,59,18,0,0,3,44,1,27
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Biezantijn,0268::SB43,6541 TN,2714,1002,1,4,0,0,3,875,129,0,0,0,0,0,1007,92,33,43,77,61,208,14,238,64,28,1,3,5,94,7,34
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum Titus Brandsma,0268::SB44,6542 VJ,1647,1270,2,1,0,1,2,1146,124,0,1,0,0,0,1272,140,46,23,96,68,219,20,392,83,26,2,23,2,86,5,39
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wooncomplex Insulinde,0268::SB45,6542 RT,2113,484,3,1,0,0,0,443,45,0,0,0,0,0,488,62,30,18,52,36,116,4,84,17,11,0,2,0,43,0,9
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum Villanova,0268::SB46,6542 JP,1900,682,0,0,0,0,2,608,72,0,0,0,0,0,682,53,14,21,47,54,121,18,190,54,20,0,38,0,38,0,14
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sint Jozefklooster,0268::SB47,6543 KG,1001,471,1,0,0,0,2,422,48,0,0,0,0,0,472,41,60,9,57,12,114,7,101,26,8,0,0,0,29,0,7
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum Heseweide,0268::SB48,6543 NA,1205,526,0,0,0,0,1,491,34,0,0,0,0,0,526,40,25,26,26,39,107,3,129,41,17,0,9,2,50,3,9
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Brede School De Zonnewende,0268::SB49,6543 RN,1200,497,1,2,0,0,2,450,48,0,0,0,0,0,500,41,30,17,39,24,93,9,128,41,12,1,5,0,42,0,15
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stichting GVO de Klup,0268::SB50,6532 XP,1719,574,3,0,0,2,0,533,46,0,0,2,0,0,579,60,36,7,56,12,142,3,166,31,9,0,1,1,36,0,14
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorgcentrum Huize Rosa,0268::SB51,6543 JG,1750,733,0,2,0,5,3,676,61,0,0,5,0,0,740,103,73,5,73,28,140,26,158,35,24,1,4,3,39,1,20
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum De Schalmei,0268::SB52,6544 TN,2200,726,2,1,0,1,2,657,71,0,0,1,0,0,730,47,41,36,51,85,134,10,128,37,23,2,45,3,65,3,16
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Woonzorgcentrum De Honinghoeve,0268::SB53,6544 RA,1867,433,1,2,0,0,2,395,39,0,0,0,0,0,436,20,26,25,34,44,99,6,70,16,28,0,20,0,41,0,4
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Creatief Centrum Nijmegen-Zuid,0268::SB54,6537 PN,1945,659,2,3,0,0,3,591,70,0,0,0,0,0,664,39,38,30,66,59,155,10,100,29,39,0,6,2,82,1,3
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Bibliotheek Zwanenveld,0268::SB55,6538 SC,1215,803,0,0,0,0,1,740,62,0,0,0,0,0,803,38,59,57,50,55,164,18,138,45,45,2,9,2,107,0,14
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School Prins Maurits,0268::SB56,6538 NK,1301,334,2,1,0,2,0,300,39,0,0,2,0,0,339,15,24,19,23,22,87,7,41,9,20,1,2,0,60,2,2
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Ontmoetingsruimte Leuvenshof,0268::SB57,6538 ML,1157,231,2,1,0,0,1,216,17,0,0,0,0,0,234,14,13,14,6,23,39,7,23,15,20,0,3,1,49,0,4
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Meiboom,0268::SB58,6537 HD,1495,345,1,1,0,0,2,299,46,0,0,0,0,0,347,15,24,17,19,31,81,10,43,22,17,3,16,0,40,0,7
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum Dukenburg,0268::SB59,6537 EP,1685,529,0,0,0,0,3,490,36,0,0,0,0,0,529,35,43,25,48,52,125,10,67,25,30,0,3,1,62,0,3
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Maatschap v. Fysiother. Lankforst,0268::SB60,6538 HA,1592,559,3,1,0,1,1,512,51,0,0,1,0,0,564,32,25,13,48,46,152,12,83,35,31,0,1,1,76,0,4
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool De Aldenhove,0268::SB61,6537 DG,1871,512,1,1,0,0,0,471,43,0,0,0,0,0,514,35,54,23,33,33,106,6,65,27,22,0,19,0,77,7,5
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum De Turf,0268::SB62,6538 DH,1873,537,1,1,0,7,0,499,47,0,0,7,0,0,546,27,56,25,21,53,126,10,58,23,37,0,9,0,87,1,4
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Prins Clausschool,0268::SB63,6536 DB,1446,881,2,1,0,1,1,795,89,0,0,1,0,0,885,97,63,21,88,38,251,19,158,48,28,1,2,2,50,3,12
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Dageraad,0268::SB64,6536 AC,1364,598,0,1,0,0,0,559,41,0,0,1,0,0,600,49,31,15,62,38,152,21,94,40,21,0,1,2,64,2,6
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau JC De Sprok,0268::SB65,6546 JZ,1956,394,0,3,0,0,2,353,42,0,0,0,0,0,397,24,20,29,52,26,61,13,33,19,35,0,0,0,79,0,3
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sporthal De Horstacker,0268::SB66,6546 EK,1953,537,0,1,0,0,0,473,65,0,0,0,0,0,538,25,25,27,43,53,104,4,92,43,24,0,7,0,83,0,7
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Luithorst,0268::SB67,6545 LX,1438,468,1,1,0,1,0,420,52,1,0,2,0,0,472,52,24,16,50,29,107,8,71,24,23,0,5,1,47,0,11
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Agneskerk Lindenholt,0268::SB68,6545 AW,1693,616,1,0,0,0,1,563,53,0,0,0,0,0,617,61,48,26,71,42,154,6,88,24,25,1,3,1,57,3,6
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Bistro `t Zwaantje,0268::SB69,6545 AV,1317,388,0,0,0,0,2,352,34,0,0,0,0,0,388,32,21,18,43,20,85,8,55,14,13,1,2,0,62,4,10
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Wingerd,0268::SB70,6546 XN,1527,443,1,1,0,0,0,402,43,0,0,0,0,0,445,38,25,33,64,27,93,8,40,18,10,0,2,1,79,0,5
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum De Brack,0268::SB71,6546 XS,1402,654,3,1,0,0,0,580,78,0,0,0,0,0,658,35,45,29,73,58,153,15,69,31,31,3,6,2,91,0,13
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Klif,0268::SB72,6515 DJ,2337,1494,0,0,0,1,1,1272,222,0,0,1,0,0,1495,228,123,14,221,30,310,11,326,86,24,1,5,7,73,4,31
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dependance OBS De Oversteek,0268::SB73,6515 AE,3013,922,3,1,0,0,0,795,131,0,0,0,0,0,926,118,83,14,170,12,152,13,201,52,28,0,9,2,48,1,19
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Voorzieningenhart De Ster,0268::SB74,6663 HA,1493,983,1,3,0,0,0,848,139,0,0,0,0,0,987,128,38,8,119,37,230,7,245,67,21,1,5,3,57,0,17
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sportcentrum De Spil,0268::SB75,6663 CD,1485,931,0,2,0,6,1,832,106,0,0,6,0,0,939,129,78,10,139,39,167,10,228,42,14,1,3,2,47,1,21
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Betuweland lokatie St. Jozef,0268::SB76,6663 CP,1575,772,0,1,0,0,4,693,78,2,0,2,0,0,775,64,74,7,125,16,160,9,191,50,23,0,1,3,30,0,19
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Centraal Station,0268::SB77,6512 AB,0,2366,9,1,0,7,30,2197,156,0,0,7,0,0,2383,343,108,11,212,78,416,25,877,107,20,0,8,5,71,6,79
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Radboud UMC,0268::SB78,6525 GA,0,1095,2,0,0,0,5,997,94,0,1,0,0,0,1096,181,66,7,151,21,224,16,280,42,16,0,6,4,43,3,35
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Kindcentrum De Verwondering,0268::SB79,6663 MH,1503,510,1,0,0,0,0,457,54,0,0,0,0,0,511,71,24,5,53,26,96,3,146,26,16,0,1,2,25,1,15
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sportzaal De Zwaluw,0268::SB80,6541 NP,2749,956,2,1,0,1,3,887,68,0,1,0,0,0,958,98,47,27,89,55,188,5,287,57,15,0,5,2,48,3,30
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Brede School Michiel De Ruyter,0268::SB81,6542 VJ,1988,280,0,1,0,0,1,263,17,0,0,0,0,0,281,32,12,8,24,11,49,2,98,19,6,0,4,0,6,0,9
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Diaconaal Centrum De Haard,0268::SB82,6531 HW,1401,449,1,0,0,1,0,418,33,0,0,1,0,0,451,50,15,13,38,20,81,5,171,17,5,1,5,0,17,2,9
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sportfondsenbad Nijmegen-West,0268::SB83,6543 VW,995,469,1,0,1,0,1,432,38,0,0,1,0,0,471,59,34,7,58,12,108,3,112,20,10,0,2,1,33,0,10
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau R.O.C. Nijmegen Campusbaan,0268::SB84,6512 BT,1142,322,2,1,0,0,1,301,23,0,0,0,0,0,325,27,8,8,27,13,65,2,118,25,1,0,1,0,17,2,8
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Thermion,0268::SB85,6663 MM,1463,507,2,2,0,0,2,447,62,0,0,0,0,0,511,59,39,15,85,13,83,6,131,28,12,0,2,1,22,0,11
+,Nijmegen,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau HAN Nijmegen,0268::SB86,6525 EN,1694,828,2,1,0,0,10,773,49,1,0,1,0,0,832,112,47,2,79,18,153,9,288,40,12,0,2,0,27,0,39

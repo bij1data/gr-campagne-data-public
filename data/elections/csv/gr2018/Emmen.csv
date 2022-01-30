@@ -1,0 +1,80 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Wakker Emmen,Partij van de Arbeid (P.v.d.A.),CDA,Democraten 66 (D66),Drentse Ouderen Partij (DOP),VVD,LEF!,ChristenUnie,GROENLINKS,PVV (Partij voor de Vrijheid),Jongeren Aan Zet!,SP (Socialistische Partij),50PLUS,Senioren Belang Noord
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Gemeentehuis locatie1,0114::SB1,,984,729,1,1,0,0,70,660,1,0,0,0,0,0,731,84,133,102,48,18,100,51,42,33,33,8,22,30,25
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Zorgcentrum Oostermarke,0114::SB2,,980,753,7,3,0,1,0,703,61,0,0,1,0,0,764,65,127,112,60,12,116,65,56,39,29,21,18,15,18
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau De Goede Herderkerk,0114::SB3,,627,466,3,2,0,1,0,435,37,0,0,1,0,0,472,61,83,55,42,7,51,16,69,22,17,12,16,11,4
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Zorgcentrum Holdert,0114::SB4,,761,400,2,1,0,0,0,369,34,0,0,0,0,0,403,42,86,75,17,16,31,12,25,19,21,2,24,16,14
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Wijkcentrum Meerstede,0114::SB5,,1367,590,3,3,0,0,0,547,49,0,0,0,0,0,596,60,131,48,24,34,30,25,35,19,60,12,59,19,34
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Ichthus,0114::SB6,,1241,754,4,1,0,0,0,701,58,0,0,0,0,0,759,82,130,108,60,13,58,42,63,42,51,19,35,32,19
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau R.K.b.s. St. Frans,0114::SB7,,1306,518,0,0,0,0,0,481,36,0,1,0,1,0,517,84,109,36,18,7,36,32,33,18,52,7,54,12,20
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau o.b.s. Emmermeer,0114::SB8,,1293,549,1,3,0,0,0,515,38,0,0,0,0,0,553,78,117,76,12,22,16,22,32,35,44,3,52,27,13
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Zorgcentrum Zuidermarke,0114::SB9,,1592,922,1,4,0,0,0,852,74,0,1,0,1,0,926,112,199,98,43,40,64,32,59,29,105,17,52,46,26
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau AOC Terra,0114::SB10,,657,378,1,0,0,0,0,340,39,0,0,0,0,0,379,41,73,64,21,9,58,20,27,13,27,3,13,3,6
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Dorpshuis 't Hoefijzer Zuidbarge,0114::SB11,,781,477,0,1,0,0,0,446,32,0,0,0,0,0,478,55,66,70,67,8,62,20,41,26,28,0,20,7,7
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau De Schanskuil,0114::SB12,,915,466,1,0,0,0,0,440,28,0,0,1,0,0,468,75,80,61,22,13,22,23,34,25,39,15,25,22,10
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Dorpshuis Weerdinge,0114::SB13,,668,408,1,0,0,0,0,374,35,0,0,0,0,0,409,55,66,26,26,12,39,23,44,27,17,6,15,41,11
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau De Marke,0114::SB14,,1219,739,1,3,0,2,0,688,57,0,0,0,0,0,745,85,182,79,33,28,30,50,22,24,83,11,54,36,22
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Kerkgebouw het Baken,0114::SB15,,1343,585,4,3,0,0,0,543,49,0,0,0,0,0,592,87,131,36,11,23,15,52,30,45,70,9,42,24,10
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Zorgcentrum Heidehiem,0114::SB16,,631,260,3,0,0,0,0,247,16,0,0,0,0,0,263,51,47,29,24,9,21,6,10,12,11,4,20,12,4
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau SBO De Catamaran,0114::SB17,,1043,485,1,0,0,0,0,438,48,0,0,0,0,0,486,80,117,55,29,10,31,23,15,12,34,12,30,27,10
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Kantine Looackerhof,0114::SB18,,1206,487,2,1,0,0,0,443,47,0,0,0,0,0,490,92,123,35,13,12,19,23,17,26,61,10,36,13,7
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Tine Marcusschool,0114::SB19,,971,454,0,1,0,0,0,410,45,0,0,0,0,0,455,83,88,34,24,11,39,20,16,33,42,4,44,9,7
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Verpleegtehuis De Horst,0114::SB20,,977,382,1,2,0,0,0,352,33,0,0,0,0,0,385,70,79,35,20,14,22,24,9,21,30,6,35,10,7
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Zorgcentrum De Schans,0114::SB21,,1367,743,1,3,0,0,0,696,51,0,0,0,0,0,747,99,184,85,47,21,62,27,36,53,32,17,53,16,11
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Op Eigen Houtje,0114::SB22,,1265,637,0,6,0,0,0,587,56,0,0,0,0,0,643,118,140,52,36,18,24,31,53,35,30,4,56,31,9
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Kantine Sporthal Emmerhout,0114::SB23,,1381,678,1,2,0,1,0,635,45,0,1,0,0,0,680,116,168,39,30,29,32,21,29,43,67,18,53,28,5
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Verpleegtehuis De Bleerinck,0114::SB24,,1114,616,3,2,0,0,0,572,49,0,0,0,0,0,621,103,117,71,49,9,38,17,34,45,27,24,52,16,14
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau O.b.s. De Brink,0114::SB25,,1232,565,1,0,0,0,0,528,38,0,0,0,0,0,566,105,112,19,30,11,16,22,44,58,48,16,54,18,12
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Zorgcentrum Holtingerhof,0114::SB26,,966,647,2,0,0,0,0,602,47,0,0,0,0,0,649,67,124,121,53,13,63,27,33,47,25,13,24,21,16
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau 't Brinkenhoes,0114::SB27,,1035,731,3,1,0,0,0,680,55,0,0,0,0,0,735,106,138,88,65,13,56,28,46,38,23,37,44,32,17
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Kerkgebouw De Bron,0114::SB28,,1106,539,1,3,0,0,0,505,38,0,0,0,0,0,543,89,76,26,33,7,22,22,49,50,55,15,63,17,15
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,"Stembureau Kantine sporthal, Emmen",0114::SB29,,684,349,0,0,0,0,0,326,23,0,0,0,0,0,349,55,67,29,19,6,18,10,22,34,25,4,41,15,4
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Thriantaschool,0114::SB30,,945,440,4,1,0,0,0,410,35,0,0,0,0,0,445,79,103,29,23,9,16,13,21,30,36,14,48,10,9
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Zaal Heegen,0114::SB31,,1040,391,1,2,0,0,0,353,41,0,0,0,0,0,394,61,37,27,10,11,49,36,45,13,54,10,22,10,6
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau O.b.s 't Koppel,0114::SB32,,751,307,0,0,0,0,0,279,28,0,0,0,0,0,307,50,50,23,2,10,20,16,30,5,44,11,31,10,5
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Multifunctioneel Centrum de Badde,0114::SB33,,997,458,0,0,0,0,0,411,47,0,0,0,0,0,458,92,76,43,15,8,29,20,40,15,60,14,35,6,5
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Dorpshuis 't Stadhoes,0114::SB34,,593,299,1,2,0,0,0,271,31,0,0,0,0,0,302,40,20,38,12,4,36,22,13,7,42,11,31,14,9
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau O.b.s. De Meent,0114::SB35,,993,385,1,1,0,0,0,355,32,0,0,0,0,0,387,167,31,39,5,7,10,20,5,7,36,6,30,16,6
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,"Stembureau Kantine Sporthal, Emmer-Compascuum",0114::SB36,,1240,541,0,2,0,0,0,485,58,0,0,0,0,0,543,264,58,54,6,6,7,26,7,9,43,5,40,12,4
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau O.b.s. De Dreef,0114::SB37,,1181,576,1,1,0,0,0,523,55,0,0,0,1,0,578,148,77,57,13,10,25,36,59,17,68,9,41,14,2
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Buurtgebouw Ons Dorp,0114::SB38,,1439,620,2,2,0,0,0,555,69,0,0,0,0,0,624,238,112,44,6,8,13,43,18,8,63,4,47,16,0
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau O.b.s. De Bente,0114::SB39,,912,399,3,0,0,0,0,364,38,0,0,0,0,0,402,216,34,22,4,6,12,13,12,10,39,12,10,9,0
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Dorpshuis De Foxel,0114::SB40,,544,257,1,0,0,0,0,232,26,0,0,0,0,0,258,104,29,13,6,5,11,11,9,7,30,3,17,5,7
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Gebouw achter Veenkerk,0114::SB41,,153,100,0,0,0,0,1,90,9,0,0,0,0,0,100,34,11,14,3,0,6,6,1,1,16,1,7,0,0
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau De Collink,0114::SB42,,1396,634,0,3,0,0,0,565,72,0,0,0,0,0,637,279,62,107,3,9,13,9,10,10,78,9,31,9,5
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Kantine Sporthal De Eendracht,0114::SB43,,1161,515,0,1,0,0,0,458,58,0,0,0,0,0,516,211,94,29,7,2,23,27,8,11,50,2,39,12,0
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Dorpshuis De Meerstal,0114::SB44,,1236,580,1,1,0,0,0,521,61,0,0,0,0,0,582,231,77,40,15,3,13,49,1,10,85,11,31,13,1
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Gemeentewinkel Klazienaveen,0114::SB45,,869,453,0,1,0,0,0,411,44,0,0,1,0,0,455,170,52,71,7,7,7,12,14,5,54,5,30,18,1
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Zorgcentrum Dillehof,0114::SB46,,1422,718,1,2,0,0,0,635,85,0,1,0,0,0,720,331,87,70,15,23,26,14,13,17,55,19,28,17,3
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Ons Belang,0114::SB47,,1196,565,1,0,0,0,0,501,65,0,0,0,0,0,566,244,62,42,10,5,30,18,8,9,63,8,31,26,9
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Gemeentehuis locatie 2,0114::SB48,,859,649,0,2,0,0,0,619,31,0,1,0,1,0,650,72,123,62,54,8,98,43,30,37,33,23,19,28,19
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau O.b.s. De Spil,0114::SB49,,1339,598,2,1,0,2,0,540,59,0,2,0,0,0,599,206,95,55,7,12,17,21,7,21,79,6,51,18,3
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Wijk- en Dienstencentrum Noorderbreedte,0114::SB50,,1031,462,2,3,0,0,0,415,52,0,0,0,0,0,467,170,79,47,7,16,15,7,11,6,53,15,25,9,2
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Kantine Sporthal de Zon,0114::SB51,,1293,633,1,0,0,0,0,574,60,0,0,0,0,0,634,237,66,101,17,12,62,9,18,11,50,12,14,19,5
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Gebouw achter Protestantse kerk,0114::SB52,,1347,574,0,5,0,0,0,514,65,0,0,0,0,0,579,216,68,83,15,13,34,11,13,10,61,13,23,7,7
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Buurthuis 't Hoekje,0114::SB53,,1315,649,0,1,0,0,0,583,67,0,0,0,0,0,650,270,72,56,7,11,22,25,11,14,86,17,36,16,6
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Dorpshuis De Klink,0114::SB54,,1310,643,0,0,0,0,0,559,84,0,0,0,0,0,643,188,122,57,19,44,20,20,5,25,63,14,47,13,6
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Parc Centrum Sandur,0114::SB55,,1683,1006,1,2,0,0,0,933,76,0,0,0,0,0,1009,143,155,111,79,3,158,103,50,45,61,26,22,28,22
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Dorphuis d'Aole Turfstee,0114::SB56,,331,219,0,0,0,0,0,192,27,0,0,0,0,0,219,63,39,14,2,4,18,6,3,11,23,0,27,6,3
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau S.K.W. Barnstee,0114::SB57,,1424,746,2,0,0,0,0,663,85,0,0,0,0,0,748,188,141,113,15,12,43,33,27,11,72,16,21,39,15
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Kantine S.C. Erica,0114::SB58,,1296,707,2,0,0,0,0,649,60,0,0,0,0,0,709,194,93,100,39,13,80,52,11,17,31,16,27,17,17
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau 't Schienvat,0114::SB59,,1176,737,0,1,0,0,0,664,74,0,0,0,0,0,738,204,101,132,24,15,52,40,17,19,53,12,34,22,12
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau O.b.s. De Anbrenge,0114::SB60,,1381,640,0,0,0,0,0,560,80,0,0,0,0,0,640,185,66,128,26,11,64,28,26,23,29,6,29,15,4
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau O.b.s. De Bascule,0114::SB62,,1298,658,1,0,0,1,0,588,72,0,0,0,0,0,660,306,86,35,18,4,35,8,33,13,50,10,28,18,14
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau P.C. b.s. De Bron,0114::SB63,,1337,632,0,2,0,0,0,568,65,0,0,0,1,0,633,326,55,72,23,5,43,10,23,13,31,10,15,6,0
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Zorgcentrum Oldersheem,0114::SB64,,1161,631,1,1,0,0,0,567,65,0,1,0,1,0,632,221,65,86,20,10,54,14,23,20,64,8,24,14,8
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau P.C.b.s. Het Anker,0114::SB65,,1438,714,2,0,0,0,0,657,59,0,0,0,0,0,716,132,159,57,37,6,56,39,35,55,40,21,53,18,6
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Zorgcentrum Valkenhof,0114::SB66,,1483,1104,2,2,0,0,0,1027,81,0,0,0,0,0,1108,181,222,117,62,18,73,72,57,72,70,29,69,44,18
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,"Stembureau Obs de Lisdodde, Eidereend",0114::SB67,,1356,551,4,1,0,0,0,517,39,0,0,0,0,0,556,85,101,64,52,6,47,33,29,36,22,15,38,17,6
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,"Stembureau Obs de Lisdodde, locatie 1",0114::SB68,,1462,945,0,0,0,0,0,858,84,0,3,0,0,0,942,164,171,101,85,2,105,89,60,53,28,19,42,21,5
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Zalencentrum d' Aol Meul,0114::SB69,,963,457,1,0,0,0,0,418,40,0,0,0,0,0,458,228,74,41,5,5,22,8,8,8,27,5,13,8,5
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau 't Aole Gemientehoes,0114::SB71,,1127,865,5,0,0,0,0,812,58,0,0,0,0,0,870,350,80,168,16,4,72,63,16,19,29,7,26,11,4
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Woonvoorziening d'olde Beke,0114::SB72,,1249,520,1,0,0,0,0,470,51,0,0,0,0,0,521,191,23,130,6,4,53,29,16,9,21,6,18,9,5
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Verzorgingscentrum De Anloop,0114::SB73,,1022,585,3,3,0,1,0,544,46,0,1,0,0,0,590,222,35,127,13,12,42,40,22,6,29,14,18,5,0
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau De Dorpshoeve,0114::SB74,,1033,588,2,5,0,0,0,539,56,0,0,0,0,0,595,339,28,89,5,3,23,45,6,7,18,10,7,3,5
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau De Webbe,0114::SB75,,1360,645,2,3,0,0,0,594,56,0,0,0,0,0,650,301,31,75,7,5,28,46,3,13,91,8,12,20,5
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Verenigingsgebouw 't Trefpunt,0114::SB76,,520,262,1,0,0,0,0,244,19,0,0,0,0,0,263,104,34,23,5,1,16,8,6,9,33,3,11,5,4
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau Drenthe College Locatie Veldlaan,0114::SB77,,1262,568,2,4,0,0,0,527,47,0,0,0,0,0,574,117,105,43,43,13,14,43,23,32,38,21,44,21,11
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau St. Gerardusschool,0114::SB78,,1071,554,2,0,0,0,0,489,67,0,0,0,0,0,556,127,66,105,15,5,63,27,22,3,56,15,24,14,12
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau S.C.C. De Schalm,0114::SB79,,809,433,2,1,0,0,0,400,36,0,0,0,0,0,436,207,56,22,7,6,26,6,20,4,38,4,25,6,6
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau O.B.S. de Lisdodde locatie 2,0114::SB80,,1412,829,0,0,0,0,0,756,73,0,0,0,0,0,829,153,146,68,77,8,84,63,46,50,30,36,40,15,13
+,Emmen,GR2018_Emmen,Gemeenteraad Emmen 2018,0114,Emmen,2018-03-21,Stembureau M.F.A. Het Venster,0114::SB81,,528,331,3,0,0,0,0,302,32,0,0,0,0,0,334,49,51,33,32,4,46,29,26,12,9,16,8,14,2

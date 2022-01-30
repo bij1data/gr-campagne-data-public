@@ -1,0 +1,20 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,CDA,GemeenteBelangen,Progressieve Partij,VVD,HenkMeerdinkVolksvertegenwoordiging,ChristenUnie,Democraten 66 (D66)
+,Aalten,GR2018_Aalten,Gemeenteraad Aalten 2018,0197,Aalten,2018-03-21,Stembureau Stegemanhof,0197::SB1,7122 CG,1140,992,6,6,0,0,0,1003,1,0,0,0,0,0,1004,248,159,169,155,20,124,117
+,Aalten,GR2018_Aalten,Gemeenteraad Aalten 2018,0197,Aalten,2018-03-21,Stembureau Magnoliaschool,0197::SB2,7121 AM,1372,606,4,2,0,0,0,561,51,0,0,0,0,0,612,156,101,94,100,23,59,73
+,Aalten,GR2018_Aalten,Gemeenteraad Aalten 2018,0197,Aalten,2018-03-21,Stembureau R.K. Kerk,0197::SB3,7121 ES,1141,766,3,1,0,1,0,705,66,0,0,1,0,0,771,211,120,111,135,26,69,94
+,Aalten,GR2018_Aalten,Gemeenteraad Aalten 2018,0197,Aalten,2018-03-21,Stembureau Schaersvoorde,0197::SB4,7122 AW,1142,721,4,4,0,0,0,656,73,0,0,0,0,0,729,152,137,145,81,31,79,96
+,Aalten,GR2018_Aalten,Gemeenteraad Aalten 2018,0197,Aalten,2018-03-21,Stembureau Gebouw AD'69 (kantine),0197::SB5,7121 JB,1506,674,1,3,0,0,0,616,62,0,0,0,0,0,678,198,121,86,125,40,39,65
+,Aalten,GR2018_Aalten,Gemeenteraad Aalten 2018,0197,Aalten,2018-03-21,Stembureau Het Spölhuuksken,0197::SB6,7121 VK,1416,723,7,3,0,1,0,682,52,0,0,1,0,0,734,214,135,114,87,31,55,87
+,Aalten,GR2018_Aalten,Gemeenteraad Aalten 2018,0197,Aalten,2018-03-21,Stembureau Beth San,0197::SB7,7121 EG,1298,768,4,0,0,0,0,724,48,0,0,0,0,0,772,237,138,119,78,24,70,102
+,Aalten,GR2018_Aalten,Gemeenteraad Aalten 2018,0197,Aalten,2018-03-21,Stembureau Sporthal Aladna,0197::SB8,7121 WN,1230,836,0,1,0,2,0,764,71,0,2,0,0,0,835,228,159,108,129,21,79,112
+,Aalten,GR2018_Aalten,Gemeenteraad Aalten 2018,0197,Aalten,2018-03-21,Stembureau Ver.gebouw 't Dorpshuus IJzerlo,0197::SB9,7122 KH,779,443,0,0,0,0,0,407,36,0,0,0,0,0,443,217,63,46,45,24,18,30
+,Aalten,GR2018_Aalten,Gemeenteraad Aalten 2018,0197,Aalten,2018-03-21,Stembureau Kulturhus Lintelo,0197::SB10,7122 LX,927,542,6,0,0,0,0,508,40,0,0,0,0,0,548,216,60,44,77,32,74,39
+,Aalten,GR2018_Aalten,Gemeenteraad Aalten 2018,0197,Aalten,2018-03-21,Stembureau Gebouw De Markerink,0197::SB11,7122 RK,871,496,3,1,0,0,0,463,37,0,0,0,0,0,500,191,46,42,85,59,36,37
+,Aalten,GR2018_Aalten,Gemeenteraad Aalten 2018,0197,Aalten,2018-03-21,Stembureau Gebouw De Ringkamp,0197::SB12,7121 KL,865,392,2,0,0,0,0,346,48,0,0,0,0,0,394,197,30,41,56,33,10,25
+,Aalten,GR2018_Aalten,Gemeenteraad Aalten 2018,0197,Aalten,2018-03-21,Stembureau Ambthuis,0197::SB13,7126 BC,1131,843,2,0,0,1,0,773,73,0,0,1,0,0,846,189,76,205,99,156,43,75
+,Aalten,GR2018_Aalten,Gemeenteraad Aalten 2018,0197,Aalten,2018-03-21,Stembureau Dr. Jenny,0197::SB14,7091 BR,1444,517,2,3,0,0,0,470,52,0,0,0,0,0,522,137,245,41,29,14,23,28
+,Aalten,GR2018_Aalten,Gemeenteraad Aalten 2018,0197,Aalten,2018-03-21,Stembureau Kulturhus Dinxperlo,0197::SB15,7091 CV,1521,815,5,3,0,0,0,743,80,0,0,0,0,0,823,158,417,90,53,26,28,43
+,Aalten,GR2018_Aalten,Gemeenteraad Aalten 2018,0197,Aalten,2018-03-21,Stembureau CBS De Höve,0197::SB16,7095 AX,824,555,0,0,0,0,0,501,54,0,0,0,0,0,555,195,139,57,64,37,21,42
+,Aalten,GR2018_Aalten,Gemeenteraad Aalten 2018,0197,Aalten,2018-03-21,Stembureau Sporthal,0197::SB17,7091 XC,1361,662,1,5,1,0,0,619,50,0,0,1,0,0,669,132,339,43,47,28,40,33
+,Aalten,GR2018_Aalten,Gemeenteraad Aalten 2018,0197,Aalten,2018-03-21,"Stembureau Bibliotheek, Achterhoekse Poort (Duplo)",0197::SB18,7091 DE,1483,990,2,3,0,0,0,903,92,0,0,0,0,0,995,174,544,70,52,41,51,58
+,Aalten,GR2018_Aalten,Gemeenteraad Aalten 2018,0197,Aalten,2018-03-21,Stembureau Mobiel stembureau,0197::SB19,,0,262,0,0,0,0,0,244,18,0,0,0,0,0,262,86,34,33,46,12,21,30

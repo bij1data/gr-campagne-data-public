@@ -1,0 +1,83 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_kwijtgeraakte stembiljetten,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,CDA - Europese Volkspartij,PVV (Partij voor de Vrijheid),P.v.d.A./Europese Sociaaldemocraten,VVD,Democraten 66 (D66) - ALDE,GROENLINKS,SP (Socialistische Partij),ChristenUnie-SGP,Artikel50,"IQ, de Rechten-Plichten-Partij",Piratenpartij,50PLUS,De Groenen,Anti  EU(ro)  Partij,Liberaal Democratische Partij,JEZUS LEEFT,ikkiesvooreerlijk.eu,Partij voor de Dieren,Aandacht en Eenvoud
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Stadhuis,0034::SB1,,1178,776,6,6,0,0,2,700,86,0,0,0,0,0,0,788,33,122,101,85,156,55,90,20,8,1,20,14,3,2,0,3,5,57,1
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zorgcentrum De Overloop,0034::SB2,,1091,339,1,0,0,0,0,308,32,0,0,0,0,0,0,340,19,91,31,35,43,19,48,2,2,0,3,25,0,4,0,2,0,13,2
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Polderhof,0034::SB3,,1243,423,1,0,0,0,0,376,48,0,0,0,0,0,0,424,39,82,43,34,74,31,62,9,2,0,5,10,0,3,0,1,0,28,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Loofhut,0034::SB4,,1106,377,0,5,0,0,0,350,32,0,0,0,0,0,0,382,27,68,26,55,63,46,47,5,4,1,5,9,0,2,0,2,0,16,1
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Dubbeldekker,0034::SB5,,1069,397,0,3,0,0,0,358,42,0,0,0,0,0,0,400,18,75,61,30,59,29,47,8,4,0,6,26,1,0,1,5,0,27,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Klaverweide,0034::SB7,,1599,480,4,2,0,0,0,434,52,0,0,0,0,0,0,486,50,94,51,57,83,29,40,4,5,0,6,19,2,3,0,0,0,37,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School Het Drieluik,0034::SB8,,2158,471,3,0,0,0,0,419,55,0,0,0,0,0,0,474,46,72,33,70,102,35,44,16,1,0,9,4,2,2,0,1,0,34,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Buurtcentrum Amerika,0034::SB9,,2820,649,0,2,0,0,1,568,82,0,0,0,0,0,0,651,43,101,69,113,154,43,50,10,8,0,10,12,2,2,1,0,1,30,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Buurtcentrum Meenten en Grienden,0034::SB12,,1482,540,0,4,0,1,0,488,57,0,0,0,1,0,0,545,35,99,61,28,76,51,87,12,6,0,3,32,2,2,1,0,1,43,1
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Regenboog,0034::SB13,,1283,526,2,1,0,0,0,463,66,0,0,0,0,0,0,529,25,111,51,41,89,43,77,10,4,0,4,26,3,1,0,0,0,41,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Wierwinde,0034::SB14,,1334,350,2,2,0,0,0,314,40,0,0,0,0,0,0,354,15,77,29,32,64,23,48,7,6,1,4,8,1,5,0,4,2,22,2
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Flierefluiter,0034::SB15,,1496,747,1,2,0,0,4,652,94,0,0,0,0,0,0,750,53,107,97,103,135,49,80,26,10,1,13,27,2,2,1,1,1,39,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School Het Samenspel Midden,0034::SB16,,1547,345,1,3,0,0,0,323,26,0,0,0,0,0,0,349,17,73,59,27,48,21,38,11,5,1,9,13,0,4,0,1,0,18,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Achtbaan,0034::SB17,,1565,457,3,3,0,0,2,414,47,0,0,0,0,0,0,463,24,110,46,52,64,23,61,4,0,0,5,21,1,1,1,2,1,41,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Schoolgebouw voorheen De Limerick,0034::SB20,,2675,452,0,4,0,0,0,390,66,0,0,0,0,0,0,456,37,74,69,43,83,23,41,20,5,0,7,12,1,3,0,1,3,29,1
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School Het Samenspel Noord,0034::SB21,,1392,205,1,1,0,0,0,177,30,0,0,0,0,0,0,207,4,33,29,6,34,9,36,15,2,0,2,6,0,3,2,0,0,20,4
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School Digitalis,0034::SB23,,2446,616,2,1,0,0,0,541,78,0,0,0,0,0,0,619,38,131,64,62,101,34,85,17,5,0,8,32,3,2,0,1,0,32,1
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Kameleon,0034::SB24,,2641,594,1,4,0,0,1,533,65,0,0,0,0,0,0,599,28,107,82,62,112,31,69,18,6,0,6,32,1,6,2,4,0,28,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Porto-cabin nabij Pimpernelstraat 32,0034::SB25,,1250,284,4,3,0,0,0,263,28,0,0,0,0,0,0,291,13,70,42,25,41,16,37,4,6,0,6,10,0,2,0,0,0,12,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Driemaster,0034::SB26,,2945,727,0,2,0,0,0,655,74,0,0,0,0,0,0,729,39,204,83,51,88,40,93,25,5,0,8,28,1,3,2,1,0,56,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School Het Spectrum,0034::SB27,,3050,1014,2,5,0,0,0,921,102,2,0,0,2,0,0,1023,50,148,76,156,204,98,96,47,10,0,13,34,1,3,0,0,1,77,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Argonaut (voorheen Waterhoek),0034::SB29,,2243,575,4,4,0,0,0,527,56,0,0,0,0,0,0,583,32,161,50,33,81,31,92,13,2,2,9,29,4,1,0,3,0,32,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Zeetuin,0034::SB30,,852,268,1,0,0,0,0,244,25,0,0,0,0,0,0,269,16,68,29,16,45,8,36,9,0,0,5,11,0,1,0,1,0,23,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Tjasker,0034::SB32,,1603,479,8,0,0,0,44,443,0,0,0,0,0,0,0,487,30,106,39,53,65,31,64,16,6,0,8,18,4,4,3,0,2,30,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Hasselbraam,0034::SB33,,1613,508,0,1,0,0,0,456,53,0,0,0,0,0,0,509,17,102,53,59,105,28,65,23,6,1,12,8,3,1,1,1,0,23,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Buurtcentrum De Wieken,0034::SB34,,1575,401,1,3,0,0,5,351,49,0,0,0,0,0,0,405,31,105,27,31,50,18,75,13,1,0,5,15,2,5,0,4,1,17,1
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zorgcentrum De Kiekendief,0034::SB35,,1098,279,1,2,0,0,0,259,23,0,0,0,0,0,0,282,22,59,32,9,47,12,39,6,2,1,2,20,0,2,1,1,0,23,1
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Centrum Verpleeghuiszorg Polderburen,0034::SB36,,1209,270,1,1,0,0,0,242,30,0,0,0,0,0,0,272,27,68,21,26,44,15,35,8,0,0,4,7,2,1,0,0,1,11,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School Heliotroop,0034::SB37,,1216,528,3,3,0,0,56,477,1,0,0,0,0,0,0,534,22,114,51,55,83,39,73,12,2,0,3,27,3,5,0,0,2,37,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Taalcentrum Almere (v.h De Peperbus),0034::SB38,,1186,418,0,0,0,0,0,380,38,0,0,0,0,0,0,418,30,77,54,42,77,26,39,6,2,0,5,25,2,1,0,0,0,32,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Oase,0034::SB39,,1021,323,3,2,0,0,1,287,40,0,0,0,0,0,0,328,18,47,24,40,49,29,41,32,4,0,5,4,1,3,0,3,0,23,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Duizendpoot,0034::SB40,,1475,564,2,0,0,0,0,503,63,0,0,0,0,0,0,566,29,122,61,57,76,38,80,22,2,0,6,13,2,6,0,1,0,45,4
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Buurtcentrum Parkwijk,0034::SB41,,1956,745,0,5,0,0,0,670,80,0,0,0,0,0,0,750,50,150,71,93,127,37,66,41,10,0,16,39,1,0,2,0,0,42,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Dependance school De Buitenburcht,0034::SB42,,1877,575,2,0,0,0,2,527,48,0,0,0,0,0,0,577,54,118,47,42,80,31,94,17,6,1,4,34,0,3,0,0,0,44,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Boventoon,0034::SB43,,1347,367,1,1,0,0,0,325,44,0,0,0,0,0,0,369,29,58,35,53,51,19,59,13,0,0,5,15,0,9,0,0,0,21,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Buurtcentrum 't Kardoes,0034::SB44,,1554,297,0,3,0,0,0,275,25,0,0,0,0,0,0,300,10,71,46,17,48,16,45,6,5,1,9,7,0,0,0,2,0,13,1
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zorgcentrum Buitenhaeghe,0034::SB45,,1356,335,1,3,0,0,0,313,26,0,0,0,0,0,0,339,32,86,30,12,30,14,59,18,3,0,2,27,1,1,0,2,0,17,1
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Wooncentrum De Rotonde,0034::SB47,,1247,414,1,4,0,0,0,375,44,0,0,0,0,0,0,419,30,108,58,26,61,10,52,7,4,0,7,21,0,3,0,0,3,24,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Montessorischool,0034::SB48,,1417,321,1,1,0,0,1,287,36,0,1,0,1,0,0,324,27,65,42,31,48,12,34,7,2,0,3,13,0,0,0,1,1,35,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Torteltuin,0034::SB49,,1912,668,4,3,0,0,0,589,85,0,0,0,0,0,0,674,44,105,67,81,123,38,58,35,5,0,13,22,2,3,0,1,0,71,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Lichtboei,0034::SB50,,1110,432,0,1,0,0,0,374,59,0,0,0,0,0,0,433,33,71,55,55,83,35,32,21,3,4,0,11,1,3,1,2,0,22,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School Syncope,0034::SB51,,2737,747,2,1,0,0,2,646,102,0,0,0,0,0,0,750,55,126,80,107,139,48,73,16,7,1,9,27,3,0,0,0,0,56,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Vedelaar,0034::SB52,,1537,422,4,1,0,0,1,381,45,0,0,0,0,0,0,427,18,84,47,54,74,30,36,6,4,1,6,28,1,0,1,0,0,32,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,"Stembureau De Toonladder, gebouw De Concertmeester",0034::SB53,,1548,642,0,2,0,0,3,583,58,0,0,0,0,0,0,644,60,114,63,70,91,37,79,30,4,0,15,31,0,5,0,3,0,40,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Dependance school De Kraanvogel I,0034::SB54,,1996,453,4,1,0,0,0,401,57,0,0,0,0,0,0,458,21,99,49,54,68,30,52,30,11,0,4,12,1,2,1,3,0,16,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Albatros,0034::SB55,,2806,888,8,3,0,0,0,776,122,0,0,0,0,0,0,898,52,136,84,140,183,55,92,31,8,0,17,17,2,0,1,2,3,65,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School Bommelstein,0034::SB56,,1944,668,5,2,0,0,0,610,65,0,0,0,0,0,0,675,48,117,62,70,136,58,68,18,6,0,17,20,2,2,1,2,2,39,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,"Stembureau School 't Zonnewiel, ingang t/o Sporthal",0034::SB57,,1160,461,2,0,0,0,0,397,66,0,0,0,0,0,0,463,42,57,54,52,104,34,59,17,2,0,9,10,0,0,0,0,0,20,1
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Buurtcentrum Het Forum,0034::SB59,,1438,457,4,1,0,0,0,409,53,0,0,0,0,0,0,462,35,105,53,39,53,33,43,14,2,0,7,25,3,2,0,7,3,33,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Bombardon,0034::SB60,,1543,541,4,2,0,0,0,481,64,0,0,2,0,2,0,545,34,96,52,75,102,50,43,33,8,1,7,9,2,2,0,1,0,26,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Filmwijkcentrum,0034::SB61,,3036,927,2,0,0,0,1,827,102,1,0,0,1,0,0,930,72,179,96,114,136,54,111,53,7,0,12,23,1,2,1,4,2,60,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Dependance School de Kraanvogel II,0034::SB63,,1349,395,1,1,0,0,0,326,71,0,0,0,0,0,0,397,19,83,35,24,86,16,49,31,8,0,7,13,0,2,1,3,3,14,1
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Stichting Stad & Natuur,0034::SB64,,1163,600,1,0,0,0,96,503,2,0,0,0,0,0,0,601,83,76,21,197,105,24,25,10,5,0,3,10,0,0,2,0,0,39,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Kraanvogel,0034::SB65,,2022,637,0,1,0,0,0,561,77,0,0,0,0,0,0,638,51,89,59,119,136,42,28,34,6,0,9,24,1,6,0,0,0,31,2
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Buurtcentrum Viplounge,0034::SB66,,3189,560,2,0,0,0,4,495,63,0,0,0,0,0,0,562,42,84,69,106,111,32,47,15,3,0,10,4,1,2,0,3,2,27,2
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Omnibus,0034::SB69,,1216,540,2,0,0,0,2,470,70,0,0,0,0,0,0,542,56,84,40,119,108,26,36,12,4,0,6,17,0,2,2,0,2,26,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School Letterland,0034::SB70,,1342,368,1,0,0,0,2,307,60,0,0,0,0,0,0,369,16,69,63,56,66,23,27,8,1,0,7,14,0,1,0,1,2,14,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School Het Palet,0034::SB71,,1103,447,3,1,0,0,1,387,63,0,0,0,0,0,0,451,25,80,57,58,70,14,56,23,2,0,14,16,2,2,0,2,1,25,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Optimist I,0034::SB72,,2094,547,1,1,0,0,0,474,75,0,0,0,0,0,0,549,32,112,52,73,98,33,54,28,5,0,5,15,3,1,0,5,1,29,1
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School de Egelantier,0034::SB74,,2588,605,5,3,0,0,2,514,97,0,0,0,0,0,0,613,25,124,51,83,114,29,75,33,3,1,9,11,2,1,2,0,0,41,1
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Brede school Het Meesterwerk,0034::SB76,,1327,333,1,0,0,0,0,296,38,0,0,0,0,0,0,334,24,69,46,47,64,22,23,6,2,1,3,11,0,2,1,0,1,11,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Archipel,0034::SB77,,4032,963,9,4,0,0,1,845,128,0,0,2,0,2,0,974,44,188,102,159,196,55,74,21,12,0,6,38,0,7,2,3,2,54,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Gebouw De Compositie,0034::SB79,,999,332,1,2,0,0,0,287,48,0,0,0,0,0,0,335,31,70,23,70,59,19,29,12,5,0,4,3,0,0,1,0,0,6,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School Het Avontuur,0034::SB80,,1738,475,4,3,0,0,0,416,66,0,0,0,0,0,0,482,20,84,48,76,90,36,47,14,2,0,3,12,1,4,0,2,0,35,1
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Buurthuis De Cartoon,0034::SB81,,1298,411,0,1,0,0,2,365,45,0,0,0,0,0,0,412,33,65,28,79,65,28,40,20,7,0,6,21,2,0,1,0,2,14,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Windwijzer,0034::SB82,,2824,831,3,1,0,0,2,697,136,0,0,0,0,0,0,835,56,119,74,194,201,46,29,28,7,0,6,13,4,2,4,3,1,44,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School Het Kristal,0034::SB83,,1508,278,0,0,0,0,0,243,35,0,0,0,0,0,0,278,29,69,29,31,34,12,35,8,4,0,1,6,0,2,0,0,0,18,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Flevoziekenhuis,0034::SB84,,925,546,0,2,0,0,0,495,53,0,0,0,0,0,0,548,33,104,48,70,95,40,64,16,6,0,2,28,1,2,0,0,2,35,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School Panta Rhei,0034::SB85,,991,483,3,4,0,0,1,444,45,0,0,0,0,0,0,490,25,131,39,51,56,32,67,16,8,0,7,13,0,3,5,2,0,26,2
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Kerkcentrum Goede Rede,0034::SB86,,2454,745,5,2,0,0,2,679,71,0,0,0,0,0,0,752,49,202,65,62,86,42,102,15,8,0,8,38,0,4,0,3,2,57,2
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Dukdalf,0034::SB89,,1318,335,1,1,0,1,0,290,46,0,0,1,0,0,0,336,16,53,31,46,61,12,54,28,4,0,4,6,2,1,0,0,1,16,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Gezondheidscentrum Archipel,0034::SB91,,1405,437,0,0,0,0,0,386,51,0,0,0,0,0,0,437,32,88,47,55,81,24,45,8,2,0,4,21,1,2,0,1,1,25,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School Aurora,0034::SB92,,3523,1085,5,2,0,0,0,957,135,0,0,0,0,0,0,1092,72,188,115,147,228,64,88,52,9,0,14,30,4,1,2,5,2,63,1
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Optimist II,0034::SB93,,1223,249,1,0,0,0,1,213,36,0,0,0,0,0,0,250,14,54,20,36,37,11,40,9,1,0,2,11,1,2,0,1,1,9,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Kantoorgebouw voorheen 's-Heerenloo,0034::SB94,,2645,371,0,0,0,0,0,327,44,0,0,0,0,0,0,371,16,81,32,39,69,21,38,14,1,0,7,19,2,2,0,1,0,29,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Architect,0034::SB95,,2301,550,2,4,0,0,4,490,62,0,0,0,0,0,0,556,30,144,50,44,71,22,78,8,1,3,9,26,4,9,3,3,1,43,1
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Clubhuis Watersportvereniging WSVNPW,0034::SB96,,1558,428,1,1,0,0,0,373,57,0,0,0,0,0,0,430,32,67,16,113,99,25,29,5,6,1,5,9,0,0,1,3,0,16,1
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Station NS Almere Muziekwijk,0034::SB97,,0,524,3,2,1,0,1,474,54,0,0,0,0,0,0,529,29,66,96,43,99,52,58,11,9,0,14,14,1,0,1,1,1,28,1
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Portocabin Station NS Almere Centrum,0034::SB98,,0,906,10,6,0,0,3,853,67,0,0,0,1,0,0,923,48,140,104,102,178,87,96,24,12,0,29,21,1,4,2,3,2,53,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Gezondheidscentrum Castrovalva,0034::SB102,,1416,342,0,4,0,0,0,299,47,0,0,0,0,0,0,346,37,77,45,32,42,18,28,16,2,2,5,10,1,0,0,2,0,25,0
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School Polygoon,0034::SB105,,2388,781,2,1,0,0,2,707,74,0,0,1,0,0,0,783,50,95,101,85,175,84,54,21,8,0,16,27,1,2,2,0,3,55,2
+,Almere,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Activiteitencentrum Wierdendok,0034::SB109,,2650,679,1,3,0,0,1,595,87,0,0,0,0,0,0,683,45,130,78,87,109,51,60,10,10,1,7,35,1,1,2,1,6,45,0

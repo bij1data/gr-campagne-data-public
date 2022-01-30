@@ -1,0 +1,32 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,ChristenUnie,CDA,Staatkundig Gereformeerde Partij (SGP),VVD,Gemeente Belang Kampen,GROENLINKS,Partij van de Arbeid (P.v.d.A.),Democraten 66 (D66),Kampen Sociaal
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau Parochiecentrum Het Klooster,0166::SB1,,1515,888,4,2,0,0,0,842,52,0,0,0,0,0,894,122,82,47,94,132,188,78,72,73
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau Margaretha,0166::SB2,,1538,855,3,7,0,0,0,818,47,0,0,0,0,0,865,129,85,33,128,92,159,57,95,77
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau Wijkcentrum Reijersdam,0166::SB3,,1424,716,2,1,0,0,0,640,79,0,0,0,0,0,719,91,50,30,73,149,91,94,43,95
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau Westerkerk,0166::SB4,,1439,867,4,4,0,0,0,811,64,0,0,0,0,0,875,122,111,57,73,163,115,71,28,127
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau Myosotis,0166::SB5,,1569,1239,1,2,1,0,0,1125,118,0,0,1,0,0,1243,242,148,112,134,144,190,89,90,90
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau Stadhuis,0166::SB6,,1421,1409,1,4,0,0,0,1271,143,0,0,0,0,0,1414,201,183,112,151,195,253,89,120,105
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau Het Stroomdal,0166::SB7,,1007,847,0,1,0,0,0,760,88,0,0,0,0,0,848,202,83,96,151,94,98,27,64,32
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau De Ommeland,0166::SB8,,1546,948,5,2,0,2,0,854,103,0,0,2,0,0,957,145,122,50,62,228,83,101,64,93
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau Willem van Oranjeschool,0166::SB9,,1476,819,3,3,0,0,0,778,47,0,0,0,0,0,825,157,98,54,55,128,108,59,44,116
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau Kerkelijk Centrum Open Hof,0166::SB10,,1352,783,4,3,0,3,0,731,62,0,0,3,0,0,793,92,84,42,60,163,113,80,53,96
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau De Amandelboom,0166::SB11,,1393,901,2,5,0,0,0,827,81,0,0,0,0,0,908,212,122,109,72,129,99,66,45,47
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau De Vijverhof,0166::SB12,,1527,1053,3,2,0,2,0,961,99,0,0,2,0,0,1060,207,138,60,65,204,136,75,65,103
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau De Morgenster,0166::SB13,,1249,894,4,1,0,0,0,811,88,0,0,0,0,0,899,154,83,42,69,188,143,68,39,108
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau De Veenhof,0166::SB14,,610,418,0,0,0,0,0,353,65,0,0,0,0,0,418,108,70,149,22,30,25,3,8,3
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau Vitree,0166::SB15,,1561,1087,5,4,0,3,0,987,112,0,0,3,0,0,1099,180,144,90,135,187,127,49,73,102
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau De Schalmei,0166::SB16,,1106,743,0,0,0,0,0,675,68,0,0,0,0,0,743,108,114,51,123,70,102,54,63,58
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau Bazuinkerk,0166::SB17,,1416,1064,2,0,0,0,0,977,89,0,0,0,0,0,1066,185,135,76,201,135,128,64,88,52
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau CNS de Groenling,0166::SB18,,1534,983,0,4,0,0,0,885,102,0,0,0,0,0,987,206,148,190,132,113,70,35,41,48
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau Maarlenhof,0166::SB19,,1469,1250,2,2,0,0,0,1121,133,0,0,0,0,0,1254,261,203,317,67,166,80,55,38,63
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau De Bron,0166::SB20,,1314,1054,3,3,0,0,0,949,111,0,0,0,0,0,1060,253,148,200,73,174,67,43,34,62
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau De Hoeksteen,0166::SB21,,1497,1622,0,3,0,0,0,1450,175,0,0,0,0,0,1625,464,244,331,133,195,88,49,60,58
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau Basisschool Ichthus,0166::SB22,,1262,854,2,0,0,1,0,772,85,0,0,1,0,0,857,260,135,185,53,92,42,31,20,36
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau Hervormd Verenigingsgebouw,0166::SB23,,1593,1073,0,4,0,0,0,933,144,0,0,0,0,0,1077,170,121,543,74,71,32,15,13,34
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau N.H. Verenigingsgebouw,0166::SB24,,670,519,1,0,0,0,0,473,47,0,0,0,0,0,520,133,200,64,21,27,45,12,8,9
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau De Kandelaar,0166::SB25,,638,490,1,0,0,0,0,452,39,0,0,0,0,0,491,86,267,34,31,13,31,6,3,19
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau An de Steege,0166::SB26,,565,437,2,0,0,0,0,392,47,0,0,0,0,0,439,155,108,59,18,24,35,14,12,12
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau Quintus,0166::SB27,,1426,936,4,5,0,1,0,864,80,0,1,0,0,0,944,142,80,44,88,103,214,82,88,95
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau Koningin Emmaschool,0166::SB28,,1374,735,1,5,0,0,0,662,79,0,0,0,0,0,741,97,69,51,86,180,63,84,21,84
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau Almere College/ISK,0166::SB29,,1250,622,1,0,0,0,0,577,46,0,0,0,0,0,623,106,57,43,60,118,86,55,42,55
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau Villa Nova,0166::SB30,,1023,603,0,0,0,0,0,535,68,0,0,0,0,0,603,120,65,69,128,61,58,35,55,12
+,Kampen,GR2018_Kampen,Gemeenteraad Kampen 2018,0166,Kampen,2018-03-21,Stembureau Oosterholthoeve,0166::SB31,,1491,627,1,6,0,1,0,556,77,0,1,0,0,0,633,150,85,158,59,86,32,13,17,27

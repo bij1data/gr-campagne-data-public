@@ -1,0 +1,54 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Democraten 66 (D66),SP (Socialistische Partij),VVD,Partij van de Arbeid (P.v.d.A.),GROENLINKS,CDA,Partij voor de Dieren,ChristenUnie,PS (Partij Sleutelstad)
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Stadhuis (1),0546::SB1,,1859,1061,6,1,0,0,0,993,75,0,0,0,0,0,1068,278,58,178,90,240,56,87,37,37
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Rijksmuseum van Oudheden (2),0546::SB2,,1886,1303,3,2,0,0,0,1246,62,0,0,0,0,0,1308,388,40,214,89,314,92,87,50,29
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Erfgoed Leiden en Omstreken,0546::SB3,,1919,1076,3,1,0,0,0,1002,78,0,0,0,0,0,1080,265,50,191,124,216,84,77,36,33
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Huis op de Waard,0546::SB4,,2546,886,7,4,0,0,0,839,58,0,0,0,0,0,897,188,78,137,71,186,56,93,33,44
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Leger des Heils,0546::SB6,,2507,1267,4,4,0,1,0,1198,78,0,0,1,0,0,1276,328,75,156,105,298,72,128,54,51
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Hooglandse Huys,0546::SB7,,2303,1391,5,3,0,3,0,1303,99,0,0,3,0,0,1402,390,72,228,80,310,84,124,67,36
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Woningcorporatie De Sleutels,0546::SB9,,2316,1290,12,9,0,0,0,1209,102,0,0,0,0,0,1311,290,110,170,100,279,78,125,67,71
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Marehuis,0546::SB10,,2290,1372,6,0,0,2,0,1322,58,0,0,2,0,0,1380,380,77,202,104,301,80,110,61,57
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Museum Volkenkunde,0546::SB12,,2382,1383,4,1,0,0,0,1277,111,0,0,0,0,0,1388,363,98,186,107,345,65,109,64,46
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Schouwenhove,0546::SB14,,1968,1204,8,4,0,0,0,1112,104,0,0,0,0,0,1216,209,111,180,134,203,124,102,46,95
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Huis van de Buurt Morschwijck (15),0546::SB15,,3479,717,1,3,0,0,0,651,70,0,0,0,0,0,721,124,86,88,106,117,60,46,28,62
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Robijnhof,0546::SB17,,2158,1160,3,6,0,0,0,1060,110,1,0,1,0,0,1170,177,103,175,151,160,163,88,54,89
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Het Waterland,0546::SB18,,1779,697,3,2,0,0,0,637,65,0,0,0,0,0,702,175,38,102,76,138,69,45,29,25
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Leidse Houtschool,0546::SB19,,2222,1323,5,4,0,1,0,1225,108,0,0,1,0,0,1333,356,26,192,167,310,95,87,57,33
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Speeltuin Rondom de Maredijk,0546::SB20,,2047,717,6,3,0,2,0,674,50,0,2,0,0,0,724,152,39,98,77,193,44,54,31,29
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Meet & Greet,0546::SB21,,2647,1268,12,3,0,2,0,1169,116,0,0,2,0,0,1285,291,86,161,142,327,72,102,42,45
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Josephkerk,0546::SB22,,1926,699,8,1,0,0,0,653,55,0,0,0,0,0,708,127,102,74,74,104,53,79,34,52
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Overrhyn,0546::SB23,,2295,675,5,6,0,0,0,606,80,0,0,0,0,0,686,112,97,56,137,110,32,50,24,57
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Huis van de Buurt Het Gebouw,0546::SB24,,1982,1047,13,10,0,0,0,983,87,0,0,0,0,0,1070,194,154,118,161,184,33,89,33,81
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Huis van de Buurt De Kooi,0546::SB28,,2818,896,11,6,0,0,0,836,76,0,1,0,1,0,912,145,162,107,81,155,46,59,35,106
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Kinderdagverblijf Admiraal de Ruyter,0546::SB29,,1916,745,4,3,0,0,0,694,60,2,0,2,0,0,754,165,61,84,76,158,48,74,15,64
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Roomburgh,0546::SB30,,2551,1469,9,1,0,0,0,1328,151,0,0,0,0,0,1479,296,124,305,142,194,170,97,70,71
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Stedelijk Gymnasium,0546::SB32,,1968,1341,6,1,0,1,0,1205,144,0,0,1,0,0,1349,338,62,193,166,312,77,114,48,31
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Basisschool Sint Joseph,0546::SB33,,1528,1058,9,2,0,0,0,973,96,0,0,0,0,0,1069,263,53,148,117,161,126,82,62,46
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Vredeskerk,0546::SB34,,2270,1672,5,4,0,4,0,1528,157,0,0,4,0,0,1685,376,82,205,192,343,165,159,101,49
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Lorentzhof,0546::SB35,,1868,1021,5,5,0,0,0,952,77,0,2,0,0,0,1029,237,51,130,135,219,93,77,48,31
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Speeltuin Zuiderkwartier,0546::SB38,,2255,721,11,1,0,0,0,685,48,0,0,0,0,0,733,153,62,93,66,156,43,67,33,48
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Buurtontmoetingsplek Herenstraat,0546::SB40,,2225,1412,7,0,8,0,0,1344,83,0,0,0,0,0,1427,304,102,155,183,364,85,125,36,58
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Groenhoven,0546::SB41,,1830,1068,6,1,0,0,0,992,83,0,0,0,0,0,1075,325,39,137,150,203,83,81,32,18
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Speeltuin Westerkwartier,0546::SB42,,1786,892,7,1,0,0,0,826,73,0,1,0,0,0,899,195,54,147,85,185,70,67,25,64
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Daltonschool,0546::SB44,,2402,832,3,4,0,0,0,758,81,0,0,0,0,0,839,175,95,83,119,149,42,60,26,83
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Rosenburch,0546::SB45,,2237,1395,19,11,0,0,0,1338,87,0,0,0,0,0,1425,286,147,194,115,230,136,114,61,112
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Zuydtwijck,0546::SB48,,2554,1240,11,17,0,0,0,1141,127,0,0,0,0,0,1268,244,125,151,185,179,105,92,47,112
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Haagwijk,0546::SB49,,1780,871,8,6,0,0,0,809,76,0,0,0,0,0,885,129,107,117,79,119,132,59,39,90
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Parelvissers,0546::SB50,,2345,934,2,4,0,0,0,870,70,0,0,0,0,0,940,134,117,115,104,108,132,65,66,93
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Vlietland College,0546::SB51,,1780,915,5,4,0,0,0,843,85,0,0,4,0,0,928,123,69,172,93,119,159,49,40,91
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Basisschool De Meerpaal (54),0546::SB54,,2888,1022,7,3,0,4,0,924,112,0,0,4,0,0,1036,218,65,132,126,171,157,55,47,51
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Basisschool De Dukdalf (56),0546::SB56,,2717,778,1,0,0,0,0,707,72,0,0,0,0,0,779,151,41,92,124,121,131,54,31,33
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Kerkelijk Centrum De Regenboog (58),0546::SB58,,3245,1161,7,5,0,2,0,1051,124,0,0,2,0,0,1175,191,158,87,159,179,146,88,61,92
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau LTV De Merenwijk,0546::SB59,,2177,962,8,5,0,0,0,899,78,1,0,2,0,1,977,166,79,134,133,146,105,75,42,82
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Huis van de Buurt Stevenshof,0546::SB60,,2168,1294,5,4,0,0,0,1176,127,0,0,0,0,0,1303,217,111,212,173,156,118,113,63,131
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Basisschool De Stevenshof,0546::SB62,,2194,864,2,4,0,0,0,792,78,0,0,0,0,0,870,95,113,146,93,113,98,79,24,103
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Basisschool De Zwaluw,0546::SB63,,2178,931,8,4,0,0,0,860,84,0,0,1,0,0,944,114,86,134,101,116,132,96,43,109
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Sociëteit De Dobbegaarde,0546::SB64,,2443,1175,7,4,0,0,0,1068,118,0,0,0,0,0,1186,161,107,223,132,162,138,89,43,120
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Basisschool De Arcade,0546::SB66,,2200,1229,2,7,0,1,0,1119,118,0,1,0,0,0,1237,279,72,311,130,141,119,52,53,72
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Level (Centraal Station),0546::SB99,,176,1079,8,5,0,0,0,1028,63,0,1,0,0,0,1091,339,33,122,87,269,70,60,46,53
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Centraal Station,0546::SB100,,0,1761,17,7,0,0,0,1722,67,8,0,4,0,0,1789,532,92,219,125,435,111,111,73,63
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Stadhuis (101),0546::SB101,,0,1153,4,2,0,0,0,1094,65,0,0,0,0,0,1159,344,52,192,108,228,79,71,48,31
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Huis van de Buurt Morschwijk (151),0546::SB151,,0,477,3,5,0,0,0,438,47,0,0,0,0,0,485,83,52,46,65,82,43,24,24,58
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Rijksmuseum van Oudheden (201),0546::SB201,,0,1227,3,1,0,0,0,1159,74,0,0,2,0,0,1233,389,45,189,93,268,72,94,56,21
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Basisschool De Meerpaal (541),0546::SB541,,0,935,4,1,0,0,0,852,88,0,0,0,0,0,940,185,57,97,154,139,142,72,45,44
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Basisschool De Dukdalf (561),0546::SB561,,0,874,1,2,0,5,0,805,77,0,0,5,0,0,882,196,52,75,130,156,147,68,25,25
+,Leiden,GR2018_Leiden,Gemeenteraad Leiden 2018,0546,Leiden,2018-03-21,Stembureau Kerkelijk Centrum De Regenboog (581),0546::SB581,,0,804,6,2,0,4,0,734,78,0,0,0,0,0,812,116,108,61,129,83,161,64,33,49

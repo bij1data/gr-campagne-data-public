@@ -1,0 +1,16 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,CDA,GB'90,Borne-Nu,SP (Socialistische Partij),VVD,Democraten 66 (D66),GROENLINKS/Partij van de Arbeid (P.v.d.A.)
+,Borne,GR2018_Borne,Gemeenteraad Borne 2018,0147,Borne,2018-03-21,Stembureau Gemeentehuis,0147::SB1,7622 DG,1532,977,8,3,0,0,0,890,98,0,0,0,0,0,988,238,186,109,139,114,50,141
+,Borne,GR2018_Borne,Gemeenteraad Borne 2018,0147,Borne,2018-03-21,Stembureau Basisschool Sprankel,0147::SB2,7622 HB,1460,741,6,2,0,0,0,690,59,0,0,0,0,0,749,177,170,82,94,92,42,84
+,Borne,GR2018_Borne,Gemeenteraad Borne 2018,0147,Borne,2018-03-21,Stembureau Bornse Harmonie,0147::SB3,7621 EM,907,338,0,1,0,0,0,313,26,0,0,0,0,0,339,58,72,67,33,26,23,59
+,Borne,GR2018_Borne,Gemeenteraad Borne 2018,0147,Borne,2018-03-21,Stembureau Wijkgebouw De Letterbak,0147::SB4,7621 CV,1519,797,1,6,0,1,0,741,64,0,0,1,0,0,805,155,132,146,83,120,62,99
+,Borne,GR2018_Borne,Gemeenteraad Borne 2018,0147,Borne,2018-03-21,Stembureau Sporthal 't Wooldrik,0147::SB5,7621 AH,1250,826,1,2,0,0,0,752,77,0,0,0,0,0,829,186,158,133,65,121,53,110
+,Borne,GR2018_Borne,Gemeenteraad Borne 2018,0147,Borne,2018-03-21,Stembureau Brandweerkazerne,0147::SB6,7622 BM,1257,597,2,3,0,0,0,552,50,0,0,0,0,0,602,109,100,128,81,91,27,61
+,Borne,GR2018_Borne,Gemeenteraad Borne 2018,0147,Borne,2018-03-21,Stembureau Het Dijkhuis,0147::SB7,7622 CM,1448,894,2,5,0,0,0,827,74,0,0,0,0,0,901,228,212,104,70,103,54,123
+,Borne,GR2018_Borne,Gemeenteraad Borne 2018,0147,Borne,2018-03-21,Stembureau Basisschool 't Iemnschelf,0147::SB8,7623 DR,1388,876,1,2,0,0,0,809,70,0,0,0,0,0,879,167,171,112,105,136,76,109
+,Borne,GR2018_Borne,Gemeenteraad Borne 2018,0147,Borne,2018-03-21,Stembureau MFA Sindron,0147::SB9,7625 PJ,1130,729,0,3,0,0,0,657,75,0,0,0,0,0,732,273,36,34,100,150,57,79
+,Borne,GR2018_Borne,Gemeenteraad Borne 2018,0147,Borne,2018-03-21,Stembureau De Veste 1,0147::SB10,7623 AX,1053,565,4,4,0,0,0,517,56,0,0,0,0,0,573,134,154,47,28,127,37,38
+,Borne,GR2018_Borne,Gemeenteraad Borne 2018,0147,Borne,2018-03-21,Stembureau Basisschool St. Aegidius,0147::SB11,7626 LW,398,276,2,0,0,0,0,243,35,0,0,0,0,0,278,99,34,35,8,52,6,42
+,Borne,GR2018_Borne,Gemeenteraad Borne 2018,0147,Borne,2018-03-21,Stembureau Gemeenschapsruimte de Wanne,0147::SB12,7623 HD,1631,1026,2,1,0,0,0,942,87,0,0,0,0,0,1029,198,201,137,117,135,103,135
+,Borne,GR2018_Borne,Gemeenteraad Borne 2018,0147,Borne,2018-03-21,Stembureau De Wiekslag,0147::SB13,7621 EK,1012,589,1,1,0,1,0,534,58,0,0,1,0,0,592,110,137,94,67,78,29,74
+,Borne,GR2018_Borne,Gemeenteraad Borne 2018,0147,Borne,2018-03-21,Stembureau Gezondheidscentrum Fleminghof,0147::SB14,7622 MB,801,694,3,0,0,1,0,651,47,0,0,1,0,0,698,166,171,77,84,72,24,100
+,Borne,GR2018_Borne,Gemeenteraad Borne 2018,0147,Borne,2018-03-21,Stembureau De Veste 2,0147::SB15,7623 AX,1288,664,0,1,0,0,0,589,76,0,0,0,0,0,665,133,192,61,31,146,58,43

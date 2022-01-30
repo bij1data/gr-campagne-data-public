@@ -1,0 +1,77 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Democraten 66 (D66),CDA - Europese Volkspartij,PVV (Partij voor de Vrijheid),VVD,SP (Socialistische Partij),P.v.d.A./Europese Sociaaldemocraten,ChristenUnie-SGP,GROENLINKS,Partij voor de Dieren,50PLUS,JEZUS LEEFT,DENK,De Groenen,Forum voor Democratie,vandeRegio & Piratenpartij,Volt Nederland
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gemeentehuis,0153::SB1,,1722,1019,3,1,0,3,6,936,78,0,3,0,0,0,1020,120,90,16,171,36,173,22,210,28,13,0,12,1,88,9,30
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Noordmolen,0153::SB2,,1304,702,1,2,0,0,2,633,70,0,0,0,0,0,705,88,72,11,109,26,131,19,125,31,14,0,5,4,51,1,15
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Tiggelhof,0153::SB3,,1897,524,0,0,0,0,1,466,57,0,0,0,0,0,524,52,32,22,71,21,96,35,96,18,7,1,8,0,57,0,8
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS Freinet,0153::SB4,,1606,586,2,1,0,0,2,537,50,0,0,0,0,0,589,50,39,24,48,30,113,28,115,31,10,0,20,1,50,2,25
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,"Stembureau Liberein, locatie De Eschpoort",0153::SB5,,1625,704,1,2,0,0,6,653,48,0,0,0,0,0,707,41,117,27,88,24,153,60,53,23,21,1,0,0,82,2,12
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Wedemhoff,0153::SB6,,1196,374,0,0,0,0,1,346,27,0,0,0,0,0,374,26,50,11,51,12,79,14,50,12,6,0,0,0,56,0,7
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Speeltuin Hoogeland,0153::SB7,,1416,639,1,0,0,0,0,572,68,0,0,0,0,0,640,21,66,40,60,36,132,41,74,25,12,0,24,1,95,0,12
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stadsbank Oost Nederland,0153::SB8,,1648,667,1,0,0,1,1,606,60,0,1,0,0,0,667,43,70,23,70,23,164,25,90,36,22,1,14,0,66,3,17
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Medisch Spectrum Twente,0153::SB9,,1794,810,2,2,0,1,9,728,78,0,0,1,0,0,815,75,67,28,106,49,170,24,123,36,21,2,13,2,77,3,14
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau International School Twente,0153::SB10,,1766,605,6,3,0,1,0,551,62,0,1,0,0,0,613,54,44,20,60,29,118,31,94,28,12,2,9,1,81,2,20
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Saxion Hogeschool,0153::SB11,,1750,1060,3,1,0,1,3,949,113,0,0,1,0,0,1065,121,85,15,167,33,203,22,207,57,17,2,12,3,83,5,28
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stadskantoor,0153::SB12,,1667,992,2,3,0,0,5,922,70,0,0,0,0,0,997,125,80,21,163,20,201,21,161,53,15,0,16,2,88,2,24
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkvoorziening Lumen,0153::SB101,,1716,642,0,3,0,0,3,563,79,0,0,0,0,0,645,26,55,47,51,29,111,31,69,31,27,1,47,6,102,5,4
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Servicecentrum Oost,0153::SB102,,1666,426,0,4,0,0,0,384,46,0,0,0,0,0,430,23,59,25,70,13,73,19,34,19,7,1,12,0,65,3,3
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS Het Wooldrik,0153::SB103,,1568,597,0,1,0,0,1,528,69,0,0,0,0,0,598,58,88,12,132,22,89,28,58,15,11,2,4,1,66,0,11
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Prinseschool,0153::SB104,,1082,667,0,2,0,1,1,599,70,0,0,1,0,0,670,53,88,21,84,21,125,38,75,10,24,0,12,0,99,7,10
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Roef,0153::SB105,,1659,606,1,0,0,0,2,546,59,0,0,0,0,0,607,47,80,17,81,23,113,22,82,27,22,0,0,1,83,0,8
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau ROC van Twente,0153::SB106,,1794,361,2,0,0,0,2,310,51,0,0,0,0,0,363,30,39,14,49,12,60,28,27,8,10,0,16,2,58,2,6
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorgcentrum de Bleekhof,0153::SB201,,1715,433,0,2,0,0,0,379,56,0,0,0,0,0,435,35,51,13,49,21,80,43,37,18,18,0,27,1,33,0,7
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS Europa,0153::SB202,,1408,496,0,0,0,0,0,445,51,0,0,0,0,0,496,26,38,22,29,28,97,34,56,14,32,6,27,1,79,2,5
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Geert de Leeuwhuis,0153::SB203,,1525,459,0,0,0,0,2,424,32,0,1,0,0,0,458,24,40,15,27,35,91,47,54,20,19,4,18,0,60,0,5
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau CBS de Koning,0153::SB204,,1540,478,1,1,0,0,0,448,32,0,0,0,0,0,480,29,38,46,21,35,83,30,54,18,12,3,10,0,93,1,5
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Speeltuin Stevenfenne,0153::SB205,,1283,236,0,0,0,0,0,211,25,0,0,0,0,0,236,12,21,13,25,19,53,28,20,4,0,0,3,0,38,0,0
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool St. Jan,0153::SB206,,1478,269,3,0,0,0,0,244,28,0,0,0,0,0,272,16,16,14,13,22,31,16,38,13,9,1,27,1,43,4,5
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Speeltuin Stadsveld,0153::SB207,,1493,327,0,0,0,0,1,297,29,0,0,0,0,0,327,17,37,24,16,20,71,19,26,12,21,1,5,0,55,0,3
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS Het Stadsveld,0153::SB208,,1585,543,5,4,0,1,2,509,42,0,0,1,0,0,553,30,46,28,50,51,86,40,59,22,11,0,21,0,84,2,13
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Triangel,0153::SB209,,1472,675,0,1,0,0,0,606,70,0,0,0,0,0,676,41,82,20,70,41,126,47,49,14,27,0,55,0,82,2,19
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorgcentrum de Hatteler,0153::SB210,,1731,903,1,6,0,0,1,810,99,0,0,0,0,0,910,67,144,30,132,29,205,42,85,28,33,2,15,1,80,3,7
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau SBO de Spinaker,0153::SB211,,1559,397,2,0,0,0,1,361,37,0,0,0,0,0,399,45,31,13,31,17,67,24,57,17,5,0,20,0,62,2,6
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS Twekkelerveld,0153::SB301,,1526,617,2,1,0,1,1,546,74,0,0,1,0,0,621,50,57,25,47,31,151,25,89,25,20,0,22,2,55,4,14
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Paulusschool,0153::SB302,,1467,345,0,1,0,0,0,314,32,0,0,0,0,0,346,19,37,25,29,16,71,11,43,11,9,0,5,1,60,3,5
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau CBS de Zevenster,0153::SB303,,1337,228,0,1,0,0,2,200,27,0,0,0,0,0,229,15,18,12,29,21,38,15,26,7,7,0,5,1,30,0,4
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Bibliotheek Twekkelerveld,0153::SB304,,1658,905,2,5,0,0,1,831,80,0,0,0,0,0,912,98,80,54,85,50,119,49,112,45,23,1,45,1,108,8,27
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zone College,0153::SB305,,1519,256,0,1,0,0,0,236,21,0,0,0,0,0,257,32,27,7,21,11,35,21,34,8,2,0,13,0,38,0,7
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau U.T. De Bastille (Atrium),0153::SB306,,1751,1797,8,1,0,0,11,1711,89,0,0,5,0,0,1811,326,137,6,297,19,241,53,453,40,19,1,2,8,73,17,105
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Het Roessingh/Revalidatiecentrum,0153::SB401,,1671,904,2,2,0,0,4,803,101,0,0,0,0,0,908,113,82,16,102,18,184,34,167,49,18,1,7,3,82,5,23
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Clubgebouw EMOS,0153::SB402,,1591,896,2,3,0,2,9,812,82,0,0,2,0,0,903,91,130,13,144,15,192,28,118,27,25,0,0,0,82,1,30
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Prismare,0153::SB403,,1688,581,1,2,0,1,1,530,52,0,1,0,0,0,583,54,60,10,83,25,129,41,72,18,20,0,8,0,46,1,14
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,"Stembureau Liberein, locatie Ariënsstaete",0153::SB404,,1738,673,1,3,0,2,0,620,59,0,0,2,0,0,679,52,119,28,61,34,124,28,74,17,13,1,20,3,76,6,17
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Servicecentrum Noord,0153::SB405,,1514,444,0,0,0,0,2,397,45,0,0,0,0,0,444,29,60,21,41,23,68,32,45,15,10,0,48,0,42,4,6
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Ons Huis De Dollard,0153::SB406,,1751,507,0,3,0,0,0,455,55,0,0,0,0,0,510,39,55,16,55,22,98,33,70,18,11,1,36,1,38,2,12
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Prismare,0153::SB407,,1585,915,1,0,0,0,2,821,93,0,0,0,0,0,916,94,101,30,106,26,198,48,137,40,21,1,12,0,77,8,16
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Ons Huis Het Achtervoort,0153::SB408,,1591,519,0,1,0,0,2,457,61,0,0,0,0,0,520,33,76,20,59,28,81,18,58,16,8,1,51,0,57,3,10
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Voetbalvereniging VOSTA,0153::SB501,,1599,417,0,3,0,0,0,374,46,0,0,0,0,0,420,35,44,21,35,14,81,31,57,17,12,1,13,0,49,2,5
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS Park Stokhorst,0153::SB503,,1819,874,3,2,0,0,2,803,74,0,0,0,0,0,879,69,139,32,125,20,199,19,99,38,24,1,2,2,91,1,13
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,"Stembureau Liberein, locatie Het Florapark",0153::SB504,,1895,443,1,2,0,0,0,406,40,0,0,0,0,0,446,27,44,34,32,24,112,13,45,17,23,3,1,1,56,2,9
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Paus Joannesschool,0153::SB505,,1672,1002,2,1,1,0,3,881,122,0,0,1,0,0,1006,86,185,12,226,18,195,40,94,27,22,0,0,0,86,2,9
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS Het Vastert,0153::SB601,,1563,701,2,0,0,0,2,609,92,0,0,0,0,0,703,37,105,20,100,33,175,60,50,9,18,0,3,0,85,0,6
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wooncentrum Het Veldhof,0153::SB602,,1736,869,1,1,0,1,3,779,90,0,0,1,0,0,872,35,129,38,84,26,224,51,57,27,41,4,13,0,131,1,8
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS Het Stroink,0153::SB603,,1708,271,0,0,0,0,3,230,38,0,0,0,0,0,271,12,25,22,21,25,37,6,29,12,14,0,14,0,49,0,5
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stroinkshuis,0153::SB604,,1686,415,0,0,0,0,0,357,58,0,0,0,0,0,415,22,61,23,41,11,79,34,22,14,18,1,5,1,75,3,5
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Regenboog,0153::SB606,,1542,430,0,2,0,0,0,382,50,0,0,0,0,0,432,20,44,25,32,20,81,32,50,17,13,0,4,0,86,0,6
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Bonhoeffer College,0153::SB607,,1546,270,0,0,0,0,0,239,31,0,0,0,0,0,270,13,26,22,10,24,46,20,23,13,2,2,27,0,38,0,4
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Zuidsprong,0153::SB608,,1498,442,1,7,0,0,0,404,46,0,0,0,0,0,450,10,47,43,18,34,119,21,23,9,11,4,29,0,68,3,3
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorgcentrum De Posten,0153::SB609,,1594,511,2,0,0,1,0,452,60,0,1,0,0,0,512,22,79,38,42,31,100,43,31,16,17,1,21,0,70,0,0
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS De Broekheurne,0153::SB610,,1824,518,0,1,0,0,2,439,78,0,0,0,0,0,519,28,87,36,49,15,117,32,39,11,16,4,18,0,58,1,7
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorgcentrum Broekheurnerstede,0153::SB611,,1185,481,0,0,0,0,0,438,43,0,0,0,0,0,481,14,68,28,40,27,100,41,34,17,17,1,7,2,80,0,5
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS Harry Bannink,0153::SB612,,1624,328,4,2,0,0,0,299,37,0,0,2,0,0,336,7,23,18,19,18,57,7,20,18,11,4,46,0,76,1,3
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Victoria '28,0153::SB613,,1764,432,2,1,0,0,1,420,14,0,0,0,0,0,435,14,51,24,36,22,75,26,29,20,18,2,28,0,85,1,1
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Mediant Helmerzijde,0153::SB614,,1696,726,0,0,0,0,0,630,95,0,1,0,1,0,725,55,83,21,98,23,146,54,76,25,40,2,3,6,88,0,6
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau CBS Willem van Oranje,0153::SB615,,1620,434,1,0,0,0,0,375,60,0,0,0,0,0,435,29,39,19,29,36,95,42,45,21,15,4,2,0,53,1,4
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool de Jonge Helden,0153::SB616,,1614,491,0,1,0,0,3,440,49,0,0,0,0,0,492,34,60,16,64,22,133,31,40,17,22,0,0,1,42,0,9
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS de Sterrenborgh,0153::SB617,,1670,704,1,0,0,1,1,626,77,0,1,0,0,0,704,42,70,34,90,29,178,40,73,22,29,2,6,2,73,1,13
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,"Stembureau Liberein, locatie Dr. Ariënshuis",0153::SB801,,1767,448,2,0,0,0,2,395,53,0,0,0,0,0,450,21,84,30,42,20,97,8,32,14,21,0,0,1,76,0,2
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Parochiehuis,0153::SB802,,1607,411,0,1,0,0,3,369,40,0,0,0,0,0,412,13,82,43,38,18,76,10,13,8,13,2,4,1,86,0,4
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau CBS Ouverture,0153::SB803,,1646,383,0,0,0,1,2,326,56,0,0,1,0,0,384,20,45,27,39,17,76,29,36,11,14,0,6,0,57,1,5
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau CBS Ouverture,0153::SB804,,1405,485,0,0,0,0,1,424,60,0,0,0,0,0,485,29,64,17,47,36,86,13,51,22,16,0,6,2,92,0,4
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,"Stembureau Liberein, locatie Bruggerbosch",0153::SB805,,1822,546,1,0,0,0,0,479,68,0,0,0,0,0,547,39,50,27,67,29,113,28,50,22,25,1,6,0,82,0,7
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS De Esmarke,0153::SB806,,1859,694,2,0,0,0,2,611,83,0,0,0,0,0,696,64,68,42,112,17,134,20,51,14,36,3,5,0,114,0,14
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau BSO 't Kraaiennest,0153::SB807,,1704,352,0,4,0,0,0,310,46,0,0,0,0,0,356,11,59,23,46,12,66,11,26,10,8,0,0,0,72,3,5
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS Glanerbrug Noord,0153::SB808,,1182,261,0,1,0,0,2,226,34,0,0,0,0,0,262,10,25,29,23,17,53,6,15,9,13,1,0,0,56,2,2
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS Molenbeek Usselo,0153::SB901,,858,392,0,0,0,0,3,330,59,0,0,0,0,0,392,25,76,27,83,8,54,9,35,18,7,0,0,1,44,1,4
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS Molenbeek Boekelo,0153::SB902,,1727,830,2,1,0,0,2,737,94,0,0,0,0,0,833,60,153,22,146,15,179,21,92,33,15,0,2,1,82,0,9
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Marcellinusschool Boekelo,0153::SB903,,1108,530,0,1,0,0,4,463,64,0,0,0,0,0,531,41,111,8,85,15,107,21,45,18,7,0,0,1,56,0,15
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis Lonneker,0153::SB904,,1302,701,1,0,0,4,2,604,100,0,0,4,0,0,706,54,203,12,116,13,113,15,64,17,15,1,0,1,72,0,5
+,Enschede,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau St. Liduinaschool,0153::SB905,,1141,459,0,0,0,0,1,389,70,0,0,1,1,0,460,32,137,5,80,6,78,13,33,8,4,2,0,3,51,0,7

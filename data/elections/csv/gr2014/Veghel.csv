@@ -1,0 +1,23 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_kwijtgeraakte stembiljetten,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Democratisch Dorpsbelang,CDA,Hart voor Veghel,VVD,SP (Socialistische Partij),"Transparant, Evenwichtig, Leefbaar",Partij Oerlemans
+,Veghel,GR2014_Veghel,Gemeenteraad Veghel 2014,0860,Veghel,2014-03-19,Stembureau Stadhuis Veghel,0860::SB1,,1511,1047,7,5,0,0,0,957,102,0,0,0,0,0,0,1059,115,266,229,183,144,68,42
+,Veghel,GR2014_Veghel,Gemeenteraad Veghel 2014,0860,Veghel,2014-03-19,Stembureau Dienstencentrum De Peppelhof,0860::SB2,,1579,652,0,3,0,0,0,593,62,0,0,0,0,0,0,655,36,212,124,120,110,27,23
+,Veghel,GR2014_Veghel,Gemeenteraad Veghel 2014,0860,Veghel,2014-03-19,Stembureau Wijkgebouw De Bloemfontein,0860::SB3,,1435,554,3,3,0,0,0,493,67,0,0,0,0,0,0,560,58,78,172,62,138,31,15
+,Veghel,GR2014_Veghel,Gemeenteraad Veghel 2014,0860,Veghel,2014-03-19,Stembureau Zorgcentrum Joachim en Anna,0860::SB4,,1111,798,3,7,0,0,0,720,88,0,0,0,0,0,0,808,66,300,114,129,125,39,25
+,Veghel,GR2014_Veghel,Gemeenteraad Veghel 2014,0860,Veghel,2014-03-19,Stembureau Wijkgebouw De Magneet,0860::SB5,,1579,749,1,0,0,0,0,651,99,0,0,0,0,0,0,750,84,74,275,74,160,59,23
+,Veghel,GR2014_Veghel,Gemeenteraad Veghel 2014,0860,Veghel,2014-03-19,Stembureau Zorgcentrum AAtrium,0860::SB6,,1436,759,1,1,1,0,0,700,60,0,0,1,0,0,0,760,81,151,184,93,164,54,32
+,Veghel,GR2014_Veghel,Gemeenteraad Veghel 2014,0860,Veghel,2014-03-19,Stembureau Basisschool De Vijfmaster,0860::SB7,,1104,404,0,7,0,0,0,362,49,0,0,0,0,0,0,411,49,88,102,67,57,16,25
+,Veghel,GR2014_Veghel,Gemeenteraad Veghel 2014,0860,Veghel,2014-03-19,Stembureau Wijkgebouw De Golfstroom,0860::SB8,,1409,570,0,0,0,0,0,507,63,0,0,0,0,0,0,570,62,98,174,53,118,41,24
+,Veghel,GR2014_Veghel,Gemeenteraad Veghel 2014,0860,Veghel,2014-03-19,Stembureau Basisschool  De Uilenbrink,0860::SB9,,1361,763,3,1,0,0,0,689,78,0,0,0,0,0,0,767,54,147,189,196,102,49,26
+,Veghel,GR2014_Veghel,Gemeenteraad Veghel 2014,0860,Veghel,2014-03-19,Stembureau Verpleegtehuis de Watersteeg,0860::SB10,,1195,739,2,2,0,1,0,667,77,0,0,0,1,0,0,744,63,163,184,120,123,58,28
+,Veghel,GR2014_Veghel,Gemeenteraad Veghel 2014,0860,Veghel,2014-03-19,Stembureau Wijkgebouw De Spil,0860::SB11,,1054,540,1,0,0,0,0,486,55,0,0,0,0,0,0,541,53,78,143,57,139,53,17
+,Veghel,GR2014_Veghel,Gemeenteraad Veghel 2014,0860,Veghel,2014-03-19,Stembureau Basisschool 't Heibosch,0860::SB12,,1283,608,3,2,0,0,0,560,53,0,0,0,0,0,0,613,66,92,173,111,116,27,23
+,Veghel,GR2014_Veghel,Gemeenteraad Veghel 2014,0860,Veghel,2014-03-19,Stembureau Fioretti College,0860::SB13,,1231,510,2,0,0,0,0,457,55,0,0,0,0,0,0,512,48,93,126,74,79,67,23
+,Veghel,GR2014_Veghel,Gemeenteraad Veghel 2014,0860,Veghel,2014-03-19,Stembureau M.F.C. De Hintel,0860::SB14,,3026,1165,8,4,0,0,0,1032,145,0,0,0,0,0,0,1177,183,205,206,337,116,86,32
+,Veghel,GR2014_Veghel,Gemeenteraad Veghel 2014,0860,Veghel,2014-03-19,Stembureau Gemeenschapshuis D'n Brak,0860::SB15,,1307,756,1,0,0,0,0,662,95,0,0,0,0,0,0,757,334,274,39,36,46,20,7
+,Veghel,GR2014_Veghel,Gemeenteraad Veghel 2014,0860,Veghel,2014-03-19,Stembureau Dorpshuis Zijtaart,0860::SB16,,1348,911,5,1,0,0,0,796,121,0,0,0,0,0,0,917,219,230,54,23,19,363,3
+,Veghel,GR2014_Veghel,Gemeenteraad Veghel 2014,0860,Veghel,2014-03-19,Stembureau Gemeenschapshuis De Brink,0860::SB17,,1133,616,0,0,0,1,0,560,57,0,0,0,1,0,0,617,287,117,40,25,34,112,1
+,Veghel,GR2014_Veghel,Gemeenteraad Veghel 2014,0860,Veghel,2014-03-19,Stembureau Basisschool De Empel,0860::SB18,,1255,581,2,1,0,0,0,523,61,0,0,0,0,0,0,584,303,164,29,8,45,17,15
+,Veghel,GR2014_Veghel,Gemeenteraad Veghel 2014,0860,Veghel,2014-03-19,Stembureau D'n Overkant,0860::SB19,,1224,569,2,0,0,0,0,501,70,0,0,0,0,0,0,571,238,210,15,23,42,37,4
+,Veghel,GR2014_Veghel,Gemeenteraad Veghel 2014,0860,Veghel,2014-03-19,Stembureau Raadhuis Erp,0860::SB20,,1235,934,5,4,0,1,0,834,110,0,0,0,1,0,0,944,415,316,25,39,85,47,7
+,Veghel,GR2014_Veghel,Gemeenteraad Veghel 2014,0860,Veghel,2014-03-19,Stembureau Gemeenschapshuis 't Span,0860::SB21,,892,545,6,5,0,0,0,485,71,0,0,0,0,0,0,556,247,169,16,37,25,45,6
+,Veghel,GR2014_Veghel,Gemeenteraad Veghel 2014,0860,Veghel,2014-03-19,Stembureau Gemeenschapshuis Den Hazenpot,0860::SB22,,602,443,0,0,0,0,0,393,50,0,0,0,0,0,0,443,278,112,9,10,14,13,7

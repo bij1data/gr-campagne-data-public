@@ -1,0 +1,111 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,VVD,Partij van de Arbeid (P.v.d.A.),PVV (Partij voor de Vrijheid),Christen Democratisch Appèl (CDA),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,ChristenUnie,Staatkundig Gereformeerde Partij (SGP),Partij voor de Dieren,Piratenpartij,Partij voor Mens en Spirit (MenS),Nederland Lokaal,Libertarische Partij (LP),Democratisch Politiek Keerpunt DPK,50PLUS,Liberaal Democratische Partij (LibDem),Anti Europa Partij,SOPN,Partij van de Toekomst (PvdT)
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Voetnoot I (ingang parkeerterrein),0034::SB1,,1198,880,2,2,211,314,110,14,86,54,20,24,3,14,4,2,0,2,0,18,0,1,1,2
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum De Overloop,0034::SB2,,1088,682,2,0,115,193,147,14,94,31,12,3,0,22,2,0,0,0,0,46,1,1,0,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Polderhof,0034::SB3,,1235,833,0,2,182,273,107,30,93,60,15,19,2,18,2,2,0,1,0,24,0,0,1,4
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Loofhut,0034::SB4,,1095,851,1,3,243,214,106,22,93,64,20,20,1,20,3,2,0,1,5,31,1,0,4,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Dubbeldekker,0034::SB5,,1076,802,0,3,160,259,128,24,79,51,21,5,4,24,0,2,1,0,1,40,0,0,1,2
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Activiteitencentrum Wierdendok I,0034::SB6,,1314,831,2,1,269,212,122,21,66,45,21,5,1,24,2,1,0,0,0,38,0,0,2,2
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Klaverweide,0034::SB7,,1584,1036,1,0,322,249,160,27,92,61,30,5,0,42,5,2,0,1,2,37,0,0,0,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Het Drieluik,0034::SB8,,1140,827,1,2,274,214,121,25,59,59,15,12,1,22,6,3,0,0,0,12,0,0,2,2
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum Amerika,0034::SB9,,1660,1340,1,7,464,403,156,18,123,85,20,10,2,22,4,2,0,4,3,19,0,0,5,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gebouw Corrosia,0034::SB10,,1296,956,3,4,227,281,149,32,81,68,27,12,4,34,2,3,0,0,1,32,1,0,2,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Ontdekking,0034::SB11,,1340,692,3,0,343,142,59,12,37,58,8,9,1,12,0,0,0,0,1,7,0,0,3,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum Meenten en Grienden,0034::SB12,,1481,1059,5,1,236,272,159,33,140,77,28,17,3,33,5,7,0,0,2,45,0,0,1,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Regenboog,0034::SB13,,1316,1032,0,3,221,288,167,21,120,77,22,12,0,42,3,1,0,1,0,50,0,0,6,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Wierwinde,0034::SB14,,1317,912,5,2,237,272,156,19,84,52,14,12,3,17,4,3,1,0,0,33,0,0,4,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Flierefluiter,0034::SB15,,1513,1481,1,4,478,367,174,38,147,99,37,19,4,39,9,5,0,0,2,59,0,0,3,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Het Samenspel Midden,0034::SB16,,1502,844,3,3,150,309,141,23,90,49,19,7,0,22,4,3,0,1,0,17,0,0,5,4
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Achtbaan,0034::SB17,,1561,1070,0,0,201,347,207,22,132,42,18,10,6,32,3,0,0,2,3,42,1,0,2,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Het Spectrum II,0034::SB18,,1475,802,2,5,221,225,89,15,93,69,19,14,5,22,7,2,0,0,2,17,0,0,1,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Driemaster II,0034::SB19,,1487,582,1,2,86,171,133,15,69,25,6,5,2,24,9,2,0,0,2,26,0,3,3,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Limerick,0034::SB20,,1327,885,2,5,277,260,124,14,86,52,18,10,1,18,3,3,1,0,1,16,0,0,1,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Het Samenspel Noord,0034::SB21,,1371,617,6,9,61,289,94,5,76,17,11,17,0,20,1,1,0,0,0,17,0,0,7,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Lettertuin,0034::SB22,,1244,864,2,0,221,232,109,36,94,63,17,16,3,23,10,0,0,0,3,29,0,1,4,3
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Digitalis I,0034::SB23,,1227,886,3,2,190,312,144,27,105,31,14,12,1,25,4,1,0,0,2,17,0,0,1,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Kameleon,0034::SB24,,1635,1092,3,1,270,309,170,23,112,75,27,26,3,27,1,4,0,0,1,40,0,0,1,3
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Porto-cabin nabij Pimpernelstraat 32,0034::SB25,,1222,608,3,2,99,203,128,11,75,21,14,8,0,16,5,3,0,1,1,20,0,0,0,3
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Driemaster I,0034::SB26,,1465,930,3,5,183,254,180,29,111,38,26,25,4,24,1,5,0,1,0,40,5,1,2,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Het Spectrum I,0034::SB27,,1562,1365,2,3,432,352,156,31,138,115,29,30,2,31,18,3,0,0,2,22,1,1,1,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School 't Kofschip,0034::SB28,,997,750,2,1,206,193,111,15,93,42,17,21,3,19,6,0,0,0,3,19,0,0,1,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Waterhoek I,0034::SB29,,1111,455,1,1,100,136,71,15,68,13,5,7,1,11,2,5,0,0,0,16,1,1,3,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Zeetuin,0034::SB30,,846,605,2,0,144,161,116,14,70,34,6,11,0,13,5,0,0,1,0,29,0,0,1,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Montessorischool- Buiten(v/h Piramide),0034::SB31,,1133,737,4,3,144,224,143,23,87,42,13,10,1,17,2,0,0,1,0,27,0,0,2,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Tjasker,0034::SB32,,1611,1036,0,6,271,284,160,36,102,76,14,14,0,29,3,3,0,0,1,42,0,0,0,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Hasselbraam,0034::SB33,,1590,1036,2,4,271,304,157,20,94,71,21,24,5,34,5,3,0,1,1,24,0,0,0,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum De Wieken,0034::SB34,,1536,950,5,5,163,302,189,21,120,62,13,17,5,22,13,1,0,0,0,17,0,2,1,2
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum De Kiekendief,0034::SB35,,1163,578,1,3,59,215,101,29,73,23,10,12,3,21,1,0,0,0,0,26,0,1,1,3
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Centrum Verpleeghuiszorg Polderburen,0034::SB36,,1200,604,2,1,134,155,106,32,49,41,17,11,6,20,2,0,0,0,0,26,1,0,1,3
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Heliotroop (vh Kaardebol),0034::SB37,,1194,1131,3,5,304,295,196,35,120,67,18,17,3,23,2,2,1,1,3,38,0,3,1,2
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Peperbus,0034::SB38,,1207,846,1,2,213,239,156,22,97,55,9,4,3,21,3,2,0,0,1,17,1,0,2,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Oase (voorheen de Manse),0034::SB39,,1016,717,0,3,190,209,90,15,59,44,14,53,7,11,2,2,0,0,0,20,0,0,0,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Duizendpoot,0034::SB40,,1473,1117,0,2,311,328,144,32,119,67,27,26,3,26,3,2,0,1,1,20,1,0,1,5
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum Parkwijk,0034::SB41,,694,1136,1,4,304,309,165,37,120,83,15,29,5,30,4,2,0,0,1,30,0,0,0,2
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dependance school De Buitenburcht,0034::SB42,,1247,903,2,2,173,243,159,33,126,52,15,16,2,33,2,3,0,0,1,37,0,3,4,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Boventoon,0034::SB43,,1348,835,2,1,243,239,92,18,98,47,21,19,1,22,2,2,0,1,1,27,0,0,2,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum 't Kardoes,0034::SB44,,1555,644,1,3,111,253,102,15,69,33,9,16,0,6,9,1,0,0,3,12,0,0,1,4
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum Buitenhaeghe,0034::SB45,,1321,788,3,3,137,251,141,45,82,31,14,12,3,17,1,3,0,2,0,46,1,2,0,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dependance school Caleidoscoop,0034::SB46,,1543,827,2,3,213,256,123,27,80,54,17,21,0,10,3,0,1,0,0,13,1,3,5,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wooncentrum De Rotonde,0034::SB47,,1253,818,0,2,181,266,138,27,87,34,10,8,0,30,3,0,0,0,1,32,0,0,0,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Montessorischool (voorheen Troubadour),0034::SB48,,1419,823,0,2,178,247,153,22,93,53,14,8,2,20,7,5,1,0,1,18,0,1,0,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau School De Torteltuin, lespunt Aster",0034::SB49,,1284,970,2,3,287,226,121,34,88,82,20,40,6,33,5,3,0,1,2,20,0,0,1,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Lichtboei,0034::SB50,,1089,882,3,2,296,226,88,39,60,70,20,25,3,21,8,5,0,0,0,15,1,1,3,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Syncope I,0034::SB51,,1352,922,1,1,313,244,103,32,67,79,22,12,3,18,7,1,1,0,1,12,0,1,1,5
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Vedelaar,0034::SB52,,1531,915,2,0,236,273,125,24,96,72,19,17,2,15,7,4,0,1,0,22,0,0,2,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau De Toonladder, gebouw De Concertmeester",0034::SB53,,1510,1233,3,4,311,335,170,57,116,85,36,34,5,25,7,1,0,0,2,46,0,0,3,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dependance school De Kraanvogel I,0034::SB54,,1971,970,0,3,243,311,161,27,86,54,21,23,5,16,2,2,5,0,1,9,0,0,0,4
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Albatros,0034::SB55,,1452,1342,1,2,452,348,150,45,118,110,23,18,4,31,2,2,0,2,0,29,0,0,3,5
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Bommelstein I,0034::SB56,,950,810,0,1,231,190,134,23,89,61,14,17,0,22,2,0,1,0,0,20,0,3,1,2
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau School 't Zonnewiel, ingang t/o Sporthal",0034::SB57,,1154,1003,2,2,312,269,135,26,86,88,21,18,1,18,0,3,0,0,1,22,0,0,1,2
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Polygoon,0034::SB58,,1192,1243,3,2,339,406,113,36,87,119,52,20,8,31,6,6,0,0,2,14,0,0,3,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum Het Forum,0034::SB59,,1432,1037,2,0,195,306,189,33,117,48,17,30,5,30,5,2,0,1,4,46,0,0,4,5
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Bombardon,0034::SB60,,1529,1100,0,1,381,299,105,35,68,89,24,45,6,22,7,4,0,0,2,10,2,0,1,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Filmwijkcentrum,0034::SB61,,1466,1242,0,5,336,372,153,36,113,79,24,34,8,31,8,4,1,0,0,39,0,0,3,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Aurora I,0034::SB62,,1756,1114,1,3,360,309,131,38,101,83,21,18,1,23,3,0,0,1,2,17,0,0,5,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dependance School de Kraanvogel II,0034::SB63,,1332,1128,2,7,285,395,154,34,111,61,13,33,7,14,4,0,2,0,2,11,0,0,2,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stichting Stad & Natuur,0034::SB64,,1089,936,0,0,592,76,56,40,25,81,17,7,4,25,1,0,0,2,0,9,1,0,0,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Kraanvogel,0034::SB65,,1014,653,3,2,264,148,71,22,51,38,9,15,6,10,3,1,1,0,1,13,0,0,0,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum Viplounge,0034::SB66,,1575,1066,3,3,378,341,112,15,88,65,14,11,0,22,4,2,0,3,2,2,0,0,2,5
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gebiedskantoor Poort,0034::SB67,,1699,601,2,0,219,172,68,13,44,42,12,9,0,7,7,1,2,1,1,1,0,0,0,2
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Egelantier I,0034::SB68,,1311,784,4,4,270,214,106,19,71,50,9,8,0,17,2,1,0,0,0,10,0,1,3,3
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Omnibus,0034::SB69,,1199,1061,1,3,510,223,90,43,54,79,15,8,0,23,4,1,0,0,0,10,0,0,0,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Letterland,0034::SB70,,1355,1017,6,6,280,379,118,23,85,61,17,25,1,9,4,2,0,0,3,9,0,0,0,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Het Palet,0034::SB71,,1093,958,8,2,282,316,142,16,79,40,15,17,0,19,6,3,0,1,2,17,1,0,1,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Optimist I,0034::SB72,,1088,1013,4,4,309,304,139,26,78,55,19,23,2,24,7,2,0,0,1,24,0,0,0,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Archipel I,0034::SB73,,1332,949,5,1,346,258,108,19,77,74,18,13,5,15,4,2,0,0,0,8,2,0,0,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Egelantier II,0034::SB74,,1274,904,5,3,237,301,123,19,96,49,20,15,4,15,5,1,0,0,2,14,0,1,0,2
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum De Cobra,0034::SB75,,970,412,1,1,114,131,57,14,31,27,4,10,1,6,1,0,0,0,0,14,0,0,0,2
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Brede school Het Meesterwerk,0034::SB76,,1302,955,1,1,277,295,149,37,71,53,20,12,2,16,1,2,0,2,2,15,0,0,1,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Archipel II,0034::SB77,,1273,961,0,3,325,324,82,9,73,70,14,9,0,21,9,4,1,0,1,15,0,0,3,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum Het Boegbeeld,0034::SB78,,1276,792,1,8,197,281,110,16,81,34,14,9,2,24,2,2,0,2,0,14,1,0,1,2
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gebouw De Compositie,0034::SB79,,960,845,2,3,311,213,106,16,73,69,14,17,3,14,1,1,0,0,1,4,0,0,1,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Het Avontuur,0034::SB80,,1734,1359,3,4,499,336,177,30,131,83,26,15,4,28,6,1,0,0,0,15,0,1,7,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurthuis De Cartoon,0034::SB81,,1283,999,1,2,416,234,132,27,59,61,14,7,5,14,3,5,0,1,1,18,0,0,2,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Windwijzer,0034::SB82,,1398,1257,0,0,666,229,105,35,48,104,19,9,4,19,3,1,0,1,0,7,0,0,7,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Het Kristal,0034::SB83,,1390,720,1,2,184,220,100,25,80,35,14,22,1,11,2,0,0,0,0,23,0,0,2,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schouwburg Almere,0034::SB84,,846,654,3,1,235,179,76,14,35,56,19,7,0,10,4,3,2,1,1,12,0,0,0,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Panta Rhei,0034::SB85,,964,630,2,0,198,142,106,16,55,47,15,5,1,20,6,1,0,1,3,7,2,3,2,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kerkcentrum Goede Rede,0034::SB86,,1088,697,3,3,103,175,200,18,68,26,19,7,3,23,6,1,0,1,3,43,0,0,1,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Waterspiegel,0034::SB87,,1225,438,0,2,96,116,60,18,44,30,8,40,5,11,1,0,0,0,0,9,0,0,0,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Syncope II,0034::SB88,,1383,711,0,0,260,170,79,20,65,60,16,5,0,19,1,1,0,0,0,14,0,0,1,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Dukdalf,0034::SB89,,1309,689,2,6,214,207,81,26,62,46,7,19,6,15,0,0,0,0,0,5,0,0,0,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Digitalis II,0034::SB90,,1230,522,0,1,131,157,85,10,60,27,15,6,0,10,1,4,0,0,0,13,0,1,2,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gezondheidscentrum Archipel,0034::SB91,,1379,840,1,3,214,293,115,18,62,44,13,20,4,16,3,2,0,1,0,29,0,0,4,2
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Aurora II,0034::SB92,,1723,1230,0,6,372,365,140,35,91,95,19,36,1,40,7,1,0,0,1,19,0,0,5,3
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Optimist II,0034::SB93,,1193,636,2,0,239,182,70,11,51,26,6,16,0,10,1,0,0,0,1,15,0,0,6,2
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schoolgebouw I (voorheen Oase),0034::SB94,,1258,600,0,3,147,196,96,12,70,29,4,8,3,14,5,1,0,0,0,14,0,0,1,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Architect,0034::SB95,,1159,701,0,2,156,199,130,18,80,40,12,8,3,24,3,2,0,0,1,22,0,0,2,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Portocabin op parkeerterrein begrensd,0034::SB96,,1284,829,2,2,388,158,78,13,73,59,9,11,0,22,6,2,0,0,2,8,0,0,0,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Station NS Almere Muziekwijk,0034::SB97,,0,976,1,2,196,359,90,31,118,71,23,19,5,30,8,2,0,0,2,19,1,0,1,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Portocabin Station NS Almere Centrum,0034::SB98,,0,1407,4,12,296,472,149,28,168,143,37,24,0,39,18,2,0,2,1,21,2,0,1,4
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Voetnoot II,0034::SB99,,0,580,0,3,142,186,58,13,61,52,13,11,0,12,6,0,0,0,1,21,0,0,2,2
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kindercentrum The little pony I,0034::SB100,,1309,587,2,0,230,120,74,20,44,51,5,17,1,15,2,0,1,0,1,6,0,0,0,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kindercentrum The little pony II,0034::SB101,,1267,561,1,0,180,144,93,16,49,25,16,6,1,14,2,0,0,0,0,11,0,0,4,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gezondheidscentrum Castrovalva,0034::SB102,,1404,803,2,0,218,252,119,30,79,36,7,16,1,13,10,1,0,0,0,17,0,0,4,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Waterhoek II,0034::SB103,,1125,911,3,6,187,279,162,21,117,40,13,11,1,23,9,4,0,0,0,41,1,0,1,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Portocabin Station NS Almere Centrum,0034::SB104,,0,725,1,3,162,258,57,17,91,61,19,23,0,17,5,0,0,1,4,8,0,0,0,2
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schoolgeb. Hollywoodln (langs fietspad),0034::SB105,,1194,201,1,1,43,66,32,4,18,16,6,3,1,8,0,0,0,0,0,3,0,0,0,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schoolgebouw Tom Poesstraat,0034::SB106,,983,273,0,0,114,60,19,5,26,29,8,2,0,3,1,2,0,0,0,2,0,0,2,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Pirouette,0034::SB107,,1002,629,2,0,219,188,61,19,45,47,9,18,1,11,2,0,1,0,0,7,0,0,1,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Bommelstein II,0034::SB108,,956,567,2,2,192,138,69,10,54,43,9,12,2,18,6,0,0,0,2,9,0,0,2,1
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Activiteitencentrum Wierdendok II,0034::SB109,,1349,500,0,3,150,119,82,10,38,30,13,8,1,19,3,2,0,0,3,21,0,0,1,0
+Lelystad,Almere,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schoolgebouw II (voorheen Oase),0034::SB110,,1265,507,1,3,170,145,59,6,45,22,7,26,2,9,4,2,0,0,0,7,0,0,2,1

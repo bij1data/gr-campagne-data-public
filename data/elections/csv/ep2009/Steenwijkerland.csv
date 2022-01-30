@@ -1,0 +1,34 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,CDA - Europese Volkspartij,P.v.d.A./Europese Sociaaldemocraten,VVD - Europese Liberaal-Democraten,GROENLINKS,SP (Socialistische Partij),ChristenUnie-SGP,Democraten 66 (D66),Newropeans,Europa Voordelig! & Duurzaam,Solidara,Partij voor de Dieren,EUROPESE KLOKKENLUIDERS PARTIJ (EKP),De Groenen,PVV (Partij voor de Vrijheid),Liberaal Democratische Partij,Partij voor Europese Politiek (PEP),Libertas
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Steenwijk, Gemeentehuis",1708::SB1,,1517,634,0,1,144,117,62,38,42,58,40,1,1,1,30,2,4,91,1,0,2
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Steenwijk, De Korf",1708::SB2,,811,232,0,1,33,44,24,24,23,23,15,1,1,1,10,0,1,31,1,0,0
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Steenwijk, De Kleine Kamp",1708::SB3,,1104,248,0,0,26,60,8,9,34,10,15,1,0,0,15,1,1,62,2,1,3
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Steenwijk, Nijenstede",1708::SB4,,1790,777,1,0,203,100,107,37,49,60,69,3,0,0,24,4,1,115,2,1,2
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Steenwijk, Zonnekamp",1708::SB5,,1788,668,2,1,178,147,66,25,48,53,37,2,1,2,9,4,2,93,0,0,1
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Steenwijk, De Vijverhof",1708::SB6,,1289,523,1,0,105,63,75,35,34,58,41,3,1,0,18,2,0,81,0,1,6
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Steenwijk, Wijkvereniging De Gagels",1708::SB7,,1547,542,0,0,115,91,48,33,48,62,29,1,0,0,18,5,1,88,3,0,0
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Steenwijk, De Meenthehof",1708::SB8,,2182,853,3,1,179,154,97,58,63,76,74,5,2,1,31,2,1,108,1,0,1
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Steenwijk Wijkcentrum Oostermeenthe,1708::SB9,,1093,467,1,0,102,74,48,45,38,55,42,0,0,0,15,2,0,46,0,0,0
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Tenniscentrum,1708::SB10,,1657,688,0,0,189,75,100,48,33,45,78,5,0,1,13,4,1,89,5,0,2
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Willemsoord MFC et Kloniehuus,1708::SB11,,956,344,1,0,78,50,35,26,28,26,24,2,1,0,15,6,1,51,1,0,0
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Onna, Dorpshuis",1708::SB12,,716,231,0,1,46,28,33,20,10,19,15,1,0,0,10,0,0,48,0,0,1
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Eesveen, De Driesprong",1708::SB13,,702,280,2,2,60,20,41,23,14,38,21,0,0,1,10,0,2,48,0,0,2
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Steenwijkerwold, Woldleite",1708::SB14,,1516,581,0,1,204,77,54,41,35,14,33,3,0,0,31,4,0,85,0,0,0
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Kallenkote, Dorpshuis",1708::SB15,,268,133,0,0,41,10,24,9,2,7,9,0,0,0,4,0,0,27,0,0,0
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Vollenhove, Oranjerie",1708::SB16,,1122,355,0,0,147,62,15,8,18,41,16,0,0,1,7,3,1,36,0,0,0
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Vollenhove, Tilvoorde",1708::SB17,,1018,321,2,2,139,45,23,13,10,30,14,2,1,0,4,0,1,39,0,0,0
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Vollenhove, Nieuw Clarenberg",1708::SB18,,980,409,1,1,147,41,25,16,29,64,17,1,1,0,11,2,0,54,1,0,0
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau St Jansklooster, Sint Janskamp",1708::SB19,,1061,360,0,1,129,21,11,10,7,115,13,0,0,0,10,3,0,41,0,0,0
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Kadoelen, Vrijgemaakte Ger Kerk",1708::SB20,,699,341,1,1,95,11,12,8,5,161,5,0,0,0,8,3,0,32,1,0,0
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Belt-Schutsloot, Dorpshuis",1708::SB21,,439,144,0,0,73,7,8,4,2,14,11,0,0,0,5,1,0,18,1,0,0
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Wanneperveen, Dorpshuis",1708::SB22,,1315,472,0,0,143,50,68,32,22,24,34,3,0,1,9,3,1,81,0,1,0
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Giethoorn, Zonnewiede",1708::SB23,,1014,399,0,0,47,64,94,20,27,9,43,3,3,0,8,2,2,71,2,0,4
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Giethoorn, De Noorderschool",1708::SB24,,940,393,1,0,78,93,72,17,13,11,31,4,0,0,14,1,1,58,0,0,0
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dwarsgracht, Dorpshuis",1708::SB25,,154,99,0,0,27,6,15,12,7,8,9,0,0,0,4,1,1,9,0,0,0
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Blokzijl, De Ploats",1708::SB26,,1064,446,1,0,135,53,59,26,19,27,34,0,0,0,9,2,0,78,3,0,1
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Oldemarkt, Zalencentrum  Dalzicht",1708::SB27,,1287,513,1,1,191,68,58,27,27,31,36,3,1,1,18,1,0,49,2,0,0
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Oldemarkt, Dienstencentrum",1708::SB28,,1040,454,0,1,147,55,48,26,26,36,24,2,0,0,15,3,1,70,1,0,0
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Ossenzijl, Dorpshuis",1708::SB29,,465,160,0,0,25,19,17,8,11,21,16,2,0,1,15,0,1,23,0,1,0
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Kalenberg, Gemeenschapshuis",1708::SB30,,205,101,2,0,29,13,20,9,5,4,7,0,1,0,3,2,0,8,0,0,0
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Scheerwolde, Streekcentrum",1708::SB31,,625,251,0,0,72,13,40,17,8,23,9,1,0,0,4,0,0,63,1,0,0
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Kuinre, Dorpshuis",1708::SB32,,669,258,0,0,109,41,17,6,20,12,9,0,1,0,4,1,0,38,0,0,0
+,Steenwijkerland,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Blankenham, Dorpshuis",1708::SB33,,269,144,0,0,44,10,22,18,7,12,9,0,0,0,2,1,0,18,0,0,1

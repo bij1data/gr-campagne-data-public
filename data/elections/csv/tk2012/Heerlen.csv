@@ -1,0 +1,47 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,VVD,Partij van de Arbeid (P.v.d.A.),PVV (Partij voor de Vrijheid),Christen Democratisch Appèl (CDA),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,ChristenUnie,Staatkundig Gereformeerde Partij (SGP),Partij voor de Dieren,Piratenpartij,Partij voor Mens en Spirit (MenS),Nederland Lokaal,Libertarische Partij (LP),Democratisch Politiek Keerpunt DPK,50PLUS,Liberaal Democratische Partij (LibDem),Anti Europa Partij,SOPN,Partij van de Toekomst (PvdT)
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadhuis ingang Raadhuisplein,0917::SB1,,2014,1807,7,6,383,448,200,133,305,156,52,21,2,51,7,7,0,1,2,32,0,0,6,1
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum Douvenrade,0917::SB2,,998,666,3,1,184,123,71,131,56,50,10,6,0,12,2,0,0,0,1,20,0,0,0,0
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Trefcentrum 't Loon,0917::SB4,,2094,1331,4,2,126,367,236,61,338,74,20,8,7,51,9,5,0,2,0,22,0,2,2,1
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stichting Open Huis,0917::SB6,,1547,1074,5,3,215,247,119,128,165,79,19,12,0,27,10,5,0,0,3,41,1,0,0,3
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bernardinuscollege,0917::SB7,,1618,1174,1,2,392,273,50,83,112,198,29,2,0,19,3,2,0,0,0,9,0,1,1,0
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool St. Tarcisius,0917::SB10,,1569,1184,3,1,179,357,79,80,268,107,44,10,0,27,6,3,0,0,2,20,0,0,1,1
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sintermeertencollege,0917::SB11,,937,596,2,0,249,123,31,65,41,53,15,4,0,5,1,0,0,0,1,7,0,0,0,1
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum St. Anna,0917::SB12,,1895,1682,8,2,418,366,171,188,230,145,40,5,0,34,10,7,0,0,0,64,1,0,3,0
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau VKH (Verpleegkliniek),0917::SB14,,418,223,0,3,59,44,25,28,29,16,5,1,0,5,1,1,0,1,0,8,0,0,0,0
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool de Windwijzer,0917::SB16,,1799,1091,1,5,128,290,208,82,243,36,28,6,0,25,7,3,2,0,2,26,0,0,4,1
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gemeenschapshuis Caumerbron,0917::SB17,,2248,1790,4,5,186,523,332,113,448,62,17,18,0,29,5,4,1,1,0,40,0,1,9,1
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Vitalis Parc Imstenrade,0917::SB18,,1778,1062,5,2,347,191,109,140,113,80,22,9,0,14,1,1,0,0,2,27,0,1,4,1
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum Tobias,0917::SB19,,1822,1392,3,2,334,358,125,140,233,99,20,4,2,36,4,3,0,0,1,29,0,0,2,2
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Broederschool Kerkraderweg,0917::SB22,,2232,1503,0,8,200,342,317,87,348,71,31,7,4,44,5,7,0,1,2,28,0,0,9,0
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verpleeghuis Bergweide,0917::SB23,,921,467,2,3,66,101,61,78,104,23,7,0,0,8,3,5,0,0,0,11,0,0,0,0
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gemeenschapshuis Schaesbergerveld,0917::SB25,,1804,1064,0,2,142,261,252,56,217,46,20,10,1,26,5,1,0,1,1,24,0,0,1,0
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau OBS Theo Thijssen,0917::SB26,,1166,675,1,8,62,189,172,18,187,11,5,0,0,14,3,0,0,0,0,12,0,1,1,0
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Scouting- en Totemcentrum St. Jan Baptist,0917::SB27,,1199,591,1,3,35,171,167,11,145,7,7,3,0,18,1,3,0,0,0,18,0,1,3,1
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum De Regenboog,0917::SB29,,944,582,2,1,82,134,114,39,139,27,11,1,0,19,4,2,0,0,0,9,0,0,0,1
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gemeenschapshuis 't Juphuis,0917::SB30,,1264,846,5,6,87,230,134,39,227,54,16,2,0,22,4,5,1,0,1,19,0,1,2,2
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wonen Limburg,0917::SB31,,1151,697,1,2,72,198,116,38,187,19,9,10,1,23,1,5,0,1,0,14,0,0,0,3
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cultuurhuis Heerlen,0917::SB32,,1187,839,5,0,96,197,199,28,232,28,7,5,0,15,4,3,0,0,0,16,0,0,7,2
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool Frans Postma,0917::SB33,,1459,858,7,0,104,178,237,38,209,30,12,4,1,16,2,1,0,2,1,18,0,0,1,4
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ouderencentrum Hooghendael,0917::SB34,,1120,647,1,1,100,184,125,51,107,27,2,3,0,18,3,2,0,0,1,19,0,2,1,2
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum Ter Eyck,0917::SB35,,2170,1500,5,4,166,340,402,119,326,38,7,14,6,24,7,3,0,0,0,41,0,2,3,2
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool Windekind,0917::SB36,,2048,1563,2,4,453,352,144,107,200,180,28,10,1,34,9,5,0,1,4,28,1,0,4,2
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sporthal Varenbeuk,0917::SB37,,1189,658,3,1,46,155,221,16,159,13,1,1,0,18,5,2,0,0,2,14,0,0,2,3
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gemeenschapshuis De Koekoek,0917::SB38,,1593,827,5,2,68,183,267,24,215,16,7,7,1,15,1,3,0,1,0,14,1,0,3,1
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum 't Heitje,0917::SB39,,1805,1039,5,2,76,233,330,24,287,14,13,15,0,17,1,3,0,0,1,22,0,1,2,0
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gemeenschapshuis Heksenberg,0917::SB42,,1701,1365,7,1,167,340,321,85,310,42,25,14,1,28,7,5,0,1,0,17,0,0,1,1
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ouderencentrum Vogelsanck,0917::SB43,,1281,507,3,3,48,129,124,24,137,13,3,5,0,10,3,0,1,1,0,7,1,0,1,0
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gemeenschapshuis De Laurier,0917::SB44,,1136,627,2,6,40,151,179,26,186,8,7,6,1,8,2,2,0,0,0,9,0,0,1,1
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Basisschool De Piramide,  Zeswegen",0917::SB45,,961,785,0,3,53,205,188,11,255,19,10,2,0,17,0,8,0,0,1,9,0,0,4,3
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Basisschool De Piramide, Rennemig",0917::SB46,,1910,1121,7,2,93,295,333,20,270,15,8,7,5,44,6,5,0,1,0,12,1,1,5,0
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool De Windwijzer,0917::SB47,,1835,1418,1,2,241,460,196,62,295,78,20,6,0,24,10,3,0,0,1,17,0,0,5,0
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Breedeschool Sam-Sam,0917::SB48,,1726,893,2,4,130,242,219,21,195,25,5,6,0,23,5,1,0,0,0,18,0,1,0,2
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Carbooncollege,0917::SB101,,1681,1088,5,2,115,252,265,58,267,31,12,17,3,23,8,5,0,0,1,22,0,2,3,4
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum de Koffiepot,0917::SB104,,1459,922,0,0,109,221,230,42,227,17,7,4,1,30,6,4,0,0,0,19,1,0,3,1
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dr. A. Schweitzerschool,0917::SB106,,1991,1263,3,8,163,319,330,64,262,30,15,15,5,20,7,3,0,0,0,28,0,0,2,0
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Multifunctioneel Centrum Gebrook,0917::SB107,,1939,1237,0,4,167,293,328,44,254,42,27,7,0,29,2,3,0,2,2,27,0,2,5,3
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool de Vlieger,0917::SB109,,2105,1181,5,4,150,254,277,43,319,46,12,16,2,20,4,0,0,1,1,31,1,2,0,2
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ouderencentrum Weijenberg,0917::SB112,,1867,1133,1,3,183,296,224,62,215,43,20,13,2,23,2,3,0,1,1,39,0,1,4,1
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gemeenschapshuis Mariarade,0917::SB114,,1900,1221,6,7,213,270,242,73,245,66,21,19,5,29,4,3,0,0,3,28,0,0,0,0
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Muziekschool Hoensbroek,0917::SB115,,1743,1097,7,3,148,257,255,73,219,49,23,10,3,19,5,5,0,3,2,18,0,1,6,1
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ouderencentrum Butting Inn,0917::SB116,,1520,956,0,1,93,207,264,48,255,27,12,11,1,9,7,0,0,0,1,18,0,0,2,1
+Maastricht,Heerlen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Mobiel stembureau,0917::SB200,,0,124,1,3,16,38,16,7,28,6,3,1,0,5,0,2,0,0,1,0,0,0,0,1

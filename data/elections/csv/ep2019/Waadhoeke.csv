@@ -1,0 +1,40 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Democraten 66 (D66),CDA - Europese Volkspartij,PVV (Partij voor de Vrijheid),VVD,SP (Socialistische Partij),P.v.d.A./Europese Sociaaldemocraten,ChristenUnie-SGP,GROENLINKS,Partij voor de Dieren,50PLUS,JEZUS LEEFT,DENK,De Groenen,Forum voor Democratie,vandeRegio & Piratenpartij,Volt Nederland
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Woonzorgcentrum Botniahuis,1949::SB1,8801 KJ,1888,702,0,2,0,0,5,638,61,0,0,0,0,0,704,34,126,24,105,29,163,40,69,27,12,1,0,3,53,1,15
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Saxenoord,1949::SB2,8801 DA,1007,364,0,0,0,0,5,329,30,0,0,0,0,0,364,10,68,11,45,25,82,31,19,9,12,1,3,0,45,2,1
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sjaerdemastate,1949::SB3,8801 HS,1869,649,0,1,0,0,2,594,54,0,0,0,0,0,650,26,104,30,71,32,180,30,37,21,24,0,0,0,89,4,1
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gemeentehuis Waadhoeke,1949::SB4,8801 PA,1665,709,0,2,0,0,4,606,101,0,0,0,0,0,711,34,109,21,113,28,166,63,55,17,20,0,1,0,72,1,9
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Serviceflat Froonacker,1949::SB5,8802 PP,1075,389,3,3,0,0,1,364,30,0,0,0,0,0,395,19,63,18,38,22,93,34,15,9,7,0,0,1,65,0,5
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Driesprong,1949::SB6,8801 AZ,1623,765,5,0,0,0,2,703,65,0,0,0,0,0,770,35,148,22,118,23,182,67,49,14,27,1,1,2,68,0,8
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau C.B.S. Toermalijn,1949::SB7,8802 RD,1594,772,0,4,0,0,0,703,73,0,0,0,0,0,776,32,133,16,101,23,200,51,59,22,21,1,0,1,102,0,10
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis De Rede,1949::SB8,8811 HD,382,169,0,0,0,0,2,155,12,0,0,0,0,0,169,8,13,8,53,7,31,1,14,8,6,0,0,0,16,1,3
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis Us Doarpshûs,1949::SB9,8812 JJ,296,145,0,0,0,0,0,126,19,0,0,0,0,0,145,4,15,2,29,2,43,8,4,5,6,0,0,0,25,0,2
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis De Singel,1949::SB10,8806 KL,653,268,0,0,0,0,0,242,26,0,0,0,0,0,268,6,65,6,32,12,51,20,19,11,10,0,0,1,30,0,5
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorgcentrum Martenahiem,1949::SB11,8804 RA,852,385,0,0,0,0,2,351,32,0,0,0,0,0,385,16,94,7,80,17,53,41,25,10,10,1,0,0,27,0,4
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis It Waed,1949::SB12,8855 HL,1374,476,0,1,0,0,0,438,39,0,0,0,0,0,477,21,136,20,67,19,56,50,27,12,7,0,0,1,54,0,6
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Nij Bethanië,1949::SB13,8851 EJ,1123,424,0,1,0,0,12,374,39,0,0,0,0,0,425,11,79,26,76,19,75,18,23,14,18,0,1,1,55,0,8
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gemeenschapscentrum It Mienskar,1949::SB14,8854 AG,422,176,0,0,0,0,0,161,15,0,0,0,0,0,176,4,47,8,35,8,12,15,10,1,3,3,0,0,25,1,4
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gemeentekantoor Menaam,1949::SB21,9036 MS,1205,509,0,1,0,0,2,462,46,0,0,0,0,0,510,14,82,15,89,30,145,20,33,12,18,0,0,0,47,0,4
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau MFA d 'Ald Skoalle,1949::SB22,9035 AZ,1492,792,0,0,0,0,1,703,88,0,0,0,0,0,792,45,145,11,169,27,195,41,59,14,16,0,0,0,63,0,7
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Parochiehuis,1949::SB23,9035 AJ,1070,366,1,0,0,0,1,337,29,0,0,0,0,0,367,14,68,9,61,10,105,17,28,10,6,0,0,1,35,0,2
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Doarpshus 't Heechhout,1949::SB24,9041 EC,990,376,0,0,0,0,0,349,27,0,0,0,0,0,376,17,100,10,44,13,82,32,26,6,9,0,0,0,35,1,1
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Hervormd Centrum,1949::SB25,9041 AA,895,295,0,0,0,0,0,261,34,0,0,0,0,0,295,9,71,11,37,13,51,30,21,3,10,1,0,0,34,1,3
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Martinus Tsjerke,1949::SB26,9044 ME,606,231,0,0,0,0,0,208,23,0,0,0,0,0,231,4,43,8,31,14,50,14,15,9,7,3,0,0,32,0,1
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Molewjuk,1949::SB27,9045 PE,713,295,0,1,0,0,1,272,23,0,0,0,0,0,296,13,66,9,43,7,58,28,26,10,5,2,0,1,24,0,3
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis Nij Franjum,1949::SB28,9034 GZ,823,402,0,0,0,0,0,364,38,0,0,0,0,0,402,15,23,21,79,23,129,19,28,8,18,0,1,0,34,0,4
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sportcomplex Deinum,1949::SB29,9033 WH,797,383,2,0,0,0,0,349,36,0,0,0,0,0,385,17,34,8,54,18,114,21,52,17,12,1,0,0,30,0,5
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis Op Healwei,1949::SB30,8816 HT,153,92,0,0,0,0,0,78,14,0,0,0,0,0,92,5,5,2,17,7,27,1,12,9,3,0,0,0,4,0,0
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau d' Ald Skoalle,1949::SB31,9043 VP,165,82,0,1,0,0,0,74,9,0,0,0,0,0,83,2,3,4,20,4,23,2,1,2,2,0,0,1,17,1,0
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis Skerne Wibe,1949::SB32,9038 TG,302,120,0,0,0,0,0,114,6,0,0,0,0,0,120,1,18,0,17,6,33,10,10,5,8,0,2,0,9,0,1
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis It String,1949::SB33,9031 XW,417,201,0,1,0,0,0,181,21,0,0,0,0,0,202,15,26,3,18,6,57,11,24,11,5,0,0,0,20,0,5
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Nij Statelân (Graldastate),1949::SB34,9036 JL,845,354,0,2,0,0,0,331,25,0,0,0,0,0,356,21,71,14,49,17,93,29,16,14,10,0,1,0,15,0,4
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Beuckelaer,1949::SB41,9076 DA,892,370,0,0,0,0,1,339,30,0,0,0,0,0,370,10,86,20,34,14,98,19,18,9,15,0,4,0,41,0,2
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,"Stembureau R.K. Kerk, de Skúl",1949::SB42,9076 EA,1214,546,0,1,0,0,2,500,45,0,0,0,0,0,547,21,102,25,70,22,125,23,40,12,32,0,1,0,68,0,5
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Kerk tussen de Dijken,1949::SB43,9072 AJ,537,242,1,0,0,0,0,222,21,0,0,0,0,0,243,8,55,6,35,14,34,22,19,17,5,0,0,0,23,0,4
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau 't Jabikshuus,1949::SB44,9079 KZ,1050,340,0,0,0,0,0,309,31,0,0,0,0,0,340,9,56,17,58,25,77,13,20,16,13,0,0,0,36,0,0
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Verenigingsgebouw de Spitsroeden,1949::SB45,9079 NG,407,161,0,0,0,0,0,146,15,0,0,0,0,0,161,5,10,3,31,12,39,0,10,21,0,0,0,3,23,1,3
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis De Kyfhûeck,1949::SB46,9077 SN,537,191,0,0,0,0,0,177,14,0,0,0,0,0,191,8,25,8,39,11,28,7,11,11,6,0,0,0,33,0,4
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Aerden Plaats,1949::SB47,9078 WD,758,317,0,1,0,0,3,290,25,0,0,0,0,0,318,12,49,2,54,20,48,16,26,27,6,0,0,2,49,1,5
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau MFA de Doarpsfinne,1949::SB48,9047 JR,1352,484,0,0,0,0,0,426,58,0,0,0,0,0,484,21,145,16,72,14,77,42,30,12,4,0,0,1,45,1,4
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Bining,1949::SB49,9076 BT,1198,420,1,1,0,0,1,384,37,0,0,0,0,0,422,15,82,8,53,28,98,33,26,18,10,2,0,0,40,0,7
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis Yn'e Mande,1949::SB56,8842 LE,449,221,0,0,0,0,1,187,33,0,0,0,0,0,221,4,52,5,39,5,38,39,10,6,3,0,0,0,19,0,1
+,Waadhoeke,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau MFC De Helling,1949::SB57,8831 XS,1004,448,0,0,0,0,0,403,45,0,0,0,0,0,448,12,86,12,111,14,99,36,20,12,14,2,0,0,21,1,8

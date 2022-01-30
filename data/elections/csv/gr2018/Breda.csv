@@ -1,0 +1,93 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,VVD,Democraten 66 (D66),SP (Socialistische Partij),CDA,Partij van de Arbeid (P.v.d.A.),GROENLINKS,BREDA'97,TROTS/OPA,BOB,Volkspartij Breda,Volmondig JA,50PLUS,Bredase Stadspartij
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Stadhuis,0758::SB1,,2364,1140,14,1,0,0,0,1080,69,0,6,0,6,0,1149,325,203,79,95,64,212,15,7,30,33,20,30,27
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau St. Josephschool,0758::SB2,,2341,945,2,5,0,0,0,876,75,0,1,0,0,0,951,256,184,55,63,81,199,21,11,6,15,16,22,16
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau De Avenue,0758::SB3,,1305,710,4,1,0,0,0,676,36,0,3,0,3,0,712,224,115,51,63,60,95,15,5,6,23,10,32,11
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Zorg- en Behandelcentrum Elisabeth,0758::SB4,,2064,669,5,2,0,0,0,636,36,0,4,0,0,0,672,135,91,78,64,57,122,25,8,9,14,5,39,22
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau BS De Singel,0758::SB5,,2161,748,7,8,0,0,0,731,32,0,0,0,0,0,763,167,122,93,50,51,117,19,14,22,27,3,39,24
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Stadskantoor,0758::SB6,,1894,1604,12,3,1,0,0,1477,141,0,1,0,0,0,1618,434,262,139,148,166,225,28,9,20,26,40,89,18
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Lighthouse Fotostudio,0758::SB7,,1510,533,1,4,0,7,0,491,40,0,7,0,0,0,531,143,87,32,60,43,86,12,6,5,7,25,16,11
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau NHTV,0758::SB10,,1495,534,5,2,0,0,0,497,45,1,0,1,0,0,542,106,80,64,48,54,99,9,4,9,15,11,22,13
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Vrije School Breda,0758::SB11,,1388,373,0,1,0,0,0,344,30,0,0,0,0,0,374,46,58,40,26,29,99,18,4,3,10,10,26,4
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau BS De Liniedoorn,0758::SB12,,2148,710,11,5,0,0,0,675,51,0,0,0,0,0,726,100,63,114,78,97,101,19,7,12,24,25,57,13
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Het leger des Heils,0758::SB13,,2086,478,6,8,0,0,0,438,54,0,0,0,0,0,492,82,52,62,48,86,41,13,4,8,21,9,44,8
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau BS De Fontein,0758::SB14,,1747,497,8,7,0,0,0,465,47,0,0,0,0,0,512,42,38,102,45,85,49,13,3,4,18,23,67,8
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Woon- zorgcentrum Raffy,0758::SB15,,1967,810,2,7,0,0,0,728,91,0,0,0,0,0,819,123,97,130,68,111,116,23,7,21,17,29,50,18
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau De Wegwijzer,0758::SB16,,1914,663,6,6,0,0,0,613,62,0,0,0,0,0,675,85,74,121,83,81,58,21,5,28,20,22,47,18
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau BS De Wisselaar,0758::SB17,,1898,446,0,3,0,0,0,398,51,0,0,0,0,0,449,43,45,80,31,77,44,9,4,17,21,3,64,8
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Gemeenschapshuis De Biesdonk,0758::SB18,,1841,641,4,1,0,0,0,569,77,0,0,0,0,0,646,64,59,84,63,111,65,27,12,9,24,32,71,20
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Vuchterhage,0758::SB19,,1635,708,7,3,0,0,0,674,44,0,0,0,0,0,718,83,56,132,69,107,68,23,6,17,28,8,92,19
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Belcrum Huis,0758::SB20,,1609,958,4,3,0,0,0,885,79,0,1,0,1,0,964,158,180,80,68,107,205,55,16,12,22,10,39,6
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau OBS de Tweesprong,0758::SB25,,1834,637,3,0,0,0,0,579,61,0,0,0,0,0,640,116,100,75,56,81,89,19,2,10,28,23,28,10
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau De Leystroom,0758::SB26,,1937,692,3,1,0,0,0,629,67,0,0,0,0,0,696,100,88,91,74,76,106,30,4,11,32,13,51,16
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau De Poelewei,0758::SB27,,2303,1145,9,4,0,0,0,1066,92,0,0,0,0,0,1158,179,146,133,103,139,211,34,10,29,31,12,100,18
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau NHTV ( niet geschikt voor minder validen),0758::SB28,,2288,1076,12,3,0,3,0,1031,63,0,0,3,0,0,1094,216,188,61,97,108,237,28,7,15,18,23,66,12
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau 't Houwke,0758::SB29,,1516,881,8,4,0,0,0,844,52,3,0,3,0,0,896,197,91,118,90,89,101,20,8,16,15,29,97,10
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,"Stembureau KBS ""Weilust""",0758::SB30,,1297,748,4,2,0,0,0,685,69,0,0,0,0,0,754,159,89,82,65,100,93,28,4,11,32,5,69,11
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,"Stembureau Het Brederocollege, locatie Balmakersveld",0758::SB31,,1620,541,1,4,0,0,0,480,66,0,0,0,0,0,546,139,57,52,78,68,58,15,2,8,7,2,50,5
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Serviceresidentie Vredenbergh,0758::SB32,,1351,785,3,0,0,0,0,717,71,0,0,0,0,0,788,248,114,28,143,85,93,10,3,5,10,13,33,0
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Sacramentskerk,0758::SB33,,2001,1287,0,3,0,0,0,1139,151,0,0,0,0,0,1290,319,228,77,143,128,244,15,2,21,23,47,35,5
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Sacramentskerk,0758::SB34,,1914,1217,0,4,0,0,0,1073,148,0,0,0,0,0,1221,305,237,61,156,133,210,16,5,8,12,40,31,3
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Dr. de Visserschool,0758::SB40,,1739,1162,3,2,0,0,0,1038,131,2,0,2,0,0,1169,452,245,54,83,89,138,13,8,4,8,35,28,5
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau School De Rotonde,0758::SB41,,2048,1204,3,2,0,4,0,1095,118,0,0,4,0,0,1213,298,193,79,162,136,192,24,7,14,18,25,52,4
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Gemeenschapshuis Erasmus,0758::SB42,,1432,809,1,2,0,0,0,736,76,0,0,0,0,0,812,196,117,75,74,85,86,26,6,30,20,18,64,12
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Schoolgebouw Neubourgstraat,0758::SB43,,1671,882,3,1,0,1,0,815,70,0,1,0,0,0,885,248,130,59,137,66,81,20,8,16,12,16,84,5
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau BS De Burchtgaarde,0758::SB44,,1429,945,1,1,0,0,0,881,66,0,0,0,0,0,947,197,127,93,124,112,105,24,12,19,11,18,91,12
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau KBS Laurentius,0758::SB45,,1629,1198,1,1,0,0,0,1074,126,0,0,0,0,0,1200,433,207,52,126,103,158,19,4,6,11,35,38,6
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Christoffelschool,0758::SB46,,1286,609,3,0,0,0,0,563,49,0,0,0,0,0,612,134,46,54,102,69,68,13,6,9,5,28,66,9
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Thebe De IJpelaar,0758::SB47,,1605,927,5,6,0,1,0,868,69,0,1,0,0,0,937,220,117,109,117,93,107,19,7,25,12,12,83,6
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Woonzorgcentrum Amarant Groep,0758::SB48,,1472,923,2,4,0,0,0,837,92,0,0,0,0,0,929,270,155,62,161,67,95,10,5,7,6,18,63,4
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Het Kasteel,0758::SB49,,1089,404,2,1,0,0,0,362,45,0,0,0,0,0,407,115,39,27,85,38,40,8,3,8,8,7,24,2
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Scoutinggebouw De Mokkenboom,0758::SB55,,1369,851,5,4,0,0,0,789,71,0,0,0,0,0,860,227,175,52,61,78,144,9,5,8,17,32,30,13
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,"Stembureau Het Brederocollege, locatie Brederostraat",0758::SB56,,2195,1287,2,3,0,0,0,1162,130,0,0,0,0,0,1292,354,255,68,115,168,189,17,3,21,28,19,45,5
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Verpleeghuis Aeneas,0758::SB57,,2241,905,5,1,0,1,0,837,75,0,0,1,0,0,912,221,133,110,96,71,137,17,7,20,16,12,53,12
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Clubhuis Tennisvereniging BLTV,0758::SB58,,830,773,0,1,0,0,0,684,89,0,1,0,0,0,773,370,92,18,151,39,40,10,3,5,4,16,21,4
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Surplus locatie deBreedonk,0758::SB59,,1159,365,4,1,0,0,0,339,31,0,0,0,0,0,370,107,68,18,45,36,41,4,3,4,6,9,20,4
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Gymzaal Jan Nieuwenhuyzenstraat,0758::SB60,,1360,586,0,0,0,0,0,543,43,0,0,0,0,0,586,182,124,44,43,57,89,9,4,4,5,9,11,5
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau De Nieuwe Meidoorn,0758::SB65,,2265,699,7,4,0,0,0,651,59,0,0,0,0,0,710,96,102,97,35,80,88,21,10,11,35,37,72,15
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau TVC Breda,0758::SB66,,2399,340,1,1,0,0,0,304,38,0,0,0,0,0,342,64,38,50,22,20,42,12,2,5,29,20,27,9
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau De Weerijs,0758::SB67,,2310,650,10,0,0,1,0,612,49,0,0,1,0,0,661,107,85,84,42,46,151,15,9,10,30,13,46,12
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Buurthuis Scheldestraat,0758::SB68,,2457,567,10,0,0,0,0,544,33,0,0,0,0,0,577,118,81,56,31,74,116,13,4,4,23,5,33,9
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Het Huis van de Heuvel,0758::SB70,,1862,697,3,2,0,2,0,643,61,0,0,2,0,0,704,122,85,107,65,90,107,17,11,15,15,13,41,9
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Christoffel Heuvelstraat,0758::SB71,,1998,875,4,1,0,0,0,842,38,0,0,0,0,0,880,189,133,115,66,90,156,27,2,11,21,14,40,11
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Het Huis van de Heuvel,0758::SB72,,1990,755,2,6,0,0,0,687,76,0,0,0,0,0,763,148,77,92,55,77,117,29,8,19,34,12,67,20
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau BS Effen,0758::SB73,,809,506,2,0,0,0,0,450,58,0,0,0,0,0,508,151,135,19,93,16,33,6,8,8,2,8,27,0
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Doelen,0758::SB74,,1456,734,2,2,0,3,0,686,55,0,0,3,0,0,741,164,115,84,103,67,89,14,1,17,26,9,23,22
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Gemeenschapshuis De Koe,0758::SB75,,1540,1027,5,1,0,0,0,969,64,0,0,0,0,0,1033,276,138,94,146,103,111,31,4,17,24,23,45,15
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau D'n Heerlijckheid,0758::SB76,,1513,626,1,1,0,0,0,576,52,0,0,0,0,0,628,126,68,62,105,60,57,15,4,12,11,27,71,8
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Cafe-Zalencentrum Het Witte Schaap,0758::SB77,,2293,1177,7,4,0,1,0,1086,103,0,0,1,0,0,1189,317,197,108,92,119,141,34,8,29,27,14,73,18
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Gemeenschapshuis Liesbos,0758::SB78,,653,314,0,2,0,0,0,279,37,0,0,0,0,0,316,75,37,17,102,18,25,6,3,3,5,7,12,4
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau BS De Eerste Rith,0758::SB79,,1300,638,6,3,0,0,0,575,72,0,0,0,0,0,647,121,82,93,75,62,90,20,4,5,19,23,38,6
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Buurthuis Gageldonk,0758::SB85,,1985,955,2,4,0,1,0,879,83,0,0,1,0,0,962,180,115,138,95,96,132,35,11,27,18,31,61,16
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau De Hoogakker,0758::SB86,,1796,728,1,3,0,0,0,681,51,0,0,0,0,0,732,124,81,100,55,80,108,30,7,20,30,22,50,21
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Scouting Haagse Beemden,0758::SB87,,2011,835,7,1,0,3,0,756,90,0,0,3,0,0,846,165,93,109,82,83,124,30,10,27,20,16,59,17
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Nutsbasisschool De Hoogakker,0758::SB88,,1887,684,3,4,0,1,0,620,72,0,0,1,0,0,692,133,66,80,78,60,103,34,3,29,24,9,48,17
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Kindcentrum Olympia,0758::SB89,,2075,626,7,8,0,0,0,589,53,1,0,1,0,0,642,97,61,127,64,60,87,16,2,10,35,9,46,12
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Graaf Engelbrecht,0758::SB90,,2153,694,0,4,0,0,0,637,61,0,0,0,0,0,698,128,63,97,90,72,70,29,11,22,40,9,50,13
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Nutsbasisschool Burgst,0758::SB91,,1498,682,1,5,0,0,0,629,59,0,0,0,0,0,688,168,89,58,88,66,67,25,7,18,12,13,58,13
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Woonzorgcentrum Heksenwiel,0758::SB92,,1502,811,7,1,0,8,0,750,61,0,8,0,0,0,811,139,83,133,104,72,95,24,6,24,18,8,82,23
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau SCC 't Kraaienest,0758::SB93,,1719,993,8,3,0,0,0,911,93,0,0,0,0,0,1004,297,95,101,127,88,95,29,8,22,29,19,68,15
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau KBS De Driezwing,0758::SB94,,2236,961,3,2,0,4,0,856,106,0,4,0,0,0,962,288,143,80,103,58,98,34,5,30,43,19,44,16
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau KBS Kievitsloop,0758::SB95,,1910,830,1,3,0,1,0,754,81,0,0,1,0,0,835,207,101,89,105,77,76,39,6,45,15,16,37,17
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau H. Willibrorduskerk,0758::SB101,,1061,794,1,3,0,0,0,716,82,0,0,0,0,0,798,182,107,46,133,90,65,78,1,14,5,6,61,6
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Dorpshuis 't Web,0758::SB102,,1227,1324,4,3,0,0,0,1182,149,0,0,0,0,0,1331,368,174,65,173,181,100,132,4,11,12,8,86,10
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau De Mandt,0758::SB103,,1386,612,2,1,0,0,0,558,57,0,0,0,0,0,615,159,72,46,71,53,67,79,7,8,10,8,25,7
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Park Zuiderhout,0758::SB104,,1256,622,3,2,0,0,0,567,60,0,0,0,0,0,627,164,67,34,139,68,50,24,3,12,3,17,37,4
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Scala,0758::SB105,,1071,295,1,1,0,0,0,261,36,0,0,0,0,0,297,101,43,12,38,31,16,22,2,4,6,7,10,3
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Kober Kinderopvang,0758::SB200,,1446,619,0,0,0,0,0,553,66,0,0,0,0,0,619,238,94,18,84,30,38,78,2,7,2,5,19,4
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau SSC De Pekhoeve,0758::SB201,,1371,1097,5,2,0,1,0,999,104,0,1,0,0,0,1103,355,132,46,177,44,95,161,5,12,6,23,35,6
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,"Stembureau Woon- zorgcentrum ""De Donk""",0758::SB202,,1008,838,6,2,0,2,0,753,91,0,2,0,0,0,844,275,72,51,167,49,72,78,0,8,9,12,43,2
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau SCC 't Klooster,0758::SB203,,1458,1074,2,7,0,0,0,994,89,0,0,0,0,0,1083,220,107,62,423,36,69,65,3,11,5,19,52,2
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau OBS De Toerrmalijn,0758::SB204,,1155,688,0,0,0,0,0,609,79,0,0,0,0,0,688,165,81,29,243,37,54,28,3,11,4,6,23,4
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,"Stembureau BS ""de Spindel""",0758::SB205,,1157,881,1,1,0,0,0,804,79,0,0,0,0,0,883,170,58,55,371,48,56,49,2,11,4,15,37,5
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Korenmolen De Hoop,0758::SB206,,1054,491,1,0,0,0,0,436,56,0,0,0,0,0,492,138,63,7,175,29,17,21,2,5,9,6,16,3
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Stembureau Hoek Thoornseweg-Vossenlaar,0758::SB207,,828,700,0,0,0,0,0,650,50,0,0,0,0,0,700,289,90,36,104,44,46,26,5,8,1,15,34,2
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,"Stembureau RK Kerk OLV Ten Hemelopneming, zaal pastorie",0758::SB301,,1615,933,3,2,0,1,0,858,81,0,0,1,0,0,939,212,67,48,400,44,64,15,5,8,12,6,46,6
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Ouderencentrum De Zilverberk,0758::SB302,,1454,813,0,1,0,1,0,744,71,0,0,1,0,0,815,154,50,51,362,52,39,25,4,3,11,2,52,8
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Zaal 't Veehandelshuis,0758::SB303,,1847,1020,0,2,0,0,0,921,101,0,0,0,0,0,1022,337,78,38,382,40,47,29,4,9,10,5,36,5
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Sportpark De Heikant,0758::SB304,,1807,1065,3,2,0,0,0,957,113,0,0,0,0,0,1070,289,93,46,448,35,41,25,5,7,12,12,46,6
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau De Drie Linden,0758::SB305,,1274,958,1,0,0,0,0,871,88,0,0,0,0,0,959,307,59,27,391,40,44,24,2,9,14,7,30,4
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Scouting Thomas- More,0758::SB306,,1294,589,0,0,0,0,0,536,53,0,0,0,0,0,589,150,59,24,230,25,35,14,7,4,9,0,26,6
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Mobiel Ploeg: Westerwiek + Ruitersbos + AVANS,0758::SB402,,0,281,3,1,0,0,0,271,14,0,0,0,0,0,285,58,45,23,41,18,46,3,5,3,2,9,22,6
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Amphia Molengracht,0758::SB450,,0,377,4,0,0,0,0,341,40,0,0,0,0,0,381,86,57,34,55,30,51,20,5,7,6,3,21,2
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,Stembureau Amphia Langendijk,0758::SB451,,0,267,1,1,0,0,0,250,19,0,0,0,0,0,269,55,40,22,37,29,41,8,3,4,4,4,18,2
+,Breda,GR2018_Breda,Gemeenteraad Breda 2018,0758,Breda,2018-03-21,"Stembureau NS Station Breda, in Stationshal evenementenplein",0758::SB452,,0,1910,25,9,0,1,0,1842,101,0,1,0,0,0,1943,413,420,114,107,143,493,31,7,24,59,22,39,38

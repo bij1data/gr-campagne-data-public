@@ -1,0 +1,55 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_kwijtgeraakte stembiljetten,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,CDA,Staatkundig Gereformeerde Partij (SGP),VVD,ChristenUnie,Partij van de Arbeid (P.v.d.A.),Gemeente Belangen,GroenLinks/PE,Democraten 66 (D66),Burgerbelangen,65pluspartij,11
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau het Raadhuis,0228::SB1,6711 DD,1548,958,2,4,0,2,0,858,108,0,0,0,2,0,0,966,175,78,174,108,78,112,55,106,51,19,2
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Verzorgingshuis Bethanië,0228::SB2,6711 JK,1442,1123,3,0,0,0,0,1016,110,0,0,0,0,0,0,1126,190,119,185,146,69,111,90,164,39,8,2
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Vilente De Nieuwe Klinkenberg,0228::SB3,6711 KJ,1623,676,0,3,0,2,0,650,32,0,1,0,3,0,0,682,100,42,89,79,50,112,61,90,37,16,0
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Vilente St.Barbara,0228::SB4,6711 NT,1457,968,2,1,0,0,0,900,71,0,0,0,0,0,0,971,198,65,162,93,79,111,58,101,52,44,5
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau De Doelen,0228::SB5,6711 DE,1587,1082,2,2,0,1,0,988,99,0,0,0,1,0,0,1087,140,80,154,172,105,184,40,107,71,24,5
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau De Wonewei,0228::SB6,6716 SL,1598,848,1,0,0,0,0,773,76,0,0,0,0,0,0,849,95,24,113,171,80,103,92,91,65,13,1
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau CNS-basisschool De Meander,0228::SB7,6718 EB,1395,782,3,4,2,0,0,695,92,0,0,2,0,0,0,787,86,85,125,109,68,93,57,91,56,11,1
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Kerkgebouw Het kruispunt,0228::SB8,6718 DG,1448,870,2,2,0,1,0,781,94,0,0,0,1,0,0,875,106,128,133,147,75,107,45,75,47,3,4
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau CNS-basisschool De Vuursteen,0228::SB9,6718 MJ,1108,391,1,0,0,0,0,347,45,0,0,0,0,0,0,392,55,92,51,63,21,41,15,27,19,3,4
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Restaurant Buitenzorg,0228::SB10,6712 GG,1742,1048,0,2,0,4,0,960,94,0,0,0,4,0,0,1054,161,110,124,148,90,177,50,102,67,17,2
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Basisschool De Lettertuin,0228::SB11,6712 DR,1712,1138,0,1,0,0,0,1013,126,0,0,0,0,0,0,1139,185,222,121,180,70,144,51,92,57,11,5
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Cultura,0228::SB12,6711 AW,1692,1269,3,2,0,1,0,1185,90,0,0,0,1,0,0,1275,174,129,143,223,88,217,58,108,99,23,7
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau de Proosdijkerk (aan de rotonde),0228::SB13,6713 AG,1710,808,2,5,0,0,0,724,91,0,0,0,0,0,0,815,82,86,46,118,125,137,62,49,76,26,1
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Buurtcentrum De Kolk,0228::SB14,6713 BA,1889,1045,4,1,0,0,0,930,118,0,0,2,0,0,0,1048,138,126,117,101,85,197,51,109,82,27,12
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Speeltuin De Korenbloem,0228::SB15,6713 DW,1515,762,4,1,0,1,0,712,54,0,0,1,0,0,0,766,86,102,91,118,54,106,38,78,79,6,4
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Verzorgingshuis Het Maanderzand,0228::SB16,6713 MG,1547,986,1,1,0,0,0,885,103,0,0,0,0,0,0,988,177,87,120,167,92,105,90,84,57,6,1
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau De Gelderhorst,0228::SB17,6716 RK,1548,990,0,5,0,0,0,924,71,0,0,0,0,0,0,995,138,51,150,180,77,141,38,106,73,34,2
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Kerkelijk Centrum Emmaüs,0228::SB18,6716 JE,3130,1905,0,4,0,1,0,1717,193,0,0,0,1,0,0,1910,251,91,225,338,170,319,89,226,171,20,5
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Vilente De Pleinen,0228::SB20,6714 DH,1681,852,1,2,1,0,0,786,70,0,0,0,1,0,0,856,84,48,62,140,110,102,56,141,75,30,4
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Kantoor Nationale Nederlanden,0228::SB21,6714 BS,1888,798,0,2,0,2,0,731,71,0,0,0,2,0,0,802,129,65,76,164,75,98,39,68,61,18,5
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Ons Eigen Honk,0228::SB22,6713 GX,1725,893,1,4,0,0,0,815,83,0,0,0,0,0,0,898,89,52,87,139,106,139,72,89,83,33,4
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau De Ark,0228::SB23,6715 JM,1643,1092,2,1,0,0,0,1026,69,0,0,0,0,0,0,1095,174,43,110,220,141,121,68,119,68,26,2
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Wijkcentrum De Velder,0228::SB24,6715 EC,1756,1030,4,6,0,0,0,935,105,0,0,0,0,0,0,1040,110,53,94,199,118,148,55,126,111,15,1
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau De Open Hof,0228::SB26,6715 AJ,1627,978,4,0,0,0,0,905,77,0,0,0,0,0,0,982,156,44,94,151,113,114,58,143,86,17,2
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Buurtcentrum Veldhuizen,0228::SB29,6714 KK,1778,880,4,7,0,0,0,756,135,0,0,0,0,0,0,891,79,55,65,180,130,95,61,132,70,11,2
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau de Bethelkerk,0228::SB30,6717 KD,1633,1149,4,3,0,0,0,1042,114,0,0,0,0,0,0,1156,162,94,124,238,76,126,80,131,93,21,4
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau de Koepelschool,0228::SB33,6717 AS,1988,835,1,6,0,0,0,754,88,0,0,0,0,0,0,842,96,47,68,238,95,86,49,72,64,18,2
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau De Meerpaal,0228::SB34,6717 EL,1794,951,0,7,0,1,0,850,109,0,0,0,1,0,0,959,83,40,65,162,192,135,82,88,83,20,1
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau de Koningin Beatrixschool,0228::SB35,6717 SB,1534,883,3,2,0,0,0,791,97,0,0,0,0,0,0,888,81,47,76,153,96,163,63,104,80,20,0
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau ROC A12,0228::SB36,6717 LG,1833,1091,3,1,0,0,0,995,100,0,0,0,0,0,0,1095,137,127,82,240,86,119,70,122,83,18,7
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Basisschool 't Palet,0228::SB37,6717 VT,1606,791,3,2,0,1,0,713,82,0,0,1,0,0,0,795,97,52,107,127,58,115,40,97,85,13,0
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Buurtcentrum De Maanen,0228::SB38,6716 RH,1656,755,1,2,0,1,0,662,95,0,0,1,0,0,0,757,62,61,65,117,76,115,67,89,83,18,2
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Ziekenhuis Gelderse Vallei,0228::SB39,6716 RP,1,425,1,3,0,0,0,373,56,0,0,0,0,0,0,429,50,50,41,63,38,47,32,52,44,4,4
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau 't Kerkheem,0228::SB40,6721 EZ,1695,1424,2,1,0,0,0,1293,134,0,0,0,0,0,0,1427,299,82,177,157,143,159,128,211,42,21,5
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau de Ontmoetingskerk,0228::SB41,6721 ET,1766,1230,1,4,0,1,0,1119,115,0,0,1,0,0,0,1234,210,70,172,93,107,134,119,264,46,8,7
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau De Edelzanger,0228::SB42,6721 DC,1733,1025,1,2,0,0,0,934,94,0,0,0,0,0,0,1028,168,76,135,100,84,131,93,139,82,13,4
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Walraven,0228::SB43,6721 PG,1565,873,1,0,0,1,0,794,81,0,0,0,1,0,0,875,165,73,127,103,69,115,49,117,48,6,1
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau De Brink,0228::SB45,6721 WR,1608,1126,3,1,0,0,0,1024,106,0,0,0,0,0,0,1130,216,124,102,145,89,167,81,139,56,7,0
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau CNS-basisschool Juliana,0228::SB46,6721 ZJ,1586,1072,1,6,0,3,0,1080,2,0,0,0,3,0,0,1082,227,65,112,159,88,145,86,104,74,11,1
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Tennishal Keltenwoud,0228::SB47,6721 MR,1276,732,1,2,0,0,0,652,83,0,0,0,0,0,0,735,127,76,107,90,47,93,37,103,49,3,0
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau de School met de Bijbel,0228::SB49,6721 NP,943,685,1,0,0,0,0,572,114,0,0,0,0,0,0,686,171,243,43,133,7,20,12,25,27,1,3
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau De Honskamp,0228::SB50,6741 AK,1688,1158,4,2,0,0,0,1017,149,1,1,0,2,0,0,1166,262,308,139,146,43,79,32,65,33,26,25
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau School met de Bijbel De Bron,0228::SB51,6741 BA,1790,1123,2,0,0,0,0,988,137,0,0,0,0,0,0,1125,240,340,91,235,25,75,10,36,26,32,13
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Het Westhoffhuis,0228::SB52,6741 AL,1810,1281,3,3,0,0,0,1112,175,0,0,0,0,0,0,1287,272,312,166,186,39,85,39,86,46,27,23
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Buurtcentrum De Schakel,0228::SB53,6741 WV,1196,666,1,1,0,0,0,595,73,0,0,0,0,0,0,668,138,150,29,96,39,89,19,14,40,35,17
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Hotel-Bistro De Wormshoef,0228::SB55,6741 NE,1182,909,0,2,0,1,0,780,132,0,0,0,1,0,0,912,162,351,62,128,17,42,14,43,26,28,36
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau de Nederwoudschool,0228::SB58,6741 NE,951,679,0,4,0,1,0,571,113,0,0,0,1,0,0,684,101,403,18,68,1,30,7,8,8,5,30
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Basisschool De Valk,0228::SB59,6741 GK,1092,854,0,0,1,0,0,713,141,0,0,0,0,0,0,854,98,508,62,52,7,21,12,9,18,3,64
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Dorpshuis De Zicht,0228::SB60,6744 WJ,3084,2120,1,1,0,1,0,1776,347,0,0,0,1,0,0,2123,255,1107,155,283,16,115,23,33,43,16,74
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Zorgcentrum De Stolpe,0228::SB70,6732 AP,1162,641,2,3,0,0,0,545,101,0,0,0,0,0,0,646,48,285,82,45,14,46,10,13,31,12,55
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Dorpscentrum De Spil,0228::SB71,6741 KL,1328,848,1,5,0,0,0,731,123,0,0,0,0,0,0,854,77,451,86,49,9,54,3,10,23,6,80
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Dorpshuis de Kastanjehof,0228::SB80,6733 AV,1768,1143,3,0,0,0,0,980,166,0,0,0,0,0,0,1146,92,718,68,66,18,44,14,15,31,4,73
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Dorpshuis De Aanloop,0228::SB90,6731 BD,1791,1174,0,1,0,0,0,1036,139,0,0,0,0,0,0,1175,178,149,224,77,40,368,32,51,27,11,17
+,Ede,GR2014_Ede,Gemeenteraad Ede 2014,0228,Ede,2014-03-19,Stembureau Zorgsteunpunt Veldheim,0228::SB99,7351 CE,77,45,0,0,0,0,0,38,7,0,0,0,0,0,0,45,3,1,18,4,3,6,2,3,5,0,0

@@ -1,0 +1,11 @@
+Goirle
+Het gemeente telling-bestand van Goirle (Telling_EP2019_gemeente_Goirle.eml.xml) bevat een aanmaakdatum (21-5-2019) die voor de dag van stemming ligt (23-5-2019). De oorzaak hiervan is gelegen in een onjuiste datum-tijd instelling op de computer waarop het bestand is aangemaakt. Het bestand is na de dag van stemming aangemaakt.
+
+Brone
+In Borne bedraagt het aantal kiesgerechtigden volgens de gemeente 18.029 (Telling_EP2019_gemeente_Borne.eml.xml), maar volgens het hoofdstembureau 7.837 (Telling_EP2019_kieskring_Zwolle.eml.xml).
+
+Mill en Sint Hubert
+In Mill en Sint Hubert bedraagt het aantal kiesgerechtigden volgens de gemeente 8.778 (Telling_EP2019_gemeente_MillenSintHubert.eml.xml), maar volgens het hoofdstembureau 8.789 (Telling_EP2019_kieskring_sHertogenbosch.eml.xml).
+
+Bonaire
+Voor de kieskring Bonaire (Openbare lichmamen: Bonaire, Sint Eustatius, Saba) zijn geen eml.xml bestanden beschikbaar.

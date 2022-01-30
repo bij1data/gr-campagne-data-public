@@ -1,0 +1,78 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,Christen Democratisch Appèl (CDA),Partij van de Arbeid (P.v.d.A.),SP (Socialistische Partij),VVD,PVV (Partij voor de Vrijheid),GROENLINKS,ChristenUnie,Democraten 66 (D66),Partij voor de Dieren,Staatkundig Gereformeerde Partij (SGP),Nieuw Nederland,TROTS OP NEDERLAND LIJST RITA VERDONK,Partij voor Mens en Spirit (MenS),Heel NL,Partij één,17,Piratenpartij
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Gemeentehuis,0153::SB1,,1589,1547,1,1,104,362,166,384,111,126,32,225,17,2,2,3,6,0,3,3,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Het Zeggelt,0153::SB2,,1021,877,1,0,79,221,60,185,79,95,24,113,9,0,0,3,8,0,0,0,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Buurthuis De Laares,0153::SB3,,1471,878,3,2,70,231,94,160,126,73,35,79,5,0,0,2,2,0,1,0,0
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Freinet,0153::SB4,,1692,1140,1,0,67,345,106,154,114,146,38,133,18,3,1,5,3,0,0,2,5
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau AriënsZorgpalet De Eschpoort,0153::SB5,,1693,1204,2,4,210,266,114,219,133,54,80,93,18,5,0,8,2,0,2,0,0
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau De Wedemhoff,0153::SB6,,1164,641,2,1,73,163,43,141,89,36,26,59,2,0,0,1,4,0,1,2,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Speeltuin Hoogeland,0153::SB7,,1680,1107,2,4,131,298,134,147,136,91,47,96,11,6,0,4,3,0,1,1,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Zuider Speeltuin,0153::SB8,,1596,1324,3,2,126,400,176,201,138,98,31,123,18,2,0,6,3,0,0,1,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Medisch Spectrum Twente,0153::SB9,,1633,1122,0,1,108,264,129,215,146,87,20,134,10,1,0,3,2,0,0,2,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Basisschool St. Jan,0153::SB10,,1753,973,1,0,82,272,120,114,133,82,47,92,12,9,0,7,1,0,0,0,2
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Saxion Hogeschool,0153::SB11,,1722,1644,4,1,111,390,159,347,118,183,36,242,23,8,0,9,13,0,0,1,4
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Stadskantoor,0153::SB12,,1405,1728,6,7,111,387,181,349,136,215,42,265,16,1,3,4,10,0,1,1,6
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Lipper,0153::SB101,,1629,960,1,1,61,229,110,99,212,85,45,82,18,1,0,6,2,0,2,4,4
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Servicecentrum Oost,0153::SB102,,1461,980,0,1,95,243,116,168,176,52,26,61,19,4,0,12,3,0,0,3,2
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Het Wooldrik,0153::SB103,,1549,1124,1,0,132,180,87,361,149,57,42,95,9,3,1,2,4,0,0,1,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Het Wooldrik dep,0153::SB104,,1133,1088,0,1,123,223,138,232,138,79,52,69,12,7,0,8,5,0,0,0,2
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau De Roef,0153::SB105,,1630,968,2,1,118,207,135,164,139,74,38,71,12,2,0,6,2,0,0,0,0
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Speeltuin 't Varvik,0153::SB106,,1634,1206,0,4,104,282,177,207,213,82,31,84,18,0,0,5,1,0,0,1,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Zorgcentrum de Bleekhof,0153::SB201,,1622,870,1,4,95,256,95,128,98,49,59,57,22,2,0,4,2,0,0,1,2
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Europa,0153::SB202,,1459,1126,0,0,92,319,136,132,193,86,76,75,12,0,0,1,2,0,0,0,2
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Geert de Leeuwhuis,0153::SB203,,1521,1086,0,2,125,267,142,112,207,69,63,73,17,5,0,2,2,0,0,1,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Koningin Beatrixschool,0153::SB204,,1509,983,2,1,66,257,148,87,239,59,50,55,11,0,0,10,1,0,0,0,0
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Speeltuin Stevenfenne,0153::SB205,,1620,585,0,0,57,137,52,102,117,32,45,29,6,1,0,6,0,0,0,1,0
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Pathmosschool,0153::SB206,,1497,882,2,0,35,233,125,70,239,62,25,60,13,3,2,7,2,0,0,2,4
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Speeltuin Stadsveld,0153::SB207,,1579,750,2,1,64,212,107,84,153,38,33,39,11,3,0,5,1,0,0,0,0
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Het Stadsveld,0153::SB208,,1669,1067,1,0,89,275,172,116,224,56,42,73,5,2,0,6,2,0,1,1,3
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau De Triangel,0153::SB209,,1466,1285,1,1,176,345,147,165,221,69,51,84,17,0,1,4,0,0,4,0,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Zorgcentrum de Hatteler,0153::SB210,,1506,1500,1,4,177,400,117,288,209,83,79,116,14,1,2,10,2,0,1,0,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Wissel,0153::SB211,,1582,825,0,0,77,188,86,125,154,57,46,70,8,2,0,6,1,0,1,2,2
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau VSO De Huifkar dep,0153::SB301,,1594,985,1,0,64,224,105,160,129,106,40,122,21,2,2,2,2,0,1,3,2
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Buurtcentrum de Sloep,0153::SB302,,1596,1196,2,2,92,296,145,160,274,72,43,78,14,5,0,8,3,0,0,2,4
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Twekkelerveld,0153::SB303,,1234,867,0,3,77,285,102,97,172,42,22,46,14,0,0,4,4,0,0,0,2
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Zorgcentrum Twekkelerveld,0153::SB304,,1552,892,2,4,74,242,108,115,123,72,38,90,11,5,0,4,5,1,0,0,4
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Stichting Enschedese Speeltuinen,0153::SB305,,1576,902,1,1,67,217,88,153,162,64,40,88,13,6,0,1,0,0,1,1,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau U.T. De Bastille (Atrium),0153::SB306,,1763,2102,7,2,137,300,115,547,62,243,59,570,16,4,0,7,2,1,1,12,26
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Het Roessingh/Revalidatiecentrum,0153::SB401,,1706,1360,3,3,135,322,139,227,134,153,43,171,12,3,3,5,6,0,0,6,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Clubgebouw EMOS,0153::SB402,,1606,1318,1,2,191,258,74,401,93,110,41,134,6,0,0,2,3,0,0,1,4
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Basisschool Anna van Buren,0153::SB403,,1542,1274,2,3,132,328,116,216,123,89,89,151,13,2,0,4,4,0,0,1,6
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau AriënsZorgpalet Ariënsstaete,0153::SB404,,1571,1292,5,8,206,322,161,147,195,82,39,108,19,2,1,3,3,1,2,0,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Servicecentrum Noord,0153::SB405,,1665,1037,1,4,115,307,103,142,136,72,48,79,14,4,0,10,4,1,0,0,2
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau AriënsZorgpalet De Dollard,0153::SB406,,1634,689,3,5,105,210,85,58,83,48,33,44,9,3,1,4,5,0,0,0,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Enschedese Schoolvereniging,0153::SB407,,1476,847,0,1,86,180,76,189,103,74,29,85,16,1,0,2,1,0,0,3,2
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau AriënsZorgpalet Het Achtervoort,0153::SB408,,1420,932,0,1,146,263,95,114,128,50,29,74,15,1,0,12,1,0,1,3,0
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Voetbalvereniging VOSTA,0153::SB501,,1393,899,1,3,73,232,108,100,198,51,46,73,9,1,0,4,3,0,0,0,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Park Stokhorst dep,0153::SB502,,1430,875,1,2,53,242,114,95,201,67,33,48,14,0,0,4,0,0,0,1,3
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Park Stokhorst,0153::SB503,,1567,1296,0,4,131,314,109,299,172,93,38,114,12,3,1,6,1,1,0,0,2
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau AriënsZorgpalet Het Florapark,0153::SB504,,1507,405,0,1,69,100,52,54,58,25,8,25,8,2,0,3,1,0,0,0,0
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Paus Joannesschool,0153::SB505,,1180,1445,1,0,223,251,84,501,114,82,42,118,13,4,0,6,3,0,0,1,3
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Het Vastert,0153::SB601,,1699,1172,0,0,117,280,134,227,161,64,78,92,7,3,0,6,0,1,0,1,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wooncentrum Het Veldhof,0153::SB602,,1709,1598,1,1,204,401,162,290,282,75,55,87,17,3,0,15,5,0,0,0,2
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Het Stroink (Tweede locatie),0153::SB603,,1777,914,0,1,78,217,150,103,210,48,31,50,12,0,0,5,5,2,0,1,2
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Het Stroink,0153::SB604,,1692,953,1,2,136,257,135,103,185,38,39,34,8,5,1,9,1,1,0,0,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau De Regenboog,0153::SB606,,1701,1191,0,0,156,259,143,194,179,66,84,86,9,3,0,10,0,1,0,0,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Bonhoeffer College,0153::SB607,,1568,631,0,3,45,163,80,56,200,25,21,21,10,0,0,5,2,0,0,1,2
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Het Lang,0153::SB608,,1625,1114,0,7,123,443,127,60,210,48,36,42,10,4,1,7,2,0,0,0,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Zorgcentrum De Posten,0153::SB609,,1627,1506,4,24,310,457,171,103,249,55,72,56,17,8,1,6,1,0,0,0,0
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Broekheurne,0153::SB610,,1749,1004,0,3,197,263,87,136,144,38,66,57,5,4,0,5,1,0,0,0,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Zorgcentrum Broekheurnerstede,0153::SB611,,1385,928,2,6,121,281,79,124,118,55,62,67,12,3,0,1,3,1,0,0,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Het Bijvank,0153::SB612,,1636,960,2,5,85,311,141,82,217,46,10,32,15,3,2,7,5,0,0,3,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Broekheurne dep,0153::SB613,,1716,1100,1,2,150,329,138,91,205,65,45,50,17,3,0,5,1,0,0,1,0
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Mediant Helmerzijde,0153::SB614,,1761,1386,2,1,148,301,120,304,202,100,70,112,14,2,1,9,3,0,0,0,0
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Helmerhoek,0153::SB615,,1697,1079,1,1,96,240,155,156,215,61,37,92,9,3,0,11,4,0,0,0,0
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Weth v.d. Heijdenschool,0153::SB616,,1605,973,1,0,108,225,102,170,151,66,58,69,11,2,0,1,6,0,2,0,2
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Averbeke,0153::SB617,,1682,1283,1,4,137,306,131,195,202,98,73,113,14,0,0,8,2,0,1,2,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau AriënsZorgpalet Dr. Ariënshuis,0153::SB801,,1581,858,0,1,145,200,76,127,216,38,13,27,7,1,0,6,0,0,0,0,2
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Glanerbrug Zuid dep,0153::SB802,,1644,1037,1,1,114,266,127,98,308,54,14,35,7,3,0,6,3,0,0,1,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Glanerbrug Zuid,0153::SB803,,1540,859,3,1,108,173,113,132,191,49,23,54,7,1,0,4,2,0,0,1,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Glanerbrug Zuid (Tweede locatie),0153::SB804,,1465,800,0,15,83,178,103,138,193,41,16,38,6,0,0,3,1,0,0,0,0
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Verpleeghuis Bruggerbosch,0153::SB805,,1686,1007,4,1,86,245,148,200,157,60,29,61,10,7,0,3,0,0,0,0,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Esmarke,0153::SB806,,1651,1526,0,3,160,285,166,369,274,88,39,119,14,0,0,8,4,0,0,0,0
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS De Esmarke dep,0153::SB807,,1505,859,0,2,79,174,115,168,198,35,19,57,9,0,0,3,1,0,1,0,0
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Meijer's Hoes,0153::SB808,,1266,980,3,2,164,187,121,129,279,35,21,28,6,0,0,5,2,0,0,0,3
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Usselerschool,0153::SB901,,753,671,0,1,84,97,42,233,104,32,6,58,6,2,0,4,2,0,0,0,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau OBS Molenbeek dep,0153::SB902,,1363,1278,0,5,157,276,86,406,135,76,18,106,10,1,0,5,1,0,0,0,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Marcellinusschool Boekelo,0153::SB903,,1085,689,1,0,85,120,48,184,79,61,21,72,9,1,0,6,0,1,1,0,1
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Dorpshuis Lonneker,0153::SB904,,1117,1152,1,2,347,140,59,259,150,54,15,111,8,1,0,3,2,0,0,1,2
+Zwolle,Enschede,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau St. Liduinaschool,0153::SB905,,1048,559,1,0,191,72,25,141,62,26,2,31,2,0,0,5,2,0,0,0,0

@@ -1,0 +1,21 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Nieuwe Lijn,VVD,CDA,SGP-ChristenUnie,Democraten 66 (D66),Partij van de Arbeid (P.v.d.A.),Gemeentebelangen Epe,GROENLINKS,Dorpspartij
+,Epe,GR2018_Epe,Gemeenteraad Epe 2018,0232,Epe,2018-03-21,Stembureau Gemeentehuis,0232::SB1,8161 EE,1282,1226,5,7,0,0,0,1115,125,0,0,2,0,0,1240,78,236,253,118,152,94,81,114,100
+,Epe,GR2018_Epe,Gemeenteraad Epe 2018,0232,Epe,2018-03-21,Stembureau Stembureau Europalaan,0232::SB2,8161 ZA,1309,735,6,3,0,0,0,689,55,0,0,0,0,0,744,45,126,123,60,67,82,60,91,81
+,Epe,GR2018_Epe,Gemeenteraad Epe 2018,0232,Epe,2018-03-21,Stembureau Openbare Basisschool Zuuk,0232::SB3,8161 RJ,814,448,1,1,0,0,0,417,33,0,0,0,0,0,450,33,77,83,75,34,30,45,42,29
+,Epe,GR2018_Epe,Gemeenteraad Epe 2018,0232,Epe,2018-03-21,Stembureau Zorgcentrum De Klaarbeek,0232::SB4,8162 WW,1680,702,6,2,0,0,0,673,37,0,0,0,0,0,710,45,73,149,64,84,80,58,84,65
+,Epe,GR2018_Epe,Gemeenteraad Epe 2018,0232,Epe,2018-03-21,Stembureau Zorgcentrum De Boskamp,0232::SB5,8162 DS,1378,838,3,4,0,0,0,763,81,0,1,0,0,0,844,40,170,219,103,104,40,41,73,48
+,Epe,GR2018_Epe,Gemeenteraad Epe 2018,0232,Epe,2018-03-21,Stembureau Het Slath Siza Dorp Groep,0232::SB6,8161 NW,1547,856,3,0,0,1,0,775,82,0,2,0,2,0,857,14,215,135,88,126,62,69,82,65
+,Epe,GR2018_Epe,Gemeenteraad Epe 2018,0232,Epe,2018-03-21,Stembureau VvE Eper Veste,0232::SB7,8161 AG,1339,820,2,0,0,2,0,736,84,0,2,0,0,0,820,36,251,128,34,125,55,69,79,43
+,Epe,GR2018_Epe,Gemeenteraad Epe 2018,0232,Epe,2018-03-21,Stembureau S.V. Wissel,0232::SB8,8162 PR,1017,570,1,0,0,0,0,501,70,0,0,0,0,0,571,18,151,76,44,90,26,38,44,83
+,Epe,GR2018_Epe,Gemeenteraad Epe 2018,0232,Epe,2018-03-21,Stembureau Wijkvereniging Burgerenk,0232::SB9,8162 ZV,1243,702,2,2,0,0,0,647,59,0,0,0,0,0,706,45,98,123,74,58,73,72,78,81
+,Epe,GR2018_Epe,Gemeenteraad Epe 2018,0232,Epe,2018-03-21,Stembureau Hervormde Gemeente Sionskerk,0232::SB10,8161 VV,1293,678,6,1,0,0,0,628,56,0,1,0,0,0,684,41,82,147,70,64,67,85,66,56
+,Epe,GR2018_Epe,Gemeenteraad Epe 2018,0232,Epe,2018-03-21,Stembureau De Hezebrink,0232::SB12,8166 AL,1236,735,0,0,0,0,0,652,83,0,0,0,0,0,735,171,130,55,143,52,60,61,36,27
+,Epe,GR2018_Epe,Gemeenteraad Epe 2018,0232,Epe,2018-03-21,Stembureau Verenigingsgebouw De Hoeksteen,0232::SB13,8166 AT,963,575,1,0,0,0,0,519,57,0,0,0,0,0,576,78,93,62,196,31,39,31,35,10
+,Epe,GR2018_Epe,Gemeenteraad Epe 2018,0232,Epe,2018-03-21,Stembureau Kulturhus Oene,0232::SB14,8167 NL,1238,842,2,4,0,0,0,740,108,0,0,0,0,0,848,14,92,241,323,39,41,22,43,27
+,Epe,GR2018_Epe,Gemeenteraad Epe 2018,0232,Epe,2018-03-21,Stembureau Gereformeerde Tabernakel kerk,0232::SB15,8171 EH,1010,713,6,1,0,0,0,665,55,0,0,0,0,0,720,285,102,134,58,30,27,14,50,13
+,Epe,GR2018_Epe,Gemeenteraad Epe 2018,0232,Epe,2018-03-21,Stembureau KBS De Krugerstee,0232::SB16,8172 VT,1236,731,4,6,0,0,0,678,62,0,1,0,0,0,740,330,64,102,52,40,39,22,70,12
+,Epe,GR2018_Epe,Gemeenteraad Epe 2018,0232,Epe,2018-03-21,Stembureau Clubgebouw c.s.v. VIOS,0232::SB17,8172 CN,1619,730,6,1,0,0,0,668,69,0,0,0,0,0,737,383,32,118,48,33,46,18,45,7
+,Epe,GR2018_Epe,Gemeenteraad Epe 2018,0232,Epe,2018-03-21,Stembureau Wijkgebouw Triton,0232::SB18,8171 AP,1476,913,4,3,0,0,0,840,80,0,0,0,0,0,920,432,97,149,51,37,54,27,57,9
+,Epe,GR2018_Epe,Gemeenteraad Epe 2018,0232,Epe,2018-03-21,Stembureau Evangelisatiecentrum Woord en Daad,0232::SB19,8171 AC,1512,927,3,3,0,0,0,838,95,0,0,0,0,0,933,382,79,128,193,32,26,26,50,11
+,Epe,GR2018_Epe,Gemeenteraad Epe 2018,0232,Epe,2018-03-21,Stembureau Clubhuis Handbalvereniging C.V.O.,0232::SB20,8171 NB,2186,1228,5,3,0,0,0,1133,102,0,1,0,1,0,1235,641,106,220,75,50,46,25,57,8
+,Epe,GR2018_Epe,Gemeenteraad Epe 2018,0232,Epe,2018-03-21,Stembureau Zorgcentrum De Speulbrink,0232::SB21,8171 VA,1206,758,1,4,0,0,0,699,64,0,0,0,0,0,763,376,41,156,67,34,23,14,41,6

@@ -1,0 +1,45 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Partij van de Arbeid (P.v.d.A.),Democraten 66 (D66),ChristenUnie,SP (Socialistische Partij),Stadspartij PLOP,CDA,VVD,GROENLINKS,50PLUS
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau Stadhuis I,0106::SB1,,898,732,1,1,0,0,0,665,69,0,0,0,0,0,734,108,74,73,63,108,55,87,99,65
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau Anholt,0106::SB2,,1632,714,1,0,0,0,0,675,40,0,0,0,0,0,715,131,52,81,65,90,58,56,74,107
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau De Boshof,0106::SB3,,899,698,0,1,0,1,0,700,0,0,0,1,0,0,700,85,114,46,44,67,77,97,131,37
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau De Slingeborgh,0106::SB4,,1321,632,2,2,0,0,0,604,32,0,0,0,0,0,636,80,50,79,61,66,83,81,60,72
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau De Wijde Blik,0106::SB5,,1557,768,2,3,0,0,0,710,63,0,0,0,0,0,773,119,57,91,86,101,84,50,85,95
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau NS Station,0106::SB6,,580,233,2,1,0,0,0,228,8,0,0,0,0,0,236,24,29,38,16,20,10,29,55,12
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau Rode Kruisgebouw,0106::SB7,,1174,342,4,0,0,0,0,319,27,0,0,0,0,0,346,63,13,37,44,51,24,26,41,43
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau Arendshorst,0106::SB8,,1293,551,1,2,0,0,0,506,48,0,0,0,0,0,554,56,24,161,39,79,41,28,80,43
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau Maria in Campisschool,0106::SB9,,1412,516,2,0,0,0,0,490,28,0,0,0,0,0,518,93,49,49,75,59,30,46,75,40
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau De Componist,0106::SB10,,1439,849,4,3,0,2,0,792,62,0,2,0,0,0,854,145,58,122,101,136,71,50,87,79
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau Amstelflat,0106::SB11,,1029,540,4,0,0,0,0,503,41,0,0,0,0,0,544,108,36,82,49,75,42,35,48,65
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau SBO De Boei,0106::SB12,,950,399,1,2,1,0,0,374,27,0,1,0,0,0,401,33,25,98,32,67,42,25,28,49
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau Peelerhof,0106::SB13,,1168,642,5,1,0,0,0,600,48,0,0,0,0,0,648,89,35,134,59,82,48,58,86,51
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau De Veldkei,0106::SB14,,1442,695,1,2,0,0,0,648,50,0,0,0,0,0,698,74,52,97,83,121,29,52,86,101
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau 't Markehuus,0106::SB15,,1402,887,4,1,0,0,0,825,67,0,0,0,0,0,892,116,62,162,101,138,60,69,98,81
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau CBS De Scharmhof,0106::SB16,,1449,582,3,0,0,0,0,538,47,0,0,0,0,0,585,65,49,128,62,73,36,60,60,49
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau GBS De Driesprong,0106::SB17,,1078,612,2,0,0,0,0,575,39,0,0,0,0,0,614,61,34,223,53,63,38,47,42,51
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau Korfbal- en tennisvereniging AVO,0106::SB18,,1089,486,0,2,0,0,0,456,32,0,0,0,0,0,488,55,84,62,36,64,35,72,40,38
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau De Dissel I,0106::SB19,,1234,1093,9,0,0,0,0,1015,87,0,0,0,0,0,1102,152,99,141,109,108,84,124,151,125
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau Opstandingskerk,0106::SB20,,1341,1187,7,1,0,0,0,1098,97,0,0,0,0,0,1195,120,124,203,90,125,115,161,149,100
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau Sportcomplex Marsdiek,0106::SB21,,1164,499,4,1,0,0,0,461,43,0,0,0,0,0,504,40,64,73,20,54,31,100,74,43
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau Pand 17,0106::SB22,,1163,593,2,2,0,0,0,555,42,0,0,0,0,0,597,67,64,62,36,96,30,115,63,60
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau Sportpark Asser Boys,0106::SB23,,1571,776,0,3,0,0,0,710,69,0,0,0,0,0,779,113,121,90,44,70,53,100,132,53
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau De Schulp,0106::SB24,,1251,661,0,0,0,0,0,615,46,0,0,0,0,0,661,84,58,85,100,83,35,52,101,63
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau De Vijverhof,0106::SB25,,1363,713,2,4,0,0,0,672,47,0,0,0,0,0,719,114,40,81,98,89,65,60,94,72
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau Buurthuis de Zonnereep,0106::SB26,,1526,539,1,2,0,0,0,488,54,0,0,0,0,0,542,68,53,41,42,79,62,67,79,48
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau CS Vincent van Gogh,0106::SB27,,1144,688,4,1,0,0,0,644,53,0,0,4,0,0,697,90,71,80,62,92,41,70,138,44
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau Het Schakelveld,0106::SB28,,1127,708,2,4,0,2,0,643,69,0,2,0,0,0,712,90,62,84,86,101,66,64,98,57
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau De Valkenhof,0106::SB29,,1202,537,0,3,0,0,0,505,35,0,0,0,0,0,540,83,40,73,59,49,46,54,74,59
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau MFA Kloosterveste I,0106::SB30,,1132,946,4,2,0,2,0,879,71,0,2,0,0,0,950,106,126,115,59,107,76,172,95,90
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau Het Lichtpunt,0106::SB31,,1176,616,2,1,0,0,0,554,65,0,0,0,0,0,619,53,62,204,26,59,56,73,48,35
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau IJsvereniging Kloosterveen,0106::SB32,,1266,647,0,0,0,0,0,584,63,0,0,0,0,0,647,73,111,96,22,60,53,140,59,33
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau Kindcentrum Kloosterveen,0106::SB33,,1374,663,1,1,0,0,0,605,60,0,0,0,0,0,665,80,110,74,54,78,28,136,64,39
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau Provincie Drenthe,0106::SB34,,1139,544,0,1,0,0,0,500,45,0,0,0,0,0,545,80,76,59,27,75,42,61,79,45
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau Sporthal De Timp,0106::SB35,,1341,865,3,2,0,0,0,814,60,0,0,4,0,0,874,148,52,153,68,99,84,82,88,91
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau Vrijeschool De Es,0106::SB36,,1109,695,3,4,0,0,0,699,2,0,1,0,0,0,701,87,73,56,83,60,52,82,157,45
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau Stadhuis II,0106::SB37,,818,990,4,2,0,0,0,997,0,0,0,1,0,0,997,148,87,99,97,125,76,120,142,96
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau OBS De Marskramer,0106::SB38,,1255,560,4,3,0,0,0,524,42,0,1,0,0,0,566,88,76,49,38,82,36,77,68,46
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau MFA Kloosterveste II,0106::SB39,,1313,985,7,2,0,0,0,907,89,0,0,2,0,0,996,116,123,135,49,109,95,172,100,86
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau MFA Pittelo,0106::SB40,,1015,430,3,1,0,0,0,396,38,0,0,0,0,0,434,57,39,71,39,81,28,30,45,40
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau De Nieuwe Kolk,0106::SB41,,1180,917,6,2,0,0,0,871,54,0,0,0,0,0,925,106,121,105,63,107,95,108,133,79
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau OBS Het Sterrenschip,0106::SB42,,1268,361,3,1,0,0,0,334,31,0,0,0,0,0,365,54,44,59,25,38,26,64,32,19
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau De Dissel II,0106::SB43,,1248,621,1,1,0,0,0,575,48,0,0,0,0,0,623,61,74,81,74,67,48,67,83,66
+,Assen,GR2018_Assen,Gemeenteraad Assen 2018,0106,Assen,2018-03-21,Stembureau Wilhelmina Ziekenhuis,0106::SB44,,477,444,0,0,0,0,0,409,35,0,0,0,0,0,444,51,51,77,33,33,42,61,56,40

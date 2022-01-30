@@ -1,0 +1,338 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,CDA - Europese Volkspartij,P.v.d.A./Europese Sociaaldemocraten,VVD - Europese Liberaal-Democraten,GROENLINKS,SP (Socialistische Partij),ChristenUnie-SGP,Democraten 66 (D66),Newropeans,Europa Voordelig! & Duurzaam,Solidara,Partij voor de Dieren,EUROPESE KLOKKENLUIDERS PARTIJ (EKP),De Groenen,PVV (Partij voor de Vrijheid),Liberaal Democratische Partij,Partij voor Europese Politiek (PEP),Libertas
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Stadhuis, ingang Zwanenburgwal 11",0363::SB1,,1985,787,0,0,12,104,60,227,62,2,211,10,2,1,37,3,4,46,2,1,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Universiteitsbibliotheek Amsterdam, Singel 425",0363::SB3,,1086,844,2,5,34,98,98,205,45,8,254,6,0,1,35,6,2,39,7,1,5
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Leger des Heils Oudezijds Achterburgwal 45,0363::SB4,,793,350,0,0,9,33,44,69,15,4,111,4,1,0,23,1,0,33,2,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Buurtcentrum Boomsspijker, Recht Boomssloot 52",0363::SB5,,412,269,0,1,4,36,12,86,26,0,68,3,2,0,13,2,1,15,0,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau School De Witte Olifant, Nwe Uilenburgerstr 96",0363::SB6,,2412,1157,3,2,15,151,98,303,89,5,330,17,1,4,51,3,4,78,3,0,5
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Gymlokaal tegenover Lastageweg 50,0363::SB8,,1778,860,0,2,7,101,60,239,72,2,260,11,2,1,42,2,5,53,2,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Burghtschool, Keizersgracht 41",0363::SB10,,1466,836,3,1,43,85,119,137,43,4,289,12,0,0,43,1,6,50,2,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau De Rode Hoed, Keizersgracht 100",0363::SB11,,1010,651,1,1,22,83,86,121,26,5,236,4,2,2,24,1,2,30,6,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Theo Thijssenschool, Anjeliersstraat 153",0363::SB12,,2437,1167,2,5,34,138,89,303,109,4,294,6,0,1,99,4,4,70,5,1,6
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Korfbalvereniging Swift Plantage Parklaan 20 A,0363::SB14,,1334,793,3,1,18,112,60,199,60,7,225,4,1,0,51,2,7,45,1,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dependance Theo Thijssen, Palmstraat 9",0363::SB15,,2381,1016,1,3,23,109,91,222,79,3,279,6,1,0,88,5,4,99,4,1,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau School St Aloysius, Westerstraat 297",0363::SB17,,2177,1067,2,0,19,128,82,257,95,8,234,6,0,1,70,5,8,140,6,2,6
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Zorgcentrum Bernardus, Nieuwe Passeerdersstr 2",0363::SB19,,1636,642,2,1,30,68,107,120,48,1,176,3,1,4,28,1,0,54,0,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Zorgcentrum Bernardus, Nieuwe Passeerdersstr 2",0363::SB20,,1030,581,0,3,33,80,82,115,37,3,147,4,1,0,26,0,0,50,2,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Fusion, Marnixstraat 285",0363::SB22,,2207,919,2,1,21,137,75,234,58,4,261,3,0,0,51,4,4,58,5,2,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Het Claverhuis, Elandsgracht 70",0363::SB24,,1643,1062,1,1,25,120,106,242,71,1,300,6,0,1,73,2,7,100,4,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Kerk De Duif, Prinsengracht 756",0363::SB26,,2334,1124,1,5,43,135,147,225,49,2,365,12,0,2,43,1,5,88,4,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Kerk De Duif, Prinsengracht 756",0363::SB28,,1284,764,3,7,27,75,93,157,37,1,293,0,2,0,26,0,0,47,4,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Buurthuis Straat en Dijk - Haarlemmerstr 132-136,0363::SB29,,1919,851,2,1,21,96,83,200,52,6,248,18,3,2,45,3,7,62,5,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Buurthuis Straat en Dijk - Haarlemmerstr 132-136,0363::SB31,,1633,892,2,3,26,118,93,231,61,2,244,7,1,4,42,5,4,51,0,1,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau School De Eilanden, Grote Bickersstraat 102",0363::SB32,,2732,1232,4,1,24,159,86,351,104,3,351,3,2,2,58,9,2,65,8,1,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Zorgcentrum Sint Jacob, Plantage Middenlaan 52",0363::SB34,,1710,801,5,1,40,108,78,190,60,2,204,11,0,2,37,0,1,56,8,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau ASVO school, Frederiksplein 37",0363::SB36,,2345,1317,1,0,31,171,178,270,73,5,429,13,0,4,56,2,4,65,6,0,10
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dr Sarphatihuis, Roetersstraat 2",0363::SB38,,2287,1196,1,7,32,157,98,332,78,7,330,7,1,1,60,5,8,65,9,1,5
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau School Oostelijke Eilanden, Kraijenhoffstr 10",0363::SB40,,1566,712,0,5,15,100,34,218,81,3,152,9,2,1,31,4,3,54,1,1,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau School Oostelijke Eilanden, Kraijenhoffstr 10",0363::SB41,,1858,610,3,0,13,98,35,172,58,2,132,11,0,1,30,3,5,40,5,2,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau NH Caransa Hotel, Rembrandtplein 19",0363::SB42,,1020,496,1,3,22,63,87,55,11,1,165,5,1,2,17,4,2,59,0,1,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Breedbeeldgebouw via schoolplein Parelstraat 1,0363::SB43,,2253,702,2,2,24,108,30,205,89,6,118,2,3,1,43,3,0,66,1,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Schoolgebouw De Pool, Poolstraat 2",0363::SB45,,2632,1264,1,2,21,160,54,420,163,15,256,9,3,6,79,2,5,67,2,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Barlaeus Gymnasium, Zieseniskade 5",0363::SB47,,1341,703,1,0,21,71,86,117,34,2,241,13,1,0,42,4,1,66,2,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Diaconie Prot Gemeente, Nieuwe Herengracht 18",0363::SB48,,876,452,2,0,11,62,39,131,20,11,133,6,0,0,16,2,1,18,1,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Verpleeghuis Wittenberg, Nieuwe Kerkstraat 159",0363::SB49,,840,491,0,0,10,68,42,127,41,5,127,9,0,0,28,4,1,26,2,1,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau De Roode Bioscoop, Haarlemmerplein 7 hs",0363::SB50,,1085,591,3,0,8,73,31,177,58,4,131,2,2,2,45,0,3,55,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau COC Amsterdam, Rozenstraat 14",0363::SB51,,1268,658,0,1,21,70,85,135,54,3,201,5,0,0,22,2,3,52,3,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dienstencentr Laurierhof, 1e Laurierdwarsstr 6",0363::SB52,,1338,670,2,4,22,82,58,142,72,3,184,5,3,2,43,3,2,45,1,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Sticht De Regenboog, Oudezijds Voorburgwal 165",0363::SB53,,777,340,1,2,19,45,34,66,26,7,72,4,0,0,19,1,2,44,1,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Buurt Informatie Centrum (BIC),  Zeedijk 80",0363::SB54,,687,418,0,0,9,46,24,119,39,0,100,6,0,0,36,4,3,31,0,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Vlaams Cultuurhuis de Brakke Grond, Nes 45",0363::SB55,,1543,725,0,3,27,75,73,180,56,0,214,9,1,2,32,0,2,45,5,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Sportcentrum Het Marnix,  Marnixplein 1",0363::SB56,,1029,452,1,5,9,58,27,111,49,4,101,3,0,0,31,2,5,49,3,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dienst Wonen,  Jodenbreestraat 25",0363::SB57,,0,244,0,0,8,30,16,79,18,0,59,5,0,2,15,3,0,9,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Centraal Station, Restaurant 1e Klas,Perron 2B",0363::SB58,,0,822,8,0,16,122,46,244,57,12,226,16,0,0,46,1,2,32,0,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau V&D  Kalverstraat 203,0363::SB59,,0,190,1,1,6,29,14,45,13,3,59,1,0,0,9,0,0,8,3,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Stadhuis, ingang Zwanenburgwal 11",0363::SB60,,0,798,4,2,21,108,60,210,65,2,215,3,1,0,44,3,3,53,3,1,6
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Cordares Diensten B.V., Basisweg 10",0363::SB71,,278,134,2,0,3,18,15,16,8,1,33,2,0,0,11,1,1,23,1,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Station Sloterdijk - centrale hal naast AKO,0363::SB72,,0,351,0,0,9,42,28,101,28,8,80,2,1,1,23,1,0,25,1,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Basisschool Insulinde, Sumatrastraat 87",0363::SB81,,983,320,2,2,14,73,14,70,30,3,67,1,0,4,10,0,3,25,1,1,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Flevohuis, Kramatplantsoen 101, vergaderzaal 2",0363::SB82,,1031,276,2,1,9,39,16,72,33,1,50,2,1,0,15,0,2,33,0,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Flevohuis, Kramatplantsoen 101, vergaderzaal 3",0363::SB83,,852,329,0,4,23,54,10,55,47,7,47,4,0,2,20,1,2,57,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Flevoparkschool, Javaplantsoen 9, nieuw gebouw",0363::SB84,,1047,383,0,6,16,69,18,113,51,3,57,6,0,0,12,0,2,32,0,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Basisschool De Evenaar, Ambonplein 59",0363::SB87,,1873,348,4,1,9,88,11,64,37,4,53,3,1,12,13,1,2,45,3,1,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Vrouwen Centrum Rumah Khami, Javaplantsoen 6",0363::SB88,,1185,169,0,3,4,31,7,54,21,4,20,1,1,0,10,0,3,13,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Jongeren Werkplaats Oost, Zeeburgerdijk 265",0363::SB89,,1484,308,2,1,7,43,17,86,40,3,52,2,0,11,19,0,0,28,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau As. Siddieq Zeeburg, Sumatraplantsoen 15",0363::SB91,,1690,446,2,5,11,114,8,103,60,4,66,2,0,7,26,3,0,37,2,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Vonk, Ambonplein 63",0363::SB92,,681,242,0,3,9,50,6,51,33,2,38,1,0,5,16,1,2,28,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau OBS de Kleine Kapitein, Tosaristraat 30",0363::SB93,,1391,688,0,3,18,94,82,194,26,1,206,2,0,1,26,1,1,30,2,1,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau School De Rietlanden, C. van Eesterenlaan 50",0363::SB94,,1214,544,0,1,16,94,50,118,27,3,144,5,0,1,22,2,4,58,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Chinees Restaurant Chengdu, Bogortuin 2",0363::SB95,,1108,602,3,0,18,77,50,163,23,3,171,4,0,0,31,5,2,49,2,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau 8e Montessorischool, Borneokade 103",0363::SB96,,1434,794,1,0,25,113,67,235,48,4,243,7,1,1,18,1,5,24,1,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Basisschool de Achthoek Baron G.A.Tindalpln 12,0363::SB97,,1061,641,0,1,14,87,35,196,42,6,184,6,0,0,27,5,8,28,1,1,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau WDC Sporenburg ing hek by J.F.v.Hengelstr 127,0363::SB98,,1136,500,1,1,13,75,51,149,30,1,144,1,1,1,14,1,0,16,3,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Stadsdeelkantoor, Cruquiusweg 5",0363::SB100,,1708,670,0,5,17,99,66,165,51,4,170,3,0,2,44,1,3,42,1,1,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau De Kompaszaal, KNSM-laan 311",0363::SB101,,1915,983,4,0,17,154,67,233,63,4,279,7,1,2,59,4,8,76,6,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Int.Inst.Soc.Geschiedenis, Cruquiusweg 31",0363::SB103,,1449,624,1,1,10,98,50,175,54,3,142,4,0,1,41,1,4,37,1,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Basisschool Insulinde, Zeeburgerdijk 84",0363::SB104,,963,313,1,4,5,49,17,110,31,1,52,3,1,1,15,0,1,25,1,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau J.P.Coenschool, Bankastraat 18",0363::SB105,,985,400,1,1,6,40,34,113,26,2,127,6,3,1,25,0,2,14,1,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Kerkgebouw Eltheto, Javastraat 116",0363::SB106,,750,357,0,0,8,50,23,116,22,10,74,5,0,1,14,4,8,19,1,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau J.P.Coenschool, Balistraat 79",0363::SB107,,841,295,5,1,8,35,21,74,21,2,82,3,0,1,15,1,0,30,1,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Buurtcentrum De Meevaart, Balistraat 48 A",0363::SB108,,759,252,1,3,4,34,8,74,32,4,64,1,0,3,11,0,0,17,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau OBS Olympus,E.Salomonstr 432, ingang hek links",0363::SB110,,2456,818,1,3,22,95,101,175,47,12,241,4,2,1,31,1,2,77,3,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Wijkpartners, Erich Salomonstraat 395",0363::SB111,,3611,1119,1,3,41,170,143,208,62,14,321,9,0,3,43,4,4,88,5,1,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Montessorisch.Steigereiland, J Hadleystraat 4",0363::SB112,,2133,877,0,0,25,125,122,193,49,5,248,21,0,2,35,2,2,48,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Basisschool De Dapper, Pieter Nieuwlandstr 3",0363::SB123,,2420,893,2,3,29,161,50,255,91,5,149,6,0,11,63,3,3,64,1,1,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Basisschool De Dapper, Pieter Nieuwlandstr 3",0363::SB124,,2469,741,3,1,18,121,42,222,76,3,139,8,0,1,43,2,2,57,1,1,5
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau OBS Aldoende, 2e Boerhaavestraat 22",0363::SB125,,1405,594,1,1,17,57,46,170,63,3,150,5,0,2,31,1,3,41,4,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau OBS Aldoende, 2e Boerhaavestraat 22",0363::SB126,,1284,569,1,1,13,55,45,140,56,6,169,9,0,3,41,2,3,23,1,1,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau School Louise de Coligny, 2e Oosterparkstr 33",0363::SB127,,1480,531,5,0,19,80,23,151,40,6,121,11,0,2,24,1,2,46,3,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Ouderencentrum De Gooyer, Von Zesenstraat 298",0363::SB128,,824,327,1,4,10,50,17,93,37,3,48,2,0,1,22,1,0,43,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Kastanjehof Centr v Ouderen, Kastanjeplein 60",0363::SB129,,1196,463,0,0,12,73,17,136,43,3,90,7,4,0,25,1,6,42,1,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Linnaeusschool, 3e Oosterparkstr 360 zij-ingang",0363::SB131,,2127,877,4,5,34,138,52,286,71,9,181,5,1,2,42,4,1,44,2,1,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau School Louise de Coligny, 2e Oosterparkstr 33",0363::SB132,,1232,567,1,0,16,78,40,148,37,8,143,4,2,2,33,0,4,52,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Multicultureel Centrum, Joubertstraat 15 B",0363::SB133,,1301,485,1,3,16,71,28,129,42,4,110,6,1,7,20,1,2,45,3,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Multicultureel Centrum, Joubertstraat 15 B",0363::SB135,,2527,568,0,2,8,91,33,173,54,9,124,5,0,2,21,0,10,34,3,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau School De Kraal, ingang naast Smitstraat 35",0363::SB138,,3455,1028,5,4,18,176,58,297,114,8,191,6,2,5,58,3,7,82,1,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Stadsdeelhuis, Oranje-Vrijstraatplein 2",0363::SB139,,1292,511,1,0,15,74,25,165,36,2,115,5,2,1,34,3,1,29,3,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Buurtcentrum Park de Meer, Anfieldroad 110",0363::SB140,,2559,895,2,2,56,133,54,194,85,12,149,6,2,4,49,2,2,145,0,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dependance 5e Montessorischool, Zaaiersweg 15",0363::SB141,,1210,523,0,3,21,83,18,72,66,8,54,3,1,1,31,3,2,156,2,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Schoolgebouw, Copernicusstraat 38-40 ingang 40",0363::SB143,,1011,560,1,1,29,77,39,148,35,2,142,6,0,5,26,2,2,46,1,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Schoolgebouw, Copernicusstraat 38-40 ingang 40",0363::SB144,,1126,595,0,3,24,78,47,168,45,2,136,4,0,0,31,2,0,53,2,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Servicepunt Tesla, Middenweg 333",0363::SB147,,2219,788,0,2,43,126,78,171,45,10,216,6,1,0,29,1,3,57,2,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Servicepunt Tesla, Middenweg 333",0363::SB148,,2926,1254,5,1,71,184,86,287,91,14,300,12,0,3,47,2,4,143,4,2,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Hogeschool van Amsterdam Weesperzijde 190,0363::SB149,,916,563,1,0,23,69,83,94,36,2,158,5,1,4,22,1,2,60,2,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Basisschool Frankendael, Hogeweg 61-63 ing 63",0363::SB150,,1182,778,3,0,28,109,59,206,52,9,223,4,3,0,24,2,0,52,1,0,6
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dependance Frankendael, Von Liebigweg 68",0363::SB152,,2777,717,1,2,36,84,45,142,76,7,113,4,0,3,56,5,10,135,0,1,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Basisschool Het Palet, Simon Stevinstraat 48",0363::SB153,,1248,591,3,1,25,83,29,197,39,1,122,6,0,2,37,1,5,42,2,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Stichting Al Maarif, Rudolf Dieselstraat 5",0363::SB154,,1425,419,4,0,13,61,48,100,21,6,100,11,2,2,15,1,3,31,1,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Zorgcentrum Amstra, Ingenhouszhof 15",0363::SB155,,944,368,3,1,33,46,15,70,32,6,51,1,1,2,32,0,3,74,0,2,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau De Open Hof Fahrenheitstraat 115,0363::SB156,,837,452,2,1,45,69,25,102,30,6,82,1,0,0,20,0,2,67,1,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Willem Dreeshuis, Hugo de Vrieslaan 65",0363::SB157,,1044,451,0,1,17,69,34,61,31,8,80,1,0,2,47,3,5,93,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Amstelstation, tegenover GWK Wisselkantoor",0363::SB158,,0,559,0,0,18,63,48,140,32,7,165,4,2,4,23,0,0,40,5,1,7
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau DOC - Stadhouderskade 89,0363::SB201,,1853,650,0,1,18,68,68,170,40,2,188,5,0,1,43,2,0,41,4,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau DOC - Stadhouderskade 89,0363::SB202,,1954,635,0,2,12,74,74,148,49,1,185,8,1,1,38,0,4,34,3,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Jan vd Heijdenhuis - 2e Jan vd Heijdenstraat 75,0363::SB204,,1284,642,1,3,20,72,51,177,44,1,169,11,2,0,40,4,3,45,2,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Oscar Carréschool-1e Jan vd Heijdenstraat 161,0363::SB205,,2117,808,0,3,21,106,85,189,63,4,196,9,2,4,51,2,2,67,3,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Oscar Carréschool-1e Jan vd Heijdenstraat 161,0363::SB206,,2098,778,1,0,13,90,80,191,59,3,201,5,0,3,57,5,7,59,2,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Montessori Lyceum - Pieter de Hoochstraat 78,0363::SB209,,990,572,0,2,27,81,106,99,14,6,162,6,0,3,24,1,2,35,5,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Buurthuis Quellijn - Quellijnstraat 62 - 66,0363::SB210,,1126,583,1,1,15,74,58,119,52,0,159,2,0,0,58,3,4,35,0,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Amstra -  Amsteldijk 35,0363::SB211,,2634,1053,4,6,38,136,88,250,80,8,253,11,1,6,68,5,4,95,4,0,6
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Berlage Lyceum - Pieter Lodewijk Takstraat 34,0363::SB215,,2423,776,2,3,21,116,28,187,128,7,113,9,0,9,68,6,8,64,6,0,6
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau 3e Daltonschool - Van Ostadestraat 272,0363::SB217,,1707,670,0,1,19,80,59,152,54,8,196,7,0,0,51,0,9,33,0,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau 3e Daltonschool - Van Ostadestraat 272,0363::SB218,,1829,747,1,2,28,86,72,192,50,4,190,6,2,2,61,2,1,46,3,1,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Stadsdeelkantoor - Karel du Jardinstraat 65,0363::SB220,,2289,1026,4,3,18,128,108,237,91,10,265,8,1,5,61,0,7,78,6,2,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Sporthal de Pijp - Lizzy Ansinghstraat 88,0363::SB221,,2416,742,1,2,22,83,59,192,77,11,167,9,1,3,38,1,3,70,5,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Zorgcentrum d'Oude Raai - Ferd. Bolstraat 321,0363::SB222,,1180,563,5,2,32,67,47,116,69,5,121,4,2,2,40,3,0,53,2,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Pastorie Vredeskerk - Pijnackerstraat 9,0363::SB224,,1059,463,4,1,29,37,58,100,38,3,125,4,0,0,31,1,3,32,2,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau De Roos - P.C. Hooftstraat 183,0363::SB226,,1297,700,3,1,31,80,118,148,27,7,200,4,0,2,23,0,3,49,3,0,5
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau The College Hotel - Roelof Hartstraat 1,0363::SB228,,2195,1382,0,10,62,214,159,279,99,9,404,5,1,4,63,5,6,63,4,0,5
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Gebouw, Hondecoeterstraat 10",0363::SB230,,1035,597,2,0,36,93,109,72,22,5,189,3,0,0,28,2,0,35,3,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Obrechtkerk-Jacob Obrechtstr.30 - ing.pastorie,0363::SB231,,1141,803,0,0,26,93,161,144,23,4,254,10,0,1,32,5,6,40,1,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Gymlokaal Nicolaas Maesschool - Heinzestraat 9,0363::SB232,,1603,905,0,1,36,140,149,158,36,8,284,8,1,0,38,4,3,36,2,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Stadsdeelkantoor - Koninginneweg 1,0363::SB234,,1145,846,1,1,29,93,180,124,22,2,295,6,1,1,30,1,4,49,8,1,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Wijkcentr.Vondel/Concert-Hendrik Jacobszstr.6,0363::SB235,,1094,636,1,4,31,94,122,96,17,5,196,6,0,0,30,5,1,28,2,1,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Basisschool de Elout - Cornelis Krusemanstr.68,0363::SB236,,2035,889,2,4,35,135,92,167,77,15,203,2,0,2,56,3,7,88,3,1,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Zorgcentrum Schinkelhaven-Veerstraat naast 92,0363::SB238,,1734,679,0,3,33,83,85,129,51,6,184,5,1,4,35,1,2,56,3,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Zorgcentrum Schinkelhaven-Veerstraat naast 92,0363::SB239,,1665,577,0,0,34,72,78,95,44,2,158,5,0,5,28,1,0,52,3,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau 1e Montessorischool De Wielewaal-Corellistr.1,0363::SB241,,983,651,1,1,44,63,155,66,14,7,192,12,0,0,25,1,2,65,3,2,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Hervormd Lyceum - Brahmsstraat 7,0363::SB242,,1812,1023,0,2,67,106,251,111,22,6,311,16,2,1,42,5,5,66,7,0,5
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Hilton Hotel - rechteringang - Apollolaan 138,0363::SB244,,875,699,2,2,48,82,181,65,16,6,208,2,0,1,21,1,0,64,2,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Buurtcentrum Olympus, Hygiëaplein 8-10",0363::SB245,,2387,916,0,0,60,119,157,130,46,4,253,10,1,2,32,3,1,93,2,1,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Buurtcentrum Olympus, Hygiëaplein 8-10",0363::SB246,,2237,619,5,1,31,60,127,103,32,6,164,2,0,0,30,2,2,47,7,1,5
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Willem de Zwijgerkerk - Olympiaweg 14,0363::SB247,,1720,621,1,2,25,88,48,118,67,8,117,8,0,1,63,4,4,64,0,2,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Willem de Zwijgerkerk - Olympiaweg 14,0363::SB248,,1706,657,2,3,25,104,51,138,62,9,119,4,1,5,39,2,4,91,3,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Openbare Bibliotheek - Laan der Hesperiden 40,0363::SB252,,2421,1045,0,0,56,118,186,154,65,4,287,8,3,1,45,2,1,108,6,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Wijkservicepunt - Sloterkade 150,0363::SB256,,1121,564,2,3,18,71,67,130,45,2,142,5,1,0,23,2,0,53,2,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Schoolgebouw - Floris Versterstraat 10,0363::SB257,,1458,573,0,1,47,80,69,99,36,7,145,2,2,1,30,4,0,43,6,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Schoolgebouw - Floris Versterstraat 10,0363::SB258,,1332,551,0,3,25,69,75,100,27,4,158,4,0,0,35,2,0,50,0,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau De Notenkraker - Bennebroekstraat 11,0363::SB260,,2296,996,1,2,56,103,126,180,42,11,268,8,2,3,58,4,3,125,4,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Tobiasschool - Rietwijkerstraat 55,0363::SB262,,2317,963,3,2,48,96,151,193,41,13,267,7,0,1,36,7,2,88,1,0,12
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Anne Frankschool - Niersstraat 41,0363::SB271,,1848,913,3,3,65,112,135,159,42,6,255,7,1,0,43,6,1,79,1,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Buurtservicecentrum - Meerhuizenplein 11,0363::SB272,,998,405,1,0,10,58,29,105,35,5,85,6,1,1,30,0,2,36,1,1,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Basisschool St.Catharina-Meerhuizenplein 4 A,0363::SB273,,860,434,0,1,27,53,40,86,30,6,107,5,2,0,28,2,1,41,2,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Schoolgebouw - Uiterwaardenstraat 60 A,0363::SB275,,1408,622,0,5,29,73,98,122,43,6,127,3,1,0,41,3,1,73,0,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Speeltuinvereniging - Gaaspstraat 8,0363::SB276,,2395,967,2,5,47,127,95,188,91,7,207,9,0,5,83,5,6,88,6,2,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Gymzaal School de Rivieren - Lekstraat 33 A,0363::SB278,,1475,754,4,0,37,87,92,164,50,2,203,5,1,0,41,1,2,64,3,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Stadsdeelkantoor - President Kennedylaan 923,0363::SB280,,2193,855,1,4,53,118,67,148,71,4,212,12,1,1,54,3,3,101,6,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Stadsdeelkantoor - President Kennedylaan 923,0363::SB281,,2278,775,2,0,47,111,100,138,52,4,180,7,0,3,46,2,2,80,2,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Buurtservicecentrum - Jekerstraat 86,0363::SB282,,1924,979,9,2,42,117,153,173,57,3,282,8,1,0,38,5,5,87,4,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Woon- en Zorgcentrum Torendael - Veluwelaan 21,0363::SB284,,1362,647,1,1,51,93,92,105,45,6,149,1,0,0,30,1,0,71,3,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Anne Frankschool - Niersstraat 41,0363::SB285,,1914,919,4,1,44,116,128,183,51,8,266,8,0,2,42,1,1,60,3,2,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Thomaskerk - Prinses Irenestraat 36,0363::SB286,,865,643,1,0,47,70,181,68,7,6,190,3,1,1,18,2,0,45,2,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Verpleegcentrum Vreugdehof - De Klencke 111,0363::SB288,,2709,947,3,3,113,112,144,87,72,17,139,7,1,3,51,3,3,190,2,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Zorgcentrum Beth Shalom - Kastelenstraat 80,0363::SB289,,925,552,0,1,62,71,115,51,25,7,94,2,1,0,27,2,2,89,1,2,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Verpleegtehuis De Buitenhof - Nieuw Herlaer 2,0363::SB291,,1752,744,1,2,65,90,164,62,41,6,112,5,0,3,37,7,1,144,3,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Andrieskerk - A.J. Ernststraat 869,0363::SB292,,1197,619,1,0,48,86,112,71,46,16,92,0,0,1,23,0,1,117,2,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Multifunct.Centr.Binnenhof - A.J. Ernststr.112,0363::SB293,,1433,669,2,3,77,99,110,50,37,8,121,3,0,0,21,4,2,130,4,1,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Multifunct.Centr.Binnenhof - A.J. Ernststr.112,0363::SB294,,1396,652,1,0,68,94,89,61,44,16,100,3,1,2,34,0,0,135,1,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Gymzaal bij school De Ark - Zuid-Hollandstr. 7,0363::SB295,,2217,978,0,3,99,105,142,99,51,20,193,8,1,5,52,4,3,188,2,0,6
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Menno Simonszhuis - Noordhollandstraat 17 A,0363::SB297,,942,524,1,0,63,78,108,45,23,9,80,2,1,0,23,1,1,88,0,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Marius ten Cate Hof - Van Nijenrodeweg 937,0363::SB298,,1261,610,1,1,49,69,108,58,41,17,95,6,0,0,46,3,4,113,1,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Woonzorgcentrum Buitenveldert - Doornburg 2,0363::SB299,,1074,455,1,2,57,62,129,36,9,4,79,1,0,1,10,0,3,60,1,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Mobiel gebouw t/o Reggestr. nr.20 (IJselplein),0363::SB300,,2746,1072,0,5,43,131,109,248,84,9,236,7,0,4,56,6,5,131,2,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Vrij Universiteit Amsterdam De Boelelaan 1105,0363::SB301,,0,538,2,0,29,69,42,150,34,9,164,7,0,2,12,2,1,13,3,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Station Zuid WTC - ingang Zuidplein,0363::SB303,,0,511,2,0,30,56,86,69,21,7,200,6,0,1,7,1,3,21,2,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau El Amien II, Van Gentstraat 16 A",0363::SB311,,2025,667,0,7,20,103,40,132,66,16,147,5,2,3,45,2,2,78,5,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau El Amien II, Van Gentstraat 16 A",0363::SB313,,2146,623,2,2,37,94,39,126,49,6,128,8,1,1,31,2,4,94,0,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School T.Uilensp.str 11 ACHTERINGANG schoolpln,0363::SB315,,1811,606,3,5,24,129,46,109,34,12,140,6,2,4,30,2,3,59,3,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School T.Uilensp.str 11 ACHTERINGANG schoolpln,0363::SB317,,2142,591,2,2,15,93,43,145,54,8,123,1,0,2,22,1,5,77,1,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Speeltuinver.Nw Bos en Lommer-Wachterliedpls.2,0363::SB319,,2235,694,4,3,17,111,48,178,42,9,176,11,0,0,26,2,3,67,1,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Narcis-Queridoschool, Jan den Haenstraat 41",0363::SB321,,1859,543,0,1,17,83,29,120,68,8,108,7,0,3,34,3,6,55,0,1,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Narcis-Queridoschool, Jan den Haenstraat 41",0363::SB323,,2079,408,1,1,7,71,19,103,43,3,76,4,1,4,18,1,3,49,4,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Centrum voor Ouderen De Boeg, Hoofdweg 495",0363::SB325,,2683,881,1,13,41,130,62,192,72,12,190,15,3,1,34,2,2,118,1,2,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Bos en Lommerschool, Flierefluiterpad 15",0363::SB327,,1380,229,1,3,19,81,5,32,28,2,20,0,0,2,8,0,0,31,0,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Bos en Lommerschool, Flierefluiterpad 15",0363::SB329,,1468,212,1,2,13,58,12,22,34,4,23,2,1,2,11,0,0,29,0,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Molen van Sloten, Akersluis 10",0363::SB341,,477,227,0,0,20,27,32,39,16,2,34,0,1,3,10,0,0,43,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Dienstencentrum Maarten Luther Oeverpad 300,0363::SB342,,1578,628,3,2,50,79,63,68,34,9,134,5,0,3,37,1,1,141,0,2,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Prof.Dr.H.Kraemersch gymlok ingang Veldzicht,0363::SB343,,1097,178,0,4,16,30,14,17,19,4,17,0,0,1,11,0,0,49,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau RK Basisschool St Lukas, Notweg 32",0363::SB344,,2358,818,1,7,106,165,39,48,74,8,51,4,0,8,42,4,0,260,3,2,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Osdorpse Montessorischool, Hoekenes 59",0363::SB346,,918,316,0,0,21,52,18,37,19,5,18,1,3,4,15,1,1,119,2,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dienstencentrum Osdorperhof, P. Calandlaan 86",0363::SB349,,2142,782,1,3,96,97,96,92,63,22,91,4,3,0,34,5,1,174,0,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Gymlokaal Ichthusschool, Prof Casimirstraat 32",0363::SB350,,872,369,1,0,51,43,22,38,47,3,18,0,0,0,14,2,1,129,0,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Dienstencentrum Reimerswaalstraat 5 A,0363::SB351,,943,185,0,1,30,38,5,20,17,4,14,0,3,0,9,3,0,42,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Zorgcentrum Leo Polak, Saaftingestraat 8",0363::SB353,,2240,553,0,0,73,108,41,27,46,4,49,1,3,7,29,2,0,161,0,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Basisschool De Globe, Evertsweertplantsoen 3",0363::SB355,,1608,295,0,3,30,75,14,22,38,3,20,1,2,0,11,0,0,78,1,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Basisschool De Globe, Evertsweertplantsoen 3",0363::SB356,,1728,294,0,0,16,73,16,30,26,5,28,0,2,0,13,2,1,76,1,0,5
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau PC School de Odyssee, Cycladenlaan 2",0363::SB357,,1655,531,0,2,44,95,81,59,27,7,114,2,1,7,14,2,0,75,1,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Gymlokaal St Paulusschool, Koos Vorrinkweg 5",0363::SB358,,1936,431,3,2,35,71,42,72,30,11,64,2,1,7,12,0,1,81,1,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Buurthuis De Aker, Noorderakerweg 2",0363::SB360,,1618,421,1,0,44,60,30,31,37,15,45,5,0,4,21,1,0,125,2,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Buurthuis De Aker, Noorderakerweg 2",0363::SB361,,1481,360,0,4,31,58,31,23,25,11,37,1,0,1,17,1,0,122,0,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Schoolgebouw, Schuitenhuisstraat 5",0363::SB362,,1800,394,0,0,32,66,24,29,35,6,37,2,0,0,35,1,0,121,5,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Schoolgebouw, Brenner 9, ingang groene speelpln",0363::SB364,,1866,627,0,0,59,92,53,75,35,12,93,3,1,2,22,3,4,171,2,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau School De Horizon, zij-ingang I. Kantemanplein",0363::SB366,,1878,524,5,0,51,71,67,57,43,9,93,3,1,1,24,2,0,97,2,1,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau School De Horizon, zij-ingang I. Kantemanplein",0363::SB367,,1804,597,1,1,21,111,78,81,44,14,93,3,1,4,23,2,2,116,0,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Het Groeipaleis, Joop Woortmanplein 5",0363::SB369,,1439,477,0,0,44,59,42,46,49,4,47,3,1,4,25,2,3,146,1,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Tuincentrum Osdorp,  Osdorperweg 247",0363::SB370,,0,65,0,0,10,8,5,6,4,0,9,1,0,0,3,0,1,16,2,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Stadsdeelkantoor, Osdorpplein 1000",0363::SB371,,1879,639,1,4,42,117,41,70,68,4,71,4,2,1,36,4,0,177,0,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School Krommeniestr 1 ingang bij Hembrugstraat,0363::SB391,,2146,608,0,4,12,67,37,197,46,1,149,6,1,6,21,1,2,60,2,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School Krommeniestr 1 ingang bij Hembrugstraat,0363::SB392,,2144,560,1,6,17,81,16,138,69,15,87,2,2,1,36,1,2,89,2,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau De Bogt Westerbeer, Polanenstraat 6",0363::SB394,,2625,814,3,7,33,119,48,213,71,12,132,6,2,2,61,2,5,105,1,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Bredeschool Zeeheldenbuurt, Roggeveenstraat 14",0363::SB397,,1784,728,3,1,13,91,49,191,74,5,171,11,0,3,42,2,7,64,3,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau de Koperen Knoop, Van Limburg Stirumstr 119",0363::SB398,,1128,579,0,7,13,71,28,140,50,4,135,1,0,3,46,1,3,80,4,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Verpleeghuis De Poort, Hugo de Grootkade 20",0363::SB399,,860,419,2,2,20,48,44,99,35,0,105,3,0,0,27,2,2,32,1,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Wooncentrum De Werf, Van Reigersbergenstr 829",0363::SB400,,740,343,1,2,20,60,17,81,31,3,58,1,0,0,25,1,4,39,1,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Westerparkschool Van Hogendorpplein 11,0363::SB403,,1885,606,0,2,10,87,21,189,47,2,126,2,0,3,44,5,3,61,4,1,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Westerparkschool Van Hogendorpplein 11,0363::SB404,,1324,596,2,1,7,66,16,180,63,4,145,7,1,3,42,0,3,54,3,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau School De Bron, Van Beuningenstraat 141",0363::SB405,,1949,764,5,4,19,88,50,217,60,1,194,10,0,2,41,3,6,69,1,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Van Hogendorphal Van Hogendorpstraat 921,0363::SB407,,2392,884,1,6,21,92,47,304,69,4,209,8,0,1,47,3,5,69,3,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Buurthuis 't Trefpunt, 3e Hugo de Grootstr. 5",0363::SB409,,1066,444,1,0,9,44,41,128,43,2,93,5,0,5,34,2,2,35,1,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Marcanti College, Jan van Galenstraat 31",0363::SB410,,757,278,1,1,8,31,21,73,29,7,47,1,2,1,12,1,3,41,1,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dep Westerparkschool, Van Hallstraat 621",0363::SB411,,2528,781,3,2,25,104,40,186,61,4,203,15,1,0,50,1,11,67,8,1,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dep Westerparkschool, Van Hallstraat 621",0363::SB413,,2219,906,1,6,9,124,46,270,88,10,212,13,3,0,54,3,4,64,3,1,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau ASV Bilderdijkpark - Bilderdijkpark 10,0363::SB421,,1007,461,3,0,20,57,49,107,29,2,116,9,0,1,21,1,4,42,0,1,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Wooncentrum De Klinker, Borgerstraat 45",0363::SB422,,1942,683,2,5,25,106,29,168,87,5,117,5,2,1,64,0,1,72,0,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Wooncentrum De Klinker, Borgerstraat 45",0363::SB423,,1851,690,1,5,16,102,30,164,76,6,137,6,1,5,48,4,8,77,3,0,7
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Stadsdeelkantoor - Kwakersstraat 3,0363::SB424,,2033,860,5,2,35,102,91,200,69,5,227,4,1,1,43,3,4,71,4,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Stadsdeelkantoor - Kwakersstraat 3,0363::SB425,,2040,903,2,5,30,111,72,239,74,6,212,10,2,4,49,4,6,76,4,1,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Schoolgebouw - Jan Pieter Heijestraat 45,0363::SB427,,2222,830,2,8,23,110,56,202,98,7,191,9,1,2,46,3,3,73,6,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Schoolgebouw - Nassaukade 342 A,0363::SB429,,2073,773,2,0,22,82,74,193,59,3,220,6,1,0,53,5,0,51,1,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Gebouw AOC WG-terrein t.o. G.Borstkade 2-17,0363::SB431,,2530,1141,2,5,37,144,107,295,72,13,292,10,3,1,62,8,5,85,4,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Vondelstede - Anna van den Vondelstraat 30,0363::SB433,,1926,864,2,1,34,94,111,191,49,5,272,2,0,0,28,3,9,61,5,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Schoolgebouw - Pieter Langendijkstraat 44,0363::SB435,,1790,646,2,3,8,75,64,140,62,10,195,5,0,0,38,3,2,38,1,1,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Schoolgebouw - Pieter Langendijkstraat 44,0363::SB436,,1718,762,1,3,25,82,73,170,66,3,212,11,0,0,59,4,6,47,2,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Schoolgebouw - 1e Helmersstraat 271,0363::SB438,,1781,813,1,0,38,95,97,204,58,4,222,9,1,1,38,2,3,34,1,0,6
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Schoolgebouw - 1e Helmersstraat 271,0363::SB439,,1689,772,1,1,15,84,73,201,62,5,217,7,1,1,39,3,3,56,2,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Nieuw Vredenburgh, Postjesweg 125",0363::SB461,,1342,439,0,4,37,70,28,82,32,9,96,1,1,1,30,1,1,46,1,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau OBS Corantijn, Corantijnstr 2-4, ingang 4",0363::SB462,,2089,885,1,2,37,115,106,180,62,5,248,7,2,5,23,4,1,81,6,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau School As Siddieq, Cornelis Dirkszstraat 6",0363::SB463,,1008,351,2,1,6,52,21,89,33,5,85,2,0,2,10,0,0,41,3,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Joop Westerweelschool Balboaplein 44,0363::SB464,,1768,579,0,3,17,99,47,117,35,18,138,7,1,9,39,1,3,45,1,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Joop Westerweelschool Balboaplein 44,0363::SB465,,1921,537,2,2,24,80,19,134,42,6,117,4,0,1,27,3,2,76,1,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School De Meidoorn ingang hek v Kinsbergenstr,0363::SB466,,1892,658,1,1,16,112,44,192,56,5,117,5,3,5,35,5,8,53,0,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Rosa Boekdrukkerschool Vancouverstr 3-5 ing 3,0363::SB469,,2017,609,3,2,21,78,35,178,50,6,115,7,3,0,22,1,3,84,2,1,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Rosa Boekdrukkerschool Vancouverstr 3-5 ing 3,0363::SB471,,2024,512,6,1,18,79,26,137,47,8,97,3,1,0,41,2,1,48,2,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau School De Roos, Jan van Galenstraat 105",0363::SB473,,1968,762,4,7,32,88,58,159,51,17,229,8,1,4,34,2,4,72,2,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau School De Roos, Jan van Galenstraat 105",0363::SB474,,2170,922,4,3,38,113,97,198,62,12,260,7,0,2,31,1,3,89,5,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Buurthuis De Tulp, Postjeskade 200",0363::SB477,,1511,558,2,0,30,72,61,119,35,6,142,9,0,1,41,1,3,38,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Stadsdeelkantoor, Baarsjesweg 224",0363::SB479,,1203,546,1,2,20,62,34,139,59,10,150,5,0,1,32,1,3,23,1,2,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dr.J.Th.de Visserschool,ingang Magalhaensstr.",0363::SB480,,2082,586,3,1,10,94,27,148,54,14,110,5,0,6,31,5,2,74,2,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau St. Augustinusschool, ingang Orteliusstraat 17",0363::SB482,,1362,503,2,3,14,75,38,113,27,7,126,4,0,3,36,1,2,53,1,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Huizingaschool-Jacob Geelstraat 54 - gymgebouw,0363::SB491,,1821,413,4,1,29,64,14,51,52,5,51,0,2,4,22,0,0,119,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Zorgcentrum De Schutse - Comeniusstraat 20,0363::SB493,,1523,640,1,0,79,97,80,97,41,10,104,5,2,1,32,0,5,85,1,1,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Stadsdeelkantoor - Pieter Calandlaan 1,0363::SB496,,1777,602,0,3,44,90,66,71,51,14,95,3,0,2,30,3,0,127,0,0,6
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Stadsdeelkantoor - Pieter Calandlaan 1,0363::SB497,,1248,583,1,2,44,98,66,77,43,11,110,4,0,4,24,2,7,88,3,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau De Drie Hoven - Louis Bouwmeesterstraat 377,0363::SB499,,2051,648,2,2,45,116,44,77,62,9,86,4,0,2,37,4,3,158,0,1,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School-Hechtelstr.49 zij-ingang in Zonhovenstr,0363::SB501,,2414,618,2,2,47,84,63,74,52,4,93,4,1,3,30,3,2,153,0,0,5
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School-Hechtelstr.49 zij-ingang in Zonhovenstr,0363::SB502,,1259,609,0,4,37,98,49,85,57,6,96,2,0,0,30,2,1,142,1,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Buurtontm. Orion 2000 - Jan Tooropstraat 130,0363::SB504,,3024,643,1,2,49,159,46,89,57,9,132,8,0,3,20,4,0,63,2,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Verpleeghuis Slotervaart - Louwesweg 10,0363::SB505,,1184,468,1,0,22,89,65,49,28,1,80,4,0,4,28,0,2,93,3,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Stichting Eigenwijks - Jan Tooropstraat 6,0363::SB507,,1072,347,1,4,28,70,22,63,33,5,62,1,2,3,10,1,0,46,1,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Bejaardenteh De Riekerhof-Johan Jongkindstr. 3,0363::SB509,,2029,580,2,1,54,108,59,73,39,8,103,7,2,11,19,4,2,84,2,1,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Buurtontm.ruimte Delflandpl - Voorburgstr 262,0363::SB510,,1699,266,0,4,16,42,29,43,18,5,48,1,0,3,12,3,0,45,0,1,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Buurtontm.ruimte Delflandpl - Voorburgstr 262,0363::SB511,,723,441,2,0,31,75,38,76,33,1,76,6,2,0,13,1,4,85,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Basisschool de Mijlpaal - Westmallepad 11 A,0363::SB513,,2649,911,5,0,46,155,79,137,81,10,163,6,0,4,42,3,5,175,3,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Noodschool Anderlechtlaan - Anderlechtlaan 7,0363::SB515,,2406,1011,0,4,63,114,99,181,72,8,201,0,1,10,43,7,2,203,4,1,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Dienstencentrum Oostoever-Bonnefantenstraat 10,0363::SB517,,1871,823,1,5,56,149,76,120,68,10,133,8,0,8,29,6,4,148,1,0,7
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dependance Einsteinschool, Wilh. Druckerstr. 3",0363::SB518,,1397,305,2,2,20,71,16,26,42,11,27,1,0,2,19,1,1,67,0,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School Al Wafa - Harry Koningsbergerstraat 30,0363::SB531,,1363,347,0,6,20,70,14,55,37,7,57,1,0,2,16,0,4,60,2,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau OBS Slootermeer - Burgemeester Fockstraat 85,0363::SB533,,2051,515,0,1,38,95,39,62,57,14,41,2,1,0,33,5,3,123,2,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Veerkracht basisschool - Slotermeerlaan 160,0363::SB535,,2164,445,0,8,31,76,34,50,44,18,38,4,0,5,21,4,2,118,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Zorgcentrum Nw Geuzenveld-Cor Outshoornstr.126,0363::SB537,,2633,722,1,2,62,138,58,48,51,9,48,2,3,1,57,2,5,238,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Stadsdeelkantoor - Plein '40-'45 nr. 1,0363::SB539,,1004,461,1,1,27,96,41,66,35,10,50,4,0,0,20,3,1,103,4,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Burg. de Vlugtschool - Jan de Louterstraat 11,0363::SB541,,1872,379,1,2,30,79,23,39,41,11,37,3,0,3,26,3,0,82,0,2,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Timotheusschool-Lodewijk v. Deysselstraat 110,0363::SB543,,2446,385,2,3,30,107,10,46,33,9,49,1,2,2,20,1,2,71,0,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau A.H. Gerhardhuis - Slotermeerlaan 1,0363::SB544,,1234,475,3,3,37,85,30,77,43,6,61,4,1,0,29,1,0,101,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School De Wissel - H. Poortstraat 17,0363::SB547,,1847,492,0,3,27,63,57,43,47,18,86,4,0,0,33,5,0,105,0,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau de Ontmoeting - Louis Couperusstraat 133,0363::SB548,,1812,479,3,4,39,109,13,49,41,15,53,1,1,8,22,3,1,119,1,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Verpleeghuis Jan Bonga - Jan Bongastraat 5,0363::SB550,,1144,196,0,5,15,39,14,24,13,4,36,0,2,0,12,1,1,33,0,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Het Pluspunt - Alberdakade 7,0363::SB551,,1030,288,0,0,23,58,21,36,33,14,51,1,2,3,9,0,0,34,3,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Goeman Borgesiusschool - Aalbersestraat 35,0363::SB553,,2080,564,1,1,35,108,26,59,52,7,44,3,3,13,29,5,2,176,0,1,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau PJ Troelstraschool-ing. Savornin Lohmanstraat,0363::SB554,,1474,372,1,3,15,85,19,44,30,4,34,2,0,5,26,5,1,102,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau PJ Troelstraschool-ing. Savornin Lohmanstraat,0363::SB555,,1426,277,1,1,16,62,15,31,25,3,27,0,1,1,13,1,0,82,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Evean Twiskehuis-Watermanstraat 2,0363::SB601,,1062,359,0,2,27,65,34,22,50,2,18,1,0,0,28,0,3,106,0,2,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Buurtcentrum De Evenaar-Kometensingel 189,0363::SB602,,1065,231,1,0,17,34,11,16,18,3,13,0,0,0,17,1,0,100,0,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Bethelkerk-Plejadenplein 44,0363::SB603,,1102,308,1,0,29,37,17,41,22,6,18,1,0,2,24,4,0,106,0,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau 't Zonnehuis-Zonneplein 30 A achteringang,0363::SB604,,2432,646,1,3,32,85,27,68,87,6,48,2,1,0,42,5,1,241,1,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Stichting Solid Asd Noord,  Aldebaranplein 4 A",0363::SB606,,1147,321,0,1,17,58,13,50,33,0,21,1,0,1,18,2,2,98,4,2,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Cordaan De Werf, gebouw het Anker-Klinkerweg 73",0363::SB607,,3074,753,1,0,36,105,33,89,93,3,66,7,1,2,39,3,2,269,3,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Evean Kadoeler Breek-Banne Buikslootlaan 397,0363::SB609,,960,217,0,3,14,33,15,20,16,3,8,0,1,3,21,0,1,81,0,1,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau OBS De Vier Windstreken-Parlevinker 11,0363::SB610,,1844,505,0,3,25,101,25,46,65,9,41,3,1,2,21,4,0,159,1,2,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau BS De Botteloef-Overslag 1 ingang bovenbouw,0363::SB612,,2307,523,2,1,26,92,21,31,91,11,33,3,0,5,27,2,1,175,0,0,5
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Buurtcentrum Twiske-Nathan F. Israëlweg 3,0363::SB614,,2390,714,4,3,27,112,47,97,73,17,65,2,0,3,31,4,3,230,1,1,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Twiskeschool - Pandorinastraat 7A,0363::SB616,,1047,561,0,2,28,73,47,104,56,9,64,5,0,0,28,2,4,138,3,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau OBS De Krijtmolen-Molenwijk 8,0363::SB617,,2537,677,1,3,43,123,55,69,67,9,74,2,2,0,31,9,3,186,4,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Bibliotheek Molenwijk-Molenwijk 21,0363::SB619,,1096,524,3,1,58,73,26,67,55,11,31,2,1,0,45,1,0,153,0,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Cordaan de Die-Loenermark 900,0363::SB625,,1199,439,1,2,32,83,26,42,50,0,39,0,0,3,17,2,0,141,2,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Buurtcentrum De Driehoek - Waddenweg 116,0363::SB626,,1084,342,0,3,12,33,18,49,36,3,35,5,1,0,15,1,1,124,1,1,7
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Speeltuin de Noordeling - Hoekschewaardweg 98,0363::SB627,,1090,418,0,1,8,64,24,102,41,4,61,4,0,1,11,2,3,93,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau BS De Kinderboom-Adelaarsweg 113 ing speelpl,0363::SB628,,1280,323,1,1,10,48,13,84,38,3,43,0,1,2,22,1,4,54,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Buurtcentrum De Meeuw-Motorwal 300,0363::SB629,,2059,488,2,6,29,71,26,97,63,4,45,2,0,3,26,2,1,117,1,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Speeltuinver. Nieuwendammerham-Havikslaan 20,0363::SB631,,1308,226,0,3,8,41,4,47,39,6,21,2,1,0,12,4,0,41,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Jongerencentrum De Valk-IJplein 3,0363::SB632,,1225,357,4,2,16,69,28,68,45,6,38,3,1,2,19,3,1,58,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Bredero College-Buiksloterweg 85,0363::SB633,,1029,243,3,3,13,41,10,59,22,6,37,2,0,0,13,0,1,38,1,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau OBS de Klimop-gymzaal-Varenweg 4,0363::SB634,,1074,196,0,2,9,32,6,40,22,0,18,0,1,2,12,0,1,52,0,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Buurtcentrum Ons Huis-Papaverhoek 1,0363::SB635,,2102,469,2,4,8,53,12,99,60,6,47,1,2,2,43,9,4,120,1,1,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau SV Bloemenkwartier-Wingerdweg 260,0363::SB637,,845,159,1,2,3,31,1,16,15,1,10,4,0,0,10,3,0,63,1,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau OBS De Klimop-Azaleastraat 21,0363::SB638,,723,218,0,1,6,42,4,21,30,1,11,2,1,1,16,3,1,78,0,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Huize Sint Antonius-Kamperfoelieweg 207,0363::SB639,,1167,306,1,3,18,45,14,43,18,3,31,0,0,0,19,2,1,112,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Evean Eduard Douwes Dekker-Schoenerstraat 11,0363::SB640,,1187,406,1,5,21,73,25,54,55,8,42,1,1,0,25,2,2,95,1,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau OBS Dorus Rijkers-ingang Koopvaardersplantsoen,0363::SB641,,1575,392,1,1,23,80,22,72,30,6,53,2,1,5,14,0,1,82,0,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau De Ark-Aakstraat 60,0363::SB643,,664,188,2,0,20,36,7,16,16,2,15,0,1,0,3,1,1,70,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Kosterij-Brede Kerkepad 6-8 ingang via hek,0363::SB650,,1196,511,0,1,21,68,21,81,45,4,63,4,2,0,31,0,4,162,0,0,5
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Speeltuinver-Monnikendammerplantsoen 12 A,0363::SB651,,1261,505,0,3,25,74,38,110,49,3,52,1,2,1,39,5,5,100,1,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Speeltuinver-Monnikendammerplantsoen 12 A,0363::SB652,,1185,442,0,2,17,75,15,91,48,2,47,0,0,2,29,2,0,111,1,1,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Mgr. Bekkersschool, Beemsterstraat 526",0363::SB653,,2168,511,0,0,50,128,32,68,44,5,51,3,2,5,12,2,0,107,0,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Buurtcentrum 't Zwanenmeer-Beemsterstraat 491,0363::SB655,,2237,539,0,8,37,95,19,54,50,7,50,6,0,6,37,0,0,177,0,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Evean De Kimme-ingang IJdoornlaan 599,0363::SB657,,899,384,0,2,53,77,42,28,34,5,38,1,0,0,19,2,1,83,1,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Weerenkapel-Het Breed 2,0363::SB658,,2216,719,3,9,36,152,61,93,75,12,107,2,3,3,42,7,3,121,1,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Seniorenflat De Wasknijper-G.J. Scheurleerweg 15,0363::SB660,,808,350,2,0,29,74,29,55,27,5,39,1,2,6,14,3,0,63,0,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau JAN cafe nst Cleyntheater-H.Cleyndertweg 63 C,0363::SB661,,1248,363,5,4,25,54,31,58,24,8,65,6,0,1,25,2,0,61,0,2,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Evean Korthagenhuis-Amerbos 590,0363::SB662,,1130,469,0,0,66,94,31,47,28,4,57,3,1,1,22,4,1,109,0,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Nieuwland ICT centrum, J. Drijverweg 5",0363::SB663,,1160,395,1,0,43,77,32,47,26,6,44,0,1,2,21,1,1,94,0,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Woon- Zorgcentr. Het Schouw-Th.Weeversweg 137,0363::SB664,,988,362,0,2,44,89,21,25,34,9,25,2,0,1,18,2,1,89,2,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau BS De Berkelier-ingang Ganzenveldstraat 2,0363::SB665,,977,291,0,0,32,38,19,25,22,4,33,4,0,0,18,0,3,92,0,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Parnassiaschool-Markengouw 428,0363::SB666,,1692,334,0,2,56,77,34,26,33,5,31,0,0,4,8,1,1,55,2,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dorpshuis ""De Beke"" - Dorpsweg Ransdorp 29",0363::SB668,,812,409,0,0,63,38,50,85,24,3,76,1,3,0,21,0,1,42,1,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau V&D - Buikslotermeerplein 123,0363::SB669,,0,130,3,0,7,25,8,22,10,0,24,1,1,1,9,0,0,19,1,2,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Stadsdeelkantoor - Anton de Komplein 150,0363::SB701,,2610,567,0,5,34,165,38,105,58,11,51,3,0,10,28,4,0,56,2,1,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Cultureel Centrum Kwakoe - Frissenstein 78,0363::SB703,,2802,412,0,5,25,111,32,83,42,13,41,3,1,6,14,0,3,31,2,1,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Verpleeghuis Gaasperdam - Soestdijkstraat 4,0363::SB704,,2358,498,1,2,31,101,28,78,58,15,43,3,2,3,35,2,0,92,1,0,6
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Wooncentrum De Venser-Berthold Brechtstraat 1,0363::SB706,,2980,474,3,4,36,125,28,67,54,4,42,4,1,8,27,4,1,70,1,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Wooncentrum De Drecht - Niftrikhof 1,0363::SB708,,2630,482,1,3,35,137,20,58,48,9,25,5,1,11,31,3,1,94,0,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Verzorgingshuis Eben Haëzer - Wisseloord 219,0363::SB710,,2204,548,0,5,46,101,28,99,49,22,50,3,3,14,57,0,4,68,2,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School De Rozemarn - Huntum 16,0363::SB712,,2127,334,0,2,27,87,18,62,23,8,49,3,1,3,13,0,0,36,0,1,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School De Tamboerijn - Reigersbos 301,0363::SB716,,2225,638,3,2,40,132,30,116,58,15,50,4,0,5,59,6,0,116,2,0,5
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School De Tamboerijn - Reigersbos 301,0363::SB717,,2206,479,0,3,34,116,24,81,45,8,53,1,3,5,20,2,1,83,1,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School De Brink-Mijehof 302-ingang speelplaats,0363::SB719,,2332,839,2,1,50,166,46,147,81,21,112,2,0,17,41,3,4,143,2,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Holendrechtschool - Holendrechtplein 39,0363::SB721,,1414,214,0,0,11,52,6,26,30,2,24,2,1,2,13,1,1,41,1,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School Het Gein - Cornelis Aarnoutsstraat 80,0363::SB722,,2692,1040,4,2,42,153,98,209,104,22,141,5,2,3,58,11,4,179,0,0,9
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School De Schakel - Alexander Dumaslaan 9,0363::SB724,,3093,383,2,4,34,100,15,46,45,14,37,6,2,7,17,4,0,51,3,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School De Regenboog - Woudrichemstraat 5,0363::SB726,,1890,373,2,1,20,73,26,36,41,9,41,3,0,2,34,1,3,82,1,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Serviceflat Koornhorst - Koornhorst 32,0363::SB728,,2096,556,0,12,34,135,30,64,57,12,52,0,3,10,34,4,0,117,2,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School De Regenboog - Woudrichemstraat 5,0363::SB729,,1747,349,2,3,16,73,16,54,45,5,34,2,2,2,23,2,1,70,1,0,3
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Cultureel Educatief Centrum-Bijlmerdreef 1289,0363::SB731,,2990,514,2,7,40,130,25,107,53,19,47,1,0,4,25,3,2,54,0,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Buurtcentrum De Bonte Kraai - Kraaiennest 68,0363::SB732,,2105,296,4,5,28,94,12,42,28,11,21,3,0,14,7,1,1,31,1,0,2
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Serviceflat Garstkamp - Garstkamp 32,0363::SB733,,2481,1052,3,4,56,161,103,170,77,11,185,9,1,4,52,9,0,202,4,1,7
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Henriëtte Roland Holsthuis - Kortvoort 100,0363::SB735,,3011,578,2,4,40,127,19,88,66,18,51,2,2,9,40,2,3,107,0,0,4
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Woon- en zorgcentrum Nellestein-Lopikhof 1,0363::SB737,,2202,873,0,7,73,142,76,128,98,14,116,15,3,1,57,7,14,125,3,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Cornelis Jetsesschool-Jaargetijden 6-Driemond,0363::SB738,,1190,460,0,1,45,53,57,50,23,5,70,0,3,1,24,9,1,118,0,0,1
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Open Scholengemeenschap Bijlmer-Gulden Kruis 5,0363::SB740,,2226,317,1,2,17,69,19,71,31,9,38,4,0,5,16,1,1,35,1,0,0
+,Amsterdam,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau OBS Bijlmerhorst - EGoli 12,0363::SB742,,2026,224,0,1,22,45,16,42,25,7,32,2,1,5,4,0,1,20,1,0,1

@@ -1,0 +1,77 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_kwijtgeraakte stembiljetten,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,CDA - Europese Volkspartij,PVV (Partij voor de Vrijheid),P.v.d.A./Europese Sociaaldemocraten,VVD,Democraten 66 (D66) - ALDE,GROENLINKS,SP (Socialistische Partij),ChristenUnie-SGP,Artikel50,"IQ, de Rechten-Plichten-Partij",Piratenpartij,50PLUS,De Groenen,Anti  EU(ro)  Partij,Liberaal Democratische Partij,JEZUS LEEFT,ikkiesvooreerlijk.eu,Partij voor de Dieren,Aandacht en Eenvoud
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Stadhuis Arnhem,0202::SB1,,1788,889,1,3,0,0,3,819,71,0,0,0,0,0,0,893,65,49,92,94,217,128,86,26,5,0,31,16,3,3,1,0,2,71,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Huis der Provincie,0202::SB2,,1331,363,2,0,0,0,0,339,26,0,0,0,0,0,0,365,21,34,47,42,85,44,42,6,1,0,5,8,0,0,0,0,3,25,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Introdans (hoofdgebouw),0202::SB3,,1157,322,1,1,0,0,0,309,15,0,0,0,0,0,0,324,16,23,39,42,59,46,41,6,4,0,12,4,0,1,0,2,1,26,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Buurtcentrum 't Huukske,0202::SB4,,1205,554,3,1,0,0,0,493,65,0,0,0,0,0,0,558,26,33,58,56,126,96,82,11,1,0,9,6,3,0,0,0,0,47,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Woonzorgcentrum Huis en Haard,0202::SB5,,883,408,1,1,0,0,0,371,39,0,0,0,0,0,0,410,34,21,56,39,112,54,26,8,2,1,9,9,1,1,1,0,2,32,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Kerkelijk Kultureel Centrum,0202::SB6,,1109,493,0,0,0,0,0,443,50,0,0,0,0,0,0,493,27,28,65,40,100,90,76,21,0,0,4,12,1,1,0,0,2,25,1
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau ROC Rijn IJssel College,0202::SB7,,1480,542,1,0,0,0,0,488,55,0,0,0,0,0,0,543,16,21,58,45,129,130,69,13,4,2,6,6,1,1,0,0,1,39,1
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Bezoekerscentrum Sonsbeek,0202::SB8,,1743,759,4,2,0,0,0,677,88,0,0,0,0,0,0,765,25,24,102,89,238,141,46,16,1,0,7,7,9,2,0,0,1,51,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Wijkcentrum De Bakermat,0202::SB9,,1658,950,1,6,0,0,1,830,126,0,0,0,0,0,0,957,64,44,96,170,309,117,53,23,3,0,5,26,4,1,0,0,2,33,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Pieter Brueghelschool,0202::SB11,,1120,777,1,0,0,0,0,677,101,0,0,0,0,0,0,778,58,16,78,157,297,69,24,23,3,0,1,11,3,1,0,0,1,34,1
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Basisschool Het Palet,0202::SB12,,1229,805,3,0,0,0,0,720,88,0,0,0,0,0,0,808,58,39,61,157,274,96,36,21,2,0,6,9,0,2,0,1,0,42,1
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Siza Dorp Groep,0202::SB13,,1427,593,0,0,0,0,4,511,78,0,0,0,0,0,0,593,98,41,35,143,118,52,34,16,2,0,3,13,2,0,0,0,5,31,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Emmausschool,0202::SB14,,1255,628,2,0,0,0,3,568,59,0,0,0,0,0,0,630,55,30,63,91,160,73,67,28,0,0,4,20,1,2,1,1,1,31,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Rode Kruisgebouw,0202::SB15,,1306,818,1,2,0,0,0,739,82,0,0,0,0,0,0,821,70,55,74,102,187,128,85,25,0,0,9,32,2,1,1,0,1,45,1
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau ROC Rijn IJssel (Vaksch Wageningen),0202::SB16,,1392,650,0,3,0,0,0,561,92,0,0,0,0,0,0,653,60,26,66,80,167,97,61,22,3,0,2,16,3,0,1,0,0,46,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Jan Ligthartschool (dependance),0202::SB17,,1795,677,6,4,0,0,0,626,61,0,0,0,0,0,0,687,24,23,74,44,183,144,72,18,4,0,18,10,3,1,1,2,1,55,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Jan Ligthartschool,0202::SB18,,2081,648,5,0,0,4,1,614,42,0,0,0,4,0,0,657,14,19,62,37,201,131,85,6,0,0,14,9,11,0,1,0,3,55,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau MFC Klarendal,0202::SB21,,1510,358,0,0,0,0,1,324,33,0,0,0,0,0,0,358,9,33,47,15,76,63,50,10,5,0,10,7,1,0,0,0,3,29,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Molen de Kroon,0202::SB22,,1704,457,4,0,0,0,4,430,27,0,0,0,0,0,0,461,19,70,53,12,73,83,63,10,3,0,16,2,6,4,0,0,0,42,1
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Jongerencentrum De Mix,0202::SB24,,1848,555,1,1,0,0,1,497,59,0,0,0,0,0,0,557,25,57,53,30,137,108,77,6,4,0,10,6,1,0,0,0,2,39,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau ROC Rijn IJssel (sector Educatie),0202::SB25,,1257,586,2,3,0,0,2,526,63,0,0,0,0,0,0,591,55,24,62,64,159,91,56,10,1,0,12,10,5,0,4,0,0,33,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Jozef Sartoschool,0202::SB26,,1358,511,1,1,0,1,3,470,41,0,0,0,1,0,0,514,31,44,42,49,123,102,61,5,2,0,10,4,2,2,1,0,0,33,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Woonzorgcentrum Drie Gasthuizen,0202::SB27,,1767,917,0,0,0,0,0,807,110,0,0,0,0,0,0,917,90,40,106,152,255,114,49,32,4,0,4,20,1,0,1,0,2,47,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Opstandingskerk (hoofdingang),0202::SB29,,1227,562,4,2,0,0,0,509,59,0,0,0,0,0,0,568,34,65,53,51,127,85,57,14,3,0,10,13,0,2,0,1,0,46,1
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Basisschool De Vlindertuin,0202::SB30,,1995,520,2,1,0,3,0,472,54,0,0,0,3,0,0,526,29,108,52,18,75,45,89,25,0,1,5,26,1,1,2,1,0,42,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau GSG Guido de Brès,0202::SB31,,983,133,0,2,0,0,0,120,15,0,0,0,0,0,0,135,5,36,8,7,20,10,20,6,1,0,0,5,0,0,0,2,0,13,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau MFC De Geitenkamp,0202::SB32,,1489,486,0,4,0,0,0,448,42,0,0,0,0,0,0,490,28,138,51,17,51,49,83,13,2,0,5,9,1,4,1,0,0,33,1
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Woonzorgcentrum De Paasberg,0202::SB34,,1628,819,1,1,0,1,2,723,97,0,0,0,1,0,0,822,78,57,101,101,216,105,63,20,0,0,8,21,2,0,1,0,0,45,1
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Woonzorgcentrum Vreedenhoff,0202::SB35,,1124,525,1,2,1,0,0,482,47,0,0,0,1,0,0,529,124,28,43,66,98,38,29,37,0,0,1,27,1,1,1,1,1,29,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau John F. Kennedyschool,0202::SB37,,1839,519,2,3,0,0,0,477,47,0,0,0,0,0,0,524,77,74,50,51,67,23,78,27,3,0,5,35,3,1,0,0,0,25,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Kantine AV & AC Eendracht,0202::SB38,,2157,545,3,4,1,0,0,506,47,0,0,0,1,0,0,553,52,64,75,52,95,29,95,21,1,0,3,24,4,0,0,0,0,30,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Kantine Han,0202::SB39,,487,299,0,1,0,0,3,267,30,0,0,0,0,0,0,300,54,28,20,56,53,20,34,10,5,0,4,7,0,0,0,0,0,8,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Dans- en Muziekschool El Ele,0202::SB42,,1551,199,0,3,0,0,1,188,13,0,0,0,0,0,0,202,22,57,16,8,31,13,34,7,1,0,1,5,0,0,0,1,0,3,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau MFC Presikhaven,0202::SB43,,2004,443,1,3,1,0,1,402,45,0,0,0,1,0,0,448,59,75,61,28,56,28,58,23,5,0,5,17,1,4,0,1,1,21,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau MFC Presikhaven,0202::SB45,,1060,342,0,0,0,0,0,312,30,0,0,0,0,0,0,342,46,55,37,24,48,21,58,20,0,0,7,9,0,0,0,1,3,13,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Woonzorgcentrum Waalstaete,0202::SB47,,1699,514,1,3,0,0,1,463,54,0,0,0,0,0,0,518,56,80,88,35,61,29,77,17,3,0,5,39,1,3,0,1,1,18,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Wijkcentrum Symfonie,0202::SB49,,1638,412,0,2,1,0,0,364,49,0,0,1,0,0,0,413,26,60,52,9,101,56,55,15,2,0,4,5,2,2,0,0,2,21,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Hugo de Grootschool,0202::SB50,,1255,328,1,0,0,0,0,295,34,0,0,0,0,0,0,329,21,31,44,17,68,43,47,11,1,0,10,10,2,1,0,0,2,20,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Basisschool De Sterrenkring,0202::SB51,,1770,491,1,1,0,0,1,450,42,0,0,0,0,0,0,493,24,26,51,46,122,99,41,3,4,0,18,4,1,0,1,1,0,50,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Evangelisch Lutherse Gemeente Arnhem,0202::SB52,,1222,349,3,0,1,0,0,330,21,0,0,1,0,0,0,351,14,36,35,21,80,52,43,11,5,1,13,2,0,1,1,1,0,33,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Wijkcentrum De Lommerd,0202::SB53,,2058,894,7,1,0,0,0,847,55,0,0,0,0,0,0,902,21,36,91,66,218,195,110,14,6,0,32,7,5,2,3,0,2,84,2
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Buurthuis De Paperclip,0202::SB55,,1819,330,4,3,0,0,0,309,28,0,0,0,0,0,0,337,22,33,43,16,53,49,44,0,13,0,8,4,4,1,0,1,6,33,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau MFC De Spil,0202::SB58,,1335,386,0,0,0,0,0,349,37,0,0,0,0,0,0,386,21,52,58,16,44,43,72,25,0,0,9,11,1,2,0,2,3,26,1
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Kantine v.v. MASV,0202::SB59,,1618,357,1,0,0,1,1,322,34,0,0,1,0,0,0,357,26,46,34,30,59,39,66,11,4,0,7,15,0,1,0,0,1,18,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau MFC De Malburcht,0202::SB60,,2333,513,1,0,0,0,0,470,44,0,0,0,0,0,0,514,33,112,62,18,63,44,100,25,5,1,9,5,2,2,0,2,2,28,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Woonzorgcentrum Eilandstaete,0202::SB62,,1890,427,1,1,0,0,1,377,51,0,0,0,0,0,0,429,41,69,44,40,73,7,68,24,27,0,2,12,0,0,0,1,2,17,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Boerderij 't Duifje,0202::SB63,,1258,325,1,3,0,1,0,288,42,0,0,0,1,0,0,330,33,72,32,22,34,17,65,4,1,0,0,15,0,4,0,2,1,23,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Basisschool Het Mozaïek,0202::SB64,,1112,173,0,4,0,0,0,149,28,0,0,0,0,0,0,177,10,24,38,5,15,13,49,5,0,0,0,1,1,2,0,2,0,8,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Basisschool Het Mozaïek,0202::SB65,,1794,283,1,1,0,0,1,249,35,0,0,0,0,0,0,285,29,92,39,10,21,14,49,5,0,0,1,6,0,2,0,4,0,11,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Woonzorgcentrum Malburgstaete,0202::SB67,,1940,492,1,0,0,0,0,440,53,0,0,0,0,0,0,493,66,100,63,17,48,24,75,25,2,0,11,30,4,1,0,3,1,21,1
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Basisschool De Piramide,0202::SB70,,1010,508,0,3,0,0,0,449,62,0,0,0,0,0,0,511,52,40,62,82,117,45,40,25,3,0,0,13,3,1,0,6,0,18,1
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Dr. Aletta Jacobsschool,0202::SB71,,1034,328,0,0,0,0,0,286,42,0,0,0,0,0,0,328,24,45,54,5,45,39,50,18,1,0,3,14,5,3,0,0,0,22,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau SWOA De Petersborg,0202::SB72,,1797,635,2,0,0,0,0,579,58,0,0,0,0,0,0,637,75,98,63,46,86,41,110,44,3,0,5,36,1,1,1,1,1,23,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Jongerencentrum De Madser,0202::SB74,,1321,459,3,1,0,2,1,413,47,0,0,2,0,0,0,461,31,92,47,19,55,29,96,20,3,0,6,27,2,0,4,0,0,28,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Jongerencentrum De Madser,0202::SB75,,1294,153,2,1,0,0,0,141,15,0,0,0,0,0,0,156,10,38,19,7,17,3,38,5,1,0,0,7,0,1,0,2,0,5,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Dorpshuis Ons Gebouw Elden,0202::SB76,,1688,563,4,0,0,0,0,518,49,0,0,0,0,0,0,567,112,65,48,78,99,35,59,17,1,0,3,18,1,1,0,1,0,25,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Sporthal Elderveld,0202::SB77,,1771,741,1,2,0,0,0,652,92,0,0,0,0,0,0,744,47,126,61,41,110,77,126,56,3,0,3,37,1,3,0,0,3,46,1
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Wijkcentrum Elderveld,0202::SB78,,2359,515,3,0,0,0,0,456,62,0,0,0,0,0,0,518,45,58,61,40,86,46,90,24,4,0,9,27,1,1,0,1,1,21,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Wooncentrum Jan Hovingflat,0202::SB80,,1670,514,1,2,0,0,0,466,51,0,0,0,0,0,0,517,49,86,56,32,52,20,95,43,2,0,2,47,1,0,1,0,0,28,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Kerkelijk Centrum De Kandelaar,0202::SB81,,1437,452,0,1,0,2,0,410,45,0,0,0,2,0,0,455,42,77,55,24,72,26,75,35,4,0,2,22,0,0,0,0,0,18,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Brede School De Laar-West,0202::SB83,,1702,382,3,1,0,0,0,344,42,0,0,0,0,0,0,386,26,52,42,30,72,28,69,26,4,1,1,6,0,1,0,2,0,22,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Brede School De Laar-West,0202::SB84,,1526,334,1,0,0,0,0,289,46,0,0,0,0,0,0,335,14,53,40,23,53,31,60,23,2,0,3,13,1,0,0,1,0,17,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Sport&Ontmoetingscentr De Laar-West,0202::SB85,,1454,551,1,1,0,0,0,497,56,0,0,0,0,0,0,553,30,95,68,42,83,29,98,30,4,0,5,28,1,3,0,1,0,32,2
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Brede School Het Startblok,0202::SB87,,1723,558,1,4,0,0,0,509,54,0,0,0,0,0,0,563,29,92,70,34,99,41,105,19,1,0,11,21,3,2,0,0,0,30,1
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Wijkcentrum Boerderij De Kroon,0202::SB88,,1575,476,0,0,0,0,0,430,46,0,0,0,0,0,0,476,21,60,46,32,84,53,75,38,2,1,4,19,0,2,1,0,3,35,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Brede School Het Startblok (Toermalijn),0202::SB89,,1512,330,0,0,0,0,0,302,28,0,0,0,0,0,0,330,21,40,46,36,49,32,50,13,4,1,1,17,0,0,0,1,2,17,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Gemeenschapsruimte Rijkershof,0202::SB90,,1999,455,1,1,0,0,1,415,41,0,0,0,0,0,0,457,23,85,58,53,71,24,66,21,0,0,4,22,4,1,0,0,0,23,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Sportcentrum Rijkerswoerd,0202::SB91,,1609,467,0,0,0,0,1,465,1,0,0,0,0,0,0,467,42,53,64,53,89,40,41,24,0,0,7,9,0,5,0,0,1,37,2
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Activiteitencentrum Rijkerswoerd (SiIZA),0202::SB92,,2144,286,0,1,0,0,0,241,46,0,0,0,0,0,0,287,18,34,38,36,68,21,23,15,2,0,7,9,0,1,0,0,1,13,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau SWOA 't Pluspunt,0202::SB93,,1991,979,2,1,0,0,0,851,131,0,0,0,0,0,0,982,84,170,93,114,187,73,119,41,10,0,0,37,1,1,1,1,0,47,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Lea Dasbergschool,0202::SB94,,1103,348,3,0,0,0,0,323,28,0,0,0,0,0,0,351,18,65,37,34,60,30,55,10,1,0,6,15,0,0,0,0,0,17,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Brede School De Salamander,0202::SB96,,1757,698,2,2,0,0,0,604,98,0,0,0,0,0,0,702,57,63,49,128,177,59,73,28,3,1,6,7,1,1,2,0,0,43,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Basisschool Het Jongleren,0202::SB97,,2171,644,1,0,0,1,0,552,94,0,0,0,1,0,0,646,35,65,75,108,169,43,57,35,13,0,7,8,0,3,2,0,0,23,1
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau De Buitenplaats (SIZA),0202::SB98,,1872,385,0,1,0,0,0,327,59,0,0,0,0,0,0,386,22,36,39,68,99,36,33,18,0,0,2,11,1,1,1,2,1,15,0
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,"Stembureau Station, ontvangsthal Arnhem CS",0202::SB105,,0,845,2,2,0,0,14,789,46,0,0,0,0,0,0,849,47,55,86,67,217,160,101,30,2,1,23,7,6,0,1,0,0,41,1
+,Arnhem,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Ziekenhuis Rijnstate (hal),0202::SB106,,0,217,0,0,0,0,3,185,29,0,0,0,0,0,0,217,19,20,30,26,51,18,21,5,0,0,5,6,1,1,1,0,0,13,0

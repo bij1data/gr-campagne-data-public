@@ -1,0 +1,37 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,VVD,Partij van de Arbeid (P.v.d.A.),PVV (Partij voor de Vrijheid),Christen Democratisch Appèl (CDA),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,ChristenUnie,Staatkundig Gereformeerde Partij (SGP),Partij voor de Dieren,Piratenpartij,Partij voor Mens en Spirit (MenS),Nederland Lokaal,Libertarische Partij (LP),Democratisch Politiek Keerpunt DPK,50PLUS,Liberaal Democratische Partij (LibDem),Anti Europa Partij,SOPN,Partij van de Toekomst (PvdT)
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Statenlogement,0405::SB11,,1592,1357,4,1,468,343,70,72,127,152,40,4,1,44,5,1,0,0,0,28,0,0,1,1
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Montessorischool,0405::SB12,,1811,1338,1,1,449,332,94,38,117,153,53,2,0,48,7,1,0,0,1,40,0,0,2,1
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Westerhaven,0405::SB13,,1491,1186,5,3,441,277,69,60,98,118,43,3,1,28,4,4,0,0,1,36,2,0,1,0
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau O.S.G. West-Friesland,0405::SB14,,1668,1230,2,3,353,334,123,49,111,106,42,12,7,34,9,3,0,3,1,39,0,0,4,0
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Jules Verneschool,0405::SB21,,1461,812,2,5,110,354,89,32,104,43,6,6,2,22,2,1,0,0,1,29,1,0,5,5
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum Grote Waal,0405::SB22,,1171,941,2,1,210,281,99,54,125,59,14,14,1,34,5,0,0,0,0,35,0,0,6,4
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Tennispark TV De Hulk,0405::SB23,,1514,954,2,5,165,300,154,23,148,56,22,12,1,35,6,2,1,0,0,24,0,0,3,2
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Zonnewijzer,0405::SB24,,1410,1040,1,0,246,308,127,41,118,105,29,6,0,31,4,0,0,0,0,21,0,0,4,0
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Lindendael,0405::SB31,,1211,1012,1,1,245,298,54,104,115,94,32,17,0,26,2,1,0,0,0,21,0,0,2,1
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Stormvogel,0405::SB32,,1216,917,1,1,295,242,53,74,79,78,25,3,0,20,1,1,1,2,0,40,0,1,2,0
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bernardus van Bockxmeer,0405::SB33,,1411,1048,2,5,234,333,109,68,132,69,20,11,2,23,1,0,0,1,0,42,0,0,0,3
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Stadhuis,0405::SB41,,1258,1263,0,4,307,346,118,83,136,97,29,9,5,24,5,6,1,2,1,84,1,1,7,1
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Windvaan loc. De Tweemaster,0405::SB42,,1193,961,2,0,268,267,107,63,87,60,29,8,2,29,3,6,0,0,1,28,0,0,2,1
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cultureel Centrum De Huesmolen,0405::SB43,,1031,1069,2,1,285,285,103,51,156,71,19,7,0,36,6,2,0,1,4,40,0,0,2,1
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Avondlicht,0405::SB44,,1902,1318,1,3,315,411,77,105,149,104,33,27,3,34,5,1,0,1,2,49,0,0,1,1
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Troubadour,0405::SB45,,1281,865,0,3,154,289,98,24,114,71,17,17,7,26,3,4,1,2,1,33,0,0,2,2
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Rank,0405::SB51,,1497,1172,4,4,196,393,158,41,156,78,30,24,9,36,7,4,1,0,0,34,0,0,3,2
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau KlimOp,0405::SB52,,1588,829,1,2,169,245,123,32,106,52,19,10,2,29,6,2,0,0,0,29,0,1,4,0
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Rayonpost 2,0405::SB53,,1500,1035,2,0,266,290,110,69,105,69,19,23,1,29,10,8,1,0,1,27,0,0,2,5
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ma Awitya,0405::SB54,,1333,940,0,2,159,279,183,27,133,53,17,14,0,34,5,3,1,0,0,27,1,0,3,1
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cultureel Centrum De Plataan,0405::SB61,,1352,1182,4,1,404,273,94,122,99,92,22,9,2,25,5,2,0,0,1,26,0,0,4,2
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Perelaar,0405::SB62,,1494,1079,1,4,324,246,99,146,81,77,20,12,2,19,3,2,0,0,1,41,0,0,5,1
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Openbare Basisschool Socrates,0405::SB63,,1989,1468,4,3,648,334,120,62,108,97,18,17,5,29,11,2,0,2,1,12,1,0,0,1
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau St. Jozefpark,0405::SB71,,1328,1067,5,5,347,193,83,160,61,84,19,8,6,20,6,4,1,0,1,66,0,0,7,1
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Bussel,0405::SB72,,1746,1405,3,2,425,352,110,94,114,140,29,10,0,46,4,4,0,1,2,71,0,0,3,0
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wooncentr. Kersenboogerd,0405::SB81,,1459,1076,3,4,169,347,135,48,172,56,27,26,6,28,7,0,0,0,1,47,0,0,4,3
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gemeenschapsruimte,0405::SB82,,1404,756,2,2,143,233,110,22,99,42,22,12,4,27,2,3,0,0,2,30,1,0,3,1
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Parcival,0405::SB83,,1559,982,4,7,173,311,118,37,154,56,19,13,0,46,6,3,1,0,2,28,1,0,14,0
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Duiventil,0405::SB84,,1439,1019,2,3,241,276,122,54,126,71,21,29,4,27,8,2,0,0,0,35,1,0,2,0
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Klipper loc. Dubloen,0405::SB85,,1326,936,0,3,302,235,99,42,96,70,16,13,1,23,5,3,0,0,0,27,0,0,2,2
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Tandem,0405::SB86,,1367,1008,1,2,344,291,97,43,83,85,18,5,0,20,2,2,0,1,1,14,1,0,1,0
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Klipper loc. Hanebalk,0405::SB87,,1484,1172,2,3,365,350,133,43,100,73,27,18,1,25,6,4,0,0,0,22,1,0,2,2
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dynamis,0405::SB88,,1368,1211,0,1,400,319,107,60,112,97,21,21,7,15,2,1,0,0,2,43,0,1,1,2
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Spectrum,0405::SB89,,1878,1326,2,3,529,334,97,55,98,111,29,19,1,14,2,4,0,4,3,21,0,1,3,1
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Spectrum,0405::SB90,,1559,1205,1,1,530,283,93,41,79,83,26,13,3,19,4,2,0,1,1,23,0,0,2,2
+Den Helder,Hoorn,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gemeenschapsruimte,0405::SB91,,1157,905,3,1,302,243,70,67,59,96,15,2,4,12,0,0,0,0,0,31,1,0,3,0

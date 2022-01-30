@@ -1,0 +1,459 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,VVD,Partij van de Arbeid (P.v.d.A.),PVV (Partij voor de Vrijheid),Christen Democratisch Appèl (CDA),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,ChristenUnie,Staatkundig Gereformeerde Partij (SGP),Partij voor de Dieren,Piratenpartij,Partij voor Mens en Spirit (MenS),Nederland Lokaal,Libertarische Partij (LP),Democratisch Politiek Keerpunt DPK,50PLUS,Liberaal Democratische Partij (LibDem),Anti Europa Partij,SOPN,Partij van de Toekomst (PvdT),Politieke Partij NXD
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadhuis,0363::SB1,,600,1148,0,6,194,394,33,14,123,230,79,4,2,36,6,0,14,4,0,11,1,0,3,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadhuis,0363::SB2,,691,1121,2,2,156,407,43,8,116,233,102,0,1,40,6,0,0,0,0,6,0,1,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Universiteitsbibliotheek Amsterdam,0363::SB3,,1074,1404,2,3,378,366,13,22,78,350,107,7,3,61,5,2,0,4,0,3,1,0,4,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Leger des Heils,0363::SB4,,1235,874,4,1,195,247,29,10,65,203,54,25,5,28,5,0,0,0,0,7,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Witte Olifant,0363::SB6,,1287,1275,2,6,182,443,34,11,126,266,133,3,2,45,7,6,0,0,0,16,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gymlokaal,0363::SB8,,1103,866,1,1,113,300,30,12,94,175,92,2,0,30,8,0,0,1,0,8,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gymlokaal,0363::SB9,,1064,712,1,3,108,248,9,5,84,130,78,2,0,34,3,0,0,1,0,4,2,0,1,0,3
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Burghtschool,0363::SB10,,839,735,2,0,222,193,11,8,29,198,38,2,0,22,0,3,0,1,0,7,1,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Burghtschool,0363::SB11,,787,684,0,2,197,187,13,11,46,165,32,3,0,23,3,2,0,0,0,2,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Theo Thijssenschool,0363::SB12,,1186,1089,4,3,149,405,29,12,128,182,83,4,1,62,12,11,0,0,0,10,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Korfbalvereniging Swift,0363::SB14,,1176,858,1,4,162,289,30,8,73,177,73,1,3,31,4,1,0,1,0,4,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dependance Theo Thijssen,0363::SB15,,1296,922,1,1,165,274,63,3,83,203,58,1,0,49,5,3,0,1,0,9,2,0,2,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School St Aloysius,0363::SB17,,1283,1075,1,1,222,328,70,14,89,217,63,6,0,41,8,1,0,1,0,10,2,0,3,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Parelschool,0363::SB19,,761,939,3,3,98,390,59,2,103,165,74,3,1,28,1,2,0,0,1,7,0,0,4,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Parelschool,0363::SB20,,741,879,2,0,102,333,30,10,112,150,73,8,1,35,7,3,2,4,0,5,0,2,1,0,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Balie,0363::SB21,,857,808,3,2,252,212,13,9,45,186,58,3,0,19,3,2,0,0,0,4,0,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Balie,0363::SB22,,864,803,1,2,215,214,18,7,51,193,50,3,0,39,6,1,0,0,0,6,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Claverhuis,0363::SB23,,1231,1009,2,0,276,296,23,23,72,206,58,1,0,33,3,1,0,1,0,12,0,0,4,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Claverhuis,0363::SB24,,1264,1075,5,5,307,277,44,17,63,232,74,6,0,34,11,0,0,2,0,6,0,0,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 14e Montessorischool De Jordaan,0363::SB25,,720,672,0,3,114,230,20,3,59,144,54,2,1,33,6,1,0,1,0,3,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kerk De Duif,0363::SB26,,1239,1151,0,2,371,257,26,18,67,303,63,4,0,30,3,0,1,2,0,5,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kerk De Duif,0363::SB27,,1171,1129,1,0,334,274,12,18,50,311,76,2,0,38,3,2,0,1,0,8,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Posthoornkerk,0363::SB29,,1069,1045,2,4,168,329,36,20,82,265,76,3,0,43,5,1,0,0,0,14,0,0,2,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Posthoornkerk,0363::SB30,,1079,1071,0,2,211,356,34,8,94,207,87,3,0,54,4,1,0,1,0,5,0,0,5,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Eilanden,0363::SB32,,1254,932,3,5,126,346,28,6,99,172,91,4,0,40,5,5,0,0,0,10,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Eilanden,0363::SB33,,1075,830,1,3,131,314,30,5,96,141,68,2,0,30,5,3,0,0,0,3,1,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum Sint Jacob,0363::SB34,,799,692,1,2,112,241,21,22,82,127,48,3,0,21,4,0,0,0,0,10,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum Sint Jacob,0363::SB35,,769,617,2,2,93,230,13,18,68,104,43,5,1,29,4,0,0,1,0,8,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau ASVO school,0363::SB36,,791,726,0,0,218,205,12,10,36,169,47,2,0,21,2,1,0,2,0,1,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau ASVO school,0363::SB37,,788,768,0,1,230,216,12,15,23,205,42,2,1,13,5,0,0,1,0,3,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dr. Sarphatihuis,0363::SB38,,923,908,2,2,152,309,27,17,66,210,76,3,0,34,5,1,0,0,0,3,2,0,2,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dr. Sarphatihuis,0363::SB39,,1140,1140,0,0,209,359,35,15,85,260,99,9,0,39,12,0,0,0,0,10,4,1,3,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau NH Caransa Hotel,0363::SB42,,755,548,1,4,191,139,15,5,18,128,27,1,0,15,2,1,0,1,0,2,0,0,2,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Witte Boei,0363::SB43,,1282,483,2,3,39,200,37,1,87,48,29,4,0,21,3,3,0,1,0,8,0,0,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Witte Boei,0363::SB44,,1197,473,5,0,48,187,25,5,88,61,29,1,0,21,0,0,0,0,0,7,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Pool,0363::SB45,,1397,648,3,3,57,279,42,5,83,87,59,1,0,28,0,1,0,0,0,5,1,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Pool,0363::SB46,,1286,783,1,7,84,299,49,11,109,87,84,18,0,24,4,1,0,0,0,12,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Diaconie Protestantse Gemeente,0363::SB48,,1272,916,2,1,140,287,22,16,100,211,81,11,1,30,8,2,0,2,0,4,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verpleeghuis Wittenberg,0363::SB49,,777,704,0,1,130,268,19,11,44,146,48,4,1,24,4,0,0,0,0,5,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woon- en Zorgcentrum De Rietvinck,0363::SB50,,1237,935,1,6,120,331,69,12,127,136,60,4,0,49,9,2,0,0,0,15,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau COC Amsterdam,0363::SB51,,1219,882,4,3,191,262,24,8,97,194,62,3,3,26,3,1,0,1,0,4,0,0,2,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau COC Amsterdam,0363::SB52,,1270,900,1,1,186,270,21,11,88,194,61,4,0,41,11,2,0,0,1,7,1,0,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Vlaams Cultuurhuis De Brakke Grond,0363::SB55,,1225,837,1,1,201,238,15,6,48,202,72,10,1,32,7,2,0,0,0,1,1,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sportcentrum Het Marnix,0363::SB56,,1328,998,2,4,172,311,62,5,112,175,65,7,2,42,8,7,0,1,1,20,1,0,5,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Centraal Station,0363::SB57,,0,1891,6,27,342,604,34,26,192,401,165,18,2,71,19,3,1,0,1,8,0,0,2,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Centraal Station,0363::SB58,,605,1861,11,2,328,607,32,27,151,447,161,12,1,66,11,4,0,1,0,11,0,1,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau V&D,0363::SB59,,0,222,2,0,33,78,10,4,16,38,30,2,0,8,0,0,0,1,0,2,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Melkweg Galerie,0363::SB60,,1063,921,3,6,277,251,14,13,52,206,55,5,1,28,10,2,0,1,0,3,1,1,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Westerkerk,0363::SB61,,1009,957,2,1,270,257,25,8,60,226,57,2,1,34,4,0,0,1,0,8,0,0,2,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Noorderkerk,0363::SB62,,1295,1223,4,2,313,355,39,18,64,289,73,5,4,41,6,0,1,1,0,11,1,0,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau NH Grand Hotel Krasnapolsky,0363::SB63,,1136,1192,4,5,309,321,29,9,80,302,69,9,0,41,17,0,0,3,0,2,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Westerkerk,0363::SB64,,1163,954,3,1,261,275,18,14,52,218,65,3,0,35,3,1,0,0,0,7,0,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadsarchief - gebouw De Bazel,0363::SB65,,813,950,3,1,336,202,8,12,42,244,64,6,0,24,4,2,0,0,0,4,0,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Perron,0363::SB67,,1303,965,0,1,166,314,29,9,98,197,85,1,2,50,3,3,0,0,0,6,0,1,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Korfbalvereniging Swift,0363::SB68,,1406,894,4,2,175,325,15,10,76,198,62,2,2,23,2,0,0,0,0,4,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cordares Diensten B.V.,0363::SB71,,309,221,0,0,37,73,18,3,26,26,19,0,0,14,2,0,0,0,0,0,0,0,2,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Station Sloterdijk - Starbucks,0363::SB72,,0,1201,3,1,238,366,36,18,96,288,72,12,6,43,14,3,0,0,0,7,0,0,0,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool De Kleine Reus,0363::SB73,,1211,1014,4,0,300,252,12,15,51,275,59,5,0,38,1,0,0,0,0,5,1,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Flesseman Centrum van Ouderen,0363::SB74,,1262,1157,6,7,174,397,44,9,133,208,88,3,2,68,5,2,0,1,1,20,0,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kamer van Koophandel Amsterdam,0363::SB76,,1302,855,1,0,231,268,33,4,56,170,45,6,0,22,4,2,0,0,0,12,1,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Rosa en Rita,0363::SB78,,1408,1120,1,3,192,390,29,9,112,230,97,4,1,27,6,7,0,3,1,6,3,0,1,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Noorderspeeltuin,0363::SB80,,1313,925,3,1,190,301,62,9,85,139,61,4,2,49,3,5,0,2,2,11,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool Insulinde,0363::SB81,,1332,755,7,13,74,357,24,17,76,108,68,4,0,13,2,4,0,1,0,6,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kindervreugd,0363::SB82,,1141,467,0,2,58,154,49,13,65,52,38,5,1,17,4,0,0,0,1,10,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool Insulinde,0363::SB83,,1349,766,6,8,54,334,34,16,109,122,53,1,1,18,7,3,0,2,0,6,0,0,4,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het JAV'ART Huis,0363::SB84,,1263,694,2,3,52,369,33,16,76,69,45,2,3,17,2,1,0,0,0,4,0,0,1,4,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kindervreugd,0363::SB85,,1041,443,0,5,43,167,43,19,76,35,27,4,3,17,5,1,0,0,0,3,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verenigingsgebouw Batavia,0363::SB87,,1298,672,3,9,46,353,42,15,88,60,33,1,0,18,3,2,0,0,0,9,2,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Instroomhuis,0363::SB89,,1491,793,1,3,97,330,34,11,87,117,65,6,1,29,6,2,0,0,0,7,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het JAVÁRT Huis,0363::SB90,,1370,741,0,2,37,384,33,9,98,78,60,3,0,28,2,3,0,0,0,5,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau OBS De Kleine Kapitein,0363::SB93,,1462,1112,0,4,247,357,32,10,54,247,108,2,1,35,6,2,0,0,1,10,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau KHL Koffiehuis,0363::SB94,,1293,1004,2,1,154,378,18,12,91,230,84,4,0,25,2,0,0,0,2,2,0,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kompaszaal,0363::SB95,,1464,1115,3,1,215,441,29,17,75,202,87,4,1,29,5,1,0,0,0,6,1,0,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool Het Gouden Ei,0363::SB96,,1481,1296,4,4,217,500,34,7,128,233,107,10,0,37,10,4,0,1,0,4,0,1,2,0,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau KHL Koffiehuis,0363::SB97,,1306,966,0,1,145,375,14,9,73,221,77,4,0,32,4,1,0,5,1,2,0,0,1,1,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Instroomhuis,0363::SB100,,1434,556,0,2,68,234,18,20,80,73,30,2,0,21,0,2,0,2,0,4,0,0,0,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool Het Gouden Ei,0363::SB102,,1473,1288,1,2,206,502,32,21,99,233,123,6,0,40,7,3,2,0,0,10,1,0,3,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stayokay Amsterdam Zeeburg,0363::SB104,,1404,967,1,8,103,370,30,12,90,199,100,9,1,33,9,7,0,1,0,1,0,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau J.P. Coenschool,0363::SB105,,1390,732,4,9,83,289,14,11,62,163,63,2,1,31,4,3,0,1,0,5,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau J.P. Coenschool,0363::SB107,,1251,1034,1,6,129,367,35,11,83,233,109,12,0,36,8,2,0,0,0,5,0,0,3,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau OBS Olympus,0363::SB108,,1179,664,0,4,150,250,34,10,39,123,28,7,0,13,2,1,0,0,0,6,1,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verenigingsgebouw Batavia,0363::SB109,,1446,830,3,13,57,433,51,19,112,75,39,6,0,25,1,1,0,0,2,5,0,0,4,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau OBS Olympus,0363::SB110,,1191,645,3,1,137,251,20,5,53,118,34,6,0,10,7,1,0,2,0,0,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkpartners,0363::SB111,,1258,912,3,5,225,343,42,16,63,133,44,6,5,21,0,1,1,1,0,8,0,0,3,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Montessorischool Steigereiland,0363::SB112,,1383,1204,5,4,256,461,38,6,73,234,88,6,1,25,2,2,0,0,0,4,0,0,5,3,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau abbs De Zuiderzee,0363::SB113,,1290,788,0,1,242,217,10,7,53,188,40,4,0,13,3,2,1,1,0,3,0,0,3,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cafe Kanis & Meiland,0363::SB114,,1470,1169,3,0,170,454,47,7,132,190,102,2,0,45,3,5,0,0,0,8,0,0,4,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau IJburg College,0363::SB115,,1390,899,2,2,266,323,29,18,63,121,41,9,2,17,7,1,0,0,0,1,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau IJburg College,0363::SB116,,1301,870,1,9,259,279,31,11,56,170,22,6,2,18,4,0,0,0,0,6,1,0,3,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau IJburg College,0363::SB117,,1327,1018,3,6,311,340,27,18,65,173,35,14,0,21,3,1,0,2,0,7,1,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Katholieke Basisschool Willibrord,0363::SB118,,1235,1129,1,2,349,348,25,14,64,227,42,5,0,29,5,0,0,2,3,13,1,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Fitnessclub Fitt4Less,0363::SB119,,1478,1248,3,6,373,348,23,14,74,254,87,4,2,43,14,0,0,1,0,9,0,0,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool De Dapper,0363::SB122,,1342,975,5,9,85,446,41,21,117,118,84,4,0,36,9,3,0,0,1,6,0,0,2,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool De Dapper,0363::SB123,,1368,939,4,4,81,434,31,16,115,140,67,4,0,22,9,3,1,1,0,6,1,0,2,6,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gebouw - tegenover Muiderpoortstation,0363::SB124,,790,844,5,2,95,337,26,10,88,148,90,1,0,36,4,4,0,0,0,4,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau OBS Aldoende,0363::SB125,,1445,865,4,3,142,285,26,7,99,188,73,2,0,31,7,0,0,1,0,3,0,0,0,0,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau OBS Aldoende,0363::SB126,,1480,979,7,3,179,338,25,14,113,179,85,2,1,31,1,0,0,1,0,6,1,0,3,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Louise de Coligny,0363::SB127,,1482,843,2,3,98,340,33,13,86,136,84,4,1,27,6,4,1,0,0,5,1,0,2,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ouderencentrum De Gooyer,0363::SB128,,1444,990,4,6,94,417,63,22,142,114,60,8,1,37,8,3,0,0,0,18,0,0,0,3,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum Kastanjehof,0363::SB129,,1276,1134,4,5,140,458,54,12,119,173,101,7,1,40,10,3,0,1,0,10,0,1,1,3,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Louise de Coligny,0363::SB132,,1478,959,1,5,105,379,32,10,113,154,108,13,2,23,5,3,1,0,0,8,1,0,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Multicultureel Centrum,0363::SB133,,1425,935,1,17,68,488,44,31,86,108,69,3,2,18,3,2,0,0,0,7,0,0,2,4,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum,0363::SB134,,1433,700,2,3,93,304,30,15,71,98,48,2,1,18,10,0,0,1,0,2,1,0,2,4,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Silver Scissors,0363::SB135,,1459,1056,2,6,92,465,31,11,144,155,96,10,0,26,6,3,0,0,0,11,0,0,1,3,2
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadsdeelhuis,0363::SB137,,1271,1056,1,6,155,425,33,11,90,185,86,12,0,44,4,0,0,1,0,8,0,0,0,0,2
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadsdeelhuis,0363::SB138,,1180,545,2,10,79,221,22,10,45,94,45,1,2,23,1,0,1,0,0,1,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadsdeelhuis,0363::SB139,,1080,699,2,2,81,272,29,12,70,114,72,7,1,25,5,2,0,0,0,7,0,0,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau MuzyQ,0363::SB140,,835,303,1,1,33,109,11,1,54,41,37,0,0,10,3,0,0,1,0,3,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Servicepunt Het Brinkhuis,0363::SB141,,1230,767,1,3,80,253,117,13,130,43,40,1,1,43,6,2,0,0,1,34,0,0,2,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Servicepunt Het Brinkhuis,0363::SB142,,1260,750,2,3,68,247,152,16,117,43,36,6,1,24,0,3,0,0,0,32,2,0,1,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gebouw - voorheen Daltonschool de Meer,0363::SB143,,1391,1255,1,1,225,407,44,28,115,259,111,8,0,37,5,4,0,0,0,9,0,0,0,3,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gebouw - voorheen Daltonschool de Meer,0363::SB144,,1340,1209,1,0,185,386,38,23,109,290,112,10,0,28,8,4,0,1,0,13,0,0,0,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Huize Frankendael - ingang koetshuis,0363::SB145,,1452,1375,0,1,213,481,39,32,99,311,121,9,2,36,11,1,0,3,3,11,1,0,1,0,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Universiteit van Amsterdam,0363::SB147,,1135,1314,5,2,153,436,6,17,79,359,188,7,1,43,13,3,1,5,0,2,1,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Servicepunt Tesla,0363::SB148,,1322,1186,3,3,209,396,60,55,105,187,83,18,0,37,9,0,0,0,0,22,2,0,2,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bon Bosco,0363::SB149,,1355,1015,1,0,132,425,38,27,102,163,67,8,0,31,8,1,0,1,0,12,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dependance Frankendael,0363::SB151,,1485,808,5,2,91,320,108,22,94,54,32,9,0,42,5,1,0,0,2,27,0,1,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stichting Al Maarif,0363::SB154,,1184,539,2,1,63,227,13,12,42,98,53,6,2,13,6,1,0,1,0,2,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum Amsta,0363::SB155,,1481,746,1,1,100,288,57,27,65,111,31,12,1,27,2,1,0,2,1,17,0,0,1,3,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Open Hof,0363::SB156,,1155,891,2,6,130,309,86,31,96,115,51,8,0,36,5,1,0,1,1,18,0,0,2,0,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum Willem Dreeshuis,0363::SB157,,1218,709,0,1,104,274,79,16,70,66,29,14,4,33,1,0,0,0,0,13,0,1,4,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hogeschool van Amsterdam,0363::SB158,,1512,1314,5,10,296,397,24,23,104,308,93,11,3,34,9,4,0,1,0,5,0,0,0,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hogeschool van Amsterdam,0363::SB159,,1433,1247,8,2,284,393,30,24,75,276,86,9,1,40,13,4,0,3,0,7,0,1,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Projectbureau Wibaut aan de Amstel,0363::SB161,,1334,1044,4,7,223,335,30,14,86,237,67,4,1,32,6,2,0,1,0,5,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Onze Lieve Vrouwe Gasthuis,0363::SB163,,1110,1733,8,3,248,648,67,26,200,304,121,15,4,67,4,7,0,0,0,17,1,0,3,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum Park de Meer,0363::SB169,,1205,1047,3,1,190,412,41,34,89,157,65,11,0,27,6,1,0,1,0,13,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Vrije Universiteit Amsterdam,0363::SB200,,1014,1688,3,2,339,541,33,53,103,423,99,30,9,31,13,0,0,1,1,10,1,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Doven Ontmoetings Centrum,0363::SB201,,1351,833,2,1,255,229,24,6,50,195,33,1,0,27,4,0,0,1,0,4,2,0,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Doven Ontmoetings Centrum,0363::SB202,,1402,886,1,1,300,228,30,11,53,185,40,3,0,21,4,0,0,2,0,5,0,0,1,3,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau VBSK Albert Cuyp,0363::SB204,,951,936,2,4,197,279,31,8,99,200,56,2,0,40,7,2,1,1,1,12,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Jan van der Heijdenhuis,0363::SB205,,910,810,1,3,208,205,14,10,64,174,77,1,0,30,4,4,0,0,0,16,1,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Oscar Carré school,0363::SB206,,1346,755,1,3,176,235,28,3,56,161,55,2,1,31,3,0,0,1,0,3,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Oscar Carré school,0363::SB207,,1307,1102,2,2,267,345,27,12,93,218,65,6,0,47,6,1,0,0,0,11,0,1,3,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Oscar Carré school,0363::SB208,,1378,958,2,4,209,319,27,17,103,156,62,5,1,41,7,2,0,3,0,4,0,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Montessori Lyceum,0363::SB210,,1412,1060,3,0,333,276,29,17,53,257,51,1,0,33,1,4,0,1,0,4,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wash & Coffee,0363::SB211,,1467,1250,4,4,315,354,42,9,100,260,88,7,0,49,9,4,0,4,1,4,1,0,1,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Amsta,0363::SB212,,987,792,2,2,214,207,20,15,53,192,55,2,0,18,8,0,0,1,0,5,0,0,0,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Edelsteen,0363::SB213,,1220,716,1,2,74,296,44,9,116,67,62,0,0,26,8,4,0,0,0,6,0,0,3,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Edelsteen,0363::SB214,,1308,817,1,5,99,313,52,9,112,119,54,7,1,24,3,3,0,0,0,16,0,0,2,3,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Senioren bewonersruimte,0363::SB215,,1113,765,2,0,163,221,34,13,68,168,60,0,0,23,5,0,0,1,0,7,0,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Kunstwerkplaats,0363::SB216,,1377,1089,4,6,163,419,25,10,128,201,76,3,0,37,6,3,0,0,0,9,1,0,3,4,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 3e Daltonschool hoofdgebouw,0363::SB217,,1109,1175,3,4,226,393,24,11,115,225,94,12,3,43,7,1,0,3,0,10,0,3,3,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 9e Montessorischool De Scholekster,0363::SB219,,1305,822,0,0,202,235,27,13,58,191,57,4,0,24,2,1,0,0,0,5,0,1,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 9e Montessorischool De Scholekster,0363::SB220,,1252,776,3,1,201,228,20,14,68,154,43,3,1,39,1,0,0,0,0,4,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sporthal de Pijp,0363::SB221,,1477,783,2,5,124,301,37,8,75,135,44,3,2,35,6,4,0,0,0,7,0,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sporthal de Pijp,0363::SB222,,1225,812,0,2,112,294,35,10,124,123,50,4,3,38,6,2,0,0,0,5,2,0,4,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau d'Oude Raai,0363::SB223,,1339,1081,5,3,198,378,54,24,117,183,56,5,2,42,3,1,1,0,0,13,1,0,2,0,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Apollohal  linker ingang,0363::SB224,,1577,1343,0,1,618,263,25,30,37,265,49,11,3,28,4,1,0,3,0,5,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cornelis Vrijschool,0363::SB226,,1485,1208,0,1,493,268,24,22,38,257,57,9,3,27,2,1,0,1,0,4,0,0,1,0,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Oud-Katholieke Kerk,0363::SB228,,1094,1038,1,1,383,248,26,15,60,226,44,3,2,21,5,1,0,0,0,4,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Coenen/Lydia,0363::SB230,,1390,1387,5,1,255,487,20,28,115,300,96,10,2,51,3,1,0,2,1,12,0,0,1,3,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hildebrand van Loonschool,0363::SB231,,1227,1010,0,1,327,250,11,18,38,275,43,9,1,28,2,2,0,0,0,6,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Obrechtkerk,0363::SB232,,1130,1206,1,2,463,281,17,25,51,270,59,6,0,23,1,1,0,0,0,8,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gymzaal Nicolaas Maesschool,0363::SB233,,1271,1110,2,0,360,339,14,31,59,214,60,5,0,23,2,1,0,0,0,2,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau EMB Hotel Memphis,0363::SB235,,1310,1045,0,2,490,198,8,12,35,238,31,5,1,20,0,0,0,0,0,4,3,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gymzaal Zuidwester,0363::SB236,,1464,1005,1,2,384,243,14,20,38,220,35,7,0,29,6,2,0,0,0,6,1,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool Elout,0363::SB237,,1088,760,0,1,213,216,32,15,56,151,36,9,3,18,3,1,0,0,1,5,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool Elout,0363::SB238,,1152,1108,3,2,305,324,34,25,100,193,43,8,2,45,5,5,0,0,0,15,0,0,2,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau SNWA Instap en de Opstap,0363::SB239,,1519,1166,2,0,376,273,44,18,81,251,69,3,0,35,6,2,0,0,0,5,0,0,2,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Flatgebouw Baarsstraat,0363::SB240,,1266,984,1,2,261,278,43,17,101,160,53,7,1,33,6,4,0,1,0,17,0,0,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hervormd Lyceum Zuid,0363::SB243,,1196,1142,2,0,541,216,22,36,24,226,41,3,2,21,1,1,1,0,0,6,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hilton Hotel rechter ingang,0363::SB244,,508,693,2,1,302,148,11,18,18,152,24,2,0,13,2,0,0,0,0,2,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hilton Hotel rechter ingang,0363::SB245,,915,739,0,0,361,130,13,23,13,161,17,2,1,11,2,2,0,0,0,1,1,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum Olympus,0363::SB246,,1219,962,1,2,264,292,56,12,83,152,44,3,1,38,5,5,0,0,0,6,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Willem de Zwijgerkerk,0363::SB247,,1353,856,4,2,113,319,47,22,123,104,43,8,1,50,8,1,0,3,0,12,0,0,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Willem de Zwijgerkerk,0363::SB248,,1310,841,5,3,118,323,57,27,114,92,32,6,2,48,3,1,1,2,1,9,1,0,2,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bibliotheek Olympisch Kwartier,0363::SB252,,981,1007,1,2,389,264,33,25,47,171,33,7,0,24,3,0,0,0,0,6,0,0,4,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gymzaal Andreas Schelfhoutstraat,0363::SB257,,1542,1019,1,0,297,252,56,30,62,204,50,6,0,36,3,5,0,1,1,14,0,1,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gymzaal Andreas Schelfhoutstraat,0363::SB258,,1467,998,2,0,263,289,37,19,64,210,54,8,0,33,4,0,0,1,0,14,0,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bredeschool Bockesprong,0363::SB260,,1556,1126,5,1,329,281,48,13,78,232,67,9,1,46,7,3,0,1,1,7,2,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bredeschool Bockesprong,0363::SB261,,1499,1107,1,8,307,295,53,20,56,243,58,6,0,51,2,4,0,0,0,9,0,1,0,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Tobiasschool,0363::SB262,,1320,998,3,4,276,249,45,14,46,262,54,10,1,30,5,1,0,0,0,3,0,0,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Tobiasschool,0363::SB263,,1280,1154,3,0,333,323,66,16,86,215,62,6,1,31,2,0,0,1,1,9,1,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadsdeelkantoor Zuid Tripolis,0363::SB267,,907,393,0,0,97,125,19,4,34,66,25,5,0,13,0,1,0,0,0,4,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Pastorie Vredeskerk,0363::SB268,,1463,1191,2,2,344,289,42,26,89,273,57,3,1,48,6,5,0,0,0,6,1,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Anne Frankschool,0363::SB270,,1459,1111,0,2,332,303,47,21,60,231,56,3,0,40,3,3,1,1,1,5,0,0,3,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Anne Frankschool,0363::SB271,,1107,1259,2,2,414,329,50,29,81,256,35,7,1,37,7,4,0,1,0,8,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool St. Catharina,0363::SB272,,1022,900,2,1,161,318,46,13,100,157,46,8,0,31,5,3,0,1,0,11,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool St. Catharina,0363::SB273,,1311,670,1,2,134,214,29,10,68,143,32,7,0,15,5,2,0,0,1,6,0,0,3,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Speellokaal school De Rivieren,0363::SB274,,1443,1250,1,2,321,345,27,28,96,270,84,7,2,48,5,1,0,1,0,12,0,0,3,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Huis van de Wijk Rivierenbuurt,0363::SB275,,1293,1125,3,4,239,346,59,30,98,215,48,10,1,55,4,2,0,0,0,14,1,1,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Huis van de Wijk Rivierenbuurt,0363::SB276,,1266,1181,2,5,282,334,65,22,114,216,67,4,0,57,5,1,0,1,0,10,0,0,3,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Maarten Luther Kerk,0363::SB279,,1206,748,2,2,217,221,30,20,47,137,34,9,1,21,3,0,0,0,0,4,0,1,2,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Maarten Luther Kerk,0363::SB280,,1281,754,0,0,182,225,30,20,58,163,35,9,0,27,0,0,0,0,0,5,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadsdeelkantoor Zuid,0363::SB281,,815,928,0,0,257,278,40,27,54,173,48,8,0,30,1,1,0,1,0,8,0,0,0,1,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum ROC-ASA,0363::SB282,,1414,1297,1,1,415,360,36,16,59,266,71,5,1,42,9,2,0,1,1,11,0,0,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Voormalig Postkantoor,0363::SB283,,1230,825,2,4,120,315,61,23,98,103,24,5,1,48,5,2,0,1,0,15,0,0,3,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woon- en Zorgcentrum Torendael,0363::SB284,,1120,824,2,1,181,276,38,33,68,131,41,9,0,28,4,2,1,1,0,7,2,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Thomaskerk.,0363::SB286,,920,984,1,1,493,156,14,37,14,202,31,8,2,20,4,0,0,0,1,1,1,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verpleegcentrum Vreugdehof,0363::SB287,,1108,632,2,4,182,175,69,32,53,53,11,11,4,20,3,2,0,3,0,12,0,0,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verpleegcentrum Vreugdehof,0363::SB288,,1238,688,1,5,205,206,46,36,49,64,17,13,0,32,0,2,0,0,0,14,0,2,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum Beth Shalom,0363::SB289,,1138,923,3,2,361,230,45,30,36,130,31,13,6,20,1,2,0,0,0,16,0,0,0,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verpleegtehuis De Buitenhof,0363::SB290,,880,603,0,2,249,121,41,28,32,64,15,10,3,21,4,1,0,2,0,12,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verpleegtehuis De Buitenhof,0363::SB291,,800,596,3,2,223,138,36,24,51,69,20,6,0,19,1,0,0,1,0,5,0,0,1,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Andrieskerk,0363::SB292,,911,831,0,0,262,227,47,38,39,137,20,10,1,22,2,4,1,0,1,18,1,1,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Multifunctioneel Centrum Binnenhof,0363::SB293,,1239,1091,1,4,352,301,84,34,83,135,24,14,2,33,2,1,0,1,0,24,1,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Multifunctioneel Centrum Binnenhof,0363::SB294,,1311,1152,3,2,390,320,76,54,78,135,36,9,0,19,5,2,0,1,0,27,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gymzaal bij school De Ark,0363::SB295,,1029,739,3,2,257,184,35,28,40,109,30,15,3,18,6,1,0,0,1,12,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gymzaal bij school De Ark,0363::SB296,,1117,831,1,2,291,190,56,43,59,98,31,10,7,23,1,1,0,1,0,19,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Menno Simonszhuis,0363::SB297,,990,816,2,1,302,197,53,40,42,91,22,15,0,17,1,1,0,2,0,31,0,1,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Marius ten Cate Hof,0363::SB298,,1047,912,0,3,319,220,75,37,55,121,30,9,4,26,2,1,0,0,0,13,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum Buitenveldert,0363::SB299,,1106,749,0,0,368,148,30,36,37,86,18,4,1,13,2,0,0,0,0,4,0,0,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau W.T.C. gebouw H,0363::SB300,,0,1608,5,3,670,291,17,42,39,448,59,5,0,29,8,0,0,0,0,0,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Citroën dealer,0363::SB303,,1396,864,0,2,296,238,28,9,49,161,38,5,1,21,5,1,1,0,0,9,0,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Citroën dealer,0363::SB304,,1237,943,5,1,368,211,28,16,47,190,37,4,0,29,1,2,0,0,0,7,0,0,3,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau St. Ignatius Gymnasium,0363::SB305,,1173,927,0,2,413,204,12,25,19,190,37,2,3,15,3,0,0,2,0,2,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau St. Ignatius Gymnasium,0363::SB306,,1439,1080,3,2,492,234,6,23,34,237,24,6,2,15,1,0,0,0,0,6,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Portocabin IJselplein,0363::SB307,,1320,850,0,2,179,287,36,18,81,146,53,3,1,30,8,3,0,0,2,2,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Portocabin IJselplein,0363::SB308,,1253,897,2,5,229,297,31,8,71,171,36,8,1,22,8,4,0,0,0,6,1,0,1,2,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Miranda Paviljoen ingang Wintertuin,0363::SB309,,1240,562,0,2,170,149,19,9,33,108,29,6,0,26,5,0,0,1,0,6,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Miranda Paviljoen ingang Wintertuin,0363::SB310,,1264,695,4,1,209,187,25,6,43,138,35,8,3,25,3,1,0,0,0,10,1,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau El Amien II,0363::SB312,,1514,775,5,4,99,290,61,16,72,126,57,8,3,23,3,1,0,0,0,12,1,1,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau El Amien II,0363::SB313,,1421,778,0,6,93,310,52,20,68,132,51,3,1,33,3,2,0,0,0,6,1,0,2,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau El Amien II,0363::SB314,,1245,785,3,4,110,287,45,11,70,158,53,4,2,27,3,2,0,0,0,10,0,0,2,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Tijl Uilenspiegelschool,0363::SB315,,1379,745,1,6,97,352,36,25,65,95,36,6,2,20,0,4,0,0,1,4,0,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Tijl Uilenspiegelschool,0363::SB317,,1271,784,1,1,124,342,31,16,71,118,39,10,1,17,11,0,0,3,0,0,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Tijl Uilenspiegelschool,0363::SB318,,1383,778,0,5,128,305,38,17,43,137,66,5,3,22,6,1,0,0,0,4,1,0,0,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wachterliedpaviljoen,0363::SB319,,1251,714,0,2,112,270,27,13,55,145,49,0,0,23,7,1,0,0,0,9,0,0,1,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wachterliedpaviljoen,0363::SB320,,1150,660,3,5,103,236,25,10,64,133,43,6,0,23,3,0,0,1,0,11,1,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Narcis-Queridoschool,0363::SB321,,1508,816,3,2,124,306,45,12,82,129,46,5,1,33,2,2,0,3,2,21,1,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Narcis-Queridoschool,0363::SB322,,1399,725,4,5,79,311,34,9,79,118,39,2,1,27,4,2,0,0,0,16,1,0,1,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Narcis-Queridoschool,0363::SB323,,1299,697,6,4,94,279,35,9,79,105,47,5,2,31,4,1,0,0,0,5,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Openbare Bibliotheek Amsterdam,0363::SB324,,1081,681,3,9,109,266,19,19,56,131,39,4,2,19,6,0,0,0,0,9,1,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Centrum voor Ouderen De Boeg,0363::SB325,,1053,1062,4,7,144,467,68,25,107,132,49,9,0,35,7,3,0,0,1,12,1,1,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bos en Lommerschool,0363::SB328,,1486,677,5,5,63,420,24,12,68,53,15,3,0,12,3,2,0,0,0,1,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bos en Lommerschool,0363::SB329,,1506,719,1,8,52,418,33,22,83,57,14,8,1,15,4,2,0,0,0,7,0,0,1,0,2
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Openbare Bibliotheek Amsterdam,0363::SB332,,1484,691,3,6,119,263,24,24,65,119,45,6,1,9,7,0,0,0,0,5,0,0,1,3,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Molen van Sloten,0363::SB341,,711,671,2,2,240,132,59,22,57,79,36,6,1,14,5,0,0,0,0,19,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dienstencentrum Maarten Luther,0363::SB342,,735,766,2,5,213,232,68,32,63,85,20,5,2,20,0,4,0,0,0,18,0,1,1,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Prof. Dr. H. Kraemerschool,0363::SB343,,934,339,1,6,27,195,48,8,23,7,3,2,2,10,2,0,0,0,0,10,0,1,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Prof. Dr. H. Kraemerschool,0363::SB344,,844,389,0,3,48,211,43,6,43,15,1,1,0,5,0,2,0,0,0,11,0,0,1,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau B.C.O. (voormalige St. Lukasschool),0363::SB345,,1563,1155,5,17,163,418,227,66,119,39,18,11,1,28,4,1,0,1,1,55,1,0,0,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Osdorpse Montessorischool,0363::SB346,,973,634,1,5,103,246,112,19,83,20,12,0,0,16,0,0,0,0,0,22,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadsdeelkantoor,0363::SB347,,914,703,7,3,121,293,65,20,81,62,14,8,1,18,3,1,0,0,0,15,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dienstencentrum Osdorperhof,0363::SB348,,1046,629,4,2,128,188,82,40,67,60,18,8,2,17,2,2,0,1,0,13,1,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dienstencentrum Osdorperhof,0363::SB349,,992,634,3,4,132,214,77,23,62,52,20,16,1,18,4,0,0,1,0,10,0,0,3,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gymlokaal Ichthusschool,0363::SB350,,881,654,0,1,121,181,117,37,93,23,10,5,3,16,4,0,0,0,0,40,0,1,0,3,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verenigingsruimte NIVON,0363::SB351,,1178,503,1,8,71,265,45,18,27,25,7,3,0,11,2,0,0,1,3,23,0,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum Leo Polak,0363::SB352,,918,555,2,3,170,193,76,15,33,18,8,5,0,10,0,1,0,1,3,20,0,0,0,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum Leo Polak,0363::SB353,,894,557,1,5,148,197,79,28,42,28,9,1,2,9,0,0,0,0,0,14,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Kikker,0363::SB354,,1277,713,2,7,95,357,71,22,80,32,17,4,3,7,1,1,0,0,1,17,0,0,0,5,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Kikker,0363::SB355,,1284,597,0,7,65,330,69,18,48,25,5,5,0,9,4,1,0,0,0,16,0,0,0,1,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Kikker,0363::SB356,,1300,546,2,8,54,312,40,21,47,34,8,4,4,10,2,0,0,1,1,7,0,0,0,0,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool de Odyssee,0363::SB357,,1458,1062,0,3,305,401,78,45,63,108,30,4,0,10,2,1,0,0,0,12,1,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gymlokaal St Paulusschool,0363::SB358,,1371,772,1,6,152,316,72,30,90,63,20,9,0,6,3,1,0,0,0,8,0,0,0,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurthuis De Aker,0363::SB359,,1481,818,2,4,163,316,110,19,78,30,26,14,2,16,4,0,0,2,0,30,0,1,2,4,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurthuis De Aker,0363::SB360,,1599,929,1,7,180,357,147,50,76,40,11,9,3,22,1,3,0,3,0,22,1,0,1,3,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schoolgebouw,0363::SB362,,769,413,4,2,72,156,45,21,45,24,12,9,1,14,0,0,1,0,1,11,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schoolgebouw,0363::SB363,,1079,422,1,1,55,160,68,18,34,29,9,7,1,18,1,1,0,0,2,13,0,1,3,1,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schoolgebouw (hoofdingang),0363::SB364,,1016,738,1,4,184,263,106,18,48,50,11,9,1,17,3,1,0,1,3,21,1,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schoolgebouw (hoofdingang),0363::SB365,,1071,697,1,3,192,225,75,26,60,63,18,5,0,12,0,0,0,0,0,20,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Horizon,0363::SB366,,1172,817,0,4,207,320,58,20,73,78,14,8,0,13,4,0,0,1,1,13,0,0,1,6,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Horizon,0363::SB367,,1176,786,3,0,167,277,75,23,71,95,22,21,0,11,5,1,0,0,1,16,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Horizon,0363::SB368,,1194,768,1,1,204,279,94,23,36,76,11,14,0,11,3,1,0,0,1,14,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Groeipaleis,0363::SB369,,1478,994,1,6,178,370,169,24,108,36,17,7,0,32,0,1,0,0,1,37,1,0,5,5,3
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadsdeelkantoor,0363::SB371,,974,689,3,7,136,275,84,36,61,35,15,3,1,19,3,1,0,1,0,16,0,1,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Meer en Oever,0363::SB373,,1399,556,0,3,144,212,38,24,47,55,13,6,2,7,2,0,0,0,0,5,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gymlokaal St Paulusschool,0363::SB377,,1444,764,4,7,134,363,69,23,75,66,10,7,1,5,2,0,0,1,1,6,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Spaarndammerhout,0363::SB391,,1359,722,4,5,47,301,53,6,69,115,61,7,4,33,12,1,1,0,0,9,0,0,1,1,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Spaarndammerhout,0363::SB392,,1431,753,8,2,67,305,39,6,94,115,66,4,2,31,6,2,0,0,0,10,0,0,4,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Spaarndammerhout,0363::SB393,,1421,736,7,3,77,304,50,8,79,102,57,7,1,28,11,2,0,0,0,7,0,0,3,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Bogt Westerbeer,0363::SB394,,1437,909,3,7,117,332,92,16,106,114,66,8,2,37,2,1,2,0,0,8,0,1,2,2,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Bogt Westerbeer,0363::SB395,,1299,880,3,2,89,343,81,14,109,99,64,5,1,46,10,4,0,0,0,14,0,0,0,0,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Zeeheld,0363::SB396,,1022,664,4,2,107,241,17,3,90,113,49,4,0,23,6,2,0,0,0,6,0,0,2,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Zeeheld,0363::SB397,,884,630,2,3,86,247,23,7,61,100,61,3,0,30,5,1,0,0,0,4,1,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Koperen Knoop,0363::SB398,,1224,1100,4,7,153,385,78,20,127,185,70,3,1,43,7,5,0,1,0,16,0,0,4,1,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Amsta locatie De Poort,0363::SB399,,1186,830,2,0,166,255,38,13,76,178,52,2,0,29,10,0,0,1,0,8,0,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Amsta locatie De Werf,0363::SB400,,828,577,1,4,65,208,35,17,66,83,48,2,1,36,5,3,0,1,1,5,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Westerparkschool,0363::SB401,,1483,971,1,3,112,390,52,5,113,139,82,3,0,40,10,4,0,0,2,13,0,0,5,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Bron,0363::SB402,,1033,754,2,10,108,241,34,5,106,144,59,2,1,39,7,2,0,0,0,4,1,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Westerparkschool,0363::SB403,,1514,979,2,8,90,395,43,8,132,142,96,1,0,38,11,2,0,1,0,13,2,0,4,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Bron,0363::SB405,,1123,766,1,4,101,276,28,12,95,132,62,3,1,41,5,1,0,1,0,5,0,1,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Van Hogendorphal,0363::SB406,,1426,693,3,1,111,241,40,9,73,121,53,3,0,30,5,1,0,0,0,3,1,0,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Van Hogendorphal,0363::SB407,,1510,703,2,1,98,252,29,6,70,117,73,1,1,36,7,3,0,1,0,4,1,0,3,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Amsta locatie De Poort,0363::SB409,,1198,778,1,2,166,218,33,13,58,171,67,4,0,28,11,0,0,2,1,5,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Marcanti College,0363::SB410,,767,582,0,0,96,219,36,4,71,72,42,1,1,26,2,3,0,0,0,9,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dependance Westerparkschool,0363::SB411,,1378,1028,1,3,131,397,36,6,97,192,89,2,0,60,9,1,0,1,1,5,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dependance Westerparkschool,0363::SB413,,1294,1053,2,2,165,366,33,9,100,223,89,3,0,43,5,4,0,1,1,10,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Openbare Bibliotheek Amsterdam,0363::SB414,,1598,978,2,4,129,369,31,5,108,188,88,2,0,41,4,3,0,0,0,7,0,0,1,1,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau ASV Bilderdijkpark,0363::SB421,,1337,1090,1,1,184,363,43,23,125,212,50,7,0,47,7,5,0,1,1,10,2,1,5,4,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schoolgebouw Winterkoninkje,0363::SB422,,1566,1042,1,10,153,332,34,15,126,202,109,3,0,42,10,2,0,1,0,8,1,0,3,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schoolgebouw Winterkoninkje,0363::SB423,,1556,1042,6,1,143,405,39,8,129,182,62,2,0,57,4,1,0,3,0,5,0,0,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schoolgebouw ROC,0363::SB424,,1511,936,2,1,245,279,31,18,70,162,73,1,1,29,4,5,0,1,0,13,0,1,1,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schoolgebouw ROC,0363::SB425,,1465,1074,5,2,253,331,23,15,106,213,71,7,2,35,4,1,0,0,0,10,0,0,3,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wooncentrum De Klinker,0363::SB426,,1308,885,4,7,132,356,46,8,118,113,50,5,0,39,4,3,0,2,1,6,0,0,0,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wooncentrum De Klinker,0363::SB427,,1428,921,2,4,114,384,71,12,101,144,40,7,1,33,2,0,0,1,2,8,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wooncentrum De Klinker,0363::SB428,,1293,921,1,7,137,327,74,15,88,141,53,9,0,35,6,0,1,2,0,25,1,0,4,3,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Leonardo da Vinci school,0363::SB430,,1548,1007,3,3,260,285,29,8,89,217,55,1,0,40,7,3,0,0,0,10,1,0,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Mentrum,0363::SB431,,1472,1324,4,0,319,392,26,20,87,284,102,10,1,56,12,5,0,0,0,7,0,0,2,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Mentrum,0363::SB432,,1507,1189,1,0,291,360,26,16,93,232,97,7,4,41,3,3,0,1,0,9,0,0,3,3,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Vondelstede,0363::SB433,,1598,1179,1,2,349,352,20,17,71,248,68,5,1,38,3,1,0,0,0,5,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wackersacademie,0363::SB436,,1489,967,4,6,240,289,16,15,81,204,66,3,0,36,4,2,0,0,1,9,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wackersacademie,0363::SB437,,1547,957,0,2,228,253,33,14,83,229,67,1,1,32,4,2,0,0,0,9,0,1,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wackersacademie,0363::SB438,,1489,991,1,0,289,256,23,14,78,218,59,5,0,28,14,1,0,0,0,4,0,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Annie M.G. Schmidt,0363::SB439,,1455,1199,1,1,295,348,31,16,101,239,90,5,2,52,7,2,1,0,1,5,0,1,2,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Annie M.G. Schmidt,0363::SB440,,1402,1266,2,3,304,357,30,13,86,295,83,16,2,52,6,2,0,3,2,12,0,0,2,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Nieuw Vredenburgh,0363::SB461,,1421,851,2,3,158,277,33,16,85,152,58,8,0,42,4,2,0,1,0,14,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Aslan Muziekcentrum,0363::SB462,,1196,1081,2,3,224,322,40,18,82,259,78,6,0,30,5,2,1,1,1,11,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School As Siddieq,0363::SB463,,1467,805,0,3,122,310,34,9,72,148,53,4,0,32,11,1,0,0,0,7,0,0,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Joop Westerweelschool,0363::SB464,,1392,830,4,5,118,348,33,17,57,153,60,7,0,20,6,3,0,1,0,4,1,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Joop Westerweelschool,0363::SB465,,1524,836,3,8,115,337,47,14,75,142,58,9,2,24,4,4,0,0,0,1,0,0,3,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Meidoorn,0363::SB466,,1368,1273,3,6,181,482,39,23,120,246,88,10,2,50,6,1,2,0,1,12,0,1,5,4,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurthuis De Tulp,0363::SB468,,1207,683,1,1,154,225,25,9,47,152,37,2,2,20,3,0,0,0,0,6,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Rosa Boekdrukkerschool,0363::SB470,,1340,689,4,2,100,261,37,8,59,138,48,2,0,16,12,0,0,0,1,7,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Rosa Boekdrukkerschool,0363::SB471,,1389,726,5,3,90,288,40,12,81,105,52,4,0,34,7,2,0,0,0,9,0,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Rosa Boekdrukkerschool,0363::SB472,,1391,764,2,7,97,283,40,13,74,151,64,4,0,24,6,0,0,0,0,4,1,0,2,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Roos,0363::SB474,,1439,1022,1,4,220,300,29,11,56,254,90,15,1,30,7,1,0,2,0,2,1,1,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Roos,0363::SB475,,1473,1046,2,1,216,350,34,15,75,222,82,9,1,26,4,2,0,0,0,9,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Roos,0363::SB476,,1339,1175,5,6,215,353,50,30,100,270,82,11,1,43,3,0,0,0,0,16,0,1,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurthuis De Tulp,0363::SB477,,1204,743,1,1,176,192,55,13,52,144,51,9,3,32,7,0,0,1,1,5,0,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadsdeelkantoor,0363::SB479,,1578,1249,3,5,241,433,41,17,88,274,73,16,1,41,12,1,0,1,0,5,1,0,3,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dr. J. Th. de Visserschool,0363::SB481,,1575,995,7,11,125,429,66,19,101,113,61,14,1,42,3,1,0,3,0,13,0,0,2,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Nieuw Vredenburgh,0363::SB482,,1236,867,0,4,159,280,48,12,84,168,58,7,1,36,6,2,1,0,0,5,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Joop Westerweelschool,0363::SB483,,1498,909,1,5,153,325,32,18,80,191,55,5,0,28,5,3,0,0,0,12,0,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Huizingaschool - gymgebouw,0363::SB491,,921,465,3,1,43,229,43,30,58,26,14,5,1,4,3,0,0,0,2,7,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Huizingaschool - gymgebouw,0363::SB492,,895,437,2,6,46,210,54,19,42,23,16,1,0,5,3,0,0,2,0,16,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum De Schutse,0363::SB493,,745,511,3,4,114,151,29,41,37,50,22,13,3,22,2,1,0,0,2,22,0,1,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau BSO De Groeiwereld,0363::SB494,,1040,721,4,0,171,257,43,27,34,102,48,4,0,13,5,2,0,0,1,13,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Pro Regeschool,0363::SB495,,820,598,1,2,83,247,31,31,57,67,45,8,3,18,2,2,0,1,0,2,1,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadsdeelkantoor,0363::SB496,,999,783,4,3,118,269,88,35,83,84,38,11,4,27,1,3,0,0,2,18,1,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadsdeelkantoor,0363::SB497,,1003,788,3,4,120,340,55,26,62,87,26,13,1,22,5,2,0,1,1,23,0,0,2,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Drie Hoven,0363::SB498,,914,563,2,5,99,229,60,25,53,34,21,7,0,16,0,0,0,0,0,17,0,0,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Drie Hoven,0363::SB499,,1012,572,0,2,79,248,50,22,48,45,19,10,0,24,4,0,0,0,2,20,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Obs De Vlaamse Reus,0363::SB500,,1336,812,2,0,192,272,76,39,83,67,15,15,3,24,4,1,0,0,2,18,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Obs De Vlaamse Reus,0363::SB501,,1089,774,0,1,190,238,102,31,75,64,28,5,0,19,3,0,0,0,1,16,0,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Obs De Vlaamse Reus,0363::SB502,,1243,796,0,0,179,277,95,27,76,65,18,5,0,19,4,1,0,0,2,28,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ipabo,0363::SB503,,1337,671,4,6,58,385,22,30,61,59,28,4,4,10,2,1,0,2,0,4,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ipabo,0363::SB504,,1312,790,6,6,81,459,17,38,77,70,24,4,0,11,2,0,0,0,0,3,0,0,3,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verpleeghuis Slotervaart,0363::SB505,,1238,947,3,1,239,321,76,35,60,128,38,9,0,20,1,1,0,0,0,17,1,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Calvijn juniorcollege Meetingpoint,0363::SB506,,887,717,0,0,230,184,31,11,40,148,32,10,0,15,6,0,0,0,0,10,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stichting Eigenwijks,0363::SB507,,976,639,3,8,74,320,45,28,52,52,26,6,0,16,2,2,0,1,0,9,0,0,3,3,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dr. Coronelschool,0363::SB508,,939,356,0,3,20,201,9,13,50,30,9,9,1,7,3,0,0,0,0,3,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woon- en Zorgcentrum De Riekerhof,0363::SB509,,1414,755,2,6,162,302,44,29,75,90,25,3,0,10,2,1,0,0,0,9,0,1,0,1,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Brede school Fiep Westendorp,0363::SB510,,1398,801,0,3,147,317,53,27,76,98,29,3,1,23,5,1,0,0,0,17,1,0,1,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Brede school Fiep Westendorp,0363::SB511,,1489,796,2,3,139,322,33,29,61,129,28,18,2,15,1,2,0,0,0,15,0,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau RK basisschool de Mijlpaal,0363::SB513,,1166,832,4,3,170,355,76,25,62,66,26,7,0,20,0,3,0,0,0,21,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau RK basisschool de Mijlpaal,0363::SB514,,1125,823,0,3,143,346,79,19,96,60,39,3,0,18,4,2,1,1,0,11,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau dep. de Mijlpaal,0363::SB515,,1421,1138,1,3,306,345,110,30,101,124,40,15,0,31,8,1,0,0,1,25,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau dep. de Mijlpaal,0363::SB516,,1473,1179,0,6,289,385,101,40,104,124,46,8,1,41,5,4,0,0,2,22,0,0,4,2,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dienstencentrum Oostoever,0363::SB517,,826,653,5,1,105,251,60,30,71,44,31,12,0,23,1,0,0,0,2,23,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Alliantie,0363::SB518,,1615,846,6,7,107,446,57,24,90,60,19,9,0,20,0,0,0,1,1,11,0,1,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 7e Montessori - gymzaal,0363::SB522,,1121,921,3,3,278,231,29,29,51,225,46,4,0,14,4,2,0,0,0,7,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Al Wafa Islamitische Basisschool,0363::SB531,,1375,660,2,4,54,352,48,23,68,47,16,6,2,21,2,0,0,0,1,13,0,0,5,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Al Wafa Islamitische Basisschool,0363::SB532,,1450,682,3,5,72,313,58,30,65,51,25,14,1,26,1,1,1,0,0,21,0,0,0,3,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Veerkracht Gereformeerde Basisschool,0363::SB535,,1376,557,0,11,54,258,61,27,71,27,14,15,0,13,2,1,0,0,2,10,0,1,0,0,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Veerkracht Gereformeerde Basisschool,0363::SB536,,1354,599,4,3,59,297,50,16,82,35,14,13,0,17,7,1,0,0,0,4,0,0,2,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum Nieuw Geuzenveld,0363::SB537,,1439,1075,0,8,185,398,184,55,107,54,18,6,0,19,2,1,1,1,0,34,1,0,2,7,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 't Koggeschip Katholieke Basisschool,0363::SB538,,1491,772,4,9,68,401,110,44,68,30,11,5,1,17,3,1,0,0,1,10,0,0,0,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadsdeelkantoor Nieuw-West,0363::SB539,,1115,1162,2,13,152,533,105,42,122,77,37,20,1,23,6,4,3,1,0,32,0,0,1,2,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Multibox/Eigenwijks,0363::SB540,,1058,495,2,5,48,275,39,27,58,18,5,7,0,8,0,1,0,0,0,6,0,1,1,0,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Multibox/Eigenwijks,0363::SB541,,1245,567,1,5,55,278,55,22,65,30,13,9,1,16,2,0,0,0,1,14,0,0,0,4,2
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Timotheusschool,0363::SB542,,1464,562,5,3,66,290,50,24,51,40,11,4,0,14,5,0,0,2,2,2,1,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Timotheusschool,0363::SB543,,1372,631,1,3,69,313,49,31,60,49,13,12,2,12,4,0,0,0,0,15,0,1,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau A.H. Gerhardhuis/Osira Groep,0363::SB544,,1382,815,2,4,72,365,76,49,85,64,39,6,2,30,6,1,0,1,0,17,0,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau SBO De Kans,0363::SB545,,1394,597,1,3,65,270,80,25,69,24,13,11,0,14,5,1,0,1,0,14,1,0,3,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Wissel,0363::SB546,,891,448,0,4,54,169,46,13,46,45,20,6,3,19,4,2,0,0,0,16,1,2,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Wissel,0363::SB547,,948,479,2,0,94,147,44,17,58,56,11,7,3,15,5,0,1,0,0,19,0,1,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Ontmoeting - ingang Fysiotherapie,0363::SB548,,974,489,3,2,49,215,55,23,50,31,19,9,0,14,2,1,0,0,1,17,0,1,2,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Ontmoeting - ingang Fysiotherapie,0363::SB549,,884,496,0,1,42,226,62,15,63,29,16,7,1,12,2,0,0,0,0,15,0,0,0,5,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Pluspunt Geuzenveld,0363::SB550,,966,581,1,3,81,245,50,31,71,42,18,12,1,16,3,0,0,0,0,10,0,0,0,0,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Pluspunt Geuzenveld,0363::SB551,,696,494,2,2,74,224,18,23,68,32,19,13,3,11,1,0,0,0,1,5,0,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Goeman Borgesiusschool,0363::SB552,,1068,682,1,3,122,281,106,17,70,26,7,5,1,21,1,1,0,0,1,22,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Goeman Borgesiusschool,0363::SB553,,1115,638,0,3,77,310,86,33,56,28,14,5,3,11,0,0,0,1,0,13,1,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Pieter Jelles Troelstraschool,0363::SB555,,831,527,2,3,72,209,84,20,65,20,17,2,1,9,6,0,0,0,1,19,0,0,0,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Pieter Jelles Troelstraschool,0363::SB556,,837,437,2,7,29,228,48,10,52,18,9,6,2,13,6,1,0,0,0,14,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadsdeelkantoor Noord,0363::SB600,,1452,696,2,2,106,296,55,19,80,66,29,3,3,13,3,0,0,2,1,15,0,0,5,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadsdeelkantoor Noord,0363::SB601,,994,497,1,6,63,223,41,10,52,59,17,3,1,13,3,0,0,0,1,9,0,0,0,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Evean Korthagenhuis,0363::SB602,,1515,1128,3,5,235,389,141,81,97,59,20,13,3,32,7,2,0,0,0,45,1,0,1,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cafe Restaurant De Pont,0363::SB603,,592,545,2,3,91,195,8,12,35,113,49,5,0,24,2,1,0,1,0,6,0,0,1,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Fontis Het Schouw,0363::SB604,,1461,944,2,10,183,308,134,46,97,79,24,4,4,25,6,1,0,0,0,30,0,1,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool De Berkelier,0363::SB605,,1324,719,1,3,155,263,67,57,59,51,21,11,1,19,2,1,0,0,0,11,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Muziekschool Noord,0363::SB606,,1482,880,4,10,99,382,98,22,134,50,18,9,2,33,8,3,0,0,0,18,0,1,1,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Mgr. Bekkersschool,0363::SB608,,1411,830,0,6,90,422,84,33,84,47,15,5,1,17,2,2,0,1,2,20,0,0,1,4,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Mgr. Bekkersschool,0363::SB609,,1436,712,1,5,95,384,46,19,72,39,18,6,2,10,2,1,0,0,0,13,0,1,3,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Evean De Kimme,0363::SB611,,1548,1095,1,12,225,361,131,83,117,65,19,19,4,22,3,2,0,0,2,37,0,0,2,2,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Speeltuinvereniging Nieuwendam,0363::SB612,,1301,853,4,3,117,297,115,21,87,74,60,4,0,45,2,5,2,2,0,21,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Speeltuinvereniging Nieuwendam,0363::SB613,,1469,929,3,3,129,297,180,23,119,63,36,3,1,39,6,1,1,0,2,29,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Herv.Gem. Nieuwendam,0363::SB614,,1295,956,0,2,121,314,176,30,110,83,43,7,2,25,6,2,0,1,1,33,2,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau OBS Buikslotermeerschool,0363::SB615,,1224,719,0,8,62,334,55,21,99,59,31,10,3,24,1,1,2,1,0,13,0,1,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cordaan de Die,0363::SB616,,1492,909,3,5,150,358,127,34,98,50,19,5,0,22,3,1,0,0,0,37,0,0,1,4,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Speeltuin de Noorderling,0363::SB618,,1226,771,0,1,96,236,140,12,97,82,46,6,1,30,3,1,0,0,0,17,2,0,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum de Driehoek,0363::SB619,,1360,871,8,4,129,289,187,10,110,63,29,4,2,19,4,2,0,0,0,19,2,0,0,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool de Kinderboom,0363::SB621,,1549,730,13,7,51,316,72,16,119,65,40,2,0,25,3,2,1,0,3,11,1,0,0,2,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau House of Worship (kerk),0363::SB622,,1490,719,0,4,40,324,64,13,118,51,43,11,2,33,7,0,0,0,1,6,0,0,5,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Speeltuinvereniging Nieuwendammerham,0363::SB623,,1200,566,5,10,49,241,48,7,90,43,41,8,0,21,3,0,0,1,0,9,0,0,1,4,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum de Meeuw,0363::SB624,,1424,1123,4,3,96,446,148,6,179,87,49,12,4,32,14,6,2,0,1,34,2,0,4,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bredero College,0363::SB626,,1242,696,4,8,51,319,70,18,97,65,36,5,0,22,5,2,0,0,0,6,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kringloopbedrijf De Lokatie,0363::SB628,,1429,734,1,5,57,304,97,9,99,46,48,12,0,36,4,4,0,4,0,8,0,0,4,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Oranje Nassauschool,0363::SB630,,1551,847,2,7,52,298,171,11,143,57,35,6,2,27,7,1,1,1,2,28,0,2,2,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Speeltuinvereniging Bloemenkwartier,0363::SB631,,1179,675,2,2,58,244,140,8,88,33,37,5,2,25,6,2,0,1,1,24,0,1,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Miller Sports,0363::SB632,,1548,855,1,6,120,270,186,16,101,59,27,6,4,28,5,0,0,0,3,30,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Boven IJ Ziekenhuis,0363::SB633,,1330,1155,5,10,217,448,117,50,113,72,60,14,1,23,4,1,0,0,2,31,0,1,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Evean Eduard Douwes Dekker,0363::SB635,,1505,906,0,8,121,394,110,36,103,41,22,18,5,27,2,0,0,0,0,24,0,0,2,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Evean Kadoeler Breek,0363::SB636,,1343,753,0,7,75,332,113,25,106,30,16,2,0,19,5,2,0,0,1,23,1,0,1,0,2
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Senioren-flat de Wasknijper,0363::SB637,,1032,771,2,0,166,287,62,26,73,95,30,6,0,20,0,0,1,0,0,5,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau OBS de Vier Windstreken,0363::SB638,,1268,627,0,9,81,259,104,17,77,19,14,14,1,9,6,0,0,0,0,23,0,1,1,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau OBS de Vier Windstreken,0363::SB639,,1509,690,3,4,71,274,114,23,106,20,12,7,2,23,3,0,0,0,0,31,0,0,3,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool de Botteloef,0363::SB641,,1401,886,1,8,61,380,162,30,135,22,16,21,0,25,3,1,0,0,1,29,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cordaan de Werf,0363::SB642,,1443,714,1,2,115,251,121,12,94,35,18,2,0,27,3,1,0,2,0,30,0,0,0,3,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cordaan de Werf,0363::SB643,,1486,772,1,5,87,259,155,17,100,44,34,8,4,22,3,0,0,0,1,33,0,0,0,5,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau SBO De Zeppelin,0363::SB644,,1325,801,4,3,153,263,149,14,105,44,16,2,2,21,5,3,0,1,2,19,0,1,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 't Zonnehuis,0363::SB647,,1480,1145,1,1,127,334,329,15,132,67,46,5,0,37,2,3,0,2,3,37,1,0,0,5,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bethelkerk,0363::SB648,,1241,846,1,1,140,234,200,41,102,43,25,3,2,21,4,1,1,0,1,19,0,0,5,4,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Evean Twiskehuis,0363::SB649,,1494,885,5,5,106,281,235,28,93,29,14,6,3,35,4,2,1,1,2,41,2,0,0,1,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum de Evenaar,0363::SB650,,1365,634,2,1,93,193,143,11,86,24,15,11,1,20,5,1,0,0,0,30,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau OBS Twiske,0363::SB651,,1332,936,1,5,239,251,126,19,95,86,44,5,5,27,3,1,0,1,0,33,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau OBS Twiske,0363::SB652,,1258,1010,0,4,221,281,168,29,99,90,36,17,6,24,7,1,0,0,3,24,0,0,1,3,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau OBS De Krijtmolen,0363::SB654,,1411,997,4,8,151,417,107,47,99,66,32,14,4,19,7,1,0,1,2,26,0,0,3,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurthuis Het Molenhuis,0363::SB655,,1470,795,2,4,171,265,101,20,93,61,16,8,1,25,5,0,0,0,1,21,0,0,3,3,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurthuis Het Molenhuis,0363::SB656,,1489,825,1,3,178,279,94,21,89,69,17,8,1,19,4,2,0,1,3,32,0,2,2,3,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dorpshuis de Beke,0363::SB657,,849,722,1,1,226,160,46,64,40,105,49,6,2,18,2,0,0,0,1,3,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau V&D,0363::SB658,,0,171,1,2,38,52,20,1,25,9,1,2,0,6,3,1,0,0,0,13,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadsdeelkantoor,0363::SB701,,1512,1001,6,17,63,648,48,10,114,42,25,13,3,16,3,1,0,0,0,8,0,2,3,1,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadsdeelkantoor,0363::SB702,,1471,938,3,12,80,586,37,16,92,46,30,8,5,11,3,2,0,1,0,9,0,1,0,1,10
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool Klaverblad,0363::SB703,,1244,411,0,5,48,243,17,4,48,25,12,2,0,5,2,0,0,0,0,3,0,0,0,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verpleeghuis Gaasperdam,0363::SB704,,1249,615,0,4,55,327,52,10,78,23,20,13,2,16,4,1,0,0,0,13,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verpleeghuis Gaasperdam,0363::SB705,,1318,602,1,3,53,298,51,17,70,43,20,4,0,25,4,3,0,0,3,11,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wooncentrum De Venser,0363::SB706,,1372,742,1,5,63,410,41,10,90,53,18,13,0,16,9,2,0,0,0,12,0,0,5,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wooncentrum De Venser,0363::SB707,,1484,605,2,9,60,332,42,14,64,35,18,4,1,12,5,0,0,1,0,13,0,1,2,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wooncentrum De Drecht,0363::SB708,,1319,672,1,2,64,355,79,15,64,26,16,13,2,15,6,0,0,1,0,14,0,1,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wooncentrum De Drecht,0363::SB709,,1383,575,4,3,46,318,49,13,76,20,13,8,1,9,5,1,0,0,0,16,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verzorgingshuis Eben Haëzer,0363::SB710,,1039,588,3,4,44,302,48,14,75,25,14,12,3,23,4,3,0,2,0,16,0,0,1,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verzorgingshuis Eben Haëzer,0363::SB711,,1178,567,9,12,39,286,40,17,82,19,20,14,3,21,5,2,0,0,1,16,0,0,0,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Rozemarn,0363::SB712,,1562,573,12,5,44,347,27,15,54,31,15,9,3,14,4,2,0,0,0,6,0,0,0,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Rozemarn,0363::SB713,,1557,532,0,2,26,349,18,4,48,34,15,13,2,9,3,0,0,1,0,6,0,0,4,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Ster,0363::SB714,,1233,432,2,1,45,224,37,1,64,14,11,4,6,5,6,0,0,0,0,15,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Ster,0363::SB715,,1216,634,3,3,66,324,57,7,90,27,16,9,3,14,1,1,0,0,1,14,0,0,3,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Tamboerijn,0363::SB716,,1504,940,4,11,80,448,88,23,135,56,26,6,1,27,4,3,1,0,0,36,0,1,3,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Tamboerijn,0363::SB717,,1518,1032,4,9,103,493,102,19,137,53,32,17,3,30,4,2,0,0,2,29,2,0,3,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Jongerencentrum No Limit,0363::SB718,,1508,714,4,13,36,469,31,13,95,27,14,5,2,11,3,1,0,0,0,5,0,0,0,1,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Brink,0363::SB719,,1233,1117,1,1,170,506,96,36,111,65,32,20,1,34,9,3,0,2,1,27,0,0,1,3,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Portocabin naast Station Amsterdam,0363::SB720,,0,896,2,4,207,319,34,9,78,165,30,18,4,16,8,3,0,1,0,0,0,1,2,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Holendrechtschool,0363::SB721,,1242,618,1,2,19,416,32,5,69,22,11,19,2,7,1,0,0,0,0,11,1,0,1,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Het Gein,0363::SB722,,1341,921,3,5,192,343,71,11,105,80,40,18,1,25,6,0,0,0,1,27,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Het Gein,0363::SB723,,1354,1037,2,1,202,416,93,9,133,79,22,16,4,22,9,1,0,2,0,27,0,0,0,1,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Schakel,0363::SB724,,1493,652,0,19,44,430,26,7,67,23,19,7,2,15,2,1,0,0,2,5,1,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Schakel,0363::SB725,,1500,711,0,10,34,450,43,8,90,26,20,8,1,11,4,1,0,1,1,7,0,0,2,4,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Regenboog,0363::SB726,,1125,761,0,2,103,334,73,10,120,34,24,13,5,23,4,2,0,0,1,14,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Academisch Medisch Centrum (AMC),0363::SB727,,0,967,2,1,151,352,34,15,69,237,54,13,2,30,2,0,0,1,0,6,1,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Serviceflat Koornhorst,0363::SB728,,1428,787,2,5,74,382,98,13,86,40,26,11,5,23,7,0,0,0,1,18,0,1,0,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woongroep Surinaamse Ouderen,0363::SB729,,1054,506,2,6,47,269,49,11,50,26,14,14,1,7,1,1,0,0,1,15,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woongroep Surinaamse Ouderen,0363::SB730,,1179,438,2,3,30,223,62,3,60,13,11,5,3,10,2,1,0,0,0,15,0,0,0,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cultureel Educatief Centrum,0363::SB731,,1322,794,3,14,60,464,34,11,96,54,34,16,0,13,10,0,0,0,0,0,1,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum De Bonte Kraai,0363::SB732,,1092,591,0,8,50,380,23,7,66,17,11,11,0,9,3,1,0,1,0,8,1,0,0,2,1
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Serviceflat Garstkamp,0363::SB733,,1474,899,3,1,159,349,64,15,100,101,38,2,1,28,3,4,1,0,2,31,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Serviceflat Garstkamp,0363::SB734,,1428,887,2,2,170,338,65,22,95,84,40,7,1,35,0,3,0,2,1,20,1,1,0,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Evean Henriëtte Roland Holst,0363::SB735,,1470,657,3,12,48,367,77,13,71,11,12,11,3,18,3,1,0,0,2,19,0,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Evean Henriëtte Roland Holst,0363::SB736,,1371,686,3,12,35,387,78,11,98,11,14,5,0,24,3,1,0,1,1,14,0,0,1,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woon- en zorgcentrum Nellestein,0363::SB737,,1039,710,5,4,129,265,53,28,73,65,37,13,0,16,4,1,1,1,0,17,0,0,4,3,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stichting Dorpshuis Driemond,0363::SB738,,1173,882,2,1,300,205,109,41,73,63,33,3,0,22,2,1,0,0,0,22,0,3,3,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bijlmerdrieschool,0363::SB739,,924,544,1,4,50,335,34,12,49,24,11,13,3,6,4,1,0,1,0,0,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Open Scholengemeenschap Bijlmer,0363::SB740,,1276,629,3,11,51,377,33,11,80,28,12,9,3,13,1,0,0,3,0,5,0,0,2,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Open Scholengemeenschap Bijlmer,0363::SB741,,1350,722,1,12,64,455,28,12,75,22,16,16,4,14,2,2,0,0,1,9,0,0,0,2,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sportcentrum Koryo - Oranjehorst,0363::SB742,,1470,842,1,4,80,494,41,24,91,61,20,12,0,5,4,2,0,1,0,5,1,0,1,0,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Academisch  Medisch Centrum (AMC),0363::SB743,,0,541,1,0,80,195,13,7,34,158,29,6,0,10,1,2,0,0,0,3,0,0,0,3,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Nellestein,0363::SB744,,1130,816,2,3,144,310,51,19,101,81,38,10,1,36,7,1,0,1,0,12,0,0,3,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool Klaverblad,0363::SB745,,1117,409,4,5,57,201,13,10,53,35,16,8,1,8,3,1,0,0,0,2,0,0,0,1,0
+Amsterdam,Amsterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum De Bonte Kraai,0363::SB746,,1091,455,3,13,48,266,21,8,44,35,11,6,0,8,2,1,0,1,0,4,0,0,0,0,0

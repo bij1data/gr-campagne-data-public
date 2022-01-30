@@ -1,0 +1,73 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Democraten 66 (D66),CDA - Europese Volkspartij,PVV (Partij voor de Vrijheid),VVD,SP (Socialistische Partij),P.v.d.A./Europese Sociaaldemocraten,ChristenUnie-SGP,GROENLINKS,Partij voor de Dieren,50PLUS,JEZUS LEEFT,DENK,De Groenen,Forum voor Democratie,vandeRegio & Piratenpartij,Volt Nederland
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Paleis-Raadhuis,0855::SB1,,2708,667,2,0,0,0,3,614,52,0,0,0,0,0,669,63,59,20,114,17,109,12,128,37,19,1,0,3,62,3,20
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Harmonie,0855::SB2,,1286,723,2,0,0,0,2,691,32,0,0,0,0,0,725,114,33,8,115,26,131,10,176,45,11,0,4,2,27,4,17
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum In De Boomtak,0855::SB3,,3449,1485,3,6,0,0,2,1374,118,0,0,0,0,0,1494,181,114,35,166,65,326,4,308,66,64,0,7,2,113,5,29
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Odulphuslyceum,0855::SB4,,2809,721,2,0,0,0,4,664,55,0,0,0,0,0,723,80,47,16,111,24,149,3,138,36,31,0,0,2,68,1,15
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Fontys Hogeschool Voor de Kunsten,0855::SB5,,3989,988,3,0,0,0,4,921,66,0,0,0,0,0,991,140,65,15,92,31,179,7,261,63,24,1,15,0,63,3,29
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum Koningshaven,0855::SB6,,5145,1094,5,2,0,2,2,1003,98,0,0,2,0,0,1103,94,61,64,124,62,174,5,213,66,57,3,9,6,125,4,27
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Regionaal Archief Tilburg,0855::SB7,,2372,1012,4,1,0,2,2,903,114,0,0,2,0,0,1019,103,60,21,176,51,206,9,177,60,34,0,1,4,78,0,32
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Pelgrimhoeve,0855::SB8,,2520,1096,4,4,0,0,1,989,117,0,0,3,0,0,1107,136,88,26,169,24,241,4,242,56,29,1,3,0,53,2,22
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Woonzorgcentrum Koningsvoorde,0855::SB11,,3725,980,2,1,0,0,2,899,82,0,0,0,0,0,983,74,90,72,81,72,167,10,121,46,60,0,34,4,132,1,16
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum De Nieuwe Stede,0855::SB12,,3059,1019,0,5,0,0,5,941,78,0,0,0,0,0,1024,106,64,34,107,47,155,10,216,77,40,1,11,2,121,2,26
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Seniorencomplex President Mandelahof,0855::SB13,,2612,742,5,5,0,0,3,685,64,0,0,0,0,0,752,69,43,46,65,42,132,1,133,35,32,1,15,3,100,5,20
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Servicecentrum Het Laar,0855::SB14,,2133,618,2,5,0,0,1,561,63,0,0,0,0,0,625,37,74,39,95,31,118,3,73,27,23,0,12,4,69,4,9
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum Spijkerbeemden,0855::SB15,,3379,574,2,4,0,0,1,521,58,0,0,0,0,0,580,37,52,30,48,39,94,2,76,20,37,1,34,0,87,1,16
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool De Alm,0855::SB16,,2294,429,1,0,0,0,2,370,58,0,0,0,0,0,430,27,21,41,18,53,72,4,49,16,20,2,9,0,90,0,7
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Openbare Basisschool De Blaak,0855::SB18,,2029,935,1,0,0,0,1,821,117,3,0,0,0,0,939,101,94,17,209,26,200,5,132,15,48,0,0,1,66,2,19
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sportcafé de Blaak,0855::SB19,,2748,1355,4,1,0,0,4,1181,178,3,0,3,0,0,1363,148,145,23,312,27,309,10,143,38,61,1,1,2,110,2,23
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Van Spaendonck Ondernemingshuis,0855::SB20,,657,302,0,1,0,0,1,263,39,0,0,0,0,0,303,40,32,8,50,11,47,7,40,16,3,0,19,0,22,0,7
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Woonzorgcentrum Zonnehof,0855::SB21,,2223,956,0,2,0,0,0,859,99,0,0,0,0,0,958,100,151,27,138,27,192,13,104,47,43,2,3,0,89,0,20
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Woonzorgcentrum Den Herdgang,0855::SB22,,2235,673,1,2,0,0,0,612,64,0,0,0,0,0,676,58,38,29,63,34,135,13,122,44,45,0,0,1,74,1,16
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Woonzorgcentrum Joannes Zwijsen,0855::SB23,,2679,931,3,1,0,2,3,854,80,0,0,2,0,0,937,96,74,26,107,46,178,7,204,50,22,1,8,4,71,4,33
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Woonzorgcentrum De Bijsterstede,0855::SB24,,2418,861,0,0,0,0,2,771,88,0,0,0,0,0,861,86,59,21,85,36,170,4,198,70,36,0,2,1,67,4,22
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool den Bijstere,0855::SB25,,2620,871,8,0,0,0,0,806,73,0,0,0,0,0,879,63,51,27,132,46,146,13,202,66,27,0,4,2,64,4,24
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Kindercampus Oculus,0855::SB26,,1972,532,1,0,0,0,2,477,54,0,0,0,0,0,533,48,27,23,53,29,104,7,126,23,25,3,6,1,43,3,11
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Woonzorgcentrum Padua,0855::SB27,,2234,587,2,2,0,0,1,537,53,0,0,0,0,0,591,36,37,28,60,46,116,9,95,35,36,0,6,1,73,1,8
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum de Baselaer,0855::SB28,,2425,758,3,3,0,0,2,675,87,0,0,0,0,0,764,76,38,39,76,47,144,7,127,32,36,1,26,1,81,1,26
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau TextielMuseum,0855::SB30,,4572,1225,3,3,0,0,2,1093,136,0,0,0,0,0,1231,114,54,56,113,71,238,12,253,82,42,3,10,8,138,6,25
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau MFA De Poorten,0855::SB31,,4705,979,0,2,0,0,3,884,94,0,0,0,0,0,981,96,35,57,70,88,143,6,185,58,54,1,48,1,116,3,18
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum De Ypelaer,0855::SB33,,2352,484,0,3,0,0,1,444,42,0,0,0,0,0,487,25,39,40,42,39,97,7,39,9,22,0,54,0,66,1,4
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool De Lochtenbergh,0855::SB34,,2228,309,1,0,0,0,0,277,33,0,0,0,0,0,310,21,19,30,23,37,57,6,18,14,21,1,27,0,33,0,2
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool De Vlashof,0855::SB35,,1848,376,0,1,0,0,0,341,36,0,0,0,0,0,377,18,31,26,25,27,56,4,37,11,34,1,33,0,69,1,3
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau MFA De Symfonie,0855::SB36,,2218,577,0,2,0,0,0,513,66,0,0,0,0,0,579,38,49,20,34,42,137,5,57,29,38,0,47,2,76,0,3
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zwembad Drieburcht (sportcafé),0855::SB37,,2127,806,3,3,0,0,0,739,73,0,0,0,0,0,812,53,63,43,70,42,156,5,106,29,65,2,45,0,117,1,9
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Woonzorgcentrum De Heikant,0855::SB38,,2522,719,1,1,0,0,6,655,60,0,0,0,0,0,721,37,80,39,81,55,164,12,63,22,75,4,10,0,65,1,11
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau 2College Cobbenhagen,0855::SB39,,1113,436,1,2,0,0,0,385,54,0,0,0,0,0,439,38,40,16,84,18,74,5,47,25,21,0,0,1,60,0,7
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool d'n Hazennest,0855::SB40,,2384,715,1,1,0,0,2,646,69,0,0,0,0,0,717,54,77,26,71,54,159,3,85,19,56,0,6,5,91,0,9
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Rooi Pannen,0855::SB41,,1596,472,1,1,0,0,0,439,35,0,0,0,0,0,474,39,42,23,40,33,69,7,76,28,20,2,33,2,48,1,9
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Parochiezaal de Goede Herder,0855::SB42,,2098,504,1,2,0,0,0,468,40,1,0,1,0,0,508,39,55,31,34,33,104,11,58,20,24,1,35,1,52,0,6
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Hazelaar,0855::SB43,,1431,267,1,1,0,1,2,241,25,0,1,0,0,0,268,25,23,12,28,21,59,4,31,7,22,1,3,0,30,0,1
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Woonzorgcentrum De Kievitshorst,0855::SB44,,1873,602,0,2,0,0,0,547,57,0,0,0,0,0,604,39,58,38,58,27,131,12,87,20,33,1,20,2,71,0,5
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum 't Sant,0855::SB45,,1690,707,2,4,0,0,2,644,67,0,0,0,0,0,713,61,49,31,96,39,124,10,98,32,30,3,44,0,77,1,12
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Serviceflat de Duynsberg,0855::SB46,,2929,680,3,2,0,1,0,623,63,0,0,1,0,0,686,50,97,57,69,46,124,17,65,21,36,4,26,0,61,1,6
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkgebouw Reinevaar,0855::SB47,,2749,836,2,1,0,0,2,745,92,0,0,0,0,0,839,69,70,44,98,58,191,14,91,37,41,3,25,1,82,1,11
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau The King of Italy,0855::SB49,,2496,638,1,2,0,0,0,571,70,0,0,0,0,0,641,48,45,25,89,39,145,8,52,30,47,1,9,2,80,1,17
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum Heyhoef,0855::SB50,,2409,1308,0,3,0,1,3,1156,153,0,0,1,0,0,1312,113,100,56,172,62,298,16,138,37,114,5,8,0,158,7,24
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Beatrix College,0855::SB51,,2382,957,1,5,0,1,1,840,123,0,0,1,0,0,964,114,99,38,157,33,172,11,105,21,51,2,11,1,119,0,23
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Scholencentrum Grote Beem,0855::SB52,,2527,676,1,1,0,0,0,588,90,0,0,0,0,0,678,71,57,35,137,36,113,8,62,17,36,0,13,0,82,1,8
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Bs De Boemerang,0855::SB53,,2650,666,0,2,0,0,0,543,125,0,0,0,0,0,668,51,41,20,142,43,116,4,51,20,38,0,3,1,122,0,14
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Woonzorgcentrum Reyshoeve,0855::SB55,,2421,663,1,4,0,0,0,602,66,0,0,0,0,0,668,46,49,45,71,52,128,5,59,33,52,1,3,1,106,1,11
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS de Fonkel,0855::SB56,,2095,648,2,5,0,0,0,597,58,0,0,0,0,0,655,41,48,46,55,60,119,12,72,29,33,1,16,2,103,3,8
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool De Sporckt,0855::SB57,,3246,770,1,0,0,0,0,666,105,0,0,0,0,0,771,81,65,29,126,37,140,12,66,39,39,1,2,0,116,2,15
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Openbare Basisschool Bibit,0855::SB58,,3407,762,2,1,0,1,0,698,68,0,0,1,0,0,766,64,71,32,142,42,145,7,54,26,41,4,8,0,113,1,12
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool Meander,0855::SB59,,2542,838,1,1,0,0,1,735,103,0,1,0,1,0,839,85,72,40,152,33,167,11,82,33,32,0,10,1,103,4,13
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Cultureel Centrum De Schalm,0855::SB60,,2667,1063,2,1,0,2,1,962,105,0,0,2,0,0,1068,113,189,12,231,24,228,10,85,25,46,1,0,2,78,0,19
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorgcentrum Torentjeshoef,0855::SB61,,2157,977,0,5,0,0,2,865,115,0,0,0,0,0,982,100,159,17,199,34,214,8,84,28,39,0,0,0,78,0,17
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sporthal 't Ruiven,0855::SB62,,2810,1101,1,2,0,0,0,963,141,0,0,0,0,0,1104,118,159,30,236,28,213,13,99,21,43,0,2,0,109,1,29
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool St. Caecilia,0855::SB63,,1422,696,0,3,0,0,0,609,91,0,0,1,0,1,700,87,117,12,174,10,124,8,60,12,37,0,0,1,48,0,6
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,"Stembureau Stichting de Peppel, locatie Kruisgebouw",0855::SB64,,2221,844,3,5,0,0,1,766,85,0,0,0,0,0,852,85,119,22,150,33,195,4,60,27,67,2,0,2,68,1,9
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Woonzorgcentrum De Eikelaar,0855::SB65,,2039,721,1,3,0,0,4,633,89,1,0,1,0,0,726,50,150,28,127,25,142,3,71,10,43,1,0,1,57,3,10
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool Achthoeven,0855::SB66,,2404,980,0,1,0,0,0,892,89,0,0,0,0,0,981,67,153,28,201,22,222,11,83,20,67,0,0,2,93,0,11
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurthuis Jeruzalem,0855::SB67,,1916,587,2,2,0,0,2,526,63,0,0,0,0,0,591,61,39,24,72,28,101,4,129,36,13,0,7,2,62,2,7
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Amarant ( koffiekamer zwembad ),0855::SB68,,508,203,0,1,0,0,0,179,24,0,1,0,0,0,203,12,27,17,45,5,37,1,12,5,9,0,1,1,25,0,6
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Openbare Basisschool Koolhoven,0855::SB69,,5238,921,2,1,0,1,0,822,103,0,0,1,0,0,925,102,70,36,242,19,142,5,110,24,29,1,9,1,116,1,14
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau wijkcentrum De Back,0855::SB70,,3322,1393,1,3,0,0,0,1203,194,0,0,0,0,0,1397,179,163,25,260,26,328,12,173,53,34,0,22,2,87,1,28
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Informatiecentrum Piushaven,0855::SB72,,1663,653,1,1,0,0,0,566,88,0,1,0,1,0,654,103,28,14,121,28,127,4,111,32,14,1,1,1,56,0,12
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Centraal Station Tilburg ( zuidzijde nabij fietsenstalling ),0855::SB701,,0,797,4,1,0,0,2,744,56,0,0,0,0,0,802,137,42,9,110,24,114,9,219,41,12,1,5,2,44,4,24
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Interpolis,0855::SB702,,0,415,0,1,0,0,4,365,46,0,1,0,1,0,415,64,24,5,87,12,79,2,85,21,5,0,3,2,16,2,8
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stembureau Koningsplein ( voorheen Bibliotheek Centrum ),0855::SB703,,0,719,1,0,0,0,3,645,72,0,0,0,0,0,720,78,32,21,83,41,117,7,143,56,34,2,5,1,76,1,22
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Tilburg University ( Dante - ruimte DZ 5 ),0855::SB704,,1934,1471,2,3,0,1,8,1365,104,0,0,1,0,0,1477,219,116,14,308,20,222,25,291,50,16,0,27,5,95,6,57
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Fontys Hogeschool Campus Stappegoor,0855::SB705,,677,345,1,1,0,0,0,315,32,0,0,0,0,0,347,61,14,2,55,11,64,0,85,13,5,0,4,2,22,1,6
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau ETZ St. Elisabeth Ziekenhuis,0855::SB706,,0,458,0,3,0,0,37,422,2,0,0,0,0,0,461,43,64,15,64,19,74,5,71,11,19,0,8,1,52,0,12
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau ETZ TweeSteden Ziekenhuis ( bezoekersrestaurant 1e etage ),0855::SB707,,0,202,0,3,0,1,2,180,19,0,4,0,0,0,201,35,13,4,25,8,40,1,28,4,9,1,3,1,27,0,3
+,Tilburg,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Centraal Station Tilburg ( noordzijde ),0855::SB711,,0,859,8,2,0,0,6,806,56,0,1,0,1,0,868,128,37,8,99,20,145,4,264,60,15,1,2,5,39,5,27

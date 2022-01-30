@@ -1,0 +1,23 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,CDA,SP (Socialistische Partij),Lokale Onafhankelijke Fractie (LOF),PK (Progressieve Kombinatie),VDB/LO,VVD
+,Boxmeer,GR2018_Boxmeer,Gemeenteraad Boxmeer 2018,0756,Boxmeer,2018-03-21,Stembureau Zorgcentrum Symfonie,0756::SB1,5831 ZZ,1271,728,4,7,0,0,0,673,66,0,0,0,0,0,739,272,224,60,66,4,102
+,Boxmeer,GR2018_Boxmeer,Gemeenteraad Boxmeer 2018,0756,Boxmeer,2018-03-21,Stembureau de Weijerdonck,0756::SB2,5831 JV,1293,650,4,3,0,0,0,605,52,0,0,0,0,0,657,218,155,64,123,2,88
+,Boxmeer,GR2018_Boxmeer,Gemeenteraad Boxmeer 2018,0756,Boxmeer,2018-03-21,Stembureau Wijkcentrum De Driewiek,0756::SB3,5831 VV,1119,616,8,0,0,0,0,572,52,0,0,0,0,0,624,135,293,45,77,6,60
+,Boxmeer,GR2018_Boxmeer,Gemeenteraad Boxmeer 2018,0756,Boxmeer,2018-03-21,Stembureau Kinderkenniscentrum 't Bolwerk,0756::SB4,5831 CR,1376,559,2,0,0,1,0,508,52,0,1,0,0,0,560,166,225,38,77,6,47
+,Boxmeer,GR2018_Boxmeer,Gemeenteraad Boxmeer 2018,0756,Boxmeer,2018-03-21,Stembureau Jenaplan Kindcentrum (de Peppels),0756::SB5,5831 CA,1243,595,5,4,0,0,0,555,49,0,0,0,0,0,604,177,261,29,69,7,52
+,Boxmeer,GR2018_Boxmeer,Gemeenteraad Boxmeer 2018,0756,Boxmeer,2018-03-21,Stembureau Restaria De Flip,0756::SB6,5831 MB,1216,995,6,1,0,0,0,917,85,0,0,0,0,0,1002,250,380,91,144,13,117
+,Boxmeer,GR2018_Boxmeer,Gemeenteraad Boxmeer 2018,0756,Boxmeer,2018-03-21,Stembureau Buurthuis de Elsenhof,0756::SB7,5836 AN,1389,875,3,1,0,0,0,792,88,0,0,0,0,0,880,413,256,39,83,12,72
+,Boxmeer,GR2018_Boxmeer,Gemeenteraad Boxmeer 2018,0756,Boxmeer,2018-03-21,Stembureau MFC Het Kruispunt,0756::SB8,5835 AT,1477,941,8,6,0,0,0,849,106,0,0,0,0,0,955,213,160,425,56,6,81
+,Boxmeer,GR2018_Boxmeer,Gemeenteraad Boxmeer 2018,0756,Boxmeer,2018-03-21,Stembureau Gemeenschapshuis de Kleppenburg,0756::SB9,5441 BK,1836,1297,2,5,0,2,0,1169,133,0,2,0,0,0,1302,96,111,970,63,3,54
+,Boxmeer,GR2018_Boxmeer,Gemeenteraad Boxmeer 2018,0756,Boxmeer,2018-03-21,Stembureau Dorpshuis de Poel,0756::SB10,5447 AW,1342,939,4,1,0,0,0,867,77,0,0,0,0,0,944,162,92,613,30,0,42
+,Boxmeer,GR2018_Boxmeer,Gemeenteraad Boxmeer 2018,0756,Boxmeer,2018-03-21,Stembureau Gemeenschapshuis,0756::SB11,5827 AL,531,374,2,0,0,0,0,331,45,0,0,0,0,0,376,199,84,30,28,12,21
+,Boxmeer,GR2018_Boxmeer,Gemeenteraad Boxmeer 2018,0756,Boxmeer,2018-03-21,Stembureau Café 't Trefpunt,0756::SB12,5824 AB,395,235,0,0,0,0,0,209,26,0,0,0,0,0,235,19,46,3,56,97,14
+,Boxmeer,GR2018_Boxmeer,Gemeenteraad Boxmeer 2018,0756,Boxmeer,2018-03-21,Stembureau Plein 27,0756::SB13,5823 AB,727,442,1,1,0,0,0,401,41,0,2,0,2,0,442,124,72,4,33,191,18
+,Boxmeer,GR2018_Boxmeer,Gemeenteraad Boxmeer 2018,0756,Boxmeer,2018-03-21,Stembureau Koningskerkje,0756::SB14,5821 BB,1002,675,6,1,0,0,0,602,80,0,0,0,0,0,682,174,106,14,71,281,29
+,Boxmeer,GR2018_Boxmeer,Gemeenteraad Boxmeer 2018,0756,Boxmeer,2018-03-21,Stembureau Café de Zandpoort,0756::SB15,5826 AD,355,236,2,0,0,0,0,216,22,0,0,0,0,0,238,66,30,2,15,109,14
+,Boxmeer,GR2018_Boxmeer,Gemeenteraad Boxmeer 2018,0756,Boxmeer,2018-03-21,Stembureau Gemeenschapshuis De Pit (1),0756::SB16,5825 CC,1572,828,8,2,0,0,0,754,84,0,0,0,0,0,838,155,71,8,64,505,25
+,Boxmeer,GR2018_Boxmeer,Gemeenteraad Boxmeer 2018,0756,Boxmeer,2018-03-21,Stembureau Gemeenschapshuis De Pit (2),0756::SB17,5825 CC,1496,1034,5,3,0,0,0,926,116,0,0,0,0,0,1042,227,78,4,76,607,42
+,Boxmeer,GR2018_Boxmeer,Gemeenteraad Boxmeer 2018,0756,Boxmeer,2018-03-21,Stembureau ABAB-kantoor,0756::SB18,5831 PJ,1221,693,7,1,0,0,0,637,64,0,0,0,0,0,701,284,152,75,81,8,93
+,Boxmeer,GR2018_Boxmeer,Gemeenteraad Boxmeer 2018,0756,Boxmeer,2018-03-21,Stembureau Zaal  't Drummerke,0756::SB19,5831 GK,1343,572,6,0,0,0,0,523,55,0,0,0,0,0,578,194,148,43,84,4,99
+,Boxmeer,GR2018_Boxmeer,Gemeenteraad Boxmeer 2018,0756,Boxmeer,2018-03-21,Stembureau Gemeenschapshuis Joffershof,0756::SB20,5821 AW,1055,564,1,0,0,1,0,515,51,0,0,1,0,0,566,153,101,7,56,216,31
+,Boxmeer,GR2018_Boxmeer,Gemeenteraad Boxmeer 2018,0756,Boxmeer,2018-03-21,Stembureau Gemeentehuis,0756::SB21,5831 JX,0,408,3,0,0,0,0,378,33,0,0,0,0,0,411,108,116,51,76,5,52
+,Boxmeer,GR2018_Boxmeer,Gemeenteraad Boxmeer 2018,0756,Boxmeer,2018-03-21,Stembureau Mobiel stembureau,0756::SB22,,0,108,2,2,0,0,0,103,9,0,0,0,0,0,112,73,17,5,3,4,6

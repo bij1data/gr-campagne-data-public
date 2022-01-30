@@ -1,0 +1,28 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_kwijtgeraakte stembiljetten,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,VVD,CDA,Weert Lokaal,Partij van de Arbeid (P.v.d.A.),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 1-Stadhuis,0988::SB1,,1827,1436,8,2,0,0,0,1316,130,0,0,0,0,0,0,1446,312,265,371,134,183,150,21
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 3-Odaschool Anjelierstraat,0988::SB2,,1858,892,11,3,0,0,0,814,92,0,0,0,0,0,0,906,149,112,239,81,191,108,12
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 4-Blokhut Scouting Fatima,0988::SB3,,2107,940,0,11,1,0,0,857,93,0,0,1,0,0,0,950,77,117,319,144,211,59,13
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 5-Jongerencentrum M29,0988::SB4,,1046,598,0,4,1,0,0,546,57,0,0,0,1,0,0,603,168,94,133,50,80,62,11
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 6-Basisschool Aan de Bron,0988::SB5,,1457,789,3,9,0,0,0,717,85,0,1,0,1,0,0,802,98,96,270,107,119,78,21
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 7-Zorgcentrum Hieronymus,0988::SB6,,1568,818,8,3,0,0,0,729,100,0,0,0,0,0,0,829,167,127,224,82,129,71,18
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 8-Gemeenschapscentrum Pius X-hof,0988::SB7,,1820,712,4,5,0,0,0,641,80,0,0,0,0,0,0,721,91,98,175,100,156,67,25
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 9-School Het Dal,0988::SB8,,1914,1020,8,9,0,0,0,928,109,0,0,0,0,0,0,1037,107,151,274,170,192,102,24
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 10-Sportpark Graswinkel,0988::SB9,,1883,946,2,2,2,0,0,850,102,0,0,0,2,0,0,952,157,171,263,73,151,112,19
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 11-MFA Kimpeveld,0988::SB10,,800,479,9,0,0,0,0,457,31,0,0,0,0,0,0,488,64,179,112,20,50,32,22
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 12-Sportpark Op den Das,0988::SB11,,871,476,3,0,0,0,0,422,57,0,0,0,0,0,0,479,72,177,77,23,42,76,9
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 13-Trefcentrum Willem Litjenshof,0988::SB12,,1762,970,9,3,0,0,0,881,101,0,0,0,0,0,0,982,200,201,329,44,112,72,12
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 14-Kantine SV Laar,0988::SB13,,2423,1108,5,2,0,0,0,976,139,0,0,0,0,0,0,1115,258,187,287,83,116,148,29
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 15-St. Franciscusschool,0988::SB14,,1376,744,6,0,0,1,0,679,70,0,0,1,0,0,0,749,198,168,169,46,81,74,8
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 17-Schutterslokaal de Krang,0988::SB15,,686,370,3,0,0,0,0,347,26,0,0,0,0,0,0,373,83,150,50,12,44,27,4
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 20-School Het Palet,0988::SB16,,930,407,2,8,0,1,0,382,36,0,0,0,1,0,0,418,46,83,110,60,63,37,8
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 22-Van Berloheem,0988::SB17,,1090,442,2,1,0,0,0,415,30,0,0,0,0,0,0,445,68,94,127,61,68,21,3
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 23-Sporthal Leuken,0988::SB18,,1322,810,3,2,0,0,0,721,94,0,0,0,0,0,0,815,141,125,261,86,122,66,9
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 24-School Nassauhof,0988::SB19,,1204,627,4,3,0,0,0,582,52,0,0,0,0,0,0,634,92,101,182,72,104,67,9
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 25-St. Theuniskapel,0988::SB20,,1331,888,0,3,0,1,0,782,108,0,0,1,0,0,0,890,295,183,146,65,83,109,7
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 26-Wijkgebouw Groenewoud,0988::SB21,,1317,686,6,3,0,0,0,623,72,0,0,0,0,0,0,695,85,70,241,107,135,32,16
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 27-Jeugdgebouw Leuken,0988::SB22,,1934,835,3,4,0,0,0,742,101,0,1,0,1,0,0,843,191,101,290,48,119,59,27
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 28-Stemlokaal Moesel,0988::SB23,,1168,674,6,3,0,0,0,614,69,0,0,0,0,0,0,683,106,142,196,84,93,42,11
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 30-Odaschool Annendaal,0988::SB24,,1663,795,5,1,0,0,0,715,86,0,0,0,0,0,0,801,110,82,220,90,207,67,19
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 34-Gemeenschapscentrum De Zaal,0988::SB25,,1910,1087,7,1,0,0,0,1010,85,0,0,0,0,0,0,1095,98,441,266,45,117,99,21
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 35-Trefcentrum voor Ouderen,0988::SB26,,2250,1089,5,2,0,0,0,1000,95,0,0,1,0,0,1,1095,118,508,237,57,78,70,21
+,Weert,GR2014_Weert,Gemeenteraad Weert 2014,0988,Weert,2014-03-19,Stembureau 38-Mobiele stembureau,0988::SB27,,1,450,3,3,0,0,0,424,32,0,0,0,0,0,0,456,73,83,120,26,85,51,12

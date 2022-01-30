@@ -1,0 +1,77 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,VVD,Partij van de Arbeid (P.v.d.A.),PVV (Partij voor de Vrijheid),Christen Democratisch Appèl (CDA),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,ChristenUnie,Staatkundig Gereformeerde Partij (SGP),Partij voor de Dieren,Piratenpartij,Partij voor Mens en Spirit (MenS),Nederland Lokaal,Libertarische Partij (LP),Democratisch Politiek Keerpunt DPK,50PLUS,Liberaal Democratische Partij (LibDem),Anti Europa Partij,SOPN,Partij van de Toekomst (PvdT)
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadhuis Arnhem,0202::SB1,,1747,2100,6,8,435,602,101,65,294,325,117,29,2,75,26,4,0,1,2,16,1,0,4,1
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Huis der Provincie,0202::SB2,,1330,784,0,1,171,225,48,23,88,105,41,13,3,39,7,2,0,1,0,16,0,0,2,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Introdans (hoofdgebouw),0202::SB3,,1150,823,3,8,160,246,32,21,125,114,57,10,0,35,12,2,0,2,0,1,2,0,2,2
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum 't Huukske,0202::SB4,,1182,930,0,1,168,299,42,29,118,109,89,15,1,44,3,0,0,0,0,8,0,0,3,2
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum Huis en Haard,0202::SB5,,904,651,4,1,137,200,24,37,45,127,37,12,0,18,1,2,0,0,0,8,1,0,2,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kerkelijk Kultureel Centrum,0202::SB6,,1055,801,0,0,122,241,31,39,130,101,66,21,7,20,2,0,0,0,0,17,1,0,0,3
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau ROC Rijn IJssel College,0202::SB7,,1483,1123,5,0,191,371,41,25,159,167,97,15,1,36,4,6,0,0,0,7,0,0,3,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bezoekerscentrum Sonsbeek,0202::SB8,,1052,1018,3,1,233,315,22,24,79,195,82,19,1,31,4,2,0,0,0,7,0,2,2,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum de Bakermat,0202::SB9,,1626,1413,0,1,458,319,39,91,65,286,74,25,0,23,2,3,0,1,0,26,0,0,1,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Pieter Brueghelschool,0202::SB11,,1126,1129,0,0,422,237,15,58,46,249,41,24,3,21,1,4,0,0,0,5,1,0,2,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool Het Palet,0202::SB12,,1219,1121,2,2,365,249,33,65,49,223,69,20,1,35,1,6,0,0,0,3,1,0,1,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Siza Dorp Groep,0202::SB13,,1412,1021,0,0,442,166,48,92,49,128,27,23,5,18,3,3,0,1,0,16,0,0,0,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Emmausschool,0202::SB14,,1202,963,1,0,227,294,33,69,79,125,49,28,4,33,2,1,0,1,0,15,0,0,3,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Rode Kruisgebouw,0202::SB15,,1296,1263,2,1,327,360,66,76,121,158,69,18,6,32,1,2,0,1,1,23,1,0,1,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau ROC Rijn IJssel (Vakschool Wageningen),0202::SB16,,1350,1151,4,3,271,329,40,57,137,174,64,23,1,40,1,2,0,0,0,10,0,0,2,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Jan Ligthartschool,0202::SB17,,1775,1352,2,3,230,399,51,33,192,234,99,24,0,61,7,8,0,1,1,8,1,0,2,1
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool Kunstrijk,0202::SB18,,1367,927,3,0,152,280,29,17,134,191,65,7,5,33,7,4,0,0,0,1,1,0,1,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum de Hommel,0202::SB19,,1349,945,8,0,184,300,34,17,116,165,77,10,1,30,5,2,0,0,0,3,0,0,1,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkwinkel Klarendal,0202::SB21,,1515,1234,1,13,116,448,88,34,221,161,81,3,1,42,9,9,1,2,0,11,0,1,3,3
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum Klarendal,0202::SB22,,1621,728,0,4,57,252,70,23,137,76,52,10,2,26,9,3,0,2,0,8,0,0,1,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Jongerencentrum De Mix,0202::SB24,,1808,990,3,3,115,327,98,21,151,120,76,16,1,44,2,6,0,1,0,9,0,0,2,1
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Rijn IJssel College (sector Educatie),0202::SB25,,1228,1078,1,1,242,311,42,53,113,186,63,14,1,32,7,2,0,0,0,11,0,0,1,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Jozef Sartoschool,0202::SB26,,1342,1007,0,2,197,288,67,43,143,133,76,10,3,25,5,5,0,1,0,9,1,0,1,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum Drie Gasthuizen,0202::SB27,,1723,1456,0,2,420,388,33,110,70,278,76,24,3,37,2,0,0,0,0,10,2,0,3,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Opstandingskerk (hoofdingang),0202::SB29,,1217,1070,1,2,178,336,95,61,122,137,65,22,2,35,4,3,0,0,0,10,0,0,0,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Vlindertuin,0202::SB30,,1765,1029,1,4,93,354,168,31,177,73,31,16,4,38,4,10,0,3,0,24,1,0,2,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum De Grenspost,0202::SB31,,1001,596,1,1,84,156,130,20,100,41,9,3,6,16,2,9,0,1,0,17,0,0,1,1
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau MFC De Geitenkamp,0202::SB32,,1497,870,0,2,65,298,151,19,196,40,29,9,6,33,5,5,0,0,0,10,1,0,2,1
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum De Paasberg,0202::SB34,,1604,1369,3,0,363,405,64,85,88,209,74,29,2,28,1,0,0,0,0,20,0,0,1,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum Vreedenhoff,0202::SB35,,1148,852,1,0,192,204,46,160,59,82,19,30,6,27,1,4,0,1,0,18,2,0,0,1
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau SWOA De Weldam,0202::SB36,,1359,1072,1,5,275,232,115,124,118,98,25,21,4,13,3,2,0,3,0,38,0,0,0,1
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dr. W. Dreesschool,0202::SB37,,1541,1045,0,9,167,390,141,69,118,75,16,10,1,16,4,2,0,0,0,36,0,0,0,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kantine AV & AC Eendracht,0202::SB38,,1499,1002,1,2,164,361,127,63,127,61,14,18,2,23,2,0,0,0,0,34,0,0,4,2
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum De Overkant,0202::SB42,,1574,720,4,2,60,300,110,34,126,32,7,8,1,16,5,2,1,0,0,14,0,0,1,3
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau MFC Presikhaven,0202::SB43,,1959,1075,2,3,177,362,144,56,157,71,21,32,5,21,7,1,0,0,0,15,0,0,2,4
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau MFC Presikhaven,0202::SB45,,1355,1018,2,9,102,423,119,61,155,65,33,15,0,13,7,2,0,0,0,20,0,0,1,2
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum Waalstaete,0202::SB47,,1418,937,0,6,116,389,92,66,136,44,18,14,2,24,2,0,0,0,2,28,0,1,2,1
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum Symfonie,0202::SB49,,1637,1007,3,4,78,418,99,63,138,95,37,20,1,31,10,6,0,0,0,9,0,0,0,2
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hugo de Grootschool,0202::SB50,,1220,766,0,0,98,291,62,28,111,79,35,19,6,16,4,2,0,0,0,13,0,0,2,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool De Sterrenkring,0202::SB51,,1742,1181,3,0,201,350,42,28,174,188,114,11,0,54,3,4,0,2,0,6,0,0,2,2
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Lutherse Kerk Arnhem,0202::SB52,,1207,844,10,2,166,247,50,24,127,100,57,12,1,41,8,2,0,0,0,3,0,1,4,1
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum De Lommerd,0202::SB53,,1976,1541,4,3,243,478,63,16,245,263,121,8,3,66,13,6,2,1,1,6,0,0,5,1
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurthuis De Paperclip,0202::SB55,,1855,771,2,2,120,273,63,23,103,84,35,12,1,32,8,5,1,1,0,6,0,0,3,1
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau MFC De Spil,0202::SB58,,1264,811,1,0,77,330,75,25,161,43,29,22,1,27,5,3,0,0,0,11,0,0,0,2
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kantine v.v. MASV,0202::SB59,,1642,943,2,2,182,385,74,25,140,63,21,12,0,23,6,0,0,0,0,8,1,1,2,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Malburcht,0202::SB60,,2268,1509,2,3,201,495,264,45,254,100,40,34,5,34,6,3,0,1,3,21,0,1,2,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum Eilandstaete,0202::SB62,,1837,891,5,2,182,291,105,45,105,77,17,18,5,27,2,2,0,1,0,8,0,0,6,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Boerderij 't Duifje,0202::SB63,,1233,802,1,1,109,271,138,39,141,28,20,6,0,22,2,0,0,0,0,24,0,0,1,1
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool het Mozaïek,0202::SB64,,1073,545,0,5,27,316,47,15,88,15,13,5,1,8,1,2,1,0,0,5,0,0,1,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool het Mozaïek,0202::SB65,,1614,858,2,5,67,389,169,44,120,15,12,6,3,16,0,0,0,0,6,11,0,0,0,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum Malburgstaete,0202::SB67,,1894,1212,0,6,112,460,180,85,193,43,22,37,6,26,4,2,2,0,1,35,0,0,2,2
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool de Piramide,0202::SB70,,1039,941,0,0,262,275,67,51,79,91,27,26,14,24,1,4,0,0,0,15,0,1,0,4
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dr. Aletta Jacobsschool,0202::SB71,,1003,696,2,2,60,331,66,15,98,32,21,19,4,25,3,2,0,0,1,16,0,1,1,1
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau SWOA de Petersborg,0202::SB72,,1717,1262,2,0,215,412,132,87,167,89,22,49,3,31,4,6,0,0,0,45,0,0,0,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Jongerencentrum de Madser,0202::SB74,,1321,765,1,7,82,273,112,37,131,45,12,10,8,28,4,0,0,1,0,18,0,0,3,1
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Jongerencentrum de Madser,0202::SB75,,1288,799,1,2,120,284,111,35,139,26,13,12,1,15,0,0,0,1,4,37,0,0,1,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dorpshuis Ons Gebouw Elden,0202::SB76,,1673,1222,2,1,323,299,125,130,141,116,22,15,0,19,2,5,0,0,1,23,0,0,1,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sporthal Elderveld,0202::SB77,,1655,1225,1,2,203,431,95,49,168,122,37,29,6,42,4,3,0,0,0,32,0,0,1,3
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum Elderveld,0202::SB78,,1315,1027,2,0,192,344,96,51,122,90,26,32,8,24,1,4,1,0,1,35,0,0,0,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau SWOA De Gaanderij,0202::SB79,,1401,971,6,1,104,304,151,36,210,40,16,29,12,22,5,1,0,2,2,29,0,0,3,5
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wooncentrum Jan Hovingflat,0202::SB80,,1469,1043,3,1,157,334,138,49,173,47,21,40,8,29,1,0,0,1,5,37,0,0,0,3
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kerkelijk Centrum de Kandelaar,0202::SB81,,1445,997,4,2,149,359,125,59,122,50,22,30,2,34,6,3,1,0,0,35,0,0,0,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Brede School De Laar-West,0202::SB83,,1680,1110,6,3,197,349,138,50,176,78,34,25,0,34,4,2,0,1,0,19,0,0,3,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Brede School De Laar-West,0202::SB84,,1532,952,3,3,156,297,128,45,146,77,17,26,2,20,2,4,0,0,4,22,0,2,0,4
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sport&ontmoetingscentr de Laar-West,0202::SB85,,1443,1086,2,3,229,332,154,43,156,69,20,23,2,21,7,1,0,1,1,24,0,1,1,1
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Brede School Het Startblok,0202::SB87,,1715,1137,1,1,241,369,108,43,177,95,30,12,4,32,4,4,1,0,0,15,0,0,1,1
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum Boerderij de Kroon,0202::SB88,,1600,1167,1,3,205,370,145,37,218,64,31,37,4,28,4,2,0,0,0,20,0,0,0,2
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Brede School Het Startblok,0202::SB89,,1551,1066,3,1,187,332,137,40,170,86,30,22,4,33,2,0,0,1,1,17,1,0,0,3
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gemeenschapsruimte Rijkershof,0202::SB90,,1995,1138,2,3,252,384,145,34,147,62,25,15,1,25,2,4,0,0,4,33,0,1,3,1
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sportcentrum Rijkerswoerd,0202::SB91,,1613,1076,0,5,309,334,88,52,114,83,30,16,0,21,3,5,0,0,1,20,0,0,0,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau SWOA 't Pluspunt,0202::SB92,,2166,1594,1,2,438,534,161,48,161,139,32,22,1,29,4,2,0,0,1,19,1,0,1,1
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cultureel Centrum Rijkerswoerd,0202::SB93,,1974,1694,2,8,419,549,179,55,197,143,35,37,4,39,7,6,0,0,2,22,0,0,0,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Lea Dasbergschool,0202::SB94,,1100,753,1,0,153,268,100,25,98,33,28,12,0,13,6,3,0,0,0,14,0,0,0,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Brede School De Salamander,0202::SB96,,1621,1554,3,2,567,424,123,52,124,158,32,28,5,26,3,3,0,1,0,7,0,0,1,0
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Infocentrum Schuytgraaf,0202::SB97,,1681,1239,1,9,401,331,97,53,129,131,31,20,3,23,3,3,0,1,1,9,1,0,1,1
+Arnhem,Arnhem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool Het JongLeren,0202::SB98,,2304,1508,4,1,524,405,79,52,139,193,39,35,3,14,5,4,0,0,1,12,1,0,2,0

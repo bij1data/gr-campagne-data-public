@@ -1,0 +1,55 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,VVD,Partij van de Arbeid (P.v.d.A.),PVV (Partij voor de Vrijheid),Christen Democratisch Appèl (CDA),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,ChristenUnie,Staatkundig Gereformeerde Partij (SGP),Partij voor de Dieren,Piratenpartij,Partij voor Mens en Spirit (MenS),Nederland Lokaal,Libertarische Partij (LP),Democratisch Politiek Keerpunt DPK,50PLUS,Liberaal Democratische Partij (LibDem),Anti Europa Partij,SOPN,Partij van de Toekomst (PvdT)
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau het Raadhuis,0228::SB1,6711 DD,1508,939,0,0,322,126,41,123,29,77,28,88,64,17,1,0,0,0,0,18,0,2,3,0
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau ETC,0228::SB2,6711 JM,1393,1103,4,0,412,127,51,119,51,111,36,90,70,23,1,5,0,0,0,6,0,0,0,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verzorgingshuis De Klinkenberg,0228::SB3,6711 KX,1539,1175,0,0,387,159,81,139,46,110,30,100,57,39,3,5,0,0,2,13,0,0,3,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Vilente St.Barbara,0228::SB4,6711 NT,1387,1120,1,3,382,152,71,152,46,108,31,74,42,17,0,5,0,0,0,38,1,0,0,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Trouwzaal Raadhuis,0228::SB5,6711 DE,1505,1382,3,1,504,214,118,125,66,82,28,149,58,14,2,0,0,1,0,20,0,0,0,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Wonewei,0228::SB6,6716 SL,1559,1101,0,1,308,237,76,95,69,87,15,138,31,14,7,1,0,1,1,19,0,0,2,0
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau CNS De Meander,0228::SB7,6718 EB,1270,835,0,0,273,167,36,82,51,62,18,81,49,7,1,0,1,0,0,7,0,0,0,0
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gebouw Het kruispunt,0228::SB8,6718 DG,1290,933,1,0,279,184,35,79,46,62,8,148,64,11,1,0,1,0,0,13,0,0,2,0
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gebouw Buurtbeheer,0228::SB9,6718 VE,1123,923,0,2,276,86,70,94,32,39,17,67,231,1,1,3,0,0,0,6,0,0,0,0
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Restaurant Buitenzorg,0228::SB10,6712 GG,1674,1257,1,2,398,199,107,137,58,78,17,127,87,16,5,3,0,0,0,23,0,0,1,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool De Lettertuin,0228::SB11,6712 DR,1651,1356,1,0,363,174,111,173,68,74,29,139,186,16,4,2,0,0,0,16,0,0,0,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cultura,0228::SB12,6711 AW,1608,1534,1,3,448,200,130,186,90,88,35,181,124,18,5,1,0,1,0,25,0,1,0,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau het Kerkgebouw (aan de rotonde),0228::SB13,6713 AG,1593,1058,1,3,173,281,162,78,82,33,17,95,80,15,4,1,0,1,0,31,0,0,2,3
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum De Kolk,0228::SB14,6713 BA,1790,1328,2,3,337,230,177,107,104,83,17,83,111,23,5,2,0,0,0,43,0,1,4,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Speeltuin De Korenbloem,0228::SB15,6713 DW,1465,918,0,3,261,133,78,92,74,53,17,88,93,11,4,0,0,0,1,11,1,0,0,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verzorgingshuis Het Maanderzand,0228::SB16,6713 MG,1542,1269,1,1,358,200,67,188,58,76,42,146,84,28,3,2,0,0,0,12,0,0,4,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Gelderhorst,0228::SB17,6716 RK,1514,1183,1,1,399,223,80,109,81,68,21,124,34,11,3,0,0,1,1,25,0,0,3,0
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kerkelijk Centrum Emmaüs,0228::SB18,6716 JE,3084,2470,1,3,828,434,189,225,147,174,56,277,63,34,5,3,0,0,1,25,0,0,7,2
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Vilente De Pleinen,0228::SB20,6714 DH,1662,1101,2,5,192,311,115,86,98,72,22,116,29,21,4,0,0,0,1,31,0,0,2,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kantoor RVS,0228::SB21,6714 BS,1804,1245,1,2,285,264,97,146,75,54,22,158,80,27,6,2,1,1,1,21,0,0,3,2
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ons Eigen Honk,0228::SB22,6713 GX,1630,1280,0,5,300,315,131,123,77,63,22,131,52,22,3,1,0,0,1,38,0,0,0,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Ark,0228::SB23,6715 JM,1671,1321,0,0,326,279,80,144,65,113,41,170,39,26,5,0,0,2,0,28,2,0,0,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum De Velder,0228::SB24,6715 EC,1709,1310,2,4,258,310,130,113,129,77,17,154,57,21,4,2,1,0,4,29,0,0,2,2
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Open Hof,0228::SB26,6715 AJ,1598,1242,3,1,298,256,93,118,75,123,31,161,43,20,0,3,0,0,1,17,0,0,3,0
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum Veldhuizen,0228::SB29,6714 KK,1654,1117,6,2,223,307,93,84,74,66,21,154,60,15,3,2,0,1,1,12,0,0,0,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau de Bethelkerk,0228::SB30,6717 KE,1414,1398,0,0,356,209,109,159,92,106,41,183,84,26,2,2,0,2,0,24,0,1,2,0
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau de Koepelschool,0228::SB33,6717 AS,1849,1134,4,1,179,236,116,95,93,62,15,231,62,18,5,2,0,1,1,16,0,0,2,0
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Meerpaal,0228::SB34,6717 EL,1587,1185,4,6,201,318,113,100,109,77,27,127,49,16,8,3,0,1,3,27,0,1,1,4
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau de Beatrixschool,0228::SB35,6717 SB,1485,1201,2,0,236,330,132,82,120,59,17,127,37,22,2,4,0,0,0,27,0,0,5,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau ROC A12,0228::SB36,6717 LG,1549,1168,2,2,260,203,87,119,75,66,28,182,109,13,2,0,0,0,0,21,0,1,2,0
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool 't Palet,0228::SB37,6717 VT,1605,1175,0,1,313,253,108,91,86,87,18,142,39,10,1,1,1,0,0,22,0,0,1,2
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum De Maanen,0228::SB38,6716 RH,1587,1053,2,2,218,246,120,73,88,68,18,87,84,17,3,3,0,0,0,25,0,0,1,2
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ziekenhuis Gelderse Vallei,0228::SB39,6716 RP,0,503,1,2,116,78,28,59,48,44,7,66,38,9,1,1,0,0,0,7,0,0,1,0
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 't Kerkheem,0228::SB40,6721 EZ,1645,1731,1,3,459,302,77,268,77,198,59,140,67,39,2,3,0,0,0,35,0,0,4,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gebouw Ned. Protestantenbond,0228::SB41,6721 ET,1739,1405,1,1,427,282,34,182,63,199,50,67,60,28,1,2,0,0,0,6,0,0,3,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Edelzanger,0228::SB42,6721 DC,1685,1331,0,1,374,238,100,126,96,118,60,92,77,32,1,1,0,0,0,15,0,0,0,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Walraven,0228::SB43,6721 PG,1518,1089,1,0,341,196,43,144,51,98,29,91,67,10,3,0,0,0,0,15,0,0,0,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Brink,0228::SB45,6721 WR,1584,1341,1,2,330,239,86,191,60,108,38,135,105,18,2,1,0,0,1,25,0,0,2,0
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau de Julianaschool,0228::SB46,6721 ZJ,1581,1370,1,4,323,254,115,182,102,111,40,130,64,15,2,1,0,0,3,24,0,0,2,2
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Tennishal Keltenwoud,0228::SB47,6721 MR,1243,912,0,1,272,133,55,104,43,93,17,101,72,11,3,2,0,0,0,5,0,0,1,0
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau de School met de Bijbel,0228::SB49,6721 NP,916,815,1,3,241,26,33,167,2,14,6,119,195,8,0,1,0,0,0,3,0,0,0,0
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum De Honskamp,0228::SB50,6741 AK,1658,1450,0,3,491,94,71,241,42,85,18,94,279,16,0,0,0,0,0,17,0,0,1,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bibliotheek Lunteren,0228::SB51,6741 AV,1730,1504,2,1,441,108,80,250,41,66,19,120,340,18,1,2,0,1,0,16,0,0,1,0
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Euterpe,0228::SB52,6741 AA,1666,1317,0,2,401,107,105,163,42,63,18,97,279,10,3,5,0,0,2,19,0,1,1,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum De Schakel,0228::SB53,6741 WV,1153,872,4,0,174,137,96,128,52,23,13,67,145,8,2,0,0,0,1,22,0,0,0,4
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hotel-Bistro De Wormshoef,0228::SB55,6741 NE,1159,1090,0,0,302,48,62,146,11,30,11,61,405,8,0,1,0,1,1,3,0,0,0,0
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau de Nederwoudschool,0228::SB58,6741 NE,959,800,0,3,124,12,43,119,6,14,6,59,408,7,1,0,0,0,0,0,0,0,0,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool De Valk,0228::SB59,6741 GK,1079,980,0,2,220,27,49,76,7,12,2,59,519,4,1,1,0,0,0,3,0,0,0,0
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dorpshuis De Zicht,0228::SB60,6744 WJ,3011,2530,0,5,634,91,154,298,32,25,5,216,1033,12,1,1,0,0,2,20,1,0,1,4
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum De Stolpe,0228::SB70,6732 AP,1167,924,0,1,285,52,105,76,16,23,6,33,316,2,0,2,0,0,0,8,0,0,0,0
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dorpscentrum De Spil,0228::SB71,6741 KL,1296,1053,0,2,278,29,95,88,24,24,2,41,463,3,0,0,0,0,0,3,1,0,0,2
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dorpshuis de Kastanjehof,0228::SB80,6733 AV,1741,1354,0,3,284,57,67,145,31,14,4,80,649,12,2,0,0,0,4,4,0,0,0,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dorpshuis De Aanloop,0228::SB90,6731 BD,1773,1616,3,4,702,187,125,201,52,79,21,70,120,19,2,4,0,1,0,30,0,0,2,1
+Arnhem,Ede,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgsteunpunt Veldheim,0228::SB99,7351 CE,80,63,0,0,31,8,0,0,2,4,4,2,2,4,0,0,0,0,0,5,0,0,1,0

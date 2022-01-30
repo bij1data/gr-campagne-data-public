@@ -1,0 +1,50 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,CDA - Europese Volkspartij,P.v.d.A./Europese Sociaaldemocraten,VVD - Europese Liberaal-Democraten,GROENLINKS,SP (Socialistische Partij),ChristenUnie-SGP,Democraten 66 (D66),Newropeans,Europa Voordelig! & Duurzaam,Solidara,Partij voor de Dieren,EUROPESE KLOKKENLUIDERS PARTIJ (EKP),De Groenen,PVV (Partij voor de Vrijheid),Liberaal Democratische Partij,Partij voor Europese Politiek (PEP),Libertas
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Het Stadhuis, Grote Kerkhof 4",0150::SB1,,1649,861,3,1,63,128,83,173,86,23,169,10,4,6,36,2,0,68,3,0,7
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Groote- en Voorster Gasthuis, Smedenstraat 117",0150::SB2,,1828,845,3,4,76,125,103,144,81,19,187,8,2,0,34,1,2,57,4,0,2
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Biljartcentrum De Dam, Walstraat 111",0150::SB3,,1755,819,3,0,56,119,118,153,49,27,167,12,0,2,38,8,2,68,0,0,0
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Buurthuis 't Hovenhuus, Leliestraat 27",0150::SB4,,1751,645,0,0,80,114,42,132,70,14,77,7,1,4,23,1,2,73,1,0,4
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Basisschool Adwaita, Jacob van Deventerstraat 10",0150::SB11,,1102,427,2,1,39,69,43,77,56,12,51,0,0,0,21,1,0,57,0,0,1
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Wijkcentrum De Zandbank, Lange Zandstraat 80",0150::SB12,,2218,691,3,0,62,124,28,144,84,30,80,2,2,10,31,6,6,78,0,0,4
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Partycentrum De Horst, Kerkstraat 5",0150::SB13,,2041,776,3,4,68,137,56,153,87,22,146,5,1,4,36,2,1,53,2,1,2
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Cees Wilkeshuisschool, J van Vlotenlaan 70",0150::SB14,,1572,528,2,0,53,134,49,77,45,20,51,4,0,1,20,1,1,72,0,0,0
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Bejaardentehuis St. Jurriën, PC Hooftlaan 97",0150::SB16,,1752,465,2,0,66,111,32,37,62,13,46,3,0,4,28,0,2,59,0,0,2
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Huize Corel, Zwolseweg 190",0150::SB18,,560,245,0,0,61,46,34,19,9,11,23,0,1,0,9,1,0,30,1,0,0
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Het Enkhuis, Werkluststraat 10",0150::SB20,,1553,375,2,3,23,67,16,70,44,10,61,2,3,3,24,1,2,47,1,0,1
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau De Bolster/Montessorischool, Diepenveenseweg 136 (ingang Papenblik)",0150::SB21,,1629,573,0,1,57,87,44,121,70,20,91,2,0,8,18,1,4,47,2,0,1
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Basisschool Het Mozaiek, Smyrnastraat 1b",0150::SB23,,1876,680,0,2,47,118,29,148,91,14,109,3,0,12,35,2,4,60,1,0,7
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau 't Rielerhuus, Bierstraat 52",0150::SB25,,1084,348,1,2,31,69,15,50,44,15,54,2,0,5,19,2,0,36,5,1,0
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Basisschool De Snippeling, Rielerweg 174",0150::SB26,,1237,293,1,0,16,71,19,36,37,18,26,2,0,10,12,2,1,41,1,0,1
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Verzorgingstehuis De Bloemendal, Het Laar 1",0150::SB30,,1516,575,0,1,108,116,70,41,47,18,79,1,0,3,15,0,2,75,0,0,0
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Piccolo, Centrum voor Jeugdhulpverlening, Nijhoffgaarde 62",0150::SB31,,1223,479,2,1,67,118,35,46,44,14,60,1,2,0,17,1,0,72,2,0,0
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Borgloschool, Groenewold 182",0150::SB32,,1532,481,0,0,57,83,39,53,70,19,37,2,0,8,21,0,3,86,1,0,2
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Bejaardentehuis Ludgerus, Karel de Grotelaan 1",0150::SB40,,1285,483,0,1,121,101,54,41,19,13,53,3,0,0,17,2,1,57,1,0,0
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Verzorgingshuis Humanitas, Radboudlaan 1",0150::SB42,,1817,406,0,0,41,99,25,43,55,17,39,3,0,7,12,1,3,57,3,0,1
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Borgloschool, Koningin Wilhelminalaan 16",0150::SB43,,1808,517,1,0,58,120,40,40,44,29,49,0,3,0,18,2,3,108,0,1,2
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau De Finsehof, ingang Dapperstraat",0150::SB45,,1502,433,3,2,52,99,24,31,47,19,46,1,0,6,14,3,2,87,1,0,1
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Sint Jozef Verpleeghuis, G. van Swietenstraat 15",0150::SB47,,1114,494,0,1,100,61,71,66,27,18,74,4,0,1,13,5,2,48,3,0,1
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Buurthuis de Ark, Oude Bathmenseweg 5",0150::SB50,,725,140,0,1,6,21,7,18,11,12,31,3,1,0,4,0,0,26,0,0,0
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Basisschool De Snippeling, Douwelerwetering 1",0150::SB52,,1699,348,1,1,44,56,26,30,31,30,74,3,1,6,16,1,4,25,0,0,1
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Saxion Hogeschool IJselland, Handelskade 75",0150::SB53,,417,225,2,0,19,34,26,44,19,16,40,1,0,3,1,0,1,20,0,0,1
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Buurthuis Wijk 16, Zutphenselaan 18",0150::SB61,,1279,438,2,0,36,67,54,33,64,16,74,0,0,2,8,0,1,82,1,0,0
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau PW Janssen Verpleeghuis, Hermelijn 2",0150::SB70,,1939,586,0,0,87,89,57,59,48,32,58,3,0,4,30,2,1,111,4,0,1
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Basisschool De Schakel, Zwaluwenburg 8",0150::SB71,,1737,411,1,1,41,69,31,44,58,42,42,1,5,3,15,3,2,55,0,0,0
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Prins Mauritsschool, Zwaluwenburg 10",0150::SB72,,1503,662,0,3,72,99,57,106,73,44,59,2,1,1,31,6,5,101,1,1,3
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Informatiecentrum De Vijfhoek, Leonard Springerlaan 5",0150::SB73,,2298,848,0,2,112,123,135,91,46,34,164,8,0,0,24,1,0,106,2,0,2
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau De Ulebelt, Maatmansweg 3",0150::SB74,,2614,670,0,1,89,129,63,88,50,29,113,2,3,3,25,3,3,68,0,0,2
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Basisschool De Wiz@rd, Andriessenplein 13",0150::SB75,,1583,801,5,0,87,130,99,96,69,42,126,7,0,1,32,1,2,107,2,0,0
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Basisschool De Wiz@rd Spikvoorde, M.C. Escherweg 19",0150::SB76,,1168,272,0,0,38,39,47,35,19,7,36,1,1,0,9,1,0,38,1,0,0
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Huize Salland, Bloemendalsweg 5",0150::SB80,,1087,442,2,0,87,78,91,36,18,8,55,0,0,1,12,0,0,54,1,0,1
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Basisschool Het Roessink, Fonteinkruid 130",0150::SB82,,1763,508,2,0,68,122,45,49,34,24,58,5,0,2,17,3,1,78,1,1,0
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Basisschool de Dol-Fijn, Bosanemoon 30",0150::SB83,,1372,498,0,0,79,103,51,42,49,44,37,2,0,2,21,1,1,66,0,0,0
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Restaurant Hof van Colmschate, Holterweg 104",0150::SB84,,1977,717,0,0,112,124,85,108,38,28,84,7,0,0,26,3,5,93,0,0,4
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Gebouw voetbalvereniging Helios, Corrie Tendeloostraat 4",0150::SB85,,1154,426,1,2,75,65,45,50,27,24,65,4,1,0,23,2,3,41,0,0,1
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Bejaardencentrum ‘t Dijkhuis, Gorsselseweg 2 Bathmen",0150::SB88,,1846,787,3,1,203,98,132,48,53,6,110,5,0,3,16,0,2,108,2,0,1
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Bistro Bodega Graaf Otto, Bettinkdijk 2, Bathmen",0150::SB89,,641,311,0,1,97,17,72,21,13,5,33,3,0,0,9,1,0,39,1,0,0
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau de Rythmeen, Pr. Constantijnlaan 1 Bathmen",0150::SB90,,1761,652,0,1,140,107,107,61,40,6,87,6,0,1,10,0,1,81,1,0,4
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Zorgcentrum Park Braband, Wissinkhof 34 Schalkhaar",0150::SB91,,1751,791,1,1,242,86,126,81,41,13,105,4,1,1,13,8,2,66,2,0,0
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Zorgcentrum Sparrenheuvel, Burgemeester Doffegnieslaan 2a Diepenveen",0150::SB92,,1815,800,0,0,155,134,112,66,59,21,127,1,0,0,28,0,3,92,2,0,0
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Café Spikker, Bathmenseweg 34 Lettele",0150::SB93,,1050,462,1,1,256,31,26,35,19,3,25,0,0,0,8,2,1,54,2,0,0
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Hof van Salland, Dorpsstraat 30 Diepenveen",0150::SB94,,1731,889,0,0,167,118,154,100,48,21,164,3,2,1,17,2,1,85,2,0,4
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Restaurant Nunu, Raalterweg 22 Schalkhaar",0150::SB95,,364,167,0,1,83,11,8,5,7,11,18,1,0,0,1,0,0,22,0,0,0
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Het Naoberhuus, Oerdijk 222 Okkenbroek",0150::SB96,,368,161,1,0,88,6,10,5,11,9,12,2,0,1,5,5,0,7,0,0,0
+,Deventer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Brasserie De Lindeboom, Lindeboomsweg 1, Schalkhaar",0150::SB97,,1462,586,0,0,149,104,79,56,35,16,67,1,1,1,7,2,1,65,0,0,2

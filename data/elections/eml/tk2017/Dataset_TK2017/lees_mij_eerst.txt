@@ -1,0 +1,16 @@
+Lees mij eerst
+
+Deze dataset bevat bestanden met uitslaggegevens van de Tweede Kamerverkiezing van 15 maart 2017.
+De gegevensbestanden in deze dataset zijn afkomstig van gemeenten, hoofdstembureaus (HSB) en centraal stembureau (CSB). 
+
+De dataset bestaat uit de volgende gegevensbestanden:
+- CSB_uitslag: de EML-bestanden die door het CSB zijn vastgesteld. Hieronder vallen het verkiezingsdefinitiebestand, de kandidatenlijstbestanden en telling- en resultaatbestanden;
+- HSB_uitslagen: de 14 EML-tellingbestanden en 2 excel-bestanden met de tellinggegevens van de HSB's;
+- Gemeente_EML: 280 EML-tellingbestanden met tellinggegevens van gemeenten. Deze omvat eveneens stembureau-uitslaggegevens;
+- Gemeente_overige: 143 andersoortige tellingbestanden van gemeenten (die geen EML-bestand beschikbaar hebben gesteld) met (gedeeltelijke) uitslaggegevens.
+
+
+De uitslaggegevens van deze verkiezing zijn op verschillende niveaus handmatig ingevoerd op basis van de papieren bescheiden met de officiele stemuitslag en omgezet naar een gegevensbestand.
+Het kan daarom voorkomen dat de uitslaggegevens in de verschillende gegevensbestanden niet 1-op-1 overeenkomen. 
+Meer informatie over de verschillen die zijn geconstateerd tussen de uitslagen is te vinden onder Kamerstuk 31142 nr. 62 (https://zoek.officielebekendmakingen.nl/kst-31142-62.html)
+

@@ -1,0 +1,16 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_kwijtgeraakte stembiljetten,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Partij van de Arbeid (P.v.d.A.),CDA,VVD,GROENLINKS,ChristenUnie,Democraten 66 (D66),JEZUS LEEFT
+,Leek,GR2014_Leek,Gemeenteraad Leek 2014,0022,Leek,2014-03-19,Stembureau Verzorgingshuis Vredewold,0022::SB1,9351 BP,1273,758,11,2,0,0,0,712,59,0,0,0,0,0,0,771,195,185,74,101,107,89,7
+,Leek,GR2014_Leek,Gemeenteraad Leek 2014,0022,Leek,2014-03-19,Stembureau Gemeentehuis,0022::SB2,9351 BJ,1051,483,6,0,0,0,0,458,31,0,0,0,0,0,0,489,102,106,86,56,61,62,10
+,Leek,GR2014_Leek,Gemeenteraad Leek 2014,0022,Leek,2014-03-19,Stembureau Dienstencentrum De Schutse,0022::SB3,9351 KP,1136,1056,15,11,0,0,0,988,95,0,0,0,1,0,0,1083,270,167,104,193,131,181,10
+,Leek,GR2014_Leek,Gemeenteraad Leek 2014,0022,Leek,2014-03-19,Stembureau Cazemier Boerderij,0022::SB4,9356 AT,1350,923,18,3,0,0,0,855,89,0,0,0,0,0,0,944,203,138,190,141,112,135,4
+,Leek,GR2014_Leek,Gemeenteraad Leek 2014,0022,Leek,2014-03-19,Stembureau Wooncentrum Tolberterheem,0022::SB5,9356 CT,1304,619,15,4,0,0,0,590,48,0,0,0,0,0,0,638,133,116,74,115,67,105,9
+,Leek,GR2014_Leek,Gemeenteraad Leek 2014,0022,Leek,2014-03-19,Stembureau De Groene Borg,0022::SB6,9354 BC,863,513,6,8,0,0,0,465,62,0,0,0,0,0,0,527,67,149,109,58,68,53,9
+,Leek,GR2014_Leek,Gemeenteraad Leek 2014,0022,Leek,2014-03-19,Stembureau De Vijverborg,0022::SB7,9354 BW,1265,556,12,2,0,0,0,531,39,0,0,0,0,0,0,570,68,172,108,70,48,71,19
+,Leek,GR2014_Leek,Gemeenteraad Leek 2014,0022,Leek,2014-03-19,Stembureau Gasterij Het Theehuis,0022::SB8,9355 TD,800,531,3,0,0,0,0,468,66,0,0,0,0,0,0,534,65,77,118,78,96,91,6
+,Leek,GR2014_Leek,Gemeenteraad Leek 2014,0022,Leek,2014-03-19,Stembureau MCO De Gaveborg,0022::SB9,9828 RC,543,301,3,0,0,0,0,274,30,0,0,0,0,0,0,304,52,37,44,59,53,55,1
+,Leek,GR2014_Leek,Gemeenteraad Leek 2014,0022,Leek,2014-03-19,Stembureau Molen Eben Haëzer,0022::SB10,9812 PG,256,174,0,0,0,0,0,159,15,0,0,0,0,0,0,174,7,15,2,44,96,8,2
+,Leek,GR2014_Leek,Gemeenteraad Leek 2014,0022,Leek,2014-03-19,Stembureau Sportcentrum Leek,0022::SB11,9351 NV,1204,800,7,0,0,0,0,722,85,0,0,0,0,0,0,807,143,131,149,111,80,181,5
+,Leek,GR2014_Leek,Gemeenteraad Leek 2014,0022,Leek,2014-03-19,Stembureau Sportpark Oostindie,0022::SB12,9351 XZ,878,557,4,2,0,0,0,507,56,0,0,0,0,0,0,563,54,84,139,62,112,106,0
+,Leek,GR2014_Leek,Gemeenteraad Leek 2014,0022,Leek,2014-03-19,Stembureau Voormalige Van Panhuysschool,0022::SB13,9351 CG,1247,448,7,3,1,0,0,436,21,0,0,1,0,0,0,457,97,109,56,55,63,55,13
+,Leek,GR2014_Leek,Gemeenteraad Leek 2014,0022,Leek,2014-03-19,Stembureau Dienstcentrum De Schutse,0022::SB14,9351 KP,1172,277,1,2,0,0,0,260,20,0,0,0,0,0,0,280,69,58,27,44,52,24,3
+,Leek,GR2014_Leek,Gemeenteraad Leek 2014,0022,Leek,2014-03-19,Stembureau Sportcentrum Leek 2,0022::SB15,9351 NV,998,293,0,0,0,0,0,268,25,0,0,0,0,0,0,293,35,41,50,78,27,56,6

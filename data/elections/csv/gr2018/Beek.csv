@@ -1,0 +1,14 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,BBB-NDB,CDA,Progressief Beek,Senioren Belang Beek,VVD
+,Beek,GR2018_Beek,Gemeenteraad Beek 2018,0888,Beek,2018-03-21,Stembureau Gemeentehuis,0888::SB1,6191 KA,1185,841,9,2,0,2,0,790,64,0,0,2,0,0,854,224,272,157,68,120
+,Beek,GR2018_Beek,Gemeenteraad Beek 2018,0888,Beek,2018-03-21,Stembureau De Dagbeeker,0888::SB2,6191 TX,1163,694,2,2,0,0,0,634,63,0,1,0,0,0,697,204,175,194,49,72
+,Beek,GR2018_Beek,Gemeenteraad Beek 2018,0888,Beek,2018-03-21,Stembureau Duivenlokaal,0888::SB3,6191 TK,1198,683,5,3,0,3,0,632,56,0,3,0,0,0,688,277,149,133,60,64
+,Beek,GR2018_Beek,Gemeenteraad Beek 2018,0888,Beek,2018-03-21,Stembureau Woon- Zorgcentrum,0888::SB4,6191 KZ,1164,725,2,6,0,10,0,686,57,0,0,10,0,0,743,222,221,99,80,103
+,Beek,GR2018_Beek,Gemeenteraad Beek 2018,0888,Beek,2018-03-21,Stembureau L'Union,0888::SB5,6191 BN,1200,617,3,1,0,2,0,559,60,0,2,0,0,0,619,230,173,92,64,58
+,Beek,GR2018_Beek,Gemeenteraad Beek 2018,0888,Beek,2018-03-21,Stembureau Muziekschool,0888::SB6,6191 VP,1119,519,3,2,0,1,0,481,42,0,1,0,0,0,523,226,105,97,48,43
+,Beek,GR2018_Beek,Gemeenteraad Beek 2018,0888,Beek,2018-03-21,Stembureau Gemeenschapshuis Neerbeek,0888::SB7,6191 GN,973,733,8,4,0,2,0,666,77,0,2,0,0,0,743,222,237,135,101,38
+,Beek,GR2018_Beek,Gemeenteraad Beek 2018,0888,Beek,2018-03-21,Stembureau Willem Tell,0888::SB8,6191 RP,474,279,12,3,0,1,0,257,36,0,1,0,0,0,293,66,95,66,11,41
+,Beek,GR2018_Beek,Gemeenteraad Beek 2018,0888,Beek,2018-03-21,Stembureau Gemeenschapshuis Genhout,0888::SB9,6191 NZ,1006,729,5,6,0,0,0,648,92,0,0,0,0,0,740,301,102,237,31,58
+,Beek,GR2018_Beek,Gemeenteraad Beek 2018,0888,Beek,2018-03-21,Stembureau WOZOCO,0888::SB10,6176 BE,1075,656,3,3,0,1,0,601,60,0,1,0,0,0,661,175,266,155,27,33
+,Beek,GR2018_Beek,Gemeenteraad Beek 2018,0888,Beek,2018-03-21,Stembureau Bejaardensociëteit,0888::SB11,6176 AS,974,551,4,2,0,0,0,503,53,0,1,0,1,0,556,121,194,150,42,44
+,Beek,GR2018_Beek,Gemeenteraad Beek 2018,0888,Beek,2018-03-21,Stembureau Lokaal Schutterij,0888::SB12,6176 BZ,759,473,2,2,0,0,0,429,48,0,0,0,0,0,477,125,217,79,24,28
+,Beek,GR2018_Beek,Gemeenteraad Beek 2018,0888,Beek,2018-03-21,Stembureau School de Bron,0888::SB13,6191 EK,1027,485,1,3,0,0,0,428,61,0,0,0,0,0,489,180,164,59,47,35

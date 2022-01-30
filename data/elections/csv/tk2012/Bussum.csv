@@ -1,0 +1,17 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,VVD,Partij van de Arbeid (P.v.d.A.),PVV (Partij voor de Vrijheid),Christen Democratisch Appèl (CDA),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,ChristenUnie,Staatkundig Gereformeerde Partij (SGP),Partij voor de Dieren,Piratenpartij,Partij voor Mens en Spirit (MenS),Nederland Lokaal,Libertarische Partij (LP),Democratisch Politiek Keerpunt DPK,50PLUS,Liberaal Democratische Partij (LibDem),Anti Europa Partij,SOPN,Partij van de Toekomst (PvdT)
+Haarlem,Bussum,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 1  Gemeentehuis,0381::SB1,,1640,1581,4,2,633,314,80,80,99,227,51,12,5,50,11,3,0,1,1,11,0,0,2,1
+Haarlem,Bussum,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 2  Vrije Evangelische Gemeente,0381::SB2,,1545,1354,0,0,728,194,39,46,43,218,29,12,3,26,2,1,1,0,0,12,0,0,0,0
+Haarlem,Bussum,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 3  Huize Godelinde,0381::SB3,,1491,1231,1,2,505,258,84,73,43,154,28,20,3,22,2,2,0,0,0,35,1,0,1,0
+Haarlem,Bussum,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 4  De Hoeksteen,0381::SB4,,1509,1463,3,0,695,247,58,81,43,240,36,18,0,28,2,4,0,0,0,11,0,0,0,0
+Haarlem,Bussum,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 5  Gebouw Versa,0381::SB5,,1560,1196,1,3,401,270,106,48,57,156,49,15,6,37,7,9,0,0,2,30,0,0,2,1
+Haarlem,Bussum,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 6  Peuterspeelzaal Talamander,0381::SB6,,1563,1009,1,6,288,245,103,45,101,118,25,12,4,32,4,4,4,0,1,19,1,1,1,1
+Haarlem,Bussum,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 7  Julianaschool,0381::SB7,,1661,1319,1,3,589,238,65,92,59,167,26,15,9,32,2,2,0,2,0,20,0,0,1,0
+Haarlem,Bussum,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 9  R.I.B.W. (v/h De Essen),0381::SB9,,1731,1273,0,3,426,280,75,121,67,126,36,28,16,58,7,3,0,0,2,25,1,0,1,1
+Haarlem,Bussum,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 10 Trefpunt,0381::SB10,,1656,1072,0,1,314,247,108,94,89,80,32,33,9,32,5,2,0,0,0,24,0,0,3,0
+Haarlem,Bussum,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 11 Breeduit,0381::SB11,,1553,1122,0,7,249,370,144,48,97,71,20,34,7,34,8,4,0,0,0,32,0,0,2,2
+Haarlem,Bussum,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 13 De Antonius Hof,0381::SB13,,1597,1112,3,2,237,314,134,84,132,54,27,26,4,45,3,3,0,1,2,40,3,0,2,1
+Haarlem,Bussum,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 14 Mariënburg,0381::SB14,,1361,992,1,1,358,209,65,93,57,126,24,12,1,27,5,1,0,0,1,10,0,0,3,0
+Haarlem,Bussum,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 15 De Zandzee,0381::SB15,,1559,1270,0,3,547,245,47,86,49,183,30,24,2,20,3,1,0,1,2,27,0,0,0,3
+Haarlem,Bussum,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 16 Koningin Emmaschool,0381::SB16,,1218,995,0,0,567,121,14,43,25,173,21,3,3,16,3,1,0,0,0,3,0,0,2,0
+Haarlem,Bussum,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 17 Chr. Brandsmaschool,0381::SB17,,1519,1348,0,1,741,177,35,79,34,203,28,13,3,22,2,0,0,1,0,10,0,0,0,0
+Haarlem,Bussum,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 18 Evang. Luth. Kerk,0381::SB18,,975,706,3,0,277,107,20,29,25,164,32,8,3,23,3,3,0,1,0,8,0,0,3,0

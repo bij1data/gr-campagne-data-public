@@ -1,0 +1,13 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Nieuw Lisse,CDA,Democraten 66 (D66),VVD,SGP-ChristenUnie,Partij van de Arbeid (P.v.d.A.)
+,Lisse,GR2018_Lisse,Gemeenteraad Lisse 2018,0553,Lisse,2018-03-21,Stembureau Woonzorgcentrum Rustoord,0553::SB1,,1064,686,7,2,0,0,0,617,79,1,0,1,0,0,696,88,130,127,221,88,32
+,Lisse,GR2018_Lisse,Gemeenteraad Lisse 2018,0553,Lisse,2018-03-21,Stembureau Sportcentrum De Waterkanten,0553::SB2,,1429,829,6,2,0,1,0,762,76,0,0,1,0,0,838,191,183,172,102,124,57
+,Lisse,GR2018_Lisse,Gemeenteraad Lisse 2018,0553,Lisse,2018-03-21,Stembureau Cardea,0553::SB3,,1980,1174,3,5,0,1,0,1057,124,0,1,0,0,0,1181,248,220,200,190,227,89
+,Lisse,GR2018_Lisse,Gemeenteraad Lisse 2018,0553,Lisse,2018-03-21,Stembureau De Lisbloem,0553::SB4,,1762,850,4,1,0,0,0,787,68,0,0,0,0,0,855,206,145,157,157,98,87
+,Lisse,GR2018_Lisse,Gemeenteraad Lisse 2018,0553,Lisse,2018-03-21,Stembureau De Klister,0553::SB5,,1781,935,6,4,0,0,0,865,80,0,0,0,0,0,945,223,184,205,118,117,88
+,Lisse,GR2018_Lisse,Gemeenteraad Lisse 2018,0553,Lisse,2018-03-21,Stembureau De Kleine Engel,0553::SB6,,1237,624,2,0,0,0,0,567,59,0,0,0,0,0,626,149,177,93,133,21,51
+,Lisse,GR2018_Lisse,Gemeenteraad Lisse 2018,0553,Lisse,2018-03-21,Stembureau Dienstencentrum De Beukenhof,0553::SB7,,1382,986,3,5,0,0,0,931,63,0,0,0,0,0,994,179,340,158,162,86,61
+,Lisse,GR2018_Lisse,Gemeenteraad Lisse 2018,0553,Lisse,2018-03-21,Stembureau Gebouw Postduivenvereniging,0553::SB8,,1207,520,0,3,0,1,0,475,49,0,0,1,0,0,524,111,139,106,53,67,44
+,Lisse,GR2018_Lisse,Gemeenteraad Lisse 2018,0553,Lisse,2018-03-21,Stembureau 't Poelhuys,0553::SB9,,1361,1041,8,3,0,1,0,968,85,0,0,1,0,0,1053,239,228,213,150,111,100
+,Lisse,GR2018_Lisse,Gemeenteraad Lisse 2018,0553,Lisse,2018-03-21,Stembureau Gebouw ' t Speelkwartier,0553::SB10,,1796,1004,9,3,0,1,0,905,113,1,0,2,0,0,1018,226,231,191,210,85,61
+,Lisse,GR2018_Lisse,Gemeenteraad Lisse 2018,0553,Lisse,2018-03-21,Stembureau De Tweemaster,0553::SB11,,1785,995,8,3,0,0,0,924,82,0,0,0,0,0,1006,244,165,236,173,61,116
+,Lisse,GR2018_Lisse,Gemeenteraad Lisse 2018,0553,Lisse,2018-03-21,Stembureau Buurthuis Salvatori,0553::SB12,,1391,756,5,2,0,2,0,691,70,0,2,0,0,0,761,176,163,151,88,110,68

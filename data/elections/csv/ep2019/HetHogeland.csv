@@ -1,0 +1,43 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Democraten 66 (D66),CDA - Europese Volkspartij,PVV (Partij voor de Vrijheid),VVD,SP (Socialistische Partij),P.v.d.A./Europese Sociaaldemocraten,ChristenUnie-SGP,GROENLINKS,Partij voor de Dieren,50PLUS,JEZUS LEEFT,DENK,De Groenen,Forum voor Democratie,vandeRegio & Piratenpartij,Volt Nederland
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gemeentehuis Uithuizen,1966::SB1,9981 AA,911,491,1,2,0,0,4,453,37,0,0,0,0,0,494,11,76,24,44,33,119,60,39,18,16,0,0,0,45,2,4
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau St. Vincentiusgebouw,1966::SB2,9981 AX,1066,297,0,1,0,0,0,267,31,0,0,0,0,0,298,5,60,17,17,21,54,42,25,20,6,1,0,0,27,0,2
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Ability,1966::SB3,9981 GJ,1075,337,5,0,0,0,0,307,35,0,0,0,0,0,342,2,56,7,33,33,98,34,21,15,3,1,1,0,32,0,1
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Woonzorgcentrum Hunsingoheerd,1966::SB4,9981 CJ,1266,541,4,1,0,0,0,476,70,0,0,0,0,0,546,9,102,22,65,27,145,63,38,14,17,7,0,0,28,1,3
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Bommelhoes,1966::SB5,9982 HE,851,398,1,0,0,0,0,355,44,0,0,0,0,0,399,2,120,15,46,19,46,91,9,10,7,2,0,0,30,0,1
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sporthal Scherphorn,1966::SB6,9982 BZ,956,308,2,0,0,0,2,279,29,0,0,0,0,0,310,4,70,15,23,16,38,77,16,8,11,0,1,0,27,0,2
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Verzorgingshuis De Mieden,1966::SB7,9982 AB,813,331,0,5,0,0,0,290,46,0,0,0,0,0,336,9,91,11,31,18,55,48,22,11,2,0,0,1,31,0,1
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Nieuw Calvaria,1966::SB8,9983 PE,892,347,0,0,0,0,1,307,39,0,0,0,0,0,347,8,48,13,19,24,39,114,21,12,4,0,0,0,43,0,2
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Diggelschip,1966::SB9,9984 XD,263,102,0,0,0,0,0,91,11,0,0,0,0,0,102,2,13,9,17,4,18,5,7,9,2,0,0,1,13,0,2
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau 't Klokhoes,1966::SB10,9997 PB,565,246,1,0,0,0,0,245,2,0,0,0,0,0,247,5,48,11,23,20,46,14,26,21,10,0,0,1,18,0,3
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau 't Schienvat,1966::SB11,9995 PH,745,400,1,0,0,0,0,339,62,0,0,0,0,0,401,23,44,14,29,19,75,67,42,26,13,1,0,0,43,2,2
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis Usquert,1966::SB12,9988 RV,1108,453,1,0,0,0,0,396,58,0,0,0,0,0,454,23,25,18,65,34,138,24,45,33,5,0,0,5,36,1,1
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Pro Rege,1966::SB13,9989 AH,866,471,3,1,0,0,4,424,48,0,0,1,0,0,476,24,62,4,48,27,133,33,59,34,7,1,0,2,27,2,8
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Op Roakeldaisgebouw,1966::SB14,9989 EL,891,309,0,2,0,0,0,274,37,0,0,0,0,0,311,15,32,11,25,30,81,14,38,21,14,0,0,1,20,1,6
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Alegunda Ilberi,1966::SB15,9781 JS,1568,616,4,1,0,0,0,553,68,0,0,0,0,0,621,21,119,18,42,26,147,104,43,17,14,0,0,0,62,1,2
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gebouw Thedema,1966::SB16,9781 BH,1376,539,0,0,0,0,1,486,52,0,0,0,0,0,539,15,103,10,29,17,117,130,46,17,15,1,0,1,35,1,2
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Ver. gebouw De Kern,1966::SB17,9785 AS,1032,569,2,1,0,0,1,524,47,0,0,0,0,0,572,33,99,2,46,17,124,72,114,23,4,0,0,2,18,1,14
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gemeentehuis Bedum,1966::SB18,9781 JL,1188,652,0,0,0,0,2,582,68,0,0,0,0,0,652,39,148,18,50,25,155,81,50,15,19,0,0,0,44,2,6
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Cult. Centr. De Meenschaar,1966::SB19,9781 GK,1069,531,0,0,0,0,0,462,69,0,0,0,0,0,531,21,105,6,59,13,110,97,65,10,16,0,0,0,24,1,4
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis Zijlvesterhoek,1966::SB20,9959 PC,473,267,2,1,0,0,1,238,30,0,1,0,0,0,269,6,43,13,11,18,57,33,54,11,6,0,0,1,11,0,3
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau 's Heeren Loo Opmaat,1966::SB21,9781 XE,1554,613,1,0,0,0,0,565,49,0,0,0,0,0,614,33,114,15,63,28,128,100,49,15,24,0,0,0,42,0,2
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gemeentehuis Winsum,1966::SB22,9951 AC,790,327,0,3,0,0,4,295,31,0,0,0,0,0,330,10,79,4,40,5,75,31,45,14,3,0,0,0,14,1,6
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Winkheem,1966::SB23,9951 BG,835,374,3,1,0,1,1,327,49,0,1,0,1,0,377,12,89,1,35,19,98,44,35,11,10,0,0,0,18,1,1
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Terra Winsum,1966::SB24,9951 TD,1149,586,0,3,0,0,1,502,86,0,0,0,0,0,589,24,97,8,68,22,151,84,71,14,14,2,0,0,27,1,3
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis Agricola,1966::SB25,9953 PH,938,524,2,0,0,0,1,463,62,0,0,0,0,0,526,20,97,12,68,22,104,46,52,38,12,1,0,0,46,1,5
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau CSG Winsum,1966::SB26,9951 HX,987,494,2,0,0,0,0,433,63,0,0,0,0,0,496,20,72,8,26,26,134,85,54,19,18,3,0,2,25,0,2
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Hoogte Zalenverhuur,1966::SB27,9951 EP,925,524,0,0,0,0,1,462,61,0,0,0,0,0,524,23,63,12,38,19,180,61,65,20,13,0,0,0,25,1,4
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sporthal Ripperdahal,1966::SB28,9951 JH,996,423,1,1,0,1,0,382,44,0,0,1,0,0,426,32,41,8,32,13,126,51,55,18,10,0,0,3,25,1,8
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Op Streek,1966::SB29,9956 PN,415,223,2,0,0,0,4,196,25,0,0,0,0,0,225,2,16,10,18,13,61,8,36,38,4,0,0,0,14,0,3
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Viskenij Wooncentrum,1966::SB30,9953 PW,796,261,1,0,0,0,0,238,24,0,0,0,0,0,262,10,57,10,19,23,43,36,15,10,16,0,0,0,19,0,3
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Ubbegaheem,1966::SB32,9771 BB,958,520,1,0,0,0,0,475,46,0,0,0,0,0,521,16,104,9,24,10,88,102,87,34,12,2,0,1,26,0,5
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Artharpe,1966::SB33,9774 PH,528,303,0,3,0,0,0,280,26,0,0,0,0,0,306,19,30,8,36,14,97,9,55,12,6,0,0,0,16,0,1
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Ontmoetingscentrum,1966::SB34,9771 AJ,1140,402,1,2,0,0,4,364,37,0,0,0,0,0,405,4,123,12,31,18,44,83,22,16,4,2,0,0,40,1,2
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis Vierhuizen,1966::SB35,9975 VN,290,165,0,0,0,0,2,150,13,0,0,0,0,0,165,5,35,3,34,2,28,6,19,19,1,0,0,0,13,0,0
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau 't Anker,1966::SB36,9974 PG,1103,364,0,0,0,0,18,304,42,0,0,0,0,0,364,5,66,23,37,20,64,24,38,19,6,0,0,0,56,0,6
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau c.r. De Marne,1966::SB37,9964 AA,629,249,1,1,0,0,0,230,21,0,0,0,0,0,251,13,17,13,27,22,66,16,14,5,13,0,2,1,35,0,5
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gemeentehuis Leens,1966::SB38,9965 TD,1392,631,1,0,0,0,4,565,63,0,0,0,0,0,632,20,99,13,62,24,99,168,62,23,11,2,0,1,35,1,11
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis De Warf,1966::SB39,9963 PH,417,196,1,0,0,0,2,175,20,0,0,0,0,0,197,4,26,7,9,3,38,5,59,22,2,0,0,0,13,0,8
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau 't Heem,1966::SB40,9977 RN,722,286,0,2,0,0,6,244,38,0,0,0,0,0,288,7,47,17,29,16,69,7,28,20,13,0,0,1,27,2,3
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis Open Haard,1966::SB41,9977 PN,434,201,0,0,0,0,0,186,15,0,0,0,0,0,201,6,31,13,26,7,46,6,17,20,5,0,0,2,19,0,3
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis Eenrum,1966::SB42,9967 SE,1338,576,0,1,0,0,2,514,61,0,0,0,0,0,577,27,44,11,65,43,192,14,77,35,18,0,1,0,42,0,7
+,Het Hogeland,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dorpshuis Pieterburen,1966::SB43,9968 AC,569,282,0,1,0,0,2,254,27,0,0,0,0,0,283,8,34,4,27,14,73,14,54,30,9,0,0,0,9,2,4

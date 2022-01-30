@@ -1,0 +1,36 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,VVD,Democraten 66 (D66),Seyst.Nu,GROENLINKS,CDA,NieuwDemocratischZeist,Partij van de Arbeid (P.v.d.A.),ChristenUnie-SGP,SP (Socialistische Partij)
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Gemeentehuis,0355::SB1,3701 HS,1770,1569,7,2,0,0,0,1421,157,0,0,0,0,0,1578,393,234,151,301,151,129,64,111,35
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Parochiecentrum,0355::SB2,3702 VP,1998,725,6,3,0,0,0,663,71,0,0,0,0,0,734,95,64,83,162,56,100,32,82,51
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Bibliotheek,0355::SB3,3701 JZ,1764,1072,7,3,0,0,0,997,86,1,0,1,0,0,1083,157,92,184,198,91,157,48,74,71
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Zorgcentrum  De Looborch,0355::SB4,3701 BC,1371,994,2,1,0,0,0,889,113,0,0,5,0,0,1002,290,130,105,161,115,65,42,70,16
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau De Christengemeenschap Rafaëlkerk,0355::SB5,3707 VD,1197,906,3,1,0,6,0,828,88,0,0,6,0,0,916,332,110,60,152,78,88,28,48,10
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Zorgcentrum Amandelhof,0355::SB6,3708 AB,1375,969,2,4,0,0,0,871,104,0,0,0,0,0,975,214,127,85,152,118,95,46,100,32
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Charim Spathodea,0355::SB7,3708 GB,1878,710,4,6,0,0,0,668,52,0,0,0,0,0,720,136,78,74,132,74,55,40,82,39
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Binnenbos,0355::SB8,3708 DL,1213,1014,7,7,0,1,0,936,93,0,0,1,0,0,1029,208,155,92,199,64,117,42,71,66
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Montessorischool locatie Griffensteijn,0355::SB9,3703 BP,1316,1074,6,4,0,0,0,962,121,0,1,0,0,0,1083,188,169,112,233,89,82,65,69,67
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Clubhuis cdp Les Cailloux,0355::SB10,3703 CS,1808,549,1,1,0,0,0,484,67,0,0,0,0,0,551,94,71,75,109,53,54,36,32,25
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Wijkcentrum De Koppeling,0355::SB11,3704 KS,1501,1545,2,7,1,0,0,1362,193,0,0,1,0,0,1555,181,189,186,305,157,180,130,97,120
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Kerkelijk Centrum Zeist-West,0355::SB12,3704 KB,1844,569,1,0,0,0,0,515,55,0,0,0,0,0,570,66,51,87,103,80,61,52,42,27
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau CBS Nije-Kroost,0355::SB13,3704 EG,1666,1090,3,4,0,0,0,980,116,0,1,0,1,0,1096,209,104,136,213,87,101,59,132,49
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau VSO Heuvelrug College,0355::SB14,3704 GN,1944,875,1,1,0,0,0,773,104,0,0,0,0,0,877,124,106,111,194,88,104,48,64,36
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Ontmoetingscentrum Vollenhove,0355::SB15,3706 AA,1196,296,1,0,0,0,0,275,22,0,0,0,0,0,297,35,25,48,74,24,30,18,19,23
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Geref. Kerk Vrijgemaakt De Ark,0355::SB16,3702 SB,1331,1016,3,1,0,2,0,920,98,0,2,0,0,0,1018,155,116,139,197,79,111,49,112,58
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Sionskerk,0355::SB17,3705 BP,1741,1286,2,5,0,1,0,1166,128,0,0,1,0,0,1294,289,203,105,246,80,169,59,95,40
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Wijkservicepunt Noord,0355::SB18,3705 HD,1838,1083,10,5,0,0,0,1003,95,0,0,0,0,0,1098,179,106,88,197,91,172,62,79,109
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau De Weggeefwinkel,0355::SB19,3706 GW,1537,467,8,5,0,0,0,459,21,0,0,0,0,0,480,34,55,43,132,20,47,22,28,86
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Wijkcentrum 't Noorderpunt,0355::SB20,3706 AH,1372,1509,17,3,0,3,0,1424,108,0,0,3,0,0,1532,195,150,208,430,87,190,83,74,92
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Rehobothschool,0355::SB21,3705 PE,1081,517,2,8,0,0,0,472,55,0,0,0,0,0,527,43,53,69,91,55,49,28,75,54
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Montessorischool,0355::SB22,3705 XL,1007,719,0,1,0,0,0,658,62,0,0,0,0,0,720,120,81,76,194,32,90,33,48,45
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Woonzorgcentrum Vredenoord,0355::SB23,3712 AA,577,440,5,3,0,0,0,403,44,0,1,0,0,0,447,71,53,29,94,30,89,28,21,25
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Verpleeghuis De Wijngaard,0355::SB24,3735 MR,1611,980,1,2,0,2,0,852,133,0,0,2,0,0,985,488,87,56,82,72,108,18,53,16
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Brede School KBS De Kameleon,0355::SB25,3734 VH,1695,1069,1,0,0,0,0,939,131,0,0,0,0,0,1070,334,141,104,212,61,126,34,37,20
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Wijkservicepunt Pelita,0355::SB26,3734 EB,2121,1048,8,4,0,0,0,979,81,0,0,0,0,0,1060,259,103,134,218,74,108,59,28,65
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Dorpshuis 't Trefpunt,0355::SB27,3711 BM,1222,803,1,1,0,0,0,742,63,0,0,0,0,0,805,196,66,69,163,78,122,47,19,43
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Wijkgebouw 't Lichtpunt,0355::SB28,3707 BM,1337,941,2,5,0,0,0,850,98,0,0,0,0,0,948,263,79,76,164,87,122,40,72,38
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Abrona  't Lichtpunt,0355::SB30,3712 XJ,1188,413,3,0,0,0,0,372,44,0,0,0,0,0,416,98,54,38,112,18,28,10,45,10
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau VSO Meerklank,0355::SB31,3705 AR,1327,243,0,0,0,0,0,232,11,0,0,0,0,0,243,27,19,26,66,25,49,7,10,14
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Het Slot,0355::SB32,3703 CE,1242,486,3,0,0,0,0,423,66,0,0,0,0,0,489,138,69,36,99,27,42,27,36,12
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Informatiecentrum Kerckebosch,0355::SB33,3708 DM,637,328,1,0,0,0,0,287,42,0,0,0,0,0,329,136,49,22,34,21,30,11,17,8
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Diakonessenhuis Zeist,0355::SB35,3707 JA,969,586,2,1,0,0,0,490,99,0,0,0,0,0,589,253,74,44,82,27,45,21,27,13
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau NoorderLichtgemeente,0355::SB36,3707 AE,1255,419,2,3,0,0,0,384,40,0,0,0,0,0,424,77,49,51,101,37,43,18,24,19
+,Zeist,GR2018_Zeist,Gemeenteraad Zeist 2018,0355,Zeist,2018-03-21,Stembureau Mobiel stemburo,0355::SB37,,0,156,0,0,0,0,0,140,16,0,0,0,0,0,156,33,29,16,41,8,13,9,1,6

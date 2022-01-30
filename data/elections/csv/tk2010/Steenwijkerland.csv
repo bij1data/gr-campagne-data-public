@@ -1,0 +1,35 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,Christen Democratisch Appèl (CDA),Partij van de Arbeid (P.v.d.A.),SP (Socialistische Partij),VVD,PVV (Partij voor de Vrijheid),GROENLINKS,ChristenUnie,Democraten 66 (D66),Partij voor de Dieren,Staatkundig Gereformeerde Partij (SGP),Nieuw Nederland,TROTS OP NEDERLAND LIJST RITA VERDONK,Partij voor Mens en Spirit (MenS),Heel NL,Partij één,17,Piratenpartij
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Steenwijk, Gemeentehuis",1708::SB1,,1517,1372,0,2,188,345,137,238,207,79,75,70,11,3,2,7,5,0,0,0,5
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Steenwijk, De Korf",1708::SB2,,811,592,0,0,47,165,59,75,128,31,33,30,10,4,2,4,3,0,1,0,0
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Steenwijk, De Kleine Kamp",1708::SB3,,1104,643,2,0,35,236,111,40,139,36,22,10,5,0,0,3,3,0,1,0,2
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Steenwijk, Nijenstede",1708::SB4,,1790,1304,0,2,243,280,100,280,161,74,63,67,9,11,0,6,7,0,0,1,2
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Steenwijk, Zonnekamp",1708::SB5,,1788,1336,1,2,226,361,144,193,192,65,77,44,12,10,0,7,3,0,0,0,2
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Steenwijk, De Vijverhof",1708::SB6,,1289,994,0,2,147,161,90,244,109,55,94,68,8,8,0,5,4,0,0,0,1
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Steenwijk, Wijkvereniging De Gagels",1708::SB7,,1547,1118,2,0,163,262,137,164,185,51,81,48,12,4,0,6,4,0,0,1,0
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Steenwijk, De Meenthehof",1708::SB8,,2182,1665,2,1,201,395,172,363,211,85,103,88,11,10,0,11,12,0,0,2,1
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Steenwijk, Wijkcentrum Oostermeenthe",1708::SB9,,1093,861,1,1,104,206,92,163,114,50,58,48,7,8,0,6,5,0,0,0,0
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Tuk, Tenniscentrum",1708::SB10,,1657,1240,0,0,225,245,74,314,138,73,63,79,7,7,0,5,7,0,0,2,1
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Willemsoord, MFC et Kloniehuus",1708::SB11,,956,729,0,2,114,135,70,158,118,41,26,43,7,5,0,8,3,0,0,0,1
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Onna, Dorpshuis",1708::SB12,,716,532,0,0,82,90,77,104,81,38,30,17,5,2,0,4,1,1,0,0,0
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Eesveen, De Driesprong",1708::SB13,,702,568,0,1,90,89,46,176,75,24,27,20,5,4,0,6,5,0,0,1,0
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Steenwijkerwold, Woldleite",1708::SB14,,1516,1294,2,0,262,299,132,216,170,64,45,56,18,5,0,9,13,3,0,0,2
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Kallenkote, Dorpshuis",1708::SB15,,268,249,0,0,71,32,6,63,41,13,7,8,1,0,0,5,2,0,0,0,0
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Vollenhove, Oranjerie",1708::SB16,,1122,875,0,1,242,197,81,130,90,35,61,23,4,4,0,4,1,0,1,1,1
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Vollenhove, Tilvoorde",1708::SB17,,1018,624,1,0,185,124,48,93,83,23,37,16,7,2,0,4,0,0,0,0,2
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Vollenhove, Nieuw Clarenberg",1708::SB18,,980,938,0,2,278,173,77,121,91,33,102,32,9,15,0,4,2,0,0,1,0
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau St Jansklooster, Sint Janskamp",1708::SB19,,1061,863,1,1,305,72,32,80,97,18,212,19,4,20,0,3,0,0,0,1,0
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Kadoelen, Vrijgemaakte Ger Kerk",1708::SB20,,699,602,0,0,151,31,10,49,44,10,241,9,6,38,0,5,2,1,0,1,4
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Belt-Schutsloot, Dorpshuis",1708::SB21,,439,390,0,0,155,33,22,78,32,6,35,21,3,1,0,2,2,0,0,0,0
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Wanneperveen, Dorpshuis",1708::SB22,,1315,1024,0,0,246,183,62,272,114,51,40,39,5,4,0,6,0,0,2,0,0
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Giethoorn, Zonnewiede",1708::SB23,,1014,793,1,0,78,202,75,239,81,36,5,61,3,4,0,8,1,0,0,0,0
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Giethoorn, De Noorderschool",1708::SB24,,940,755,1,0,104,212,47,206,89,25,16,43,6,2,0,3,2,0,0,0,0
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Dwarsgracht, Dorpshuis",1708::SB25,,154,141,0,0,27,21,12,43,8,10,14,3,3,0,0,0,0,0,0,0,0
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Blokzijl, De Ploats",1708::SB26,,1064,929,0,0,199,164,57,255,131,35,23,42,7,10,0,1,2,0,0,0,3
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Oldemarkt, Zalencentrum  Dalzicht",1708::SB27,,1287,1068,1,2,266,201,87,220,121,47,51,53,5,0,0,9,5,0,1,2,0
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Oldemarkt, Dienstencentrum",1708::SB28,,1040,857,2,3,225,158,74,175,99,49,30,30,7,0,0,8,2,0,0,0,0
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Ossenzijl, Dorpshuis",1708::SB29,,465,370,0,0,63,58,36,75,54,22,32,14,7,5,0,1,2,0,0,0,1
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Kalenberg, Gemeenschapshuis",1708::SB30,,205,170,0,0,25,33,7,56,15,11,4,11,4,1,0,3,0,0,0,0,0
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Scheerwolde, Streekcentrum",1708::SB31,,625,470,0,0,107,76,32,124,65,14,28,12,4,5,1,1,0,0,0,1,0
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Kuinre, Dorpshuis",1708::SB32,,669,548,1,0,127,101,50,103,86,28,22,18,4,2,1,4,0,2,0,0,0
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau Blankenham, Dorpshuis",1708::SB33,,269,219,0,0,48,29,2,64,26,21,4,15,1,0,0,8,1,0,0,0,0
+Zwolle,Steenwijkerland,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Mobiel stembureau,1708::SB34,,0,91,0,0,23,16,6,22,4,5,7,6,1,0,0,0,1,0,0,0,0

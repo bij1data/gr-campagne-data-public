@@ -1,0 +1,101 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,VVD,Partij van de Arbeid (P.v.d.A.),PVV (Partij voor de Vrijheid),Christen Democratisch Appèl (CDA),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,ChristenUnie,Staatkundig Gereformeerde Partij (SGP),Partij voor de Dieren,Piratenpartij,Partij voor Mens en Spirit (MenS),Nederland Lokaal,Libertarische Partij (LP),Democratisch Politiek Keerpunt DPK,50PLUS,Liberaal Democratische Partij (LibDem),Anti Europa Partij,SOPN,Partij van de Toekomst (PvdT)
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Lindenberg.,0268::SB1,6511 TM,1201,599,1,0,77,213,25,11,82,92,63,5,0,19,4,7,0,0,0,1,0,0,0,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurthuis Het Oude Weeshuis,0268::SB2,6511 WT,1332,1195,5,1,179,388,97,24,193,146,103,0,0,35,8,3,0,1,0,14,1,0,3,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadhuis,0268::SB3,6511 PP,1338,1188,2,0,237,372,34,45,171,179,80,13,0,32,7,5,0,0,0,9,0,0,4,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadswinkel,0268::SB4,6511 PS,1384,996,3,2,205,330,23,30,119,165,64,6,0,33,5,1,0,0,1,11,1,0,2,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Activiteitencentrum Doddendaal,0268::SB5,6511 DM,1377,858,2,0,176,272,27,24,81,181,63,2,0,21,7,0,0,1,1,2,0,0,0,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kolpinghuis,0268::SB6,6511 ER,1357,1068,6,1,266,293,34,47,97,228,52,10,1,19,9,2,0,0,0,8,0,0,2,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Concertgebouw De Vereeniging,0268::SB7,6511 NC,1373,900,2,0,226,273,12,34,79,193,45,14,0,14,2,2,0,0,1,3,0,0,1,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum Burghardt,0268::SB8,6512 DR,1391,1309,0,2,210,421,21,46,156,274,117,12,0,26,14,4,1,2,0,3,0,0,1,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cordium Centrum voor groei en ontw.,0268::SB9,6512 GB,1350,680,0,2,78,233,12,4,105,143,71,2,0,20,6,2,0,0,0,2,1,0,1,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School de Driemaster,0268::SB10,6512 GD,1368,952,2,3,77,391,25,24,161,127,101,9,1,26,5,0,0,0,0,5,0,0,0,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cinematheek,0268::SB11,6524 JE,1502,1167,3,0,232,317,18,56,123,278,83,13,2,30,6,6,0,0,2,1,0,0,0,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dependance de Buut,0268::SB12,6524 NA,1402,1019,3,1,196,290,18,50,106,213,101,7,0,22,6,2,0,0,0,5,0,0,2,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Oud Burgeren Gasthuis,0268::SB13,6524 PJ,1300,1217,1,4,270,387,23,126,115,174,65,12,2,23,1,3,0,1,1,13,0,0,0,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau R.K. Basisschool Klein Heyendaal,0268::SB14,6524 NP,1349,1087,3,0,268,296,12,75,92,223,66,13,2,27,5,0,0,0,0,7,0,0,0,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Karel de Grote College,0268::SB15,6524 AJ,1518,967,1,1,139,332,18,23,153,165,73,12,0,35,6,3,0,0,0,5,0,0,2,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum Daalsehof,0268::SB16,6521 GT,1347,1217,3,2,183,422,35,36,184,194,105,16,2,23,8,2,1,1,0,4,1,0,0,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Wintertuin,0268::SB17,6521 EN,1111,683,0,0,80,254,13,16,84,129,76,9,0,12,2,4,0,0,0,2,0,0,1,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Badhuis,0268::SB18,6523 CD,1278,944,1,1,107,342,28,33,130,153,100,4,2,21,2,4,0,1,0,13,1,0,3,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verpleeghuis Margriet,0268::SB19,6522 AS,1580,1233,6,0,251,394,32,60,109,226,96,20,1,28,7,2,0,0,0,5,1,0,1,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School de Sterredans,0268::SB20,6522 HE,1664,1173,3,0,301,356,29,107,72,189,69,7,0,20,2,5,0,0,0,16,0,0,0,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Canisiuscollege,0268::SB21,6522 BK,1445,1140,3,2,148,393,68,41,186,142,94,8,1,34,2,4,0,0,0,14,2,0,0,3
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Restaurant Voldaan,0268::SB22,6523 BC,1387,881,2,3,140,282,52,26,156,106,74,2,0,16,5,5,0,1,1,14,0,0,0,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Montessori College,0268::SB23,6523 EV,1342,863,4,0,75,354,70,22,148,79,61,3,0,32,1,2,0,0,1,13,0,0,2,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ark van Oost,0268::SB24,6523 HR,1409,1132,6,2,86,378,86,37,245,105,111,2,0,49,5,4,0,0,0,22,0,0,2,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Montessori College,0268::SB25,6523 MJ,1012,705,0,0,264,156,20,49,40,107,35,8,0,19,3,1,0,0,0,2,0,0,1,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Waalboog locatie Joachim en Anna,0268::SB26,6523 PA,1348,1032,0,1,240,273,25,97,89,158,79,20,2,27,0,2,1,0,0,16,1,0,1,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau De Waalboog, locatie Nijevelt",0268::SB27,6525 AH,1225,1154,5,1,156,389,13,60,124,256,88,19,2,29,14,2,0,0,1,1,0,0,0,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Voorzieningenhart 't Hert 1,0268::SB28,6531 CS,1310,746,2,0,70,276,90,24,148,70,37,4,0,15,3,2,0,0,0,6,0,0,0,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum de Klokketoren,0268::SB29,6532 AD,1185,970,0,1,108,334,78,32,194,101,71,4,0,25,2,3,0,1,1,10,0,0,4,2
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Voorzieningenhart 't Hert 2,0268::SB30,6531 CS,1339,1037,3,2,109,384,98,44,158,116,66,9,0,26,6,5,0,0,0,12,0,0,3,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Martinus van Beekschool,0268::SB31,6531 RR,1253,1201,3,0,185,427,29,63,130,201,97,12,5,28,2,5,0,0,0,17,0,0,0,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau VC Nijmegen,0268::SB32,6531 TH,1217,1221,2,1,182,433,28,95,117,204,112,9,3,15,2,5,0,0,0,13,0,0,3,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School R.O.C.,0268::SB33,6531 KA,1451,1351,2,3,239,461,41,74,132,230,125,4,0,22,7,1,0,0,1,14,0,0,0,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Buurtcentrum ""de Inloop""",0268::SB34,6532 WP,1139,369,1,1,34,102,57,4,79,35,22,11,0,12,7,0,0,0,0,5,0,0,0,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Groenschool Nijmegen,0268::SB35,6532 SB,924,750,3,1,179,225,33,54,90,93,27,7,0,17,3,0,0,0,0,20,0,0,2,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Blikvanger,0268::SB36,6532 DB,1319,667,1,4,108,219,43,57,105,73,23,3,0,9,4,0,0,0,0,23,0,0,0,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Restaurant Valdin,0268::SB37,6533 ZM,1349,1362,5,1,270,452,44,59,160,228,89,11,0,19,4,2,0,0,2,19,0,0,3,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Flex College Nijmegen,0268::SB38,6533 RN,1562,992,2,2,126,329,73,35,203,93,70,7,1,33,2,4,0,1,0,13,0,0,2,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Turks Cultureel Centrum,0268::SB39,6533 SZ,1609,805,2,1,128,270,56,36,118,107,42,12,1,13,6,2,0,0,0,13,0,0,0,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Pauluskerk,0268::SB40,6533 NR,1486,1257,0,0,186,412,130,62,253,81,54,11,2,31,4,1,0,0,0,27,0,0,2,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschol Hidaya,0268::SB41,6533 PA,1292,804,1,3,120,241,56,48,152,97,50,5,2,16,3,2,0,0,0,9,0,0,2,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum de Schakel,0268::SB42,6533 MA,1342,1178,1,2,117,389,169,82,236,56,32,4,1,29,7,2,0,1,1,49,0,0,1,2
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ontmoetingscentrum de Toermalijn,0268::SB43,6534 VZ,1340,781,0,1,110,228,54,42,152,83,38,13,0,28,7,6,1,0,1,14,1,0,1,2
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Vossenburcht,0268::SB44,6535 TK,1554,1051,1,1,175,271,186,58,205,66,43,6,0,16,0,2,0,0,1,20,0,0,0,2
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum Hatert,0268::SB45,6535 RZ,1497,1127,8,7,88,418,151,72,221,65,30,11,1,24,2,3,0,2,1,36,0,0,2,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool de Klumpert,0268::SB46,6535 PS,1574,777,0,1,68,283,119,33,184,33,16,12,2,10,0,2,0,1,0,13,0,0,0,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Restaurant .. bij de buren,0268::SB47,6535 NB,1576,702,0,3,62,226,110,52,137,42,8,7,2,20,3,2,0,0,0,27,1,0,2,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Universiteitsrestaurant De Refter,0268::SB48,6525 HT,358,1709,4,1,241,541,14,47,158,438,187,26,3,34,11,2,1,1,1,2,1,0,1,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum Boszicht,0268::SB49,6525 TJ,1526,1087,3,1,171,332,54,117,172,107,57,7,0,33,3,3,1,4,0,22,2,0,1,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Roomsch Leven,0268::SB50,6525 SG,1497,1352,2,0,201,431,64,118,183,161,112,8,4,34,1,5,0,2,1,27,0,0,0,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Matchroom Dart, Snooker",0268::SB51,6541 AP,1179,718,0,2,107,226,49,17,135,83,55,6,0,20,9,1,0,0,0,6,1,0,2,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Autobedrijf Van Bon,0268::SB52,6541 TL,2884,870,3,5,83,256,157,26,188,58,43,13,1,25,3,1,0,0,0,15,1,0,0,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadswinkel mobiel,0268::SB53,6511 PS,103,808,2,2,177,254,22,22,76,177,41,11,0,16,5,1,0,0,0,4,0,0,1,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Aquamarijn,0268::SB54,6541 MC,1703,1020,1,8,134,335,98,16,195,115,70,7,1,27,10,5,0,1,0,5,0,0,1,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentr. Titus Brandsma,0268::SB55,6542 VJ,1036,1126,1,7,126,402,72,31,168,178,81,9,3,32,5,6,0,1,0,9,0,0,1,2
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurthuis De Driesprong,0268::SB56,6542 NX,1323,889,3,1,68,311,79,24,165,114,68,8,2,26,8,0,0,1,1,10,1,0,3,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum Villanova,0268::SB57,6542 JP,1130,645,1,1,51,224,59,17,131,73,53,5,1,17,3,3,0,0,0,6,0,0,1,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool De Wieken,0268::SB58,6542 KB,1136,771,2,1,75,274,110,26,126,67,46,10,0,15,6,3,0,0,0,13,0,0,0,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Helicon opleidingen,0268::SB59,6543 XV,1030,880,2,3,215,262,39,91,96,104,43,5,0,15,2,1,0,0,0,6,0,0,1,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Huize Sonnehaert,0268::SB60,6542 SM,1091,701,1,2,122,203,48,62,83,81,51,7,0,16,2,1,2,0,0,23,0,0,0,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum Heseweide,0268::SB61,6543 NA,1473,1147,8,6,124,403,112,65,220,92,70,3,1,30,5,4,0,0,0,15,0,1,1,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School  Zonnewende,0268::SB62,6543 RN,1592,970,1,3,159,306,122,39,161,84,56,8,1,22,2,0,0,0,0,9,0,0,1,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School GVO.,0268::SB63,6532 XP,1581,869,0,1,115,305,46,25,124,140,68,9,0,23,2,1,0,0,0,11,0,0,0,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Huize Rosa de Lima,0268::SB64,6543 JG,2228,1213,4,2,205,324,77,150,140,148,69,22,3,25,12,3,0,0,4,27,1,0,2,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum de Schalmei,0268::SB65,6544 TN,1355,1034,2,3,175,369,103,34,190,71,33,10,0,21,3,2,1,0,1,18,0,0,2,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Parochie De Goede Herder,0268::SB66,6544 NS,2212,1088,0,3,94,400,133,61,221,75,15,7,2,11,6,4,0,0,0,58,0,0,1,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Autobedrijf Van Bon mobiel,0268::SB67,6541 TL,0,708,1,6,79,247,105,5,110,71,45,7,0,18,7,3,0,0,0,7,2,0,0,2
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stichting Creatief Centrum Nijm.Z,0268::SB68,6537 PN,1648,1217,3,4,174,402,160,53,225,92,47,8,0,22,2,2,0,1,0,26,0,0,3,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Openwijkschool De Toldijk,0268::SB69,6537 PN,1268,338,0,0,54,127,17,26,66,25,9,2,0,6,0,0,1,0,0,5,0,0,0,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bibliotheek Zwanenveld,0268::SB70,6538 SC,1251,1173,1,7,150,368,144,51,231,108,33,11,0,29,9,0,0,3,0,27,0,2,4,3
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Prins Maurits,0268::SB71,6538 TN,1317,836,0,5,90,252,169,31,160,40,23,19,0,11,8,1,0,0,1,29,0,1,1,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ontmoetingsruimte Leuvenshof,0268::SB72,6538 ML,1186,553,0,1,56,170,105,16,118,29,10,8,1,18,2,1,0,0,0,17,0,0,2,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Meiboom,0268::SB73,6537 HD,1368,833,2,7,75,371,85,34,172,25,17,13,2,17,2,1,0,1,1,13,1,0,1,2
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum Dukenburg,0268::SB74,6537 EP,1165,776,1,1,69,247,93,49,176,55,30,13,0,15,2,0,0,0,0,21,0,2,1,3
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Maatschap v. Fysiother. ""Lankforst""",0268::SB75,6538 HA,777,546,0,1,76,158,61,21,127,46,18,9,1,12,3,2,0,0,0,9,0,0,0,3
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Nutsschool Lankforst,0268::SB76,6538 GN,850,590,0,2,84,197,57,35,121,56,15,3,0,7,2,1,0,0,1,10,0,1,0,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool de Aldenhove,0268::SB77,6537 DG,940,620,2,4,101,219,89,41,104,29,10,0,1,15,2,0,1,1,0,6,0,0,1,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bej. centr. De Doekenborg,0268::SB78,6537 AJ,1006,588,0,1,69,237,83,25,114,16,9,3,1,13,0,1,0,0,0,13,0,1,1,2
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau De Orangerie, zorgcentrum",0268::SB79,6538 DM,1066,916,0,12,83,293,146,85,173,29,17,9,4,22,11,2,0,0,3,35,0,0,2,2
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum De Turf,0268::SB80,6538 DH,909,400,0,0,38,139,60,22,81,18,6,4,6,7,1,2,0,0,0,16,0,0,0,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Prins Clausschool,0268::SB81,6536 DB,1407,1298,1,0,278,381,66,89,156,175,69,27,1,23,3,0,0,1,1,26,1,0,0,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Dageraad,0268::SB82,6536 AC,1343,970,3,0,168,294,89,45,144,106,49,21,1,18,3,2,0,0,0,29,0,0,1,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau JC de Sprok,0268::SB83,6546 JZ,1404,611,0,0,106,177,100,20,131,42,9,5,2,8,1,2,1,0,1,4,0,0,2,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Openwijkschool de Interacker,0268::SB84,6546 HA,1392,700,1,2,111,216,126,13,160,29,19,4,3,7,1,1,0,0,1,8,0,0,0,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sporthal De Horstacker,0268::SB85,6546 EK,1356,824,0,3,111,272,130,21,194,38,16,6,0,14,3,1,0,0,2,15,0,0,1,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Luithorst,0268::SB86,6545 LX,1452,1034,2,3,175,369,103,34,190,71,33,10,0,21,3,2,1,0,1,18,0,0,2,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Parochie Lindenholt,0268::SB87,6545 AW,1304,1225,2,4,247,382,96,84,187,112,33,19,2,23,3,1,1,0,0,32,2,0,1,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Beheerdersruimte Portaal,0268::SB88,6545 GK,1360,497,3,3,41,184,64,22,112,31,10,6,2,8,2,1,0,0,0,11,0,0,1,2
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Wingerd,0268::SB89,6546 XN,1553,939,1,4,194,276,160,30,155,56,17,7,1,14,0,0,0,0,0,28,0,0,1,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum de Brack,0268::SB90,6546 XS,1438,1356,3,0,248,397,197,35,289,85,42,13,1,20,5,2,0,0,1,18,1,0,2,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Klif 1..,0268::SB91,6515 DJ,1737,1280,4,3,376,370,69,48,128,167,66,15,5,24,1,3,0,0,0,5,0,0,2,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Klif 2..,0268::SB92,6515 DJ,1715,1465,4,0,445,412,70,53,132,213,75,13,6,26,4,6,0,0,0,7,2,0,1,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Voorzieningenhart De Ster,0268::SB93,6663 HA,1539,1419,4,0,290,456,55,46,153,220,128,10,1,44,4,3,0,0,0,5,1,0,3,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sportcentrum De Spil,0268::SB94,6663 CD,1593,1177,0,2,308,345,40,104,146,139,54,3,3,21,3,0,0,0,1,10,0,0,0,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Zorgc. Betuweland,locatie St. Jozef",0268::SB95,6663 CP,1575,1082,0,4,297,244,62,170,120,86,41,5,0,26,0,5,0,0,0,23,0,1,1,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Centraal Station,0268::SB96,6512 AB,0,1241,5,2,166,400,31,27,185,221,123,20,1,47,8,5,0,0,0,6,0,0,0,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau UMC St. Radboud,0268::SB97,6525 GA,1339,1428,4,3,306,445,37,75,105,322,79,23,1,22,5,0,0,1,0,7,0,0,0,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau UMC St. Radboud mobiel,0268::SB98,6525 GA,0,639,2,2,131,192,9,30,43,154,43,5,1,19,6,1,0,0,0,5,0,0,0,0
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Centraal Station mobiel,0268::SB99,,0,1050,5,2,146,368,15,32,137,213,69,13,2,29,12,7,0,0,0,4,1,0,1,1
+Nijmegen,Nijmegen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Badhuis mobiel,0268::SB100,6523 CD,0,815,3,0,93,290,16,16,107,163,86,8,0,23,3,0,0,0,1,8,1,0,0,0

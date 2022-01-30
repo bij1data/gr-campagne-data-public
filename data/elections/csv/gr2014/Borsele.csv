@@ -1,0 +1,23 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_kwijtgeraakte stembiljetten,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,CDA,SGP-ChristenUnie,Partij van de Arbeid (P.v.d.A.),Lokale Partij Borsele,VVD,Democraten 66 (D66),OPA Borsele
+,Borsele,GR2014_Borsele,Gemeenteraad Borsele 2014,0654,Borsele,2014-03-19,Stembureau Heinkenszand 1,0654::SB1,4451 KB,1101,689,1,4,0,0,0,625,69,0,0,0,0,0,0,694,169,20,135,119,75,89,82
+,Borsele,GR2014_Borsele,Gemeenteraad Borsele 2014,0654,Borsele,2014-03-19,Stembureau Heinkenszand 2,0654::SB2,4451 KB,1092,586,3,0,0,0,0,534,55,0,0,0,0,0,0,589,154,20,107,109,65,74,57
+,Borsele,GR2014_Borsele,Gemeenteraad Borsele 2014,0654,Borsele,2014-03-19,Stembureau Heinkenszand 3,0654::SB3,4451 LA,1043,503,1,1,0,0,0,455,50,0,0,0,0,0,0,505,163,23,68,92,60,56,41
+,Borsele,GR2014_Borsele,Gemeenteraad Borsele 2014,0654,Borsele,2014-03-19,Stembureau Lewedorp 5,0654::SB5,4456 AL,682,384,3,3,0,0,0,339,51,0,0,0,0,0,0,390,139,30,60,61,35,23,36
+,Borsele,GR2014_Borsele,Gemeenteraad Borsele 2014,0654,Borsele,2014-03-19,Stembureau Nieuwdorp,0654::SB6,4455 TL,906,555,2,1,0,0,0,495,63,0,0,0,0,0,0,558,109,209,68,86,29,31,23
+,Borsele,GR2014_Borsele,Gemeenteraad Borsele 2014,0654,Borsele,2014-03-19,Stembureau 's-Heerenhoek 7,0654::SB7,4453 BE,802,406,2,2,0,0,0,366,44,0,0,0,0,0,0,410,113,7,107,77,62,25,15
+,Borsele,GR2014_Borsele,Gemeenteraad Borsele 2014,0654,Borsele,2014-03-19,Stembureau Borssele,0654::SB8,4454 AS,1009,692,0,3,0,0,0,613,81,0,0,1,0,1,0,694,63,430,33,88,20,30,28
+,Borsele,GR2014_Borsele,Gemeenteraad Borsele 2014,0654,Borsele,2014-03-19,Stembureau Driewegen,0654::SB9,4438 AH,452,265,3,1,0,0,0,239,30,0,0,0,0,0,0,269,76,12,32,69,30,31,15
+,Borsele,GR2014_Borsele,Gemeenteraad Borsele 2014,0654,Borsele,2014-03-19,Stembureau Ellewoutsdijk,0654::SB10,4437 AE,337,146,0,0,0,0,0,140,6,0,0,0,0,0,0,146,28,5,29,33,16,19,16
+,Borsele,GR2014_Borsele,Gemeenteraad Borsele 2014,0654,Borsele,2014-03-19,Stembureau Ovezande,0654::SB11,4441 AE,941,610,2,2,0,0,0,541,73,0,0,0,0,0,0,614,371,9,60,68,20,64,18
+,Borsele,GR2014_Borsele,Gemeenteraad Borsele 2014,0654,Borsele,2014-03-19,Stembureau Oudelande,0654::SB12,4436 AD,544,335,2,0,0,0,0,298,39,0,0,0,0,0,0,337,56,17,40,148,30,30,14
+,Borsele,GR2014_Borsele,Gemeenteraad Borsele 2014,0654,Borsele,2014-03-19,Stembureau Baarland,0654::SB13,4435 AD,500,298,1,6,0,0,0,262,43,0,0,0,0,0,0,305,64,61,51,62,19,30,11
+,Borsele,GR2014_Borsele,Gemeenteraad Borsele 2014,0654,Borsele,2014-03-19,Stembureau Hoedekenskerke,0654::SB14,4433 AL,555,365,4,0,0,0,0,336,33,0,0,0,0,0,0,369,90,101,33,54,33,34,20
+,Borsele,GR2014_Borsele,Gemeenteraad Borsele 2014,0654,Borsele,2014-03-19,Stembureau Kwadendamme,0654::SB15,4434 AC,782,497,0,3,0,0,0,455,45,0,0,0,0,0,0,500,278,18,48,77,32,28,16
+,Borsele,GR2014_Borsele,Gemeenteraad Borsele 2014,0654,Borsele,2014-03-19,Stembureau Nisse,0654::SB16,4443 AE,489,330,3,0,0,0,0,301,32,0,0,0,0,0,0,333,82,57,46,46,33,38,28
+,Borsele,GR2014_Borsele,Gemeenteraad Borsele 2014,0654,Borsele,2014-03-19,Stembureau 's-Heer Abtskerke,0654::SB17,4444 AG,402,248,0,1,0,0,0,232,17,0,0,0,0,0,0,249,70,18,34,53,34,25,14
+,Borsele,GR2014_Borsele,Gemeenteraad Borsele 2014,0654,Borsele,2014-03-19,Stembureau 's-Gravenpolder 18,0654::SB18,4431 BP,1017,894,0,2,0,0,0,765,131,0,0,0,0,0,0,896,117,536,34,97,39,33,38
+,Borsele,GR2014_Borsele,Gemeenteraad Borsele 2014,0654,Borsele,2014-03-19,Stembureau 's-Gravenpolder 19,0654::SB19,4431 BP,1102,650,0,0,0,0,0,563,87,0,0,0,0,0,0,650,120,303,53,67,30,52,25
+,Borsele,GR2014_Borsele,Gemeenteraad Borsele 2014,0654,Borsele,2014-03-19,Stembureau 's-Gravenpolder 20,0654::SB20,4431 EK,1161,847,1,2,0,0,0,743,107,0,0,0,0,0,0,850,101,555,52,62,19,41,17
+,Borsele,GR2014_Borsele,Gemeenteraad Borsele 2014,0654,Borsele,2014-03-19,Stembureau Heinkenszand 21,0654::SB21,4451 TL,1082,657,1,2,0,0,0,605,55,0,0,0,0,0,0,660,219,17,110,91,112,57,51
+,Borsele,GR2014_Borsele,Gemeenteraad Borsele 2014,0654,Borsele,2014-03-19,Stembureau Lewedorp 22,0654::SB22,4456 AG,680,326,2,0,0,0,0,295,33,0,0,0,0,0,0,328,145,33,39,48,22,21,18
+,Borsele,GR2014_Borsele,Gemeenteraad Borsele 2014,0654,Borsele,2014-03-19,Stembureau 's-Heerenhoek 23,0654::SB23,4453 BE,767,384,3,0,0,0,0,340,47,0,0,0,0,0,0,387,121,7,65,78,68,25,20

@@ -1,0 +1,85 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_kwijtgeraakte stembiljetten,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,CDA - Europese Volkspartij,PVV (Partij voor de Vrijheid),P.v.d.A./Europese Sociaaldemocraten,VVD,Democraten 66 (D66) - ALDE,GROENLINKS,SP (Socialistische Partij),ChristenUnie-SGP,Artikel50,"IQ, de Rechten-Plichten-Partij",Piratenpartij,50PLUS,De Groenen,Anti  EU(ro)  Partij,Liberaal Democratische Partij,JEZUS LEEFT,ikkiesvooreerlijk.eu,Partij voor de Dieren,Aandacht en Eenvoud
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Stadhuis,0758::SB1,,2012,639,2,0,0,1,2,584,56,0,0,0,1,0,0,642,55,47,62,138,149,74,40,2,6,0,17,4,1,2,0,2,1,39,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau RK BS St. Joseph,0758::SB2,,2420,521,3,1,0,1,4,478,44,0,0,0,1,0,0,526,33,26,46,96,157,60,50,3,2,0,10,4,2,2,0,0,4,26,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Cingel College,0758::SB3,,2412,738,3,5,0,0,2,671,73,0,0,0,0,0,0,746,58,67,75,119,173,81,78,5,4,0,10,18,1,2,0,1,1,45,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zorg en Behandelcentrum Elisabeth,0758::SB4,,1763,407,5,5,0,0,1,376,40,0,0,0,0,0,0,417,50,56,34,47,83,32,45,11,2,0,14,12,1,2,0,1,2,15,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau BS De Singel,0758::SB5,,2060,514,2,1,0,0,0,485,32,0,0,0,0,0,0,517,30,71,50,80,111,42,76,5,2,0,10,6,0,0,0,2,1,28,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Stadskantoor,0758::SB6,,1882,998,2,1,0,0,5,944,52,0,0,0,0,0,0,1001,89,74,90,175,243,98,101,15,13,0,11,36,4,0,4,1,5,38,1
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau NHTV,0758::SB10,,1549,335,2,1,0,0,0,305,33,0,0,0,0,0,0,338,37,51,23,27,68,38,52,2,3,0,4,8,1,2,0,0,0,19,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Vrije School Breda,0758::SB11,,2348,687,5,0,0,1,4,616,71,0,0,1,0,0,0,691,40,91,75,52,147,115,88,3,4,0,6,16,6,0,2,1,1,40,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau BS De Liniedoorn,0758::SB12,,1994,500,3,3,0,0,0,461,45,0,0,0,0,0,0,506,67,100,38,22,53,38,107,8,2,2,12,21,1,6,2,0,1,20,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau 't Rietveldhuis,0758::SB13,,1059,232,2,2,0,0,2,213,21,0,0,0,0,0,0,236,20,55,18,20,24,5,60,2,1,0,5,9,1,0,0,1,0,11,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau BS De Fontein,0758::SB14,,1612,336,1,2,0,0,0,316,23,0,0,0,0,0,0,339,56,80,39,12,34,8,61,5,1,0,5,25,0,2,0,1,0,7,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Woon- zorgcentrum Raffy,0758::SB15,,2547,559,2,2,0,1,1,498,65,0,0,0,1,0,0,564,47,105,61,59,77,42,82,21,5,0,8,25,1,0,1,0,0,24,1
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau De Wegwijzer,0758::SB16,,1793,470,2,0,0,0,0,414,58,0,0,0,0,0,0,472,36,125,47,47,45,29,77,11,0,0,9,21,0,2,0,2,0,19,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau BS De Wisselaar,0758::SB17,,1799,326,0,1,0,0,0,291,36,0,0,0,0,0,0,327,28,92,39,12,27,9,77,2,0,1,3,17,0,2,0,0,1,16,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Gemeenschapshuis De Biesdonk,0758::SB18,,1728,405,2,1,0,2,0,369,41,0,0,0,2,0,0,410,50,106,40,27,58,14,57,3,1,1,2,25,0,1,1,5,0,14,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Vuchterhage,0758::SB19,,1607,484,4,2,0,0,0,443,47,0,0,0,0,0,0,490,53,101,44,38,42,26,97,6,5,0,3,38,4,4,0,1,2,20,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Ons sbo,0758::SB25,,1395,318,0,0,0,0,2,284,32,0,0,0,0,0,0,318,35,53,37,29,49,21,45,3,3,0,3,15,1,2,0,4,0,18,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau H. Michaëlkerk,0758::SB26,,2035,538,2,3,0,0,0,505,38,0,0,0,0,0,0,543,70,58,57,46,92,55,84,9,1,0,9,22,0,2,1,2,1,28,1
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau De Poelewei,0758::SB27,,2256,624,2,2,0,2,1,568,57,0,0,2,0,0,0,626,50,67,60,78,102,64,105,16,4,0,12,19,3,1,0,1,1,41,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau NHTV,0758::SB28,,2081,704,4,0,0,0,0,632,76,0,0,0,0,0,0,708,86,41,66,98,168,80,70,6,3,1,18,28,1,1,2,1,2,32,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau 't Houwke,0758::SB29,,1523,579,3,0,0,0,3,541,38,0,0,0,0,0,0,582,94,72,57,92,87,16,82,6,6,0,2,29,0,2,0,3,3,27,1
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,"Stembureau KBS ""Weilust""",0758::SB30,,1241,449,3,2,0,0,3,406,45,0,0,0,0,0,0,454,57,65,32,69,78,35,71,2,2,0,7,13,0,1,0,0,0,17,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau OBS De Tweesprong,0758::SB31,,1560,547,2,0,0,0,0,495,54,0,0,0,0,0,0,549,71,60,60,100,88,45,65,5,1,0,3,22,3,0,0,0,0,24,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Serviceresidentie Vredenbergh,0758::SB32,,1662,566,1,0,0,5,2,498,72,0,0,0,5,0,0,572,85,29,56,131,128,62,30,5,3,1,1,13,3,0,2,0,0,17,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Sacramentskerk,0758::SB33,,1942,822,1,4,1,0,0,728,98,0,0,1,0,0,0,826,79,48,65,155,249,100,61,7,2,0,6,19,2,2,0,0,3,23,1
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Sacramentskerk,0758::SB34,,2041,828,3,0,1,1,1,733,99,0,0,0,2,0,0,833,58,26,84,149,251,109,70,12,6,0,3,20,2,0,0,0,1,37,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Dr. de Visserschool,0758::SB40,,1667,820,1,5,0,0,2,716,106,0,0,2,0,2,0,824,74,23,54,227,273,82,43,3,6,0,0,14,2,1,0,0,0,18,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Rotonde,0758::SB41,,1946,733,0,1,0,1,2,640,93,0,0,0,1,0,0,735,97,50,65,136,190,72,68,1,1,1,4,14,1,1,0,1,3,28,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Gemeenschapshuis Erasmus,0758::SB42,,1350,429,1,0,0,0,0,387,43,0,0,0,0,0,0,430,26,46,25,76,95,39,69,2,2,0,5,17,0,0,0,0,0,26,1
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Nbs School Dirk van Veen,0758::SB43,,1846,720,3,2,0,1,0,656,70,0,0,0,1,0,0,726,116,69,45,139,166,33,70,6,4,0,3,29,1,4,3,0,1,30,1
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau BS De Burchtgaarde,0758::SB44,,1468,599,4,2,0,1,2,545,57,0,0,1,0,0,0,604,91,59,61,98,108,40,83,9,6,0,6,18,0,0,2,0,0,17,1
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Huize De Werve,0758::SB45,,1687,616,2,1,0,0,0,561,58,0,0,0,0,0,0,619,84,27,45,156,146,52,44,3,3,0,3,17,0,0,2,1,2,31,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Christoffelschool,0758::SB46,,1462,505,0,0,0,0,1,467,37,0,0,0,0,0,0,505,86,52,56,85,82,42,45,4,2,0,3,24,3,1,0,0,0,19,1
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Thebe De IJpelaar,0758::SB47,,1399,492,2,0,0,0,0,453,41,0,0,0,0,0,0,494,78,46,54,78,100,34,44,6,1,0,3,17,5,3,0,0,0,23,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Woon- zorgcentrum Overakker,0758::SB48,,1358,639,1,2,0,0,1,576,65,0,0,0,0,0,0,642,102,56,41,134,132,44,65,9,4,0,3,22,1,0,0,3,0,22,1
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Scoutinggebouw De Mokkenboom,0758::SB55,,2069,793,1,0,0,2,0,718,78,0,0,0,2,0,0,796,69,46,57,176,226,84,54,6,0,0,9,28,2,0,1,0,0,35,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Het Brederocollege,0758::SB56,,2033,788,2,0,0,0,0,694,96,0,0,0,0,0,0,790,94,36,75,156,225,74,54,2,6,0,5,10,0,1,1,1,1,46,1
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Verpleeghuis Aeneas,0758::SB57,,1073,505,1,0,0,0,2,459,45,0,0,0,0,0,0,506,73,47,36,99,106,30,62,5,1,0,3,19,1,1,0,0,0,22,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Clubhuis Tennisvereniging BLTV,0758::SB58,,1799,712,0,0,0,0,0,638,74,0,0,0,0,0,0,712,122,44,29,267,162,23,13,6,1,0,1,23,0,0,0,0,1,20,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Cafe-Zalencentrum Het Witte Schaap,0758::SB65,,1970,469,3,0,0,0,1,420,51,0,0,0,0,0,0,472,29,98,44,58,68,37,78,8,5,0,2,18,1,0,0,0,1,22,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau TVC Breda,0758::SB66,,2021,229,1,0,0,0,0,191,39,0,0,0,0,0,0,230,18,84,12,23,22,10,36,1,3,0,2,3,0,0,1,0,1,13,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau De Weerijs,0758::SB67,,1697,274,3,2,0,0,0,260,19,0,0,0,0,0,0,279,13,64,28,20,29,35,56,4,1,0,6,2,1,2,3,0,0,10,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Multifunctioneel Centrum Scheldestraat,0758::SB68,,2321,438,0,3,0,0,0,396,45,0,0,0,0,0,0,441,22,88,45,45,85,48,56,2,2,0,5,20,2,0,2,0,1,15,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Gymzaal Boksvereniging De Bredase Ring,0758::SB69,,1940,469,3,2,0,0,0,432,42,0,0,0,0,0,0,474,31,89,47,47,77,42,56,9,2,0,11,18,0,0,2,1,1,36,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Het Huis van de Heuvel,0758::SB70,,1759,372,2,3,0,0,2,327,48,0,0,0,0,0,0,377,32,88,31,41,50,20,68,2,2,0,4,12,0,3,0,0,0,17,2
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Het Kompas,0758::SB71,,1598,481,0,2,0,0,0,411,72,0,0,0,0,0,0,483,43,44,54,67,86,49,77,8,0,0,13,12,1,0,0,0,0,27,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Het Huis van de Heuvel,0758::SB72,,2231,617,2,1,0,0,2,548,70,0,0,0,0,0,0,620,62,104,70,69,98,38,98,7,2,0,7,24,1,4,0,0,3,30,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau BS Effen,0758::SB73,,791,301,1,0,0,0,0,264,38,0,0,0,0,0,0,302,70,45,17,69,49,9,19,0,0,0,0,9,1,0,0,0,0,13,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Jongerenwerkwinkel Princenhage,0758::SB74,,2068,638,3,0,0,0,0,573,68,0,0,0,0,0,0,641,60,78,55,83,129,49,94,8,4,0,11,29,2,0,0,1,2,31,2
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Gemeenschapshuis De Koe,0758::SB75,,1581,651,3,1,0,0,0,585,70,0,0,0,0,0,0,655,64,89,69,104,115,48,84,10,4,0,3,18,1,0,7,1,1,31,2
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Verpleeg en verzorgingshuis Haga,0758::SB76,,1375,459,3,1,0,0,2,392,69,0,0,0,0,0,0,463,76,74,38,92,55,26,53,4,3,0,5,18,1,0,0,1,2,11,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau BS De Boomgaard,0758::SB77,,2020,629,1,0,0,0,0,540,90,0,0,0,0,0,0,630,37,68,56,125,165,50,64,7,3,0,3,16,1,2,0,0,1,31,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Gemeenschapshuis Liesbos,0758::SB78,,651,202,2,1,0,0,0,181,24,0,0,0,0,0,0,205,60,25,8,36,28,8,16,4,0,0,1,6,1,0,0,0,0,9,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau De Beemdentil,0758::SB85,,2025,700,2,0,0,0,0,618,84,0,0,0,0,0,0,702,67,94,98,70,117,71,104,5,5,0,8,24,1,1,2,2,0,31,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Nutsbasisschool De Hoogakker,0758::SB86,,1758,476,2,2,0,1,0,420,61,0,0,0,1,0,0,481,41,69,42,42,66,56,89,6,1,0,13,13,0,2,1,1,2,32,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Ontmoetingsruimte Sporthal,0758::SB87,,1883,543,8,1,0,7,0,479,66,0,0,7,0,0,0,545,32,83,61,55,97,52,65,15,13,0,9,11,3,13,0,1,1,32,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Nutsbasisschool De Hoogakker,0758::SB88,,2002,567,1,2,0,0,0,493,77,0,0,0,0,0,0,570,33,118,52,61,96,42,104,10,7,0,6,13,1,1,0,0,2,21,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Kindcentrum Olympia,0758::SB89,,1931,384,1,0,0,0,0,338,47,0,0,0,0,0,0,385,26,86,49,51,44,20,57,13,1,1,6,12,1,0,1,1,0,14,1
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau BSW diensten,0758::SB90,,1911,490,4,2,0,0,0,449,47,0,0,0,0,0,0,496,34,101,44,67,63,39,67,15,8,0,5,24,0,2,1,0,0,20,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Nutsbasisschool Burgst,0758::SB91,,1633,567,0,3,0,0,0,515,55,0,0,0,0,0,0,570,44,70,51,112,127,36,59,6,0,0,3,19,2,1,0,1,0,36,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Woonzorgcentrum Heksenwiel,0758::SB92,,1465,544,0,2,0,0,0,486,60,0,0,0,0,0,0,546,58,122,50,52,67,44,73,15,4,0,4,22,2,1,0,1,0,29,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau SCC 't Kraaienest,0758::SB93,,1705,625,1,4,0,0,2,564,64,0,0,0,0,0,0,630,89,74,51,114,124,34,54,14,7,0,10,23,2,3,0,2,1,23,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau KBS De Driezwing,0758::SB94,,2417,633,4,0,0,0,0,562,75,0,0,0,0,0,0,637,48,90,60,136,125,37,63,15,5,1,10,13,4,0,0,1,0,24,1
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau KBS Kievitsloop,0758::SB95,,1598,522,1,1,0,0,2,463,59,0,0,0,0,0,0,524,36,110,46,86,92,34,52,8,4,0,6,17,0,1,1,1,0,27,1
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau H. Willibrorduskerk,0758::SB101,,961,565,1,0,0,0,2,496,68,0,0,0,0,0,0,566,132,55,28,84,117,40,54,4,1,0,0,27,0,2,0,0,0,20,1
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Dorpshuis 't Web,0758::SB102,,2157,941,4,3,0,0,0,831,117,0,0,0,0,0,0,948,158,84,76,211,213,49,57,15,1,0,6,38,1,0,0,1,0,31,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau De Mandt,0758::SB103,,1251,387,2,0,0,0,0,352,37,0,0,0,0,0,0,389,49,53,31,61,77,22,51,11,0,0,2,9,0,0,0,1,2,18,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Woon-Zorgcentrum Zuiderhout,0758::SB104,,1208,473,0,4,0,0,0,427,50,0,0,0,0,0,0,477,143,53,23,96,70,15,25,3,1,0,1,20,0,3,1,0,0,19,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau SSC De Pekhoeve,0758::SB201,,1926,932,6,2,0,3,13,803,121,0,0,3,0,0,0,937,136,75,47,244,201,59,71,6,6,1,6,29,3,1,2,0,1,42,2
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,"Stembureau Woon- zorgcentrum ""De Donk""",0758::SB202,,1682,748,1,0,0,0,9,656,84,0,0,0,0,0,0,749,161,52,44,188,141,35,59,2,0,0,5,36,2,0,1,1,0,21,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau SCC 't Klooster,0758::SB203,,1512,604,0,0,0,0,0,547,57,0,0,0,0,0,0,604,142,52,31,133,96,22,53,9,0,0,1,40,1,0,0,0,0,23,1
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau OBS De Toerrmalijn,0758::SB204,,1360,536,0,0,0,0,0,483,53,0,0,0,0,0,0,536,98,46,27,129,107,24,52,3,1,2,1,17,1,2,2,0,0,24,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,"Stembureau BS ""de Spindel""",0758::SB205,,1515,497,1,0,0,0,1,450,47,0,0,0,0,0,0,498,103,51,39,94,83,24,47,5,0,1,3,21,2,2,1,0,1,20,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Amarant,0758::SB206,,1635,651,4,0,0,0,0,569,86,0,0,0,0,0,0,655,74,56,38,197,156,28,44,5,5,0,6,25,1,1,0,0,0,14,1
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau RK Kerk OLV Ten Hemelopneming,0758::SB301,,1510,483,1,0,0,0,0,427,57,0,0,0,0,0,0,484,139,53,26,97,67,17,31,9,4,0,3,23,1,1,0,0,0,12,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Ouderencentrum De Zilverberk,0758::SB302,,1868,648,0,1,0,2,0,579,72,0,0,0,2,0,0,651,147,89,37,110,106,30,49,5,5,0,2,46,0,2,0,0,2,18,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Museum De Rijf,0758::SB303,,1879,642,6,1,0,0,1,572,76,0,0,0,0,0,0,649,144,74,25,140,98,36,48,7,5,0,6,35,0,2,0,0,0,21,1
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Sportpark De Heikant,0758::SB304,,1849,680,0,3,0,0,0,623,60,0,0,0,0,0,0,683,171,89,26,165,110,16,43,6,3,0,2,23,0,0,0,0,1,25,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau De Drie Linden,0758::SB305,,1857,702,0,2,0,0,0,613,91,0,0,0,0,0,0,704,159,66,45,162,107,31,49,8,7,0,2,39,0,1,1,0,1,24,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,"Stembureau Mobiel Breedonk,Ruitersbos,Leystroom",0758::SB401,,0,167,0,0,0,0,0,156,11,0,0,0,0,0,0,167,78,16,10,19,17,0,10,4,1,0,0,10,0,0,0,0,0,2,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Mobiel AVANS + Westerwiek,0758::SB402,,0,112,2,0,0,0,0,107,7,0,0,0,0,0,0,114,14,13,14,12,27,12,5,4,0,0,4,1,0,0,0,0,0,6,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Stembureau Amphia Molengracht,0758::SB450,,0,227,2,0,0,0,0,198,31,0,0,0,0,0,0,229,24,26,20,31,45,13,39,2,0,0,2,2,1,0,1,1,0,19,1
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Stembureau Amphia Langendijk,0758::SB451,,0,175,0,0,0,0,1,159,15,0,0,0,0,0,0,175,22,14,18,31,41,17,16,2,3,0,3,1,0,0,0,0,0,7,0
+,Breda,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Stembureau NS Station Breda,0758::SB452,,0,927,7,2,0,2,5,879,54,0,0,0,2,0,0,938,68,60,98,129,238,129,110,12,0,0,28,14,1,4,1,0,3,29,3

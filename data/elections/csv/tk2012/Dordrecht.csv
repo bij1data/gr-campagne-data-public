@@ -1,0 +1,76 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,VVD,Partij van de Arbeid (P.v.d.A.),PVV (Partij voor de Vrijheid),Christen Democratisch Appèl (CDA),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,ChristenUnie,Staatkundig Gereformeerde Partij (SGP),Partij voor de Dieren,Piratenpartij,Partij voor Mens en Spirit (MenS),Nederland Lokaal,Libertarische Partij (LP),Democratisch Politiek Keerpunt DPK,50PLUS,Liberaal Democratische Partij (LibDem),Anti Europa Partij,SOPN,Partij van de Toekomst (PvdT)
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadhuis,0505::SB1,3300 AA,1436,896,2,4,238,216,55,33,94,121,36,28,15,33,10,0,0,0,0,14,0,0,1,2
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadskantoor,0505::SB2,3311 GR,1353,1441,6,6,317,339,135,73,146,187,74,41,45,41,13,2,0,6,1,15,1,0,5,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Praathuis,0505::SB3,3311 XN,1135,513,0,3,76,161,57,14,83,58,15,21,4,18,3,0,0,1,0,1,0,0,0,1
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Centrum Stapal,0505::SB4,3311 TV,1243,883,3,5,202,261,95,47,89,71,23,21,3,29,2,3,0,1,0,33,1,0,1,1
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schoolgebouw,0505::SB5,3311 TX,1284,762,3,5,126,270,54,23,102,61,38,19,10,35,5,3,0,1,0,12,0,1,1,1
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Wielborgh, het Stadswiel",0505::SB6,3311 GB,1397,845,0,1,245,201,73,39,65,87,39,31,15,31,2,1,0,0,0,12,0,1,2,1
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schoolgebouw,0505::SB7,3311 LG,1284,828,1,1,174,221,56,47,82,101,45,35,19,34,4,1,0,0,0,6,0,1,0,2
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kunstkerk,0505::SB8,3311 XP,1358,760,0,2,145,242,51,36,98,92,38,12,7,25,1,0,0,0,0,12,0,0,1,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Regiokantoor,0505::SB9,3311 RR,1355,814,0,3,153,342,59,35,97,56,22,14,1,19,1,1,0,2,1,10,0,0,0,1
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Inter Amicos,0505::SB10,3312 EC,1263,732,4,1,125,176,95,35,101,62,28,39,25,28,5,4,0,1,0,7,0,0,0,1
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadhuis (extra),0505::SB11,3311 CT,0,735,6,4,203,161,47,19,102,103,34,21,9,22,3,1,0,1,0,6,1,0,1,1
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurthuis de Driesprong,0505::SB15,3312 GD,1187,989,2,3,193,269,93,45,126,86,40,56,21,25,6,3,0,0,2,21,1,0,2,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Lokalencomplex,0505::SB17,3312 RG,878,401,1,1,40,140,54,20,52,24,13,28,12,2,3,1,0,0,0,11,0,0,1,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum De Linde,0505::SB18,3312 GT,1245,1088,4,1,226,289,99,60,100,99,44,64,47,32,1,1,0,0,1,19,0,0,3,3
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kerkgebouw Pinkstergemeente,0505::SB19,3312 AM,1324,785,1,0,241,182,85,48,68,57,12,28,19,21,7,3,0,0,1,13,0,0,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Vrije school,0505::SB20,3312 NB,1235,936,2,0,104,277,108,36,112,62,62,64,45,31,3,6,0,3,2,20,0,0,1,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School de Repelaer,0505::SB22,3312 LN,1355,1049,1,0,155,265,129,75,112,86,36,61,78,27,3,1,0,1,1,15,0,2,0,2
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurthuis Staart-West,0505::SB25,3313 GE,804,441,3,1,75,143,55,13,57,21,5,30,17,10,4,1,0,0,0,9,0,0,1,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wantijschool,0505::SB26,3313 GL,793,495,0,0,62,156,96,19,75,18,8,17,8,14,4,1,0,1,1,15,0,0,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School de Regenboog,0505::SB27,3313 BN,1233,717,1,3,96,187,145,48,106,36,10,31,13,14,2,0,1,1,3,24,0,0,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woon- en Zorgcentr. Merwelanden,0505::SB29,3313 EM,1239,783,3,3,132,233,144,92,78,25,6,24,2,14,2,0,1,0,1,29,0,0,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum Thureborgh,0505::SB30,3314 JG,1356,849,1,4,102,231,112,49,91,59,37,39,49,44,4,7,0,2,0,23,0,0,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Soc. Cultureel Centrum Aksa,0505::SB33,3314 NX,1223,639,0,6,63,249,96,39,82,26,11,22,13,8,4,3,0,1,0,15,0,0,7,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Montessori Kind Centrum,0505::SB34,3314 JR,1113,569,1,3,62,196,95,33,70,36,11,18,12,22,2,1,0,0,0,8,1,0,1,1
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gebouw Dorswedo,0505::SB36,3314 GR,1248,994,0,3,146,270,190,61,108,46,20,55,37,27,6,0,1,0,0,20,0,1,6,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Prins Bernhardschool,0505::SB37,3314 WZ,1429,898,5,3,168,186,204,50,109,38,11,56,29,22,0,2,0,1,1,16,1,1,0,3
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Weizigt NMC,0505::SB38,3314 BH,1425,847,1,2,168,209,84,43,94,84,33,61,28,24,3,2,0,0,0,11,0,0,3,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Julianakerk,0505::SB39,3314 LT,1028,685,1,5,55,241,86,32,75,23,15,38,94,17,1,1,0,0,0,7,0,0,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Koloriet/De Fontein,0505::SB42,3314 TN,1214,779,1,4,83,307,162,20,77,33,11,28,18,17,6,3,0,0,1,12,0,0,1,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Koloriet/De Mondriaan,0505::SB44,3314 TK,1230,559,0,4,46,216,105,38,71,20,7,6,16,12,0,5,0,0,0,14,0,0,2,1
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum de Admiraal,0505::SB50,3317 BC,1179,743,3,6,84,270,155,26,103,15,8,19,16,19,1,1,0,0,0,22,0,1,1,2
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Speeltuin Zeehavenkwartier,0505::SB51,3317 ZV,977,320,0,0,23,72,171,3,30,4,1,5,1,2,2,0,0,0,0,4,0,0,0,2
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Wielborgh, het Waterwiel",0505::SB52,3317 NJ,1281,770,3,5,97,290,130,37,86,27,8,19,22,20,3,2,0,0,0,26,1,0,0,2
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wooncentrum Watersteijn,0505::SB54,3317 NV,1043,713,0,0,283,142,63,36,42,38,5,15,35,27,2,0,0,3,2,20,0,0,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Postillion Hotel,0505::SB55,3316 EH,593,399,0,0,147,58,50,35,33,21,10,17,16,5,2,1,0,0,1,1,0,0,1,1
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wooncentrum de Klockelaer,0505::SB60,3317 JS,1133,700,1,5,107,212,141,37,81,27,6,21,17,13,1,0,0,0,0,36,0,0,1,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau J.F. Kennedyschool,0505::SB61,3317 KM,1081,574,0,6,83,187,108,29,58,24,15,29,5,14,1,2,0,0,1,15,1,0,2,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Kerk ""De Verrezen Christus""",0505::SB63,3317 RV,1298,688,1,4,96,228,109,41,94,19,17,25,7,17,0,2,0,0,1,28,1,0,2,1
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kerk van de Nazarener,0505::SB64,3317 RD,931,393,1,1,38,160,63,12,59,11,9,16,3,10,1,1,0,0,0,8,1,0,1,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verzorgingshuis Vijverhof,0505::SB65,3317 KN,1016,582,0,6,80,205,94,20,70,21,16,20,17,11,0,0,0,1,1,20,0,1,4,1
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum Vreedonk,0505::SB66,3317 HS,760,664,0,2,152,107,36,86,41,51,16,64,86,9,1,1,0,0,0,14,0,0,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bewonersver. 't Trefpunt,0505::SB70,3318 JJ,1217,927,3,1,221,241,118,71,79,38,17,45,37,22,5,0,0,0,0,33,0,0,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dep J.F. Kennedyschool,0505::SB71,3318 BE,1212,834,2,4,122,241,109,82,79,25,24,43,64,17,2,0,0,1,0,25,0,0,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cultureel Centrum Sterrenburg,0505::SB72,3318 CB,1113,593,1,0,81,194,92,51,66,25,4,28,10,13,1,0,0,0,0,28,0,0,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Wielborgh, het Sterrenwiel",0505::SB73,3318 DA,950,805,0,8,104,306,108,68,76,28,12,23,30,18,3,0,0,0,0,28,1,0,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verpleegtehuis Sterrenlanden,0505::SB74,3328 HN,1424,1037,4,4,266,233,116,93,87,63,20,62,28,28,5,1,0,0,0,32,0,0,1,2
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Polyanderschool,0505::SB75,3328 GA,1387,885,3,3,120,277,116,63,83,30,16,45,74,23,3,1,0,0,0,34,0,0,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau CS gebouw - Kantine,0505::SB76,3328 KS,1415,843,0,0,204,228,92,86,65,56,20,33,13,24,2,2,0,0,2,14,1,1,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Sterrekijker,0505::SB77,3328 KC,1332,1076,1,1,296,285,113,70,78,95,17,46,20,22,1,1,0,1,0,27,0,0,4,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Keerkring,0505::SB78,3328 TG,1290,849,3,1,207,247,131,41,63,56,17,17,2,38,4,1,0,2,0,23,0,0,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ontmoetingskerk,0505::SB81,3328 DN,1441,1381,4,1,427,326,160,54,124,102,27,50,29,35,4,1,0,0,2,38,0,1,0,1
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Meridiaan,0505::SB82,3328 AE,1411,1102,2,1,362,282,107,56,87,92,26,31,11,24,0,2,0,0,2,19,0,0,0,1
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Het Kristal Dependance,0505::SB83,3328 VC,1306,666,1,1,147,164,118,37,76,39,6,28,8,14,1,1,0,0,1,24,1,0,0,1
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Het Kristal,0505::SB84,3328 ME,1400,1151,4,3,275,278,145,68,106,79,17,100,26,36,0,1,0,0,1,15,0,1,1,2
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verzorgingshuis Dubbelmonde,0505::SB91,3319 PH,1441,1262,1,2,434,232,102,130,64,87,11,73,77,17,1,1,0,0,1,29,1,0,1,1
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Rank,0505::SB93,3319 EM,1426,1138,2,0,307,232,114,123,71,59,19,60,94,32,5,0,0,0,0,18,1,0,2,1
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verpleeghuis Het Parkhuis,0505::SB94,3319 GB,1375,1062,4,1,359,173,109,117,76,64,13,65,39,23,0,1,0,0,0,22,0,1,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Rank,0505::SB95,3319 EM,1168,819,0,0,249,151,78,79,68,49,14,43,53,13,2,2,0,0,0,18,0,0,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Julianaschool,0505::SB96,3319 TB,1390,1226,1,5,401,233,118,124,71,85,11,70,68,19,2,1,0,0,2,19,0,0,2,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wooncentrum De Gravenhorst,0505::SB97,3319 PK,1506,1219,1,1,424,221,132,118,66,64,5,75,58,27,0,2,0,0,0,26,0,1,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Gebouw ""Jozua""",0505::SB98,3319 LJ,1521,1067,0,2,598,71,73,57,32,81,14,75,41,13,4,0,0,1,0,7,0,0,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gymzaal,0505::SB101,3315 AS,1389,808,1,2,170,215,137,49,82,46,13,34,16,19,2,0,0,0,1,19,0,0,3,2
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Oranje Nassauschool,0505::SB102,3315 AT,1164,851,0,2,171,254,141,40,96,28,17,40,12,19,3,1,0,0,0,27,0,0,1,1
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Voormalige Peuterspeelzaal,0505::SB103,3315 TD,1370,957,0,2,186,261,148,46,103,56,23,59,34,15,2,3,0,0,0,18,0,0,1,2
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Geert Grooteschool,0505::SB104,3315 SB,1215,888,2,0,223,260,87,36,81,53,15,52,24,33,4,2,0,1,1,15,1,0,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Geert Grooteschool,0505::SB105,3315 SB,1009,852,0,0,253,194,76,63,91,67,12,34,19,20,3,0,0,0,1,19,0,0,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Wielborgh, het Polderwiel",0505::SB106,3315 KA,848,1276,1,5,306,384,140,74,110,78,24,45,20,39,2,3,0,0,4,43,1,0,3,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Portacabin,0505::SB107,3315 GM,1367,586,0,1,140,146,93,32,62,29,5,34,14,11,3,0,0,0,1,13,0,0,0,3
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Portacabin,0505::SB108,3315 GM,1418,742,2,1,172,185,119,28,62,43,6,54,26,13,3,1,0,0,3,25,0,0,1,1
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kandelaarkerk,0505::SB109,3315 KW,626,486,0,0,137,93,54,47,37,29,10,26,15,15,0,2,0,0,2,19,0,0,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Speeltuin Stadspolders,0505::SB110,3315 TR,1345,744,0,2,222,212,97,44,48,46,8,24,8,17,2,1,1,0,1,12,0,1,0,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Bever,0505::SB111,3315 MB,1546,1321,0,3,490,293,154,69,78,110,26,38,13,22,5,3,0,0,1,14,0,0,5,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Johan Frisoschool Dependance,0505::SB112,3315 WX,1494,1072,1,3,366,253,151,53,64,71,17,32,25,18,3,1,0,0,0,17,0,0,1,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Portacabin Centraal Station,0505::SB200,3311 JV,0,670,3,0,128,199,43,26,79,87,31,32,15,18,2,1,0,1,0,7,0,0,1,0
+Dordrecht,Dordrecht,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Alb. Schweitzerzhs, Dordtwijk",0505::SB210,3318 AT,69,514,1,1,116,121,58,38,63,48,6,26,8,14,0,1,0,0,1,13,1,0,0,0

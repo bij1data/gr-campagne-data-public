@@ -1,0 +1,52 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Democraten 66 (D66),CDA - Europese Volkspartij,PVV (Partij voor de Vrijheid),VVD,SP (Socialistische Partij),P.v.d.A./Europese Sociaaldemocraten,ChristenUnie-SGP,GROENLINKS,Partij voor de Dieren,50PLUS,JEZUS LEEFT,DENK,De Groenen,Forum voor Democratie,vandeRegio & Piratenpartij,Volt Nederland
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stadhuis,0983::SB1,,1945,737,1,1,0,0,3,667,69,0,0,0,0,0,739,24,59,42,110,25,240,3,78,34,21,3,0,2,74,7,15
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Huize Beerendonck Venlo,0983::SB2,,1715,568,0,2,0,0,1,496,73,0,0,0,0,0,570,30,66,20,87,16,178,4,57,21,17,0,5,3,59,0,5
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gemeentearchief Venlo,0983::SB3,,1713,658,0,2,0,0,2,593,63,0,0,0,0,0,658,27,76,21,72,36,207,11,60,24,21,1,17,0,77,1,7
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Lokaal Veestraat Venlo,0983::SB4,,1337,332,2,0,0,0,0,295,39,0,0,0,0,0,334,8,32,34,20,21,95,3,25,12,12,0,21,0,45,1,3
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool De Meule Venlo,0983::SB5,,1467,582,1,3,0,0,0,533,53,0,0,0,0,0,586,17,84,43,62,32,158,4,53,14,37,0,2,0,62,0,14
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Witte Kerk Venlo,0983::SB6,,1305,366,1,2,0,0,0,326,43,0,0,0,0,0,369,14,19,63,21,21,85,2,21,20,9,0,17,1,68,0,5
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gilde opleidingen Venlo,0983::SB7,,1449,593,2,1,0,0,1,595,0,0,0,0,0,0,596,30,80,20,124,13,183,3,36,21,18,0,0,0,54,2,9
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Bantuin 't Ven,0983::SB8,,1744,711,7,3,0,0,3,622,96,0,0,0,0,0,721,30,107,38,114,15,206,1,51,33,33,1,0,1,69,1,11
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau D'n Dörpel Venlo,0983::SB9,,1808,895,0,0,0,3,0,799,99,0,0,3,0,0,898,46,140,45,135,17,290,3,57,19,37,0,0,0,92,0,14
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Talentencampus Venlo,0983::SB10,,1641,635,3,0,0,0,2,567,69,0,0,0,0,0,638,24,120,28,101,13,200,1,60,14,14,0,0,2,52,0,6
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School a/d Vijver Venlo,0983::SB11,,1686,697,0,0,0,0,2,609,86,0,0,0,0,0,697,47,69,15,120,14,261,4,53,13,29,0,3,0,61,1,7
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gemeenschapshuis Maagdenberg Venlo,0983::SB12,,1287,492,1,1,0,0,0,424,70,0,0,0,0,0,494,22,36,46,41,30,134,6,43,31,17,0,9,3,66,2,6
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Huis VD Wijk 'op den berg',0983::SB13,,1112,284,0,1,0,0,0,256,29,0,0,0,0,0,285,9,20,24,15,15,86,2,26,9,15,2,28,0,30,1,2
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Scheidsrechtsersvereniging,0983::SB14,,1732,537,2,1,0,0,0,464,76,0,0,0,0,0,540,28,79,45,91,10,114,4,54,18,13,2,2,0,70,1,6
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Scouting ST Paulus Venlo-zuid,0983::SB16,,1403,320,0,0,0,0,1,279,40,0,0,0,0,0,320,10,34,41,16,7,90,1,38,10,11,1,8,1,44,0,8
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Huis van de wijk Venlo-zuid,0983::SB17,,1539,440,1,2,0,0,0,390,53,0,0,0,0,0,443,12,23,75,16,16,125,4,34,3,15,0,53,0,59,2,3
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau BS De Zuidstroom,0983::SB18,,1397,443,6,1,0,0,0,400,50,0,0,0,0,0,450,19,51,26,33,22,134,3,30,18,10,0,19,1,67,3,7
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gemeenschapsruimte D'n Baand,0983::SB19,,1370,433,1,0,0,0,2,379,53,0,0,0,0,0,434,18,43,33,42,17,138,2,44,9,20,0,7,0,54,1,5
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau 't Raodhoes Blerick,0983::SB20,,1722,779,3,1,0,0,2,698,83,0,0,0,0,0,783,32,140,67,71,26,234,7,54,20,24,0,6,0,87,0,11
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Medisch Centrum Lamburtus Blerick,0983::SB21,,1980,556,0,0,0,0,0,482,74,0,0,0,0,0,556,15,74,42,42,35,181,3,46,12,25,0,4,1,67,0,9
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorggroep De Ruysdonck Blerick,0983::SB22,,1633,339,2,0,0,0,0,293,48,0,0,0,0,0,341,10,48,35,21,10,83,2,27,17,28,1,3,0,51,0,3
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool MIKADO,0983::SB23,,1167,343,0,2,0,0,0,297,48,0,0,0,0,0,345,6,28,53,20,16,79,3,14,13,10,1,44,1,52,1,2
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Kentalis Blerick,0983::SB24,,1265,241,1,0,0,0,0,216,26,0,0,0,0,0,242,4,19,36,9,21,62,1,11,5,5,0,19,0,46,1,2
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Muspelheim Blerick,0983::SB25,,1494,374,1,1,0,0,0,331,45,0,0,0,0,0,376,6,47,52,16,14,82,0,18,8,19,2,48,2,54,0,6
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool 't Palet,0983::SB26,,1402,429,3,0,0,0,0,380,52,0,0,0,0,0,432,5,31,43,36,19,177,1,14,8,23,0,13,0,54,1,4
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De egalantier -27 Blerick,0983::SB27,,2705,583,5,0,0,1,0,520,67,0,1,0,0,0,587,14,52,70,48,27,144,5,25,18,27,3,32,0,114,0,4
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau MFC Op Expeditie,0983::SB29,,2637,793,2,2,0,0,0,711,86,0,0,0,0,0,797,14,73,92,57,58,207,11,47,28,45,0,33,0,121,1,6
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,"Stembureau De Ark, Molenbossen Blerick",0983::SB31,,1348,382,2,1,0,0,0,345,40,0,0,0,0,0,385,10,53,34,31,12,101,5,24,17,18,0,4,0,67,1,5
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zalzershaof Hout Blerick,0983::SB32,,2094,887,0,0,0,0,0,760,127,0,0,0,0,0,887,28,220,35,141,13,253,8,41,21,21,1,0,1,94,2,8
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Boostenhof Blerick,0983::SB33,,729,280,0,2,0,0,0,251,31,0,0,0,0,0,282,18,71,19,24,8,76,1,14,5,10,1,1,0,29,0,3
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool De Koperwiek,0983::SB34,,1715,540,4,0,0,0,0,480,64,0,0,0,0,0,544,32,53,27,51,16,177,6,52,14,12,0,34,0,56,0,10
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stadskantoor Venlo,0983::SB35,,1181,450,1,1,0,0,1,409,42,0,0,0,0,0,452,23,48,21,54,19,158,4,25,13,14,0,5,0,50,1,15
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Raadhuis Tegelen,0983::SB101,,1226,525,2,0,0,1,0,481,47,0,0,1,0,0,528,9,94,51,40,17,144,3,33,23,34,4,4,1,63,0,5
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool Maasveld Tegelen,0983::SB102,,1566,594,3,1,0,0,0,524,74,0,0,0,0,0,598,33,74,22,98,26,182,2,42,9,24,0,9,1,67,1,4
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool passepartout Tegelen,0983::SB103,,1437,526,2,3,0,0,2,460,69,0,0,0,0,0,531,17,59,35,44,15,186,13,33,14,27,0,11,0,69,0,3
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Cafe Schillings,0983::SB104,,1794,641,2,1,0,0,0,565,79,0,0,0,0,0,644,26,117,21,62,14,224,3,46,13,45,1,1,0,57,0,11
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Bijbelgemeente Steyl,0983::SB105,,1777,834,1,4,0,0,2,734,103,0,0,0,0,0,839,24,124,55,99,23,270,12,53,26,39,0,9,1,87,0,12
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau St. Marokkaanse Moskee Elfath,0983::SB106,,1542,344,1,2,0,0,0,292,54,0,1,0,1,0,346,15,36,26,35,16,114,2,20,8,14,0,21,0,32,0,5
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Cafe de Witte Tegelen,0983::SB107,,1322,367,1,0,0,0,0,332,36,0,0,0,0,0,368,14,42,29,29,27,117,3,15,14,12,1,4,0,57,0,3
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau O.C De Glazenap Tegelen,0983::SB108,,1319,396,3,5,0,0,1,346,57,0,0,0,0,0,404,12,27,46,25,30,116,5,23,11,21,0,18,0,59,0,3
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School de Toermalijn Tegelen,0983::SB109,,1395,341,0,0,0,0,0,307,34,0,0,0,0,0,341,4,24,43,4,22,133,4,21,15,19,0,5,0,40,0,7
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorgcentrum St. Julia tegelen,0983::SB110,,1178,348,2,0,0,0,0,313,37,0,0,0,0,0,350,11,64,32,25,21,91,6,21,7,17,0,4,0,43,0,6
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau 't Pronk-Eppelke Belfeld,0983::SB201,,1668,297,1,0,0,0,2,258,38,0,0,0,0,0,298,7,48,25,18,13,119,2,15,7,8,0,3,1,29,1,1
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School Kom.mijn Belfeld,0983::SB202,,1447,530,3,0,0,0,2,459,72,0,0,0,0,0,533,18,85,30,48,28,166,1,22,8,28,0,13,2,78,0,3
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gemeenschapscentrum de Hamar,0983::SB203,,1149,547,4,2,0,0,1,482,70,0,0,0,0,0,553,22,93,40,63,21,183,0,25,18,23,0,2,1,50,0,6
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau MFA de Schans Arcen,0983::SB301,,2082,956,2,1,0,0,62,805,92,0,0,0,0,0,959,43,171,48,97,69,276,3,78,19,40,0,0,2,105,0,5
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Pastoorshof Lomm,0983::SB302,,796,301,3,0,0,0,2,274,28,0,0,0,0,0,304,16,92,13,30,7,87,3,8,7,8,0,0,0,28,2,0
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Woonzorgcomplex Rozenhof Velden,0983::SB303,,1695,511,1,0,0,0,0,461,51,0,0,0,0,0,512,11,118,26,41,12,177,5,21,11,16,2,0,1,66,1,3
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau BMV de Vilgaard Velden,0983::SB304,,2446,1024,0,0,0,0,4,887,133,0,0,0,0,0,1024,41,234,51,107,21,338,6,65,26,43,0,1,0,78,0,13
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Mobiel Stembureau 1,0983::SB305,,0,276,2,0,0,0,4,254,20,0,0,0,0,0,278,26,31,11,37,8,56,2,42,16,3,1,1,1,33,1,7
+,Venlo,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Mobiel Stembureau 2,0983::SB306,,0,177,0,0,0,0,1,164,12,0,0,0,0,0,177,9,25,6,21,12,49,4,14,7,10,0,2,1,15,0,2

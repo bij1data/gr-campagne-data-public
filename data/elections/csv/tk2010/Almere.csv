@@ -1,0 +1,100 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,Christen Democratisch Appèl (CDA),Partij van de Arbeid (P.v.d.A.),SP (Socialistische Partij),VVD,PVV (Partij voor de Vrijheid),GROENLINKS,ChristenUnie,Democraten 66 (D66),Partij voor de Dieren,Staatkundig Gereformeerde Partij (SGP),Nieuw Nederland,TROTS OP NEDERLAND LIJST RITA VERDONK,Partij voor Mens en Spirit (MenS),Partij één,17,Piratenpartij,19
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Stadhuis 1.,0034::SB1,,1414,1296,1,3,59,358,128,321,167,101,23,91,21,1,0,15,5,1,0,4,1
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Zorgcentrum De Overloop,0034::SB2,,1111,692,0,3,38,180,81,105,187,40,9,32,8,0,0,8,2,0,0,1,1
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Polderhof,0034::SB3,,1298,892,0,0,59,232,102,161,183,64,6,57,14,3,0,8,3,0,0,0,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Loofhut,0034::SB4,,1110,872,1,1,45,191,102,223,134,75,20,66,8,1,0,2,3,0,0,2,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Dubbeldekker,0034::SB5,,1076,802,0,1,35,206,92,155,147,75,10,53,14,0,1,7,3,0,0,1,3
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Activiteitencentrum Wierdendok,0034::SB6,,1205,640,3,0,25,132,40,228,111,40,8,39,8,1,0,4,2,1,1,0,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Klaverweide,0034::SB7,,1527,1078,0,0,47,217,115,295,218,72,7,67,24,0,0,5,8,0,0,3,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School Het Drieluik,0034::SB8,,1571,962,1,2,59,186,99,309,134,60,18,68,12,0,0,10,7,0,0,0,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Brug,0034::SB9,,1480,699,0,1,49,174,67,128,162,48,11,33,14,1,0,4,4,0,0,2,2
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Gebouw Corrosia,0034::SB10,,1206,993,1,3,42,261,114,185,212,68,15,57,22,4,0,5,6,0,0,2,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Ontdekking,0034::SB11,,1417,739,0,2,34,149,47,316,78,45,6,43,14,0,0,5,2,0,0,0,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Buurtcentrum Meenten en Grienden,0034::SB12,,1497,1111,0,4,59,241,157,236,204,83,17,76,20,0,0,9,4,0,1,2,2
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School Praktijkonderwijs Almere,0034::SB13,,1358,957,0,0,36,220,98,174,197,100,15,72,21,0,2,10,8,0,2,2,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Wierwinde,0034::SB14,,1405,1095,0,5,43,277,115,224,220,80,22,73,19,2,2,7,6,0,0,1,4
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Flierefluiter,0034::SB15,,1523,1391,3,1,71,299,121,390,218,103,11,118,33,1,0,17,6,0,1,2,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau De Waterlandschool,0034::SB16,,1488,901,1,5,50,283,91,145,177,55,15,54,15,3,1,3,4,2,1,2,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Achtbaan,0034::SB17,,1575,1038,0,7,44,268,130,197,245,62,9,39,20,4,0,10,3,0,2,2,3
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School Het Spectrum 2.,0034::SB18,,1477,1237,1,3,54,291,116,325,197,107,23,84,21,1,0,9,4,1,2,2,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Driemaster 2.,0034::SB19,,1483,620,1,1,36,176,76,94,140,29,15,29,8,2,0,9,2,0,1,1,2
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Limerick,0034::SB20,,1329,976,0,1,46,254,76,282,165,48,10,78,7,1,0,7,0,0,0,1,1
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau De Flevoschool,0034::SB21,,1394,713,0,0,16,304,68,64,138,48,21,28,17,0,0,5,1,0,0,3,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Lettertuin,0034::SB22,,1394,973,1,0,75,188,83,276,163,53,31,72,14,0,0,16,1,0,1,0,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Kruidenwijzer,0034::SB23,,1230,920,1,4,51,238,99,180,201,62,19,37,17,2,0,10,4,0,0,0,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Kameleon,0034::SB24,,1631,1176,0,2,52,275,122,277,219,77,23,89,20,2,0,12,5,0,1,2,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Dependance school Al-Iman,0034::SB25,,1229,681,2,1,34,198,68,93,172,49,7,31,7,1,0,10,6,0,2,3,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Driemaster 1.,0034::SB26,,1469,974,2,1,40,278,85,186,221,65,11,46,24,3,0,5,5,0,0,2,3
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School Het Spectrum 1.,0034::SB27,,1496,957,0,5,59,231,108,262,137,55,20,62,14,0,1,5,1,0,1,1,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School 't Kofschip,0034::SB28,,1003,792,0,0,41,150,84,185,168,56,20,48,11,3,1,13,8,0,0,2,2
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Waterhoek,0034::SB29,,2235,1391,2,4,73,326,171,277,314,80,27,70,22,0,0,21,3,0,2,4,1
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Zeetuin,0034::SB30,,852,619,0,1,36,136,69,115,165,37,8,30,5,1,0,12,3,0,0,2,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Piramide,0034::SB31,,1122,743,3,0,21,193,86,156,148,46,11,45,23,1,0,8,2,0,3,0,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Tjasker,0034::SB32,,1612,1114,2,4,56,277,124,245,226,69,18,57,23,2,0,10,2,0,2,1,2
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Hasselbraam,0034::SB33,,1583,1044,5,1,42,242,106,230,210,71,22,78,21,0,0,9,6,1,3,3,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Buurtcentrum De Wieken,0034::SB34,,1511,1011,1,2,48,248,135,190,232,66,21,39,16,4,0,5,1,0,2,2,2
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Zorgcentrum De Kiekendief,0034::SB35,,1336,553,0,2,34,183,65,65,115,37,9,27,9,0,0,7,0,0,1,1,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Centrum Verpleeghuiszorg Polderburen,0034::SB36,,1175,589,1,1,47,112,66,120,132,37,7,39,17,1,0,5,2,0,1,3,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Kaardebol,0034::SB37,,1169,1080,0,5,41,230,118,262,224,68,21,77,12,2,1,13,4,0,2,3,2
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Peperbus,0034::SB38,,1194,937,2,6,43,204,84,213,223,65,12,69,14,0,0,7,2,0,0,1,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Manse,0034::SB39,,1056,746,0,1,40,145,91,195,121,53,22,42,15,0,1,13,3,0,0,5,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Duizendpoot,0034::SB40,,1466,1099,2,4,53,240,146,289,165,68,28,74,18,1,0,9,5,1,0,0,2
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Buurtcentrum Parkwijk,0034::SB41,,695,1062,0,0,79,253,104,261,194,54,33,61,13,1,0,7,0,0,1,1,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau School De Torteltuin, lespunt Goudsbloem",0034::SB42,,1475,972,3,2,61,224,115,182,215,64,15,54,22,1,0,11,2,0,2,0,4
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Boventoon,0034::SB43,,1361,882,3,1,43,228,93,205,152,61,18,48,14,0,1,12,3,0,2,0,2
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Buurtcentrum 't Kardoes,0034::SB44,,1587,732,2,2,32,256,71,104,143,58,8,44,5,0,0,5,1,1,2,2,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Zorgcentrum Buitenhaeghe,0034::SB45,,1301,778,2,2,72,222,83,112,165,52,19,21,14,4,1,8,4,0,0,1,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Dependance school Caleidoscoop,0034::SB46,,1549,896,1,2,52,235,72,212,151,66,23,57,11,2,2,7,3,0,0,0,3
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wooncentrum De Rotonde,0034::SB47,,1224,843,1,1,51,239,90,138,192,54,7,46,13,0,0,10,2,0,0,1,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Montessorischool Muziekwijk,0034::SB48,,1404,799,0,1,27,229,87,172,161,48,11,33,12,0,0,9,5,0,2,3,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,"Stembureau School De Torteltuin, lespunt Aster",0034::SB49,,1258,948,2,0,63,177,80,245,158,63,41,70,29,4,0,13,4,0,0,1,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School Crescendo,0034::SB50,,1098,916,0,0,57,196,60,279,132,60,24,78,21,1,0,2,4,0,0,2,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School Syncope 1.,0034::SB51,,1328,848,0,1,57,175,59,267,129,53,10,75,10,0,0,10,2,0,0,1,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Vedelaar,0034::SB52,,1490,966,1,3,46,245,92,255,167,66,12,64,5,0,1,6,6,0,0,1,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Wooncentrum De Toonladder,0034::SB53,,1476,1204,0,2,86,267,105,288,216,79,35,91,15,1,0,17,2,0,0,2,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Dependance school De Zevensprong,0034::SB54,,1897,1297,2,4,45,333,124,311,277,71,38,66,12,2,0,6,4,0,6,0,2
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Albatros,0034::SB55,,1753,1496,0,1,76,303,134,469,230,89,29,113,26,0,0,13,10,1,1,2,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School Bommelstein,0034::SB56,,1893,1332,1,2,64,244,149,368,228,95,24,103,27,2,0,15,6,1,0,5,1
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School 't Zonnewiel,0034::SB57,,1528,1162,3,2,61,253,94,339,183,73,22,103,20,0,0,8,4,0,0,1,1
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School Polygoon,0034::SB58,,1797,1351,3,3,56,357,97,354,175,139,30,104,20,3,0,4,6,1,1,3,1
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Buurtcentrum Het Forum,0034::SB59,,1947,1257,0,1,70,258,147,263,292,81,45,60,24,3,1,7,3,0,0,2,1
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Bombardon,0034::SB60,,1507,1162,0,2,56,247,62,405,165,71,46,75,14,5,0,7,5,0,1,3,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Filmwijkcentrum,0034::SB61,,1446,1196,2,2,56,320,122,306,186,72,24,79,17,2,0,8,0,0,1,3,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School Aurora 1.,0034::SB62,,1721,1192,1,0,68,236,106,374,179,88,29,85,15,1,0,9,1,0,0,0,1
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Dependance School de Kraanvogel,0034::SB63,,1321,982,2,3,53,218,97,222,219,62,34,64,7,0,0,3,2,0,1,0,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Natuurcentrum Het Eksternest,0034::SB64,,1058,864,1,0,55,68,22,499,94,40,7,63,10,1,0,3,2,0,0,0,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Pirouette,0034::SB65,,1964,1292,1,0,89,268,70,466,150,80,28,106,19,8,0,3,2,0,2,1,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Poort,0034::SB66,,1678,1052,3,6,38,240,66,412,150,53,13,60,13,0,0,5,1,0,0,0,1
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Dependance school Het Palet,0034::SB67,,1233,253,0,1,12,52,31,73,46,16,3,14,1,0,0,4,0,0,0,0,1
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Egelantier 1.,0034::SB68,,1295,743,1,2,19,207,61,205,119,46,13,48,11,0,0,5,1,1,2,2,3
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Omnibus,0034::SB69,,1188,1051,0,0,67,171,62,471,141,49,9,59,8,1,0,7,3,0,2,1,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School Letterland,0034::SB70,,1330,1018,2,7,48,317,86,242,151,49,21,57,10,0,0,16,1,16,0,4,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School Het Palet,0034::SB71,,1119,909,1,4,34,243,99,253,165,35,9,34,22,1,0,10,3,0,0,1,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Optimist 1.,0034::SB72,,1070,1019,0,4,52,270,91,267,175,51,27,61,14,3,0,4,1,0,2,1,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Archipel 1.,0034::SB73,,1237,1025,2,2,43,223,71,361,142,61,11,82,23,0,0,3,1,0,0,2,2
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Egelantier 2.,0034::SB74,,1211,1043,1,6,55,254,88,281,199,53,18,64,14,0,1,10,0,0,2,1,3
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Buurtcentrum De Cobra,0034::SB75,,990,471,1,0,36,108,46,125,69,31,15,33,6,0,0,1,1,0,0,0,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School Het Meesterwerk,0034::SB76,,2537,1563,1,2,71,439,122,415,265,86,40,87,20,2,0,12,2,0,0,2,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Archipel 2.,0034::SB77,,1240,996,1,1,50,208,76,346,129,71,20,73,14,0,0,2,3,0,0,3,1
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Buurtcentrum Het Boegbeeld,0034::SB78,,1270,797,1,1,42,253,81,179,116,49,12,39,15,0,1,8,1,0,0,1,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Gebouw De Compositie,0034::SB79,,921,952,0,3,66,185,61,317,180,55,15,48,15,2,0,2,4,1,0,1,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School Het Avontuur,0034::SB80,,1900,1295,1,2,56,262,112,455,204,83,18,73,19,0,0,6,4,0,2,1,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Buurtcentrum De Cartoon,0034::SB81,,1358,984,2,1,49,161,66,390,157,54,15,59,14,0,0,12,2,0,0,3,2
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau De Windwijzer Omnibus Noorderplassen,0034::SB82,,1906,1581,0,1,86,239,64,729,211,67,24,121,23,2,0,8,2,0,0,3,2
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School Het Kristal,0034::SB83,,1302,796,1,5,39,197,84,195,139,47,21,47,11,2,0,11,2,0,0,1,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Schouwburg Almere,0034::SB84,,796,572,0,0,27,126,27,213,67,30,10,56,8,1,0,4,2,0,0,1,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School Panta Rhei,0034::SB85,,966,634,0,0,26,127,52,156,167,39,2,42,10,0,0,8,2,1,0,2,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Kerkgebouw Goede Rede,0034::SB86,,1129,615,2,1,28,139,66,85,199,39,6,21,13,2,0,11,4,0,0,2,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Waterspiegel,0034::SB87,,1204,484,0,3,62,96,35,87,62,29,63,27,12,3,0,7,1,0,0,0,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School Syncope 2.,0034::SB88,,1353,808,0,0,45,158,74,261,136,42,13,61,10,0,0,6,2,0,0,0,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Dukdalf,0034::SB89,,1279,588,1,0,43,118,51,178,92,35,31,30,2,0,0,4,2,0,2,0,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Marionet,0034::SB90,,1217,434,1,2,11,101,44,106,79,27,13,31,10,2,0,5,3,0,1,0,1
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Gezondheidscentrum Archipel,0034::SB91,,1342,806,1,2,49,207,74,186,149,50,27,45,11,1,0,3,1,0,0,3,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School Aurora 2.,0034::SB92,,1697,1204,1,7,59,273,90,366,165,83,44,82,17,1,0,14,3,0,3,2,2
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Optimist 2.,0034::SB93,,1274,686,0,3,42,149,64,210,118,31,19,34,8,0,0,7,3,0,1,0,0
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Oase,0034::SB94,,1238,1085,3,5,51,272,85,285,189,62,68,46,18,0,0,1,0,0,1,2,5
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Trinoom,0034::SB95,,1091,687,1,0,37,154,72,143,144,60,13,40,13,0,0,2,4,0,0,2,3
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau School De Hernhutter,0034::SB96,,1336,418,0,1,20,120,38,118,53,30,3,26,6,1,0,2,0,0,0,0,1
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Station NS Almere Muziekwijk,0034::SB97,,0,1138,1,1,48,325,116,222,147,105,24,98,26,2,1,8,3,1,4,7,1
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Porto Cabin Stationsplein Almere Centrum,0034::SB98,,0,2000,5,6,80,596,237,386,254,168,44,174,39,2,0,4,4,1,5,5,1
+Lelystad,Almere,TK2010,Tweede Kamer der Staten-Generaal 2010,,,2010-06-09,Stembureau Stadhuis 2.,0034::SB99,,0,895,1,4,51,261,85,190,119,78,23,66,12,1,0,6,1,0,0,2,0

@@ -1,0 +1,97 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_kwijtgeraakte stembiljetten,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,CDA - Europese Volkspartij,PVV (Partij voor de Vrijheid),P.v.d.A./Europese Sociaaldemocraten,VVD,Democraten 66 (D66) - ALDE,GROENLINKS,SP (Socialistische Partij),ChristenUnie-SGP,Artikel50,"IQ, de Rechten-Plichten-Partij",Piratenpartij,50PLUS,De Groenen,Anti  EU(ro)  Partij,Liberaal Democratische Partij,JEZUS LEEFT,ikkiesvooreerlijk.eu,Partij voor de Dieren,Aandacht en Eenvoud
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Stadhuis,0200::SB1,,1181,952,5,0,0,0,8,859,90,0,0,0,0,0,0,957,93,92,116,135,175,89,72,88,5,0,8,22,1,2,1,0,2,49,2
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Kadaster,0200::SB2,,1115,526,1,2,0,0,0,487,42,0,0,0,0,0,0,529,54,76,62,58,99,32,48,34,6,1,9,26,2,1,1,0,0,17,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau De Oude Enk,0200::SB3,,1525,640,0,2,0,0,2,586,54,0,0,0,0,0,0,642,87,91,75,75,78,37,66,33,7,0,6,32,1,4,0,2,1,44,1
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Duivensportcentrum Apeldoorn e/o,0200::SB4,,1704,634,3,1,0,1,0,560,77,0,0,1,0,0,0,637,43,75,70,94,122,36,71,60,2,0,3,23,3,2,2,0,1,27,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Voormalig consultatiebureau,0200::SB5,,1275,407,1,2,0,0,0,359,51,0,0,0,0,0,0,410,48,47,41,73,79,20,29,26,4,0,2,17,2,0,0,0,0,19,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Lokaal bij Goede Herderkerk,0200::SB6,,1251,739,1,1,0,0,0,658,83,0,0,0,0,0,0,741,109,45,93,105,117,63,79,53,4,0,8,22,1,2,0,1,0,36,1
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Speeltuin Kindervreugd,0200::SB7,,993,223,0,1,0,0,0,192,32,0,0,0,0,0,0,224,17,33,36,13,21,18,32,18,3,0,1,11,1,2,1,1,1,14,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School Spitsbergen,0200::SB8,,1326,227,0,0,0,0,0,212,15,0,0,0,0,0,0,227,38,33,33,13,34,13,18,21,0,0,1,6,0,1,0,0,0,16,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,"Stembureau Zorggroep Apeldoorn, loc. Mandala",0200::SB9,,1000,512,2,0,0,0,0,464,50,0,0,0,0,0,0,514,93,26,67,74,91,47,35,25,0,0,3,10,2,0,1,2,0,36,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Wijkcentrum Orca,0200::SB10,,1262,521,0,1,0,0,0,475,47,0,0,0,0,0,0,522,48,74,59,40,87,24,61,59,0,0,2,27,4,2,2,2,0,30,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Lokaal bij Sint Victor Parochie,0200::SB11,,1374,575,1,0,0,0,1,519,56,0,0,0,0,0,0,576,75,59,47,70,150,51,34,46,1,0,6,7,0,0,1,1,0,27,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School Berg en Bos,0200::SB12,,1320,879,0,1,0,0,2,775,103,0,0,0,0,0,0,880,138,53,29,327,188,31,21,53,1,0,6,11,0,1,2,0,0,18,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Stichting Walterbosch,0200::SB13,,1425,729,1,2,0,0,2,666,64,0,0,0,0,0,0,732,108,60,61,113,155,59,56,72,0,0,5,15,0,1,0,2,0,22,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Kerkgebouw Hersteld Hervormde Gemeente,0200::SB14,,1184,484,1,0,0,0,0,436,49,0,0,0,0,0,0,485,74,28,39,62,113,43,31,49,3,0,0,6,1,3,0,3,0,29,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Woon- en Zorgcentrum De Loohof,0200::SB15,,905,456,1,0,0,0,0,402,55,0,0,0,0,0,0,457,87,30,30,104,99,22,13,38,1,0,1,12,0,1,1,0,1,16,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Locatie Berkenhove (voorheen Spainkbosd),0200::SB16,,1174,659,0,1,0,0,0,612,48,0,0,0,0,0,0,660,94,55,81,79,132,76,31,49,2,0,3,16,2,0,1,0,0,37,1
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Serviceflat Lindenhove,0200::SB17,,1178,582,0,1,0,0,0,524,59,0,0,0,0,0,0,583,89,41,57,98,95,34,36,59,4,0,2,19,4,5,0,4,1,34,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Gereformeerde Kerk,0200::SB18,,1410,785,0,1,0,0,0,704,81,0,0,1,0,0,0,785,116,49,57,155,202,53,13,79,6,0,5,13,4,2,0,0,0,31,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Koningin Julianaschool,0200::SB19,,1453,674,0,1,0,0,0,618,57,0,0,0,0,0,0,675,88,47,55,96,121,64,39,78,0,0,4,23,1,3,0,2,0,53,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau CODA museum,0200::SB20,,1155,410,0,1,0,0,2,365,44,0,0,0,0,0,0,411,39,32,48,61,82,44,34,25,5,1,8,8,1,1,1,0,0,20,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Woon- en Zorgcentrum De Veenkamp,0200::SB21,,1516,691,1,2,0,0,1,616,77,0,0,0,0,0,0,694,102,67,79,102,108,36,46,84,1,0,5,19,3,1,1,5,1,31,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Wijkcentrum De Groene Hoven,0200::SB22,,1457,757,2,0,0,0,1,666,93,0,0,0,1,0,0,760,113,46,90,89,113,53,48,122,2,0,2,29,2,6,0,2,1,39,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Open Hofkerk,0200::SB23,,1240,426,1,0,0,0,0,386,41,0,0,0,0,0,0,427,63,43,45,38,47,30,54,63,0,0,2,20,1,3,0,2,0,15,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zorggroep Apeldoorn Casa Bonita,0200::SB24,,1504,494,2,0,0,0,0,450,46,0,0,0,0,0,0,496,73,42,57,59,70,29,42,83,5,1,3,5,1,1,1,1,1,20,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Sporthal Welgelegen(voorheen Dynamo),0200::SB25,,1141,340,2,3,0,0,0,315,30,0,0,0,0,0,0,345,44,37,37,36,61,34,32,27,3,0,2,9,1,1,2,0,0,14,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Prinses Beatrixschool,0200::SB26,,869,358,0,1,0,0,2,321,36,0,0,0,0,0,0,359,102,40,23,55,34,10,6,44,4,0,2,18,0,0,2,2,0,16,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Kantine WWNA,0200::SB27,,829,312,0,0,0,0,1,266,45,0,0,0,0,0,0,312,50,55,9,62,56,15,16,34,2,0,0,2,0,0,0,0,0,11,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau PC Montessorischool Passe-Partout,0200::SB28,,1604,541,2,1,0,0,0,487,57,0,0,0,0,0,0,544,56,38,61,100,99,39,38,49,3,0,9,22,2,0,0,0,0,24,1
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zaal achter Julianakerk,0200::SB29,,956,533,0,2,0,0,3,474,60,0,0,0,2,0,0,537,80,40,44,71,100,42,35,63,7,0,3,19,3,0,2,0,0,24,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Zonnewende,0200::SB30,,1381,432,1,0,0,0,2,378,53,0,0,0,0,0,0,433,56,35,33,63,99,28,32,46,2,0,0,12,2,0,1,0,1,22,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Eben-Haezerkerk,0200::SB31,,1539,517,1,1,0,0,0,466,54,0,1,0,1,0,0,520,79,42,38,44,70,27,52,107,0,0,2,23,1,1,1,4,0,26,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Geref. Basisschool 't Schrijvertje,0200::SB32,,1434,348,1,2,0,0,0,319,32,0,0,0,0,0,0,351,27,55,34,16,29,25,33,90,2,0,2,13,1,1,0,1,2,16,1
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Veluwse College Mheenpark,0200::SB33,,1159,485,3,0,0,0,0,441,47,0,0,0,0,0,0,488,58,31,54,60,76,36,40,81,3,0,1,16,3,0,3,0,3,20,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Ichthusschool,0200::SB34,,1582,662,4,1,0,0,0,598,69,0,0,0,0,0,0,667,71,101,62,52,97,49,69,77,10,1,5,27,1,2,0,0,0,38,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau GGNet (Spatie),0200::SB35,,1754,548,4,1,0,0,0,478,75,0,0,0,0,0,0,553,77,50,45,93,86,28,41,78,1,0,1,15,0,1,0,1,2,28,1
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Bundel,0200::SB36,,1430,594,0,3,3,0,0,534,60,0,0,3,0,0,0,594,84,57,60,76,76,40,59,87,3,0,7,20,0,1,1,0,0,23,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Kantine ZVV,0200::SB37,,1326,213,0,0,0,0,0,199,14,0,0,0,0,0,0,213,43,30,14,22,35,9,15,22,2,0,2,8,0,0,0,2,0,9,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Woon-Zorgcentrum Kon. Wilhelmina,0200::SB38,,1249,692,1,2,0,0,1,640,54,0,0,0,0,0,0,695,125,85,69,58,61,39,78,99,6,0,2,38,0,5,0,2,1,24,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Dr. Martin Luther Kingschool,0200::SB39,,1297,289,1,0,0,0,0,264,26,0,0,0,0,0,0,290,34,33,34,18,46,20,34,39,1,0,3,12,0,0,0,0,2,13,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Verzorgingshuis Talma Borgh,0200::SB40,,1539,682,1,1,0,0,1,622,61,0,0,0,0,0,0,684,99,65,69,84,109,38,57,94,5,0,2,22,4,0,1,2,0,27,4
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Het Atrium,0200::SB41,,1247,361,1,0,0,0,4,322,36,0,0,0,0,0,0,362,47,49,60,25,42,21,49,31,1,0,2,9,0,3,1,1,1,19,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau PCBS De Regenboog-Woudhuis,0200::SB42,,1609,540,1,0,0,0,1,472,68,0,0,0,0,0,0,541,75,56,49,92,97,25,35,71,2,0,1,12,0,0,1,0,1,23,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Buurthuis Ons Huus,0200::SB43,,601,264,0,0,0,0,4,225,35,0,0,0,0,0,0,264,86,23,5,48,20,7,13,42,1,0,0,4,0,1,0,0,0,14,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Horst,0200::SB44,,1445,464,1,2,1,0,0,425,42,0,0,1,0,0,0,467,27,64,53,28,61,29,69,67,6,0,8,17,1,0,0,0,1,33,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Klootschietvereniging Het Woudhuis,0200::SB45,,1609,547,0,0,0,0,1,475,71,0,0,0,0,0,0,547,70,40,47,101,109,33,25,73,3,0,2,15,0,0,1,1,1,26,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau BSO De Zonnehoek,0200::SB46,,1507,512,0,0,0,0,0,471,41,0,0,0,0,0,0,512,47,54,52,42,65,48,64,71,4,0,6,16,4,2,1,3,0,33,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Woon- en Zorgcentrum Berghorst,0200::SB47,,1013,423,1,0,0,0,0,381,43,0,0,0,0,0,0,424,55,46,40,39,77,24,42,55,4,0,1,24,1,1,1,0,0,13,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Obs. De Kosmos,0200::SB48,,1266,543,0,2,0,0,2,498,45,0,0,0,0,0,0,545,54,69,45,45,87,57,66,65,6,0,4,12,1,2,1,1,1,27,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Schakel- RK-school loc.Muntersdonk,0200::SB49,,1384,488,1,1,0,0,0,443,47,0,0,0,0,0,0,490,61,42,34,45,65,32,83,73,2,0,0,18,1,1,1,0,0,30,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Regenboog,0200::SB50,,1460,521,2,4,0,0,0,475,52,0,0,0,0,0,0,527,87,42,53,64,77,40,47,62,3,0,3,17,0,0,0,1,0,24,1
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Bongerd,0200::SB51,,1328,497,0,5,0,0,0,447,51,0,0,4,0,0,0,498,51,49,61,40,78,40,47,62,1,0,5,24,1,3,2,1,1,27,4
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School Het Gilde,0200::SB52,,1047,371,3,0,0,0,0,337,37,0,0,0,0,0,0,374,35,49,41,22,57,28,41,60,2,0,5,7,0,1,0,1,0,22,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Schakel,0200::SB53,,1511,506,0,0,0,0,0,450,56,0,0,0,0,0,0,506,63,40,55,61,75,37,81,54,1,0,4,16,1,2,0,1,1,13,1
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Terebint,0200::SB54,,1331,553,0,1,0,0,0,483,71,0,0,0,0,0,0,554,53,59,50,38,109,21,74,91,3,0,4,18,1,5,1,0,0,26,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Wijkcentrum De Stolp,0200::SB55,,1406,459,4,1,0,0,0,430,34,0,0,0,0,0,0,464,38,47,37,37,92,36,45,63,2,0,6,14,1,3,1,5,1,31,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Woon- en Zorgcentrum De Matenhof,0200::SB56,,1512,474,1,1,0,0,0,433,43,0,0,0,0,0,0,476,54,61,47,38,64,40,47,64,1,0,3,16,3,5,3,2,0,26,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Ambelt,0200::SB57,,1649,577,4,0,0,0,0,514,67,0,0,0,0,0,0,581,61,64,46,61,81,57,62,79,4,0,5,16,3,5,0,2,2,28,1
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Marke,0200::SB58,,1577,579,5,0,0,0,2,517,65,0,0,0,0,0,0,584,59,69,68,44,103,69,45,66,3,0,3,15,2,2,0,2,2,27,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Ploeg,0200::SB59,,1430,489,5,0,0,0,0,454,40,0,0,0,0,0,0,494,60,55,50,47,72,19,59,66,4,0,2,30,1,1,0,2,1,19,1
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Veluws College Cortenbosch,0200::SB60,,1541,376,0,0,0,0,0,342,34,0,0,0,0,0,0,376,51,35,47,41,72,30,29,38,2,0,3,12,0,0,2,0,0,14,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Buurthuis Ugchelens Belang,0200::SB61,,1456,623,4,0,0,0,2,572,53,0,0,0,0,0,0,627,101,54,43,113,109,42,47,43,4,0,5,26,0,3,1,2,1,29,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Steenbeek,0200::SB62,,1231,581,1,1,0,0,6,496,81,0,0,0,0,0,0,583,87,46,47,111,103,35,38,58,5,0,2,19,1,1,0,2,0,26,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Woon- en Zorgcentrum Sprengenhof,0200::SB63,,1504,630,4,1,0,0,1,553,81,0,0,0,0,0,0,635,93,56,68,82,110,38,44,76,6,0,4,23,0,0,0,1,1,28,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zorggroep Apeldoorn loc Randerode,0200::SB64,,1021,440,0,0,0,0,0,394,46,0,0,0,0,0,0,440,60,36,47,57,73,27,46,51,1,0,2,21,0,4,0,0,3,12,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Verkeersschool Frank Schuurman,0200::SB65,,946,253,0,0,0,0,0,224,29,0,0,0,0,0,0,253,36,27,30,25,44,19,27,14,4,0,3,10,1,0,0,0,0,13,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zaal Vrijzicht,0200::SB66,,1514,515,0,1,0,0,0,460,57,0,0,0,1,0,0,517,56,63,54,58,78,34,52,44,1,0,4,28,1,0,2,2,0,38,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau De Rietendakschool,0200::SB67,,1217,402,1,0,0,0,0,357,46,0,0,0,0,0,0,403,32,77,40,24,58,29,61,32,1,0,4,12,2,3,0,0,0,27,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Eendracht,0200::SB68,,1339,508,3,0,0,0,0,463,49,0,0,0,1,0,0,512,60,62,57,44,83,29,62,52,2,1,7,13,0,3,1,0,2,30,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Lokaal bij As Soena moskee,0200::SB69,,1435,497,2,2,0,0,0,452,49,0,0,0,0,0,0,501,71,43,59,54,80,38,48,45,0,0,8,21,3,3,4,2,1,17,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Duivensportcentrum,0200::SB70,,1506,407,2,0,0,0,0,359,50,0,0,0,0,0,0,409,33,55,26,46,79,36,36,50,1,0,4,14,0,2,2,0,0,21,2
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Meester Lugtmeijerschool,0200::SB71,,1285,437,0,0,0,0,1,385,51,0,0,0,0,0,0,437,53,58,36,25,73,35,46,45,1,1,4,20,2,2,0,1,3,32,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Woon- zorgcentrum Avondzon,0200::SB72,,1438,437,3,0,0,0,1,403,36,0,0,0,0,0,0,440,37,88,58,29,47,18,51,44,0,2,2,25,0,0,1,5,0,30,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Koningin Emmaschool,0200::SB73,,1319,366,0,1,0,0,0,329,38,0,0,0,0,0,0,367,42,86,60,12,37,20,39,30,2,0,3,13,0,1,0,1,0,20,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Openbare Basisschool Zuiderpark,0200::SB74,,996,216,1,0,0,0,0,201,16,0,0,0,0,0,0,217,21,42,36,6,26,17,29,14,2,0,4,13,0,1,0,0,0,5,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Clubgebouw Gelvandria,0200::SB75,,1661,251,1,1,0,0,0,217,36,0,0,0,0,0,0,253,35,35,29,26,33,18,28,28,3,0,0,3,1,3,0,0,1,7,1
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Nieuw Zuidzicht,0200::SB76,,1263,313,1,1,1,0,2,279,33,0,0,1,0,0,0,314,46,54,39,21,37,17,45,21,3,0,1,19,0,0,0,0,0,9,1
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Woon- en Zorgcentrum Sainte Marie,0200::SB77,,1008,436,0,3,0,0,2,393,45,0,0,0,1,0,1,440,77,56,44,47,73,26,39,34,1,0,4,20,0,0,0,1,1,13,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Sebastiaanschool,0200::SB78,,957,239,1,1,0,0,0,219,22,0,0,0,0,0,0,241,17,62,34,13,26,10,43,11,1,0,3,7,0,1,1,0,1,9,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Buurthuis Maasstraat,0200::SB79,,1281,451,0,0,0,0,0,402,49,0,0,0,0,0,0,451,63,57,45,26,70,22,55,69,4,0,1,17,0,4,1,1,0,16,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Dienstencentrum Stichting De Veste,0200::SB80,,1536,289,1,1,0,2,0,259,32,0,0,0,0,0,0,291,30,43,38,8,48,21,52,16,5,1,0,10,0,1,0,2,0,14,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau DokZuid,0200::SB81,,1259,452,0,0,0,0,2,404,46,0,0,0,0,0,0,452,59,79,53,27,60,31,50,41,0,0,3,17,0,4,1,1,0,26,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Dorpshuis Het Blanke Schot,0200::SB82,,1651,661,0,2,0,0,4,546,113,0,0,0,0,0,0,663,48,16,8,33,14,11,12,505,1,0,0,7,0,0,0,1,0,3,2
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Kamp Nieuw Milligen gebouw 70,0200::SB83,,352,155,1,2,2,0,5,126,25,0,0,2,0,0,0,156,21,13,7,15,16,2,5,68,0,0,0,0,0,0,0,1,0,7,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Brandweerkazerne Hoog Soeren,0200::SB84,,296,177,0,0,0,0,2,174,1,0,0,0,0,0,0,177,28,9,14,42,38,15,10,4,0,0,3,2,0,1,0,1,0,10,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Chr.Geref. Andreaskerk,0200::SB85,,1390,507,3,1,0,0,0,474,37,0,0,0,0,0,0,511,90,32,33,60,100,31,34,93,3,0,1,11,0,0,0,0,1,18,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Het Dorpshuus,0200::SB86,,1135,540,4,0,0,0,44,440,60,0,0,0,0,0,0,544,78,71,34,118,84,20,41,26,0,0,1,25,1,0,0,1,2,37,1
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Het Zonnehuis,0200::SB87,,1209,478,4,3,0,0,2,451,32,0,0,0,0,0,0,485,85,45,52,46,60,15,29,104,1,0,3,7,1,0,0,2,1,27,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zorgcentrum De Vier Dorpen,0200::SB88,,1491,486,0,0,0,3,19,399,68,0,0,3,0,0,0,486,64,70,26,100,67,32,25,52,5,0,1,15,1,0,1,0,0,27,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zaal achter Gereformeerde Kerk,0200::SB89,,1044,418,2,1,0,0,8,360,53,0,0,0,0,0,0,421,83,49,13,49,42,7,33,115,3,0,1,3,0,0,0,6,0,14,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Wijkcentrum De Hoge Weye,0200::SB90,,972,522,0,1,0,0,21,453,49,0,0,0,0,0,0,523,90,57,29,86,74,29,16,96,5,0,1,12,0,0,0,1,1,25,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Verenigingsgebouw De Brink,0200::SB91,,1216,461,0,0,0,0,3,407,51,0,0,0,0,0,0,461,97,59,32,62,72,30,31,28,0,0,2,19,1,2,4,0,0,22,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau School De Tweede Stee,0200::SB92,,1287,440,2,0,0,0,2,407,34,0,0,0,1,0,0,443,105,60,29,59,56,16,32,19,2,0,1,21,2,4,0,0,0,33,1
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Brandweerkazerne,0200::SB93,,1175,333,0,0,0,0,0,290,43,0,0,0,0,0,0,333,101,43,20,47,36,19,25,22,0,0,0,9,1,1,0,0,0,9,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Het Kristal,0200::SB94,,1121,497,2,1,0,0,0,434,66,0,0,0,0,0,0,500,64,43,41,69,115,33,28,71,2,0,2,14,0,1,1,3,0,10,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Administratiekantoor Schiphorst,0200::SB95,,1519,431,2,1,0,0,2,366,66,0,0,0,0,0,0,434,63,39,42,41,97,23,41,52,0,0,1,14,3,1,1,0,0,13,0
+,Apeldoorn,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Groot Schuylenburg (Brasserie De Zon),0200::SB96,,480,150,0,3,0,0,2,137,14,0,0,0,0,0,0,153,18,13,17,15,31,11,13,23,0,0,0,1,0,0,0,0,0,8,0

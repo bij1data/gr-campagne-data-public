@@ -1,0 +1,86 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Democraten 66 (D66),CDA - Europese Volkspartij,PVV (Partij voor de Vrijheid),VVD,SP (Socialistische Partij),P.v.d.A./Europese Sociaaldemocraten,ChristenUnie-SGP,GROENLINKS,Partij voor de Dieren,50PLUS,JEZUS LEEFT,DENK,De Groenen,Forum voor Democratie,vandeRegio & Piratenpartij,Volt Nederland
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau .,0034::SB0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stadhuis,0034::SB1,,1434,987,3,9,0,1,8,897,95,0,0,1,0,0,1000,88,36,32,133,40,216,27,136,60,36,2,13,2,136,6,24
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorgcentrum De Overloop,0034::SB2,,1729,357,3,2,0,0,0,344,18,0,0,0,0,0,362,23,10,35,39,29,72,3,19,18,36,1,10,0,59,0,3
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Polderhof,0034::SB3,,1832,528,1,1,0,0,0,487,43,0,0,0,0,0,530,32,30,42,49,23,97,17,41,31,34,2,18,1,103,2,6
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Klaverweide,0034::SB7,,1571,554,0,2,0,0,0,493,63,0,0,0,0,0,556,29,37,36,75,17,112,8,44,26,44,1,4,2,108,1,10
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School Het Drieluik,0034::SB8,,1635,430,0,1,0,0,0,384,47,0,0,0,0,0,431,36,37,18,77,9,72,22,47,24,15,3,4,0,57,0,9
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurtcentrum Amerika,0034::SB9,,2374,668,3,1,0,0,3,564,105,0,0,0,0,0,672,46,34,16,136,14,103,28,93,34,33,0,13,5,99,1,13
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Ontdekking,0034::SB11,,2524,488,1,3,0,0,0,417,75,0,0,0,0,0,492,49,28,17,138,10,93,13,42,20,15,0,7,1,42,1,12
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurtcentrum Meenten en Grienden,0034::SB12,,1517,637,0,0,0,0,0,569,68,0,0,0,0,0,637,30,37,46,42,20,140,14,71,35,47,0,3,2,136,7,7
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau IKC De Regenboog,0034::SB13,,1388,597,1,3,0,0,0,537,64,0,0,0,0,0,601,30,26,31,71,28,123,15,74,41,41,0,3,0,93,1,20
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau IKC Aquamarijn I,0034::SB14,,1755,740,1,1,0,0,1,652,89,0,0,0,0,0,742,44,39,33,113,22,151,27,71,44,45,3,13,1,125,1,8
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Flierefluiter,0034::SB15,,1834,845,0,2,0,0,0,753,94,0,0,0,0,0,847,65,35,36,84,43,202,22,92,48,50,3,0,2,148,6,9
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School Het Samenspel Midden,0034::SB16,,1856,430,0,2,0,0,0,395,37,0,0,0,0,0,432,18,20,33,36,20,85,26,38,23,32,1,14,1,80,2,1
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Achtbaan,0034::SB17,,1763,529,3,1,0,0,1,485,47,0,0,0,0,0,533,29,25,46,54,33,98,10,54,35,41,1,9,0,88,0,6
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School Het Spectrum,0034::SB18,,3089,1108,7,6,0,0,1,981,139,0,0,0,0,0,1121,82,56,51,185,44,191,33,139,67,59,7,25,4,135,3,27
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurthuis De Buitenkans,0034::SB20,,1628,305,0,1,0,0,1,265,40,0,0,0,0,0,306,24,17,4,50,13,46,5,65,31,5,0,2,0,34,0,9
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School Het Samenspel Noord,0034::SB21,,1409,181,2,2,0,0,0,153,32,0,0,0,0,0,185,7,9,18,19,11,38,2,14,11,8,1,20,0,22,1,0
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School Digitalis,0034::SB23,,1908,623,2,0,0,0,0,537,88,0,0,0,0,0,625,27,35,34,63,36,136,23,40,29,40,2,24,1,116,3,14
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Kameleon,0034::SB24,,1883,621,1,0,0,0,0,561,61,0,0,0,0,0,622,36,23,29,75,21,133,22,80,40,43,1,3,3,94,4,14
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Driemaster,0034::SB26,,1853,579,1,3,0,0,0,521,57,0,5,0,5,0,578,33,15,55,43,34,106,19,39,51,38,3,11,2,118,2,10
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Argonaut,0034::SB29,,1863,541,1,1,0,0,0,495,48,0,0,0,0,0,543,20,30,38,41,45,99,12,50,26,40,2,4,2,122,4,6
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Zeetuin,0034::SB30,,1651,381,2,3,0,0,0,342,44,0,0,0,0,0,386,22,15,22,49,7,83,14,25,19,31,3,8,0,76,1,6
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Tjasker,0034::SB32,,1369,486,1,1,0,0,0,441,47,0,0,0,0,0,488,17,17,39,52,26,84,17,55,25,35,1,9,2,95,1,11
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Hasselbraam,0034::SB33,,1707,480,1,4,0,0,0,414,71,0,0,0,0,0,485,37,27,32,93,10,85,28,50,13,24,4,7,0,59,0,11
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurtcentrum De Wieken,0034::SB34,,1599,455,0,1,0,0,0,403,53,0,0,0,0,0,456,23,17,27,49,30,81,19,47,18,23,4,19,1,84,3,10
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorgcentrum De Kiekendief,0034::SB35,,1503,358,1,0,0,0,0,330,29,0,0,0,0,0,359,23,28,23,26,35,60,15,20,24,28,2,8,2,61,0,3
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Centrum Verpleeghuiszorg Polderburen,0034::SB36,,1333,296,0,1,0,0,1,267,29,0,0,0,0,0,297,16,20,17,43,9,54,6,17,25,26,0,8,0,47,0,8
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School Heliotroop,0034::SB37,,1873,658,2,4,0,0,0,593,71,0,0,0,0,0,664,43,29,34,79,19,128,17,81,41,35,1,9,1,132,0,9
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Taalcentrum Almere locatie Kruidenwijk,0034::SB38,,1917,618,2,3,0,0,1,562,60,0,0,0,0,0,623,43,26,41,59,24,141,12,56,28,46,0,10,2,121,4,5
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Oase,0034::SB39,,1558,412,2,0,0,0,0,384,30,0,0,0,0,0,414,22,21,28,55,11,68,43,29,25,30,4,2,0,63,1,10
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Vuurvogel,0034::SB40,,1527,631,1,2,0,0,0,572,62,0,0,0,0,0,634,33,43,33,88,19,126,16,62,30,53,2,9,1,107,1,8
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurtcentrum Parkwijk,0034::SB41,,1736,852,2,4,0,1,0,756,103,0,0,1,0,0,859,69,63,45,112,24,144,52,87,45,49,0,20,0,126,0,16
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dependance school De Buitenburcht,0034::SB42,,1664,510,1,3,0,0,0,464,50,0,0,0,0,0,514,28,29,44,59,26,83,24,48,26,37,2,3,0,90,4,7
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Alexander Roozendaalschool,0034::SB43,,1542,436,3,0,0,0,1,395,43,0,0,0,0,0,439,19,27,25,61,24,108,14,39,16,22,1,2,0,69,2,7
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurtcentrum 't Kardoes,0034::SB44,,2264,342,0,2,0,0,0,307,36,0,1,0,1,0,343,21,24,25,16,19,70,15,36,20,18,4,17,1,50,1,5
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorgcentrum Buitenhaeghe,0034::SB45,,1662,424,2,3,0,0,0,389,40,0,0,0,0,0,429,15,24,31,19,13,99,34,42,16,36,1,7,1,78,3,5
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Lettertuin,0034::SB46,,1743,457,1,0,0,0,2,399,57,0,0,0,0,0,458,38,26,29,77,15,76,10,44,20,30,0,7,0,78,1,6
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wooncentrum De Rotonde,0034::SB47,,1602,368,0,2,0,0,0,334,36,0,0,0,0,0,370,9,17,34,31,20,67,10,30,20,46,0,6,2,71,2,3
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Montessorischool Muziekwijk,0034::SB48,,1591,361,0,1,0,0,0,318,44,0,0,0,0,0,362,31,24,27,38,9,78,7,27,17,16,3,10,0,60,0,14
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Taalcentrum Almere locatie Bloemenbuurt,0034::SB49,,1644,622,1,2,0,0,2,548,75,0,0,0,0,0,625,56,36,27,80,18,114,39,61,32,40,1,14,1,95,1,7
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Lichtboei,0034::SB50,,1720,533,2,1,0,0,0,480,56,0,0,0,0,0,536,44,40,16,87,26,108,20,47,28,21,0,2,0,74,6,14
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School Syncope,0034::SB51,,1787,751,0,0,0,0,0,647,104,0,0,0,0,0,751,32,52,38,125,28,148,21,76,41,57,4,7,0,106,1,15
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,"Stembureau De Toonladder, gebouw De Concertmeester",0034::SB53,,1694,866,3,0,0,0,3,756,110,0,0,0,0,0,869,48,64,36,144,35,148,41,79,35,69,0,16,0,132,2,17
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurtlokaal De Dop,0034::SB54,,1880,614,2,2,0,0,2,544,72,0,0,0,0,0,618,31,40,40,85,20,103,34,65,35,50,0,9,0,88,0,14
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Albatros,0034::SB55,,1754,903,3,2,0,0,0,777,131,0,0,0,0,0,908,68,41,42,172,26,159,24,90,49,39,0,11,4,151,6,21
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School Bommelstein,0034::SB56,,1739,760,0,0,0,0,0,682,78,0,0,0,0,0,760,69,55,25,114,30,147,19,72,32,51,1,6,1,128,3,7
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Olijfboom/ 't Zonnewiel,0034::SB57,,1473,549,0,1,0,0,0,472,78,0,0,0,0,0,550,46,26,29,74,23,99,24,73,27,29,0,3,0,80,4,12
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurtcentrum Het Forum,0034::SB59,,1692,575,1,1,0,0,1,518,58,0,0,0,0,0,577,25,31,51,70,34,107,35,43,30,25,3,7,0,102,2,10
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Bombardon,0034::SB60,,1469,604,0,0,0,0,0,524,80,0,0,0,0,0,604,42,39,43,84,15,106,31,61,35,36,1,11,1,79,1,19
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Filmwijkcentrum,0034::SB61,,1523,863,1,2,0,1,0,753,114,0,0,1,0,0,867,53,41,30,139,35,185,35,82,36,37,0,11,1,158,3,17
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School Aurora,0034::SB62,,3164,1260,1,3,0,0,0,1107,157,0,0,0,0,0,1264,104,67,50,227,38,222,52,146,75,66,1,21,4,165,1,21
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dependance School de Kraanvogel,0034::SB63,,1886,394,5,0,0,0,0,348,51,0,0,0,0,0,399,23,32,24,54,10,59,11,39,20,25,2,27,0,60,2,6
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Ontmoetingshuis De Kern,0034::SB64,,1928,865,0,0,0,0,0,755,110,0,0,0,0,0,865,56,67,17,248,11,119,20,107,68,26,0,3,0,105,2,16
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Kraanvogel,0034::SB65,,1707,643,1,1,0,0,0,565,80,0,0,0,0,0,645,43,51,19,112,17,131,25,59,34,37,1,5,0,92,3,14
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Arte College,0034::SB66,,2641,598,3,6,0,0,3,537,67,0,0,0,0,0,607,60,27,13,109,17,105,22,72,28,21,0,17,1,85,2,19
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Taalcentrum Almere locatie Filmwijk,0034::SB67,,1509,229,1,0,0,0,0,201,29,0,0,0,0,0,230,16,7,16,30,2,46,12,38,12,23,0,0,0,23,1,3
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Buurtschuur,0034::SB68,,1204,494,0,0,0,0,0,439,55,0,0,0,0,0,494,34,30,13,131,8,66,14,71,39,6,1,4,0,69,1,7
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Omnibus,0034::SB69,,2218,793,1,4,0,0,2,694,102,0,0,0,0,0,798,59,41,30,177,20,125,21,72,28,45,0,10,2,141,3,19
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School Letterland,0034::SB70,,2284,613,1,1,0,0,0,521,94,0,0,0,0,0,615,51,27,42,90,18,125,24,68,16,20,2,32,1,86,1,10
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School Het Palet,0034::SB71,,2649,807,2,6,0,2,1,702,110,0,2,0,0,0,813,39,32,53,116,34,178,21,55,34,43,3,28,2,155,6,8
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Optimist,0034::SB72,,1621,492,0,1,0,0,0,432,61,0,0,0,0,0,493,36,26,24,89,17,88,26,48,14,13,3,10,1,85,3,9
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School de Archipel,0034::SB73,,3113,1019,3,4,0,0,2,878,147,1,0,1,0,0,1027,84,44,52,187,30,201,25,90,34,51,3,20,3,175,3,17
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School de Egelantier,0034::SB74,,2222,545,1,3,0,0,0,466,83,0,0,0,0,0,549,55,28,32,82,19,80,20,59,24,31,1,14,0,80,5,15
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurtcentrum de Cobra,0034::SB75,,1771,262,0,1,0,0,0,227,36,0,0,0,0,0,263,17,20,21,34,5,61,3,17,14,13,0,11,0,44,0,2
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Brede school Het Meesterwerk,0034::SB76,,1523,382,0,0,0,0,1,327,54,0,0,0,0,0,382,29,14,23,69,6,75,10,36,12,36,0,10,0,55,2,5
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Brede School De Compositie,0034::SB79,,1696,568,0,0,0,0,0,492,76,0,0,0,0,0,568,43,41,23,104,16,113,15,51,32,26,1,10,1,77,3,12
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School Het Avontuur,0034::SB80,,1473,560,2,1,0,0,0,485,78,0,0,0,0,0,563,45,30,18,92,33,102,19,42,24,36,1,24,0,84,1,9
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurtcentrum De Cartoon,0034::SB81,,1639,495,1,0,0,0,0,437,58,0,1,0,1,0,495,42,34,26,105,16,58,16,57,22,26,0,5,0,79,1,8
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Windwijzer,0034::SB82,,2555,1160,3,1,0,0,3,955,206,0,0,0,0,0,1164,99,72,42,346,19,161,39,95,52,33,5,14,2,159,2,20
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School Het Kristal,0034::SB83,,2537,406,2,2,0,0,0,367,43,0,0,0,0,0,410,30,22,14,63,12,58,25,40,30,22,0,22,0,60,4,4
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Flevoziekenhuis,0034::SB84,,1324,682,3,1,0,0,1,578,107,0,0,0,0,0,686,50,41,23,120,31,139,12,82,21,42,1,7,2,97,1,13
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Huis van de Waterwijk,0034::SB85,,1924,673,1,1,0,1,0,588,88,0,0,1,0,0,676,38,29,35,90,35,126,18,73,38,48,1,4,2,118,5,13
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Kerkcentrum Goede Rede,0034::SB86,,1749,698,0,3,0,0,6,632,63,0,0,0,0,0,701,43,25,48,80,37,130,24,59,39,42,2,8,2,143,3,13
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Dukdalf,0034::SB89,,2000,527,0,4,0,0,1,454,76,0,0,0,0,0,531,38,51,21,69,17,71,34,38,21,21,3,22,0,104,1,16
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gezondheidscentrum Archipel,0034::SB91,,2311,668,1,5,0,0,0,614,60,0,0,0,0,0,674,49,31,39,102,20,119,14,68,27,53,0,22,2,105,1,16
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Architect,0034::SB95,,1745,562,4,0,0,0,0,510,55,0,1,0,1,0,565,35,20,42,68,46,94,17,49,27,41,3,6,1,106,1,6
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Station NS Almere Muziekwijk,0034::SB97,,0,737,1,0,0,1,0,674,65,0,0,1,0,0,739,49,27,26,79,28,160,35,131,47,39,3,11,4,78,4,16
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Hal Station NS Almere Centrum,0034::SB98,,0,1276,3,4,0,0,6,1164,113,0,0,0,0,0,1283,101,62,42,144,37,268,50,223,75,47,2,40,5,140,9,31
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gezondheidscentrum Castrovalva,0034::SB102,,1748,570,2,4,0,1,4,510,63,0,0,1,0,0,577,39,30,20,77,20,139,17,44,28,40,2,21,2,86,0,5
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School Polygoon,0034::SB105,,1673,789,3,0,0,0,0,710,82,0,0,0,0,0,792,59,39,21,111,16,196,22,112,50,27,2,4,4,95,1,30
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau IKC Aquamarijn II,0034::SB109,,1725,480,0,0,0,0,0,436,44,0,0,0,0,0,480,39,24,36,80,12,90,15,40,24,32,2,8,0,72,0,6
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurtcentrum De Ruimte,0034::SB111,,2590,735,1,1,0,0,0,640,97,0,0,0,0,0,737,57,30,20,152,11,131,28,88,38,39,2,25,1,92,2,19
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal Vrijmark (t/o School de Loofhut),0034::SB112,,1898,709,0,1,0,0,1,635,72,0,2,0,2,0,708,46,34,53,88,31,152,12,83,58,43,2,5,0,80,2,20
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau ROC Flevoland locatie Almere Buiten,0034::SB114,,0,109,0,0,0,0,0,93,16,0,0,0,0,0,109,7,7,5,15,3,26,5,11,7,6,2,0,1,10,0,4
+,Almere,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Zeeraket,0034::SB115,,2698,544,0,0,0,0,0,474,70,0,0,0,0,0,544,50,24,21,115,17,100,14,61,29,21,1,10,1,61,4,15

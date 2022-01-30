@@ -1,0 +1,49 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,VVD,Partij van de Arbeid (P.v.d.A.),PVV (Partij voor de Vrijheid),Christen Democratisch Appèl (CDA),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,ChristenUnie,Staatkundig Gereformeerde Partij (SGP),Partij voor de Dieren,Piratenpartij,Partij voor Mens en Spirit (MenS),Nederland Lokaal,Libertarische Partij (LP),Democratisch Politiek Keerpunt DPK,50PLUS,Liberaal Democratische Partij (LibDem),Anti Europa Partij,SOPN,Partij van de Toekomst (PvdT)
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadswinkel Venlo,0983::SB1,5911 HT,1536,1093,2,2,382,219,130,64,109,101,28,2,0,30,5,3,2,4,0,11,1,0,1,1
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Huize Beerendonck,0983::SB2,5911 AD,1567,1183,6,3,379,231,155,81,126,102,42,2,2,30,5,4,1,3,2,18,0,0,0,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gemeentearchief Venlo,0983::SB3,5914 PV,1667,1057,4,2,318,216,182,101,99,71,24,3,0,16,4,4,0,2,1,15,0,0,1,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Lokaal Veestraat,0983::SB4,5914 RR,1460,896,3,5,135,185,243,74,151,41,27,4,0,7,5,2,0,1,0,15,2,1,2,1
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basissschool de Meule,0983::SB5,5914 XS,1539,1119,4,1,296,213,217,97,135,77,30,3,3,13,2,3,0,0,0,27,0,0,3,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stichting de Witte Kerk,0983::SB6,5914 PE,1240,850,1,5,98,233,297,31,101,18,17,3,4,19,4,6,0,0,0,15,0,1,3,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gilde Opleidingen,0983::SB7,5913 ES,1425,1174,0,1,449,202,186,80,92,84,27,8,0,17,3,4,0,0,0,20,0,0,1,1
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Bantuin,0983::SB8,5916 SW,1745,1348,3,5,549,183,210,115,124,78,29,6,0,15,0,7,0,0,1,29,0,0,2,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau wijkgebouw d'n Dörpel,0983::SB9,5913 CZ,2208,1668,6,6,606,282,223,152,157,139,36,7,0,16,2,1,0,0,3,43,0,0,1,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schoolgebouw,0983::SB10,5913 VZ,1197,1007,0,0,367,191,89,105,73,107,38,2,2,7,1,5,0,0,0,19,0,0,1,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School met de Bijbel,0983::SB11,5913 TV,1623,1275,4,3,443,257,166,82,122,114,34,4,0,24,2,6,1,0,1,16,0,0,0,3
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Grand Cafe Maagdenberg,0983::SB12,5915 CW,1356,1020,6,7,188,237,236,41,157,65,19,5,0,34,5,3,0,1,0,27,0,0,0,2
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Huis van de Wijk,0983::SB13,5915 ES,1174,628,6,2,99,179,144,24,102,24,12,6,1,13,3,2,0,0,0,18,0,0,0,1
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Scheidsrechtersvereniging Venlo eo,0983::SB14,5915 CM,1342,966,1,4,410,136,145,74,91,53,25,6,0,16,2,2,0,0,0,6,0,0,0,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verpleeghuis d'n Horstgraaf,0983::SB15,5915 PN,388,192,1,0,64,22,36,25,25,10,3,0,0,5,0,0,0,0,1,1,0,0,0,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Scouting St Paulus,0983::SB16,5912 CG,2449,1356,2,10,268,324,290,97,170,80,38,13,0,28,3,2,0,0,2,36,0,1,1,3
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Welzijnswinkel de Zuidpilaar,0983::SB17,5912 XN,1452,936,2,1,137,257,288,49,107,34,26,3,1,10,2,1,0,0,1,18,0,0,1,1
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool de Zuidstroom,0983::SB18,5912 XW,1355,876,2,2,116,219,244,76,119,37,19,9,3,9,2,1,0,0,0,21,0,0,1,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gemeenschapsruimte d'n Baand,0983::SB19,5913 SE,1325,884,5,2,164,206,200,57,124,58,23,2,0,15,0,2,0,0,1,32,0,0,0,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 't Raodhoes,0983::SB20,5921 GV,1754,1322,8,3,369,225,251,154,139,82,31,9,0,17,6,2,0,0,5,31,0,0,0,1
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Preuverie de Witte,0983::SB21,5922 AE,1868,1170,3,1,297,213,271,89,143,66,22,3,1,21,0,2,0,1,2,34,0,0,3,2
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorggroep inzake Ruysdonck,0983::SB22,5921 EA,1340,826,3,0,136,186,188,61,145,37,10,3,1,25,1,1,0,0,0,28,1,1,0,2
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool Mikado,0983::SB23,5922 BZ,1275,867,1,0,90,222,252,58,138,36,17,13,1,10,2,4,0,0,0,22,1,0,1,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Boulevard Hazenkamp,0983::SB24,5921 AZ,1441,756,1,0,75,200,252,43,111,35,7,1,0,15,4,0,0,0,0,10,0,0,1,2
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stichting Het Muspelheim,0983::SB25,5922 AT,1549,970,1,5,121,252,255,89,147,43,26,3,3,12,4,0,0,0,0,13,0,0,2,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basissschool 't Palet,0983::SB26,5923 CJ,1522,1021,3,0,216,236,241,64,137,59,17,3,2,16,2,0,0,0,0,26,0,0,1,1
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zaal de Egelantier,0983::SB27,5925 AV,2838,1622,9,3,245,382,452,61,270,94,24,10,3,29,9,3,0,1,1,33,0,0,2,3
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool de Vossener,0983::SB29,5924 VX,1440,911,4,2,96,249,282,55,150,23,13,7,0,14,5,0,2,0,4,10,0,0,0,1
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool 't Ritjen,0983::SB30,5924 CJ,1284,827,1,0,184,174,175,49,126,47,16,9,0,10,5,3,0,0,0,29,0,0,0,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stichting de Ark,0983::SB31,,1331,854,3,3,178,167,200,85,99,44,23,7,0,22,2,2,0,0,0,25,0,0,0,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zalzershaof,0983::SB32,5926 PL,1976,1616,6,5,683,174,275,178,121,112,25,6,1,8,1,5,0,0,1,25,0,0,0,1
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cafe Feestzaal de Boostenhof,0983::SB33,5927 NP,732,567,0,0,197,85,69,89,49,42,8,1,0,8,5,3,0,0,0,10,0,1,0,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool de Koperwiek,0983::SB34,5912 TP,1667,1235,2,8,333,334,198,60,145,89,40,2,1,17,6,0,0,0,0,7,0,0,1,2
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ithaka Sciencecenter,0983::SB101,5931 NR,1578,1241,5,5,233,244,242,146,170,87,23,10,1,19,6,1,2,0,1,56,0,0,0,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool Maasveld,0983::SB102,5931 DP,1509,1207,1,1,392,236,225,70,110,91,25,3,1,14,5,3,0,1,4,20,1,1,3,2
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Grand Cafe 't Zaelke,0983::SB103,5931 HM,2433,1573,4,9,273,380,354,134,230,75,28,9,4,33,1,5,0,1,5,33,0,3,1,4
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau VSO De Velddijk,0983::SB104,5931 CE,1674,1097,8,2,312,225,186,88,125,76,16,4,1,17,4,2,0,1,0,36,0,0,2,2
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bijbelgemeente,0983::SB105,5935 AX,1736,1229,5,2,302,280,212,123,134,73,29,4,2,21,2,5,0,0,2,37,0,1,1,1
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Vijverhofschool,, locatie Tegelen",0983::SB106,5931 PC,1447,888,2,2,168,197,216,60,128,55,15,7,1,9,3,3,0,0,0,24,0,0,2,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cafe de Witte,0983::SB107,5932 CE,1303,831,2,0,130,187,234,75,110,43,11,3,1,8,1,0,0,0,2,22,0,0,4,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ontmoetingscentrum De Glazenap,0983::SB108,5932 VK,1323,888,1,5,131,220,260,37,133,45,16,5,0,17,4,0,0,0,2,15,0,0,0,3
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool de Toermalijn,0983::SB109,5932 TP,1483,861,0,2,97,268,239,23,147,28,14,4,0,16,2,6,1,1,1,11,0,0,3,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Openbare bibliotheek Belfeld,0983::SB201,5951 CD,2179,1453,0,0,332,339,295,143,183,67,24,1,3,12,4,7,0,1,0,40,0,0,2,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool  KOM Mijn,0983::SB202,5951 BR,2109,1512,7,3,375,306,344,145,196,68,24,5,0,16,0,2,0,0,1,28,0,0,1,1
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Klosterhoaf Arcen,0983::SB301,5944 AW,1898,1720,3,3,474,297,215,191,289,110,58,10,2,25,2,7,0,0,0,33,0,1,5,1
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Pastoorshof Lomm,0983::SB302,5943 AE,766,587,3,1,176,89,100,90,77,28,7,4,0,7,0,3,0,0,0,6,0,0,0,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Kiêsstolp Velden,0983::SB303,5941 GB,1646,1206,7,1,360,168,207,195,113,74,27,4,4,11,1,2,0,0,0,37,1,0,2,0
+Maastricht,Venlo,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sporthal de Visgraaf,0983::SB304,5941 CP,2325,1703,4,4,497,281,297,216,186,134,34,8,0,15,4,3,0,0,2,25,0,0,1,0

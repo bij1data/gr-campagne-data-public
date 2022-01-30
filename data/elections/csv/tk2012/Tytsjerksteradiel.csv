@@ -1,0 +1,24 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,VVD,Partij van de Arbeid (P.v.d.A.),PVV (Partij voor de Vrijheid),Christen Democratisch Appèl (CDA),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,ChristenUnie,Staatkundig Gereformeerde Partij (SGP),Partij voor de Dieren,Piratenpartij,Partij voor Mens en Spirit (MenS),Nederland Lokaal,Libertarische Partij (LP),Democratisch Politiek Keerpunt DPK,50PLUS,Liberaal Democratische Partij (LibDem),Anti Europa Partij,SOPN,Partij van de Toekomst (PvdT)
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau GEMEENTEHUIS,0737::SB1,,1514,1253,3,3,194,472,99,162,119,73,14,81,9,12,3,3,0,1,0,10,0,0,0,1
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau BERCHHIEM,0737::SB2,,1786,1303,2,3,200,420,86,275,117,55,25,79,18,9,1,1,0,0,1,12,0,0,2,2
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau VER GEBOUW DE STRYP,0737::SB3,,1392,1173,1,0,192,367,84,238,93,44,17,82,11,18,0,6,0,0,0,18,0,1,0,2
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau GLINSTRASTATE,0737::SB4,,1388,1289,1,1,243,391,58,306,85,46,15,100,7,11,6,1,0,2,0,13,2,0,0,3
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau LOKALITEIT GEREF.KERK (vrijgem.),0737::SB5,,603,339,1,2,73,88,27,54,33,11,4,29,17,0,0,0,2,0,0,1,0,0,0,0
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau DE BALSTIEN,0737::SB6,,1172,765,5,3,118,244,89,84,101,21,7,68,4,13,4,1,0,0,0,7,0,0,3,1
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau JISTRUM,0737::SB7,,690,503,3,0,70,146,50,91,50,13,8,42,19,3,4,0,0,0,1,5,0,0,1,0
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau EASTERMAR,0737::SB8,,1194,929,3,0,150,245,39,232,81,28,22,98,5,18,2,4,1,0,1,2,0,0,1,0
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau SUMAR,0737::SB9,,1103,770,3,0,119,212,86,170,77,24,12,38,6,4,3,4,0,0,0,13,0,0,0,2
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau GARYP,0737::SB10,,1445,1084,0,1,154,224,70,354,96,30,14,90,29,12,3,3,0,0,0,3,0,0,1,1
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau EARNEWALD,0737::SB11,,300,281,0,0,109,61,17,36,12,19,7,11,2,1,0,0,1,0,2,3,0,0,0,0
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau SUWALD,0737::SB12,,482,399,1,1,85,83,18,97,30,29,9,27,6,5,2,0,0,0,0,7,0,0,0,1
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau TYTSJERK,0737::SB13,,1208,978,0,2,225,361,54,119,64,42,21,49,5,19,2,4,2,1,0,7,0,0,2,1
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau BENNEMASTATE,0737::SB14,,713,485,0,2,81,121,50,96,30,19,17,43,10,8,1,0,0,0,0,9,0,0,0,0
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau DE SCHALMEI,0737::SB15,,1568,1113,0,0,173,427,76,115,145,48,32,51,5,23,0,5,0,0,1,10,0,0,1,1
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau NIEUW PERSPECTIEF,0737::SB16,,1523,1408,3,2,233,511,77,189,159,68,32,78,12,17,3,4,0,1,0,19,0,1,4,0
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau RYPTSJERK,0737::SB17,,607,483,0,0,106,134,20,86,54,19,16,22,11,7,2,0,0,0,0,5,0,1,0,0
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau GYTSJERK,0737::SB18,,1801,1383,3,1,297,535,73,186,116,69,20,55,4,12,1,2,0,1,0,12,0,0,0,0
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau MUNEIN,0737::SB19,,546,429,0,0,60,130,28,70,43,36,9,26,1,14,3,2,0,0,0,6,0,1,0,0
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau OENTSJERK,0737::SB20,,1446,1184,3,1,228,411,46,233,82,69,15,65,4,13,5,1,0,1,1,10,0,0,0,0
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau ALDTSJERK,0737::SB21,,507,417,1,0,99,159,29,39,40,27,9,5,0,4,0,0,0,0,0,2,0,0,1,3
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau WYNS,0737::SB22,,188,155,0,0,51,41,8,18,11,8,9,7,0,1,0,0,0,0,1,0,0,0,0,0
+Leeuwarden,Tytsjerksteradiel,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Werf8,0737::SB24,,1375,854,0,6,132,266,47,184,76,24,14,59,6,19,3,2,1,1,0,19,0,0,0,1

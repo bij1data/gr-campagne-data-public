@@ -1,0 +1,24 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Samen Verder,Ronduit Open,CDA,Democraten 66 (D66),VVD,Progressief Akkoord Leudal
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,Stembureau De Bombardon,1640::SB1,,1727,1237,16,4,0,2,0,1141,114,0,2,0,0,0,1255,204,503,208,153,82,87
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,Stembureau Zorgcentrum De Kreppel,1640::SB2,,1828,853,7,5,0,0,0,769,96,0,0,0,0,0,865,115,281,256,84,74,43
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,Stembureau PDV De Vliegende Hollander,1640::SB3,,1857,580,6,5,0,0,0,525,66,0,0,0,0,0,591,70,274,100,57,43,36
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,Stembureau Gemeenschapshuis Baexheimerhof,1640::SB4,,1956,1028,13,5,0,0,0,929,117,0,0,0,0,0,1046,258,175,354,103,84,54
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,Stembureau Basisschool de Klink,1640::SB5,,1386,764,9,4,0,0,0,699,78,0,0,0,0,0,777,345,130,102,66,36,85
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,Stembureau Trefcentrum Kelpen-Oler,1640::SB6,,964,502,9,2,0,0,0,449,64,0,0,0,0,0,513,38,198,185,12,44,25
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,Stembureau Hotel - Restaurant De Beukelaer,1640::SB7,,1707,852,14,4,0,0,0,770,100,0,0,0,0,0,870,122,199,218,180,74,59
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,Stembureau Gemeenschapshuis Kloeästerhoaf,1640::SB8,,1750,891,11,6,0,0,0,823,85,0,0,0,0,0,908,192,140,221,215,62,61
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,Stembureau Gemeenschapshuis de Klokkestoel,1640::SB9,,618,370,3,3,0,0,0,334,42,0,0,0,0,0,376,74,97,115,42,22,20
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,Stembureau Handbooglokaal Vriendschap & Strijd,1640::SB10,,1277,490,7,3,0,0,0,436,64,0,0,0,0,0,500,86,51,149,140,47,17
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,Stembureau Gemeenschapshuis De Haammaeker,1640::SB11,,1438,792,7,3,0,0,0,747,55,0,0,0,0,0,802,126,73,169,300,73,51
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,Stembureau Parochiecentrum Haelen,1640::SB12,,1870,744,14,4,0,0,0,686,76,0,0,0,0,0,762,241,121,133,158,50,41
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,Stembureau Trefcentrum Aldenghoor,1640::SB13,,1702,798,9,6,0,0,0,715,98,0,0,0,0,0,813,246,137,155,165,48,47
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,Stembureau De Postkoets,1640::SB14,,1659,972,13,1,0,0,0,888,98,0,0,0,0,0,986,491,71,96,104,102,108
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,Stembureau Hotel-Restaurant De Abdij,1640::SB15,,1474,767,5,3,0,0,0,695,80,0,0,0,0,0,775,428,69,66,57,72,75
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,Stembureau Gemeenschapshuis De Roffert,1640::SB16,,768,413,3,0,0,0,0,378,38,0,0,0,0,0,416,256,55,20,42,13,27
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,Stembureau Gemeenschapshuis St. Servaas,1640::SB17,,564,368,7,1,0,0,0,346,30,0,0,0,0,0,376,196,42,30,39,30,31
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,Stembureau Parochiehuis Hunsel,1640::SB18,,796,491,9,2,0,0,0,466,36,0,0,0,0,0,502,257,30,117,31,27,29
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,Stembureau BMV Ell,1640::SB19,,1148,743,5,2,0,0,0,681,69,0,0,0,0,0,750,119,361,118,69,17,59
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,Stembureau Café Den Dokter,1640::SB20,,1070,447,12,1,0,0,0,423,37,0,0,0,0,0,460,92,33,95,35,18,174
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,Stembureau Cultureel Centrum de Mortel,1640::SB21,,1418,607,14,3,0,0,0,558,66,0,0,0,0,0,624,171,79,97,35,45,180
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,"Stembureau Ons Dorpshuis, Café bie Winy",1640::SB22,,418,222,4,2,0,0,0,205,23,0,0,0,0,0,228,63,66,58,12,11,12
+,Leudal,GR2018_Leudal,Gemeenteraad Leudal 2018,1640,Leudal,2018-03-21,Stembureau Mobiel Stembureau,1640::SB23,,0,128,1,1,0,0,0,122,8,0,0,0,0,0,130,17,20,74,5,6,6

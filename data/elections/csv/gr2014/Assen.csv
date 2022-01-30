@@ -1,0 +1,39 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_kwijtgeraakte stembiljetten,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Partij van de Arbeid (P.v.d.A.),VVD,CDA,ChristenUnie,Stadspartij PLOP,Democraten 66 (D66),GROENLINKS,SP (Socialistische Partij),OP ASSEN,DaadKrachtigNederland
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau Stadhuis I,0106::SB1,9401 JW,1341,916,3,4,0,0,0,851,72,0,0,0,0,0,0,923,128,83,95,103,153,178,40,99,32,5
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau Anholt,0106::SB2,9401 AG,1754,754,0,2,0,0,0,703,53,0,0,0,0,0,0,756,160,50,61,94,126,98,28,102,31,4
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau De Boshof,0106::SB3,9401 PM,1160,889,0,5,0,0,0,832,62,0,0,0,0,0,0,894,140,117,102,74,110,202,60,66,13,5
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau De Slingeborgh,0106::SB4,9406 EA,1556,743,0,3,0,0,0,694,52,0,0,0,0,0,0,746,126,61,115,109,83,99,25,98,25,2
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau de Wijde Blik,0106::SB5,9406 CE,1687,848,3,1,0,0,0,798,55,0,1,0,1,0,0,853,159,53,108,106,123,107,23,127,36,6
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau de Steiger,0106::SB7,9406 GT,1273,608,2,1,0,0,0,556,55,0,0,0,0,0,0,611,108,31,46,72,116,70,29,104,25,7
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau Arendshorst,0106::SB8,9402 JK,1452,699,1,3,0,0,0,608,95,0,0,0,0,0,0,703,68,17,45,260,139,47,31,73,19,0
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau Maria in Campisschool,0106::SB9,9402 JA,1554,502,4,1,0,0,0,475,32,0,0,0,0,0,0,507,101,27,38,72,76,71,26,74,17,0
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau De Componist,0106::SB10,9402 VG,1664,1035,6,7,0,0,0,969,79,0,0,0,0,0,0,1048,230,50,97,160,140,124,31,162,33,8
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau Amstelflat,0106::SB11,9406 TA,1502,814,1,2,0,0,0,741,76,0,0,0,0,0,0,817,139,49,70,150,98,112,24,116,43,13
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau De Boei,0106::SB12,9406 XP,1338,546,5,0,0,0,0,518,33,0,0,0,0,0,0,551,89,26,48,120,72,56,19,92,20,4
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau Peelerhof,0106::SB13,9407 BS,1184,708,0,1,0,0,0,642,67,0,0,0,0,0,0,709,123,52,85,150,79,74,25,88,22,10
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau De Veldkei,0106::SB14,9407 AM,1471,734,2,0,0,0,0,664,72,0,0,0,0,0,0,736,103,25,50,113,124,91,26,156,32,14
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau 't Markehuus,0106::SB15,9407 EA,1450,926,4,0,0,0,0,864,66,0,0,0,0,0,0,930,138,72,71,197,119,100,31,157,38,3
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau CBS de Scharmhof,0106::SB16,9407 EA,1432,519,4,0,0,0,0,478,45,0,0,0,0,0,0,523,62,34,54,128,50,64,19,91,16,1
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau De Voorhof,0106::SB17,9403 PA,1357,971,2,2,0,1,0,889,87,0,0,0,1,0,0,976,126,87,100,259,107,134,23,114,17,4
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau Marsdijkhal,0106::SB18,9403 LT,1353,1070,6,1,0,0,0,983,94,0,0,0,0,0,0,1077,157,118,94,98,144,215,40,171,25,8
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau De Dissel,0106::SB19,9403 LR,1368,1343,4,2,0,0,0,1242,107,0,0,0,0,0,0,1349,175,129,121,184,167,218,77,211,46,15
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau Opstandingskerk,0106::SB20,9403 MA,1381,798,4,1,0,1,0,733,71,0,0,0,1,0,0,804,86,65,126,135,99,131,38,91,19,8
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau Sportcomplex Marsdiek,0106::SB21,9409 TH,1346,521,1,0,0,0,0,481,41,0,0,0,0,0,0,522,74,89,43,91,57,89,24,42,9,3
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau Pand 17,0106::SB22,9403 VB,1342,537,0,1,0,0,0,492,46,0,0,0,0,0,0,538,71,82,41,72,72,115,20,45,15,4
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau Sportpark Lonerstraat,0106::SB23,9403 TD,1470,729,1,1,0,0,0,669,62,0,0,0,0,0,0,731,104,77,78,78,87,178,46,63,14,4
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau De Schulp,0106::SB24,9404 BB,1277,662,2,2,0,0,0,616,50,0,0,0,0,0,0,666,121,49,48,69,88,63,37,141,32,14
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau De Vijverhof,0106::SB25,9404 CC,1371,785,2,3,0,0,0,732,58,0,0,0,0,0,0,790,164,56,106,77,104,97,31,119,22,9
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau Adventskerk,0106::SB26,9404 KR,1422,561,1,2,0,0,0,517,47,0,0,0,0,0,0,564,104,43,77,36,62,74,58,84,21,2
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau MEE Drenthe,0106::SB27,9405 KD,1152,689,0,0,0,0,0,619,70,0,0,0,0,0,0,689,107,67,94,77,86,125,39,78,9,7
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau Het Schakelveld,0106::SB28,9405 HX,1109,744,1,3,0,0,0,685,64,0,1,0,1,0,0,749,154,49,80,72,109,89,29,114,40,8
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau De Valkenhof,0106::SB29,9402 RT,1201,508,0,3,0,0,0,474,37,0,0,0,0,0,0,511,79,44,56,82,63,76,23,76,8,1
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau MFA Kloosterveste I,0106::SB30,9408 ME,1399,975,6,5,0,0,0,884,102,0,0,0,0,0,0,986,125,108,125,163,88,191,35,101,30,9
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau GBS De Parel,0106::SB31,9408 AM,1414,586,0,3,0,0,0,514,75,0,0,0,0,0,0,589,73,65,66,165,58,87,6,44,21,1
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau IJsvereniging Kloosterveen,0106::SB32,9408 CZ,1366,581,6,0,0,0,0,520,67,0,0,0,0,0,0,587,69,127,63,75,42,135,17,40,11,2
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau OBS Kloosterveen,0106::SB33,9408 JA,1410,758,3,2,0,0,0,680,83,0,0,0,0,0,0,763,122,87,82,104,72,158,32,66,28,7
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau Provincie Drenthe,0106::SB34,9405 BJ,1140,583,3,1,0,0,0,528,59,0,0,0,0,0,0,587,108,80,88,55,55,97,31,59,7,3
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau Sporthal De Timp,0106::SB35,9402 ER,1268,816,5,2,0,0,0,759,64,0,0,0,0,0,0,823,185,60,102,107,84,108,23,115,25,7
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau Vrijeschool De Es,0106::SB36,9404 KK,961,629,3,2,0,0,0,587,47,0,0,0,0,0,0,634,116,47,56,57,52,121,57,110,6,7
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau Stadhuis II,0106::SB37,9401 JW,1345,1149,6,7,0,0,0,1053,109,0,0,0,0,0,0,1162,186,119,120,116,167,223,55,118,33,12
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau OBS De Marskramer,0106::SB38,9403 LT,1360,383,0,0,0,0,0,342,41,0,0,0,0,0,0,383,66,41,32,35,47,80,10,52,15,5
+,Assen,GR2014_Assen,Gemeenteraad Assen 2014,0106,Assen,2014-03-19,Stembureau MFA Kloosterveste II,0106::SB39,9408 ME,1470,875,3,5,0,0,0,803,81,0,1,0,1,0,0,884,121,90,131,136,74,201,28,71,18,5

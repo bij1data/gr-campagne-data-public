@@ -1,0 +1,5 @@
+Ten aanzien van de gemeente tellingbestanden zijn de volgende onvolledigheden bekend:
+- Het gemeente tellingbestand van Veldhoven (Kieskring 18) ontbreekt.
+- In Telling_TK2010_gemeente_Bergeijk.eml.xml (Kieskring 18) ontbreken de stembureau uitslagen en het aantal kiesgerechtigden.
+- In Telling_TK2010_gemeente_Gemert-Bakel.eml.xml (Kieskring 18) ontbreken de stembureau uitslagen en het aantal kiesgerechtigden.
+- In Telling_TK2010_gemeente_Someren.eml.xml (Kieskring 18) ontbreken de stembureau uitslagen

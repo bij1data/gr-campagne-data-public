@@ -1,0 +1,341 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,VVD,Partij van de Arbeid (P.v.d.A.),PVV (Partij voor de Vrijheid),Christen Democratisch Appèl (CDA),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,ChristenUnie,Staatkundig Gereformeerde Partij (SGP),Partij voor de Dieren,Piratenpartij,Partij voor Mens en Spirit (MenS),Nederland Lokaal,Libertarische Partij (LP),Democratisch Politiek Keerpunt DPK,50PLUS,Liberaal Democratische Partij (LibDem),Anti Europa Partij,SOPN,Partij van de Toekomst (PvdT)
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Coolsingel 40 (links),0599::SB1,3011 AD,1317,1340,2,1,408,357,87,36,98,223,50,15,2,32,11,1,0,1,0,18,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Goudseweg 17 (links),0599::SB2,3031 XH,1467,793,1,1,156,267,103,19,89,79,20,7,3,26,5,0,0,2,1,11,2,0,0,3
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Raampoortstraat 15 (links),0599::SB3,3032 AH,1326,382,1,4,52,141,33,10,45,48,16,9,1,15,2,0,1,0,0,6,0,0,3,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Looiershof 1 (links),0599::SB4,3024 CZ,1493,732,5,11,94,278,56,30,81,105,38,14,5,13,10,1,0,0,0,4,1,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Springerstraat 340,0599::SB5,3067 CX,1580,1212,1,3,211,301,190,115,83,50,27,129,24,36,4,0,1,0,0,37,0,0,3,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cypruslaan 404 (links),0599::SB6,3059 XA,1399,1161,7,1,540,222,121,53,48,87,10,33,3,17,3,1,0,0,3,19,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Anna van Westrienenstraat 1,0599::SB7,3038 SX,1632,901,3,6,149,281,89,28,76,154,41,15,3,30,10,0,0,1,0,17,0,1,6,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bergsingel 152 (links),0599::SB8,3037 GM,1118,905,1,5,169,270,45,29,76,177,62,28,9,23,5,3,0,0,1,4,0,0,3,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cole Porterstraat 2,0599::SB9,3069 ZD,1515,1047,0,1,352,241,162,30,96,60,24,18,5,28,1,2,1,2,0,25,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schiedamse Vest 188 (links),0599::SB10,3011 BH,865,767,1,1,204,203,52,26,62,141,29,6,0,24,6,2,0,3,0,7,1,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Statensingel 103,0599::SB11,3039 LH,1392,962,2,5,230,246,52,41,87,186,61,15,2,24,4,2,0,0,0,12,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bergwegplantsoen 10,0599::SB12,3037 SK,1043,969,8,5,131,343,130,30,116,88,30,23,7,32,4,0,0,1,1,26,0,3,2,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Vliegerstraat 55 (links),0599::SB13,3021 ZN,1047,600,1,1,89,220,25,4,58,110,55,9,1,15,3,2,1,1,1,5,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Achillesstraat 290,0599::SB14,3054 RL,1284,946,1,3,296,220,139,57,80,46,18,18,1,27,5,0,0,5,2,27,1,1,2,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dempostraat 143,0599::SB15,3029 CL,2067,987,4,22,33,651,114,38,78,13,7,6,3,14,2,1,2,0,0,17,0,0,1,7
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Nicolaas Beetsstraat 4,0599::SB16,3027 AR,1539,1016,1,12,53,627,76,47,84,41,33,25,0,12,6,0,0,1,1,10,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Vrijenbansestraat 48,0599::SB17,3037 VZ,1395,802,4,7,87,361,51,32,76,78,49,19,8,27,2,3,0,0,0,6,0,0,1,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Snauwstraat 7,0599::SB18,3028 HV,1517,670,7,10,75,269,88,21,93,40,16,20,5,22,2,2,0,0,0,14,0,0,3,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Oostzeedijk 276,0599::SB19,3063 CA,1114,1283,0,2,514,274,64,45,70,203,30,10,10,35,5,3,0,2,1,16,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hoogstraat 108 (links),0599::SB20,3011 PV,1666,1449,5,2,529,308,85,30,93,262,50,9,4,46,2,4,0,2,0,16,0,0,7,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Maria Wesselingstraat 8 (links),0599::SB21,3065 GA,1410,1306,0,4,401,318,178,80,95,119,25,23,8,29,5,0,1,2,0,20,1,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schommelstraat 5,0599::SB22,3035 CE,1770,924,8,7,123,330,106,28,121,94,46,16,3,34,6,1,0,1,1,11,0,0,3,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Westerstraat 10,0599::SB23,3016 DH,871,815,1,3,371,123,36,39,29,149,35,5,2,17,2,0,0,0,1,5,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Noorderhavenkade 17D (links),0599::SB24,3039 RD,1078,818,4,0,194,205,64,16,92,126,50,18,10,23,5,1,0,3,0,9,1,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Meidoornstraat 55,0599::SB25,3036 WC,1613,813,4,8,56,408,74,46,96,53,41,7,2,15,3,1,0,1,0,5,0,1,3,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Pergolesilaan 7,0599::SB26,3055 SK,793,669,1,0,389,59,19,39,16,106,19,4,0,8,1,1,0,0,0,8,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gouvernestraat 56D,0599::SB27,3014 GB,1504,576,3,3,73,245,28,12,51,92,33,6,1,15,5,1,0,0,0,13,0,1,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ruivenstraat 39,0599::SB28,3036 DD,1166,577,0,5,58,286,57,7,80,46,21,3,1,10,1,2,0,1,1,1,0,1,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Engelsestraat 40 (links),0599::SB29,3028 CH,1238,664,1,9,60,263,136,18,75,34,19,11,0,17,6,2,1,0,1,18,0,0,2,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 's-Gravenwetering 98,0599::SB30,3062 SJ,951,809,0,0,468,78,15,33,14,146,22,10,5,15,1,0,0,1,0,1,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hooglandstraat 67,0599::SB31,3036 PD,1268,700,1,13,59,331,67,20,116,31,34,11,1,17,4,2,1,0,0,2,0,0,3,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 's-Gravenweg 451 (links),0599::SB32,3065 SC,1641,1050,1,4,499,198,58,31,25,148,29,18,7,14,3,2,0,0,0,14,2,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schouwburgplein 25,0599::SB33,3012 CL,1291,1032,6,9,238,282,64,33,125,163,47,13,1,40,6,2,0,0,0,12,2,0,3,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kleine Schoolstraat 9,0599::SB34,3151 AD,1601,1017,0,2,348,199,113,95,79,49,24,24,8,29,1,0,2,1,5,38,0,0,2,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Jacques Dutilhweg 494A,0599::SB35,3065 HJ,1260,630,1,1,174,171,88,21,57,56,16,8,8,11,6,1,0,0,0,13,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Boompjes 680,0599::SB36,3011 XZ,1757,1171,4,0,478,235,66,41,60,196,42,9,0,16,4,2,0,2,1,16,0,0,1,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zevenkampse Ring 40,0599::SB37,3068 PZ,1841,1257,3,7,256,431,188,63,112,75,31,36,4,16,1,5,0,0,3,31,0,1,3,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Van Speykstraat 107,0599::SB38,3014 VG,1585,790,9,6,44,486,32,20,110,38,23,5,1,13,3,1,0,0,1,9,0,0,3,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Erasmusstraat 26 (links),0599::SB39,3035 LE,1421,585,1,5,39,251,94,20,78,43,26,8,4,8,7,2,0,1,0,4,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Lage Filterweg 4,0599::SB40,3063 SJ,1276,659,3,1,139,168,63,37,83,71,23,21,1,22,3,2,0,1,1,20,0,1,2,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ben Websterstraat 9,0599::SB41,3069 XJ,1491,902,1,2,165,259,181,33,114,44,18,13,7,34,7,2,0,3,1,21,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Victor E.v.Vrieslandstr.150 (links),0599::SB42,3069 WC,1397,746,1,1,116,255,107,27,107,26,17,14,4,30,7,2,0,1,7,23,1,1,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Larikslaan 200 (rechts),0599::SB43,3053 LG,1776,1487,0,1,433,320,156,82,101,204,61,31,6,62,6,0,0,0,1,21,2,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Rodaristraat 31,0599::SB44,3066 LA,1303,870,0,2,164,286,172,38,80,32,8,20,17,18,0,2,2,0,3,25,1,1,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Rusthoflaan 56,0599::SB45,3034 XM,1785,932,8,8,111,328,139,16,131,100,34,12,5,23,11,1,1,0,1,14,1,0,4,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Apollostraat 311-561,0599::SB46,3054 TC,1275,843,3,2,318,188,95,53,47,68,12,12,6,15,2,3,0,1,1,19,2,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Isaäc Hubertstraat 153 (links),0599::SB47,3034 CS,1399,746,6,10,42,406,86,27,95,36,19,5,0,12,4,1,0,0,1,11,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schepenstraat 69 (links),0599::SB48,3039 NC,1077,838,5,1,172,235,31,24,94,146,73,20,3,24,3,2,0,1,1,7,0,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Boezemsingel 100,0599::SB49,3034 CA,1431,913,4,1,94,356,184,31,88,60,24,14,6,30,7,1,0,0,0,17,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Tattistraat 23,0599::SB50,3066 CE,1544,987,1,5,194,325,163,35,99,69,22,13,7,21,3,2,0,1,0,32,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Nieuwe Ommoordseweg 97 (links),0599::SB51,3068 BS,1123,725,1,2,202,170,132,36,64,35,23,16,3,13,2,0,0,2,0,22,0,0,4,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hamakerstraat 77,0599::SB52,3052 JA,1321,660,3,0,78,270,90,42,77,32,14,10,4,21,2,2,2,0,0,15,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wilgenplaslaan 196 (links),0599::SB53,3052 SL,1011,545,1,2,95,199,39,34,55,61,20,9,7,18,1,1,0,0,0,6,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Thomas Mannplaats 150,0599::SB54,3069 NE,1258,994,0,0,244,274,125,87,70,80,11,27,6,28,3,1,0,0,0,37,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 's-Gravendijkwal 36 (rechts),0599::SB55,3014 EA,1067,491,0,2,85,194,22,8,42,80,29,3,0,18,3,1,0,2,0,4,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hofdijk 651,0599::SB56,3032 CG,1502,1023,5,4,304,280,82,20,102,118,42,14,4,30,3,2,1,2,0,19,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Adriaan Kluitstraat 170,0599::SB57,3052 RJ,1164,628,1,3,88,199,102,34,82,46,17,17,4,11,2,1,0,0,0,24,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Goudseweg 17 (rechts),0599::SB58,3031 XH,1461,667,1,6,131,224,105,17,60,68,15,7,0,20,4,0,0,1,0,11,0,0,4,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Van Vlooswijkstraat 2A (links),0599::SB59,3039 TP,1418,973,3,0,210,269,62,33,84,188,48,23,6,33,3,1,0,3,0,9,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Michelangelostraat 98,0599::SB60,3066 NM,1232,787,4,9,138,180,107,36,73,45,21,29,123,10,3,2,0,2,0,18,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hesseplaats 441,0599::SB61,3069 EA,1843,1383,4,5,241,351,240,129,158,79,21,34,3,50,5,0,1,0,1,67,0,0,3,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Paulus Potterstraat 76 (links),0599::SB62,3061 ZW,1022,574,0,2,155,162,41,20,53,90,11,6,6,16,3,0,0,0,0,11,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Valenciadreef 6,0599::SB63,3067 WL,1350,628,0,3,73,224,115,29,101,24,13,17,10,12,0,0,0,0,0,8,0,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Merkelbachstraat 2,0599::SB64,3067 AL,1455,924,1,2,148,317,123,59,96,41,21,26,13,23,9,1,0,0,0,43,0,0,3,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cordell Hullplaats 22,0599::SB65,3068 VH,890,624,1,1,101,197,125,41,62,30,5,18,2,16,0,0,0,0,0,25,0,1,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Slaak 15,0599::SB66,3061 CR,1599,1044,3,10,182,412,106,41,102,108,22,5,1,33,3,5,0,4,0,15,0,1,1,3
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Vaasahof 75,0599::SB67,3067 DX,1466,977,0,1,255,252,156,40,102,63,14,26,4,20,5,3,0,0,3,31,0,0,0,3
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Jaffahof 75 (links),0599::SB68,3061 KZ,1533,931,4,8,192,317,77,30,101,111,42,11,8,32,1,2,0,1,0,4,0,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Van Bassenstraat 19 (links),0599::SB69,3067 XC,1266,798,1,4,221,175,98,48,68,77,15,25,13,33,7,0,0,1,1,12,0,0,4,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Jaffahof 75 (rechts),0599::SB70,3061 KZ,1510,806,8,6,124,337,59,21,97,94,25,7,4,27,4,0,0,0,0,6,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Josephstraat 10,0599::SB71,3014 TP,1292,626,4,8,42,369,46,11,80,36,14,4,1,12,2,0,0,0,0,5,1,0,1,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Willem Ruyslaan 17 (links),0599::SB72,3061 TT,1196,778,9,1,281,196,37,25,61,122,21,6,6,11,4,0,0,2,1,5,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schimmelpenninckstraat 31,0599::SB73,3039 KS,1614,1247,0,6,261,347,78,65,80,235,73,30,10,37,2,3,0,0,1,24,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Weteringstraat 225,0599::SB74,3061 PN,1144,771,9,3,103,302,69,41,94,80,18,14,3,27,2,1,0,0,1,13,0,1,2,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Pieter de Hoochstraat 52,0599::SB75,3024 CS,1796,815,2,1,129,284,39,33,80,137,36,19,1,22,5,4,0,2,0,19,2,1,2,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Westzeedijk 5,0599::SB76,3015 AA,1069,727,7,0,256,163,19,24,35,175,28,7,2,11,1,1,2,0,0,3,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sionstraat 42 (zijingang),0599::SB77,3061 ES,962,565,0,2,129,172,36,33,59,65,19,6,15,15,5,2,0,0,0,8,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Oranjestraat 6 (links),0599::SB78,3043 TN,1546,719,0,4,180,152,156,27,62,53,22,15,8,20,2,1,1,0,0,17,0,0,1,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sint-Jobskade 14,0599::SB79,3024 EN,1405,1213,1,1,366,296,67,39,87,237,60,11,1,27,5,3,0,1,1,11,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Joost van Geelstraat 4,0599::SB80,3021 VM,1448,856,2,7,91,409,30,26,89,106,48,14,10,17,6,1,0,1,0,8,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Vredehofweg 13,0599::SB81,3062 EK,1198,906,1,0,468,112,16,30,27,184,32,7,12,16,0,1,0,0,0,0,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 's-Gravenweg 451 (rechts),0599::SB82,3065 SC,1628,1328,0,1,658,232,71,53,35,177,43,20,9,14,3,2,0,1,1,9,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Waterloostraat 164,0599::SB83,3062 TX,1273,968,0,2,454,148,14,37,41,201,39,3,2,18,4,2,0,1,0,2,0,0,2,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Catharina Beersmansstraat 78,0599::SB84,3025 EJ,1323,681,2,10,27,398,49,41,75,34,14,17,3,12,2,1,0,0,0,7,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Oostzeedijk Beneden 5,0599::SB85,3062 VJ,1603,1285,6,0,634,190,56,40,42,207,29,19,7,31,10,0,0,5,0,14,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zeilmakersstraat 59,0599::SB86,3025 NV,1075,452,1,3,54,213,47,17,47,36,14,9,1,9,0,0,0,0,1,3,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hendrick Staetsweg 15,0599::SB87,3067 VM,1118,953,4,2,218,221,153,84,70,72,18,47,24,21,2,0,0,0,0,23,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Rendierstraat 3,0599::SB88,3064 AX,1301,880,0,3,176,207,193,22,79,55,22,31,39,26,3,2,0,0,2,21,0,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Rozenlaan 20 (links),0599::SB89,3051 LS,1206,953,4,0,227,218,107,42,102,111,53,28,11,20,4,1,1,0,0,17,0,3,7,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Antony Duyklaan 9 (links),0599::SB90,3051 HA,1263,757,1,0,219,169,58,27,37,149,41,13,5,25,4,1,0,0,0,4,0,1,3,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bilderdijkstraat 322,0599::SB91,3027 SH,1461,484,3,6,31,286,35,14,54,23,13,12,3,10,0,0,0,0,1,1,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Watertorenweg 3,0599::SB92,3063 HA,1147,887,2,2,133,326,114,29,85,91,40,7,2,29,5,0,0,2,1,21,0,0,2,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Corverstraat 15,0599::SB93,3025 TA,1597,949,4,7,57,528,84,36,87,58,36,15,2,22,3,6,0,0,1,8,0,1,4,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Adenstraat 25,0599::SB94,3067 MN,1656,1085,6,2,227,341,201,45,121,44,6,23,15,23,4,0,1,3,3,27,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Korne 180,0599::SB95,3068 GN,1242,815,1,3,172,269,145,18,109,40,18,12,1,12,3,4,0,1,0,10,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Taandersstraat 121,0599::SB96,3026 XS,1711,1011,3,16,55,534,83,62,107,45,27,38,10,30,1,1,0,2,0,15,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Korfmakersstraat 139,0599::SB97,3026 XG,1577,453,3,7,28,225,26,30,47,44,11,23,1,13,2,0,0,0,0,1,0,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Prinses Margrietlaan 6,0599::SB98,3051 AT,1258,909,7,0,334,168,73,25,66,127,52,20,2,23,2,0,0,2,0,15,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Oude Raadhuislaan 86 (links),0599::SB99,3054 NT,903,845,1,0,405,131,46,26,19,146,23,5,9,19,0,3,0,1,0,11,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zernikeplaats 500,0599::SB100,3068 JB,1150,852,0,0,158,201,198,41,99,59,12,12,1,24,8,0,0,0,2,37,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schiedamse Vest 188 (rechts),0599::SB101,3011 BH,1474,678,0,0,185,180,34,16,66,127,29,5,1,22,1,0,0,0,0,11,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Snelfilterweg 270,0599::SB102,3063 JJ,1038,727,2,4,176,212,86,17,69,71,19,11,6,29,5,2,0,0,0,18,0,0,3,3
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Grindweg 100,0599::SB103,3055 VD,1228,1049,1,0,505,131,74,55,29,156,23,25,6,28,5,0,0,0,0,11,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Landstraat 9,0599::SB104,3056 LR,1074,793,1,3,249,168,100,38,69,59,25,22,8,25,1,0,1,1,0,23,1,0,2,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ambachtsplein 141,0599::SB105,3068 GV,1629,1069,2,5,170,364,206,21,147,47,19,27,6,24,7,2,0,0,1,24,0,0,3,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Taandersplein 3,0599::SB106,3027 CN,1561,844,1,4,38,509,45,56,85,40,17,26,7,12,1,0,0,0,0,6,0,0,0,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Fresiastraat 18,0599::SB107,3053 VH,1172,672,1,0,126,196,75,40,79,67,24,19,2,27,1,2,0,0,0,10,0,0,2,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Larikslaan 200 (links),0599::SB108,3053 LG,1692,1400,1,1,417,336,101,71,106,206,56,28,2,40,5,2,0,5,1,22,0,0,2,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Delftweg 46,0599::SB109,3043 CH,1266,490,2,0,125,91,83,26,43,58,20,12,5,21,1,0,0,2,0,3,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kobehof 5,0599::SB110,3067 MC,1242,861,1,2,128,308,167,16,115,40,16,18,3,32,1,2,1,0,0,13,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Mendelssohnlaan 11,0599::SB111,3055 HH,1306,1214,1,1,669,130,63,58,29,168,23,14,4,28,3,1,0,1,0,22,1,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Goudkruid 107,0599::SB112,3068 SV,1014,788,2,1,178,202,107,48,69,61,29,28,5,26,5,1,0,0,1,25,0,0,0,3
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Mercatorweg 50 (links),0599::SB113,3151 CJ,1574,1224,0,5,461,218,195,79,102,58,13,18,10,23,5,2,0,0,6,25,1,0,5,3
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Burg. de Josselin de Jonglaan 27,0599::SB114,3042 NC,1363,935,4,6,198,306,144,48,103,67,17,3,4,19,4,1,0,0,2,18,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dwerggras 3,0599::SB115,3068 PC,864,586,2,3,105,165,97,20,67,21,8,33,17,23,5,5,0,0,0,20,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Merkelbachstraat 2,0599::SB116,3067 AL,1479,622,2,1,105,204,105,32,57,42,7,21,8,21,3,1,0,0,0,14,0,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zuiderlaan 10,0599::SB117,3043 XM,1028,579,1,1,144,97,179,22,37,33,12,9,1,25,0,0,0,0,0,19,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kipstraat 37 (rechts),0599::SB118,3011 RS,1460,1117,0,3,343,274,98,36,98,174,32,9,4,24,2,2,0,1,0,19,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Mombassaplaats 2,0599::SB119,3067 GZ,1095,575,1,2,53,216,125,22,67,21,2,14,6,21,2,0,2,0,0,20,1,1,2,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Eudokiaplein 35,0599::SB120,3037 BT,1164,1639,5,13,207,656,114,53,192,215,88,29,7,41,9,6,0,0,0,14,0,1,5,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Clara Egginkstraat 4 (links),0599::SB121,3066 JG,1157,869,2,0,234,240,148,34,68,65,16,15,1,25,3,3,0,0,0,14,0,0,1,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gijsingstraat 51,0599::SB122,3026 RH,1556,944,3,7,67,507,56,58,87,65,22,41,3,24,4,4,0,0,1,5,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hoogstraat 108 (rechts),0599::SB123,3011 PV,1508,1511,0,3,511,350,82,38,114,268,50,23,2,41,7,3,0,2,0,15,0,0,5,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Lisplein 31,0599::SB124,3037 AS,1028,586,5,0,83,189,45,13,71,92,33,27,1,24,2,2,0,0,0,3,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Tidemanstraat 80 (links),0599::SB125,3022 SM,1417,525,0,7,20,293,23,30,59,50,25,9,2,9,1,0,0,0,0,4,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Varnasingel 600,0599::SB126,3067 EZ,1511,844,5,0,116,299,149,35,97,37,8,16,4,38,1,1,0,0,0,40,1,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Burg. de Josselin de Jonglaan 35,0599::SB127,3042 NC,1506,760,3,1,117,241,124,60,77,36,19,26,8,27,1,2,0,0,0,20,1,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Aar 193,0599::SB128,3068 HA,1491,759,3,2,94,269,187,21,65,25,11,18,5,31,3,1,0,1,1,22,0,1,2,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Barbarakruid 24,0599::SB129,3068 SB,1269,794,0,3,182,232,115,40,91,35,13,27,14,17,6,1,1,0,1,16,1,2,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Graaf Florisstraat 45,0599::SB130,3021 CC,1258,879,2,2,125,330,27,19,75,166,66,10,0,38,6,3,1,0,0,9,1,0,2,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Burgemeester de Villeneuvesingel 1,0599::SB131,3055 AK,1066,942,0,1,527,70,42,66,16,159,20,9,2,22,1,0,0,0,0,7,0,1,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Robert van 't Hoffstr 10 (links),0599::SB132,3059 PN,2040,1613,0,2,832,263,130,62,62,123,26,54,24,26,4,3,0,0,0,1,0,1,0,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Meidoornsingel 181,0599::SB133,3053 BP,1507,996,6,8,151,290,115,128,72,92,31,34,10,33,2,5,0,0,1,28,0,0,1,3
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kelloggplaats 664,0599::SB134,3068 XK,771,504,2,2,98,127,99,26,70,17,7,3,4,21,2,2,0,0,0,26,0,0,2,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wilgenplaslaan 196 (rechts),0599::SB135,3053 WK,1016,588,3,0,108,197,49,34,58,63,24,15,4,23,5,1,0,1,1,5,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Rauwenhoffstraat 42 (links),0599::SB136,3022 RP,1187,466,6,6,22,252,24,32,44,37,21,11,1,10,6,0,0,0,0,5,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Rammelandstraat 4,0599::SB137,3042 EZ,1492,820,1,4,80,356,129,37,106,38,12,22,7,13,4,0,1,1,0,10,0,0,1,3
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Tidemanstraat 59,0599::SB138,3022 SE,1424,1200,4,10,113,535,80,80,150,99,52,26,14,29,6,0,0,1,1,5,0,0,7,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hugo Molenaarstraat 18,0599::SB139,3022 NR,1652,951,5,2,97,338,41,32,146,148,70,25,3,27,8,3,0,2,1,7,0,0,2,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Nozemanstraat 75,0599::SB140,3023 TM,1538,966,3,8,104,424,55,39,118,98,68,16,0,19,12,0,1,3,0,4,0,2,2,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Varenhof 1,0599::SB141,3069 KG,1010,844,0,4,254,147,128,92,44,62,18,17,24,28,4,1,0,0,1,21,0,0,2,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Oudedijk 15,0599::SB142,3062 AB,1744,1472,1,2,755,192,49,78,44,226,45,20,10,36,5,3,0,1,0,6,1,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Pinkstraat 10,0599::SB143,3028 XX,977,559,1,4,63,219,73,11,71,34,11,16,10,19,7,1,0,1,1,18,0,2,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Piccolo 50,0599::SB144,3068 HR,1385,769,2,1,167,235,129,32,74,35,19,25,6,20,2,1,0,0,0,24,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Crooswijksestraat 93,0599::SB145,3034 AE,1649,857,7,3,72,386,108,26,124,59,20,6,5,28,6,0,0,2,0,8,0,1,6,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Robert Kochplaats 348,0599::SB146,3068 JD,1127,676,1,4,130,194,132,33,78,34,10,11,4,18,4,2,0,0,0,24,0,0,2,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Van Beethovenlaan 60,0599::SB147,3055 JD,1079,1003,0,0,473,131,88,53,47,121,24,7,10,23,4,1,0,0,0,17,0,0,4,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gerdesiaweg 494,0599::SB148,3031 BR,1712,881,1,1,210,267,85,31,82,99,23,29,10,22,4,1,0,0,2,10,1,0,4,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Provenierssingel 55,0599::SB149,3033 EH,1043,770,3,6,138,251,47,16,73,126,48,18,2,25,6,1,1,1,0,13,1,2,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Abtsweg 4,0599::SB150,3042 GD,1248,1070,6,10,120,397,201,42,144,45,18,15,4,30,5,3,0,0,4,39,0,0,2,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Klein-Coolstraat 37,0599::SB151,3033 XS,1145,736,2,0,115,232,47,15,67,147,59,11,1,25,3,2,0,0,0,7,1,0,4,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kastanjeplein 8,0599::SB152,3053 CD,1192,897,1,1,221,246,119,33,69,108,19,21,9,27,7,2,1,1,1,10,0,1,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Heemraadstraat 60,0599::SB153,3023 VJ,1713,1060,8,19,99,550,71,24,110,99,48,20,2,19,3,0,0,3,0,8,1,0,1,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hammarskjöldplaats 103,0599::SB154,3069 RA,1036,627,1,2,148,146,114,27,63,42,8,22,6,21,0,1,0,1,0,28,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bok de Korverweg 1,0599::SB155,3056 PD,1097,839,1,3,319,175,97,21,28,114,34,13,5,21,1,1,0,0,1,7,0,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schonebergerweg 7,0599::SB156,3023 ZE,1619,1071,2,5,145,437,58,56,98,126,53,18,11,36,8,2,0,4,1,16,0,0,0,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Nansenplaats 4,0599::SB157,3069 CV,1628,1032,3,3,242,270,159,57,101,82,21,8,9,30,4,3,0,0,1,41,0,0,4,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Curieplaats 24 (links),0599::SB158,3069 HA,1158,752,0,2,185,211,116,28,80,45,14,13,6,27,2,1,0,0,0,21,0,2,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bertrand Russellplaats 20,0599::SB159,3069 CA,1779,1330,4,1,310,374,177,58,116,110,29,47,10,47,2,3,0,1,0,45,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hoekse Brink 219 (HvH),0599::SB160,3151 GB,1766,1466,2,2,534,337,196,118,85,68,7,21,15,39,1,0,0,2,3,36,0,0,3,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Beukelsdijk 51,0599::SB161,3021 AD,1001,734,3,2,153,219,24,26,71,136,58,14,0,22,4,1,0,0,0,5,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Van Maanenstraat 8,0599::SB162,3038 CZ,1562,959,2,2,234,211,78,28,80,172,61,28,3,34,10,4,0,3,2,6,0,1,2,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Prins Hendrikstraat 161 (H.v.H.),0599::SB163,3151 AE,1395,809,2,1,213,196,162,36,83,35,15,10,3,31,5,1,0,0,1,14,1,1,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Coolsingel 40 (rechts),0599::SB164,3011 AD,1423,1329,1,6,410,365,89,43,92,202,52,14,2,35,9,3,0,1,0,11,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Looiershof 4 (rechts),0599::SB165,3024 CZ,1417,840,6,8,102,359,72,16,73,116,43,22,2,19,2,1,0,1,1,7,2,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Vliegerstraat 55 (rechts),0599::SB166,3021 ZN,1061,693,1,5,106,257,33,25,61,120,44,6,1,14,7,2,0,1,1,11,0,1,3,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Engelsestraat 40 (rechts),0599::SB167,3028 CH,1195,560,1,5,55,208,108,9,72,30,9,28,4,18,7,1,0,1,1,5,2,0,0,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Tidemanstraat 80 (rechts),0599::SB168,3022 SM,1567,664,4,5,54,337,34,29,82,55,31,11,5,13,6,1,0,0,0,2,2,0,0,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Rozenlaan 20 (rechts),0599::SB169,3051 LS,1225,996,1,2,213,241,115,30,91,130,48,32,23,38,8,4,1,3,0,12,1,0,4,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Antony Duyklaan 9 (rechts),0599::SB170,3051 HA,1286,1125,2,3,373,251,91,43,66,179,47,17,8,20,7,4,0,0,1,12,1,0,4,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Mercatorweg 50 (rechts),0599::SB171,3151 CJ,1579,1219,2,1,466,254,168,64,85,63,16,30,10,28,2,0,0,0,2,28,0,0,3,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Isaac Hubertstraat 153 (rechts),0599::SB172,3034 CS,1281,579,0,5,27,307,95,19,77,17,17,3,0,11,0,1,0,0,0,5,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Paulus Potterstraat 76 (rechts),0599::SB173,3061 ZW,1128,547,1,9,119,195,35,15,41,94,15,5,0,9,4,3,1,2,0,6,0,0,2,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Willem Ruyslaan 17 (rechts),0599::SB174,3061 TT,1182,759,2,4,269,189,43,25,50,118,27,7,4,16,3,0,0,0,2,6,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Noorderhavenkade 17D (rechts),0599::SB175,3039 RD,1145,747,2,0,170,195,49,21,68,137,34,23,6,33,5,2,0,0,1,2,1,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Victor E. van Vrieslandstr 150 (rec,0599::SB176,3069 WD,1191,744,1,1,109,241,134,23,96,46,11,9,14,31,5,3,1,0,4,15,0,1,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schepenstraat 69 (rechts),0599::SB177,3039 NC,1057,668,0,3,135,184,29,41,65,108,51,15,1,19,1,3,0,3,0,11,0,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Van Vlooswijkstraat 2A (rechts),0599::SB178,3039 TP,1558,1046,3,1,251,252,66,25,92,186,74,24,9,41,2,4,0,4,3,11,0,0,2,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Robert van 't Hoffstraat 10 (rechts,0599::SB179,3059 PN,2100,1229,0,3,618,195,91,51,63,105,21,37,6,21,3,1,0,0,0,12,0,0,4,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Meidoornstraat 55 (rechts),0599::SB180,3036 WC,1611,651,0,10,35,319,70,54,64,44,29,2,3,19,2,1,0,0,0,5,0,0,3,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Oranjestraat 6 (rechts),0599::SB181,3043 TN,1527,752,4,4,162,152,188,32,74,38,19,19,13,20,7,1,0,0,0,23,0,0,2,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Erasmusstraat 26 (rechts),0599::SB182,3035 LE,1331,837,3,10,87,330,104,30,107,80,30,14,7,23,8,2,0,1,1,9,0,0,4,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 's-Gravendijkwal 36 (links),0599::SB183,3014 EA,1293,650,1,3,98,250,25,20,53,114,43,6,2,28,2,2,0,4,0,1,0,0,2,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kipstraat 37 (links),0599::SB184,3011 RS,1440,540,3,8,15,329,45,37,65,18,5,5,3,8,3,1,0,0,0,2,0,0,3,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cypruslaan 404 (rechts),0599::SB185,3059 XA,1378,1165,2,2,539,211,134,46,53,99,16,12,3,19,5,3,0,0,0,25,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bergsingel 152 (rechts),0599::SB186,3037 GM,1147,886,2,0,154,257,53,30,87,151,59,27,6,39,8,1,0,1,0,7,0,0,6,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Maria Wessingstraat 8 (rechts),0599::SB187,3065 GA,1308,1155,1,0,371,302,140,64,81,105,13,21,7,23,4,1,0,0,1,21,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Nieuwe Ommoordseweg 97 (rechts),0599::SB188,3068 BS,1036,810,1,3,211,173,163,43,68,54,16,27,15,22,5,0,0,0,1,12,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Van Bassenstraat 19 (rechts),0599::SB189,3067 XC,1284,770,0,2,223,177,83,46,62,85,11,24,17,23,5,1,0,1,0,11,0,1,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Oude Raadhuislaan 86 (rechts),0599::SB190,3054 NT,1083,825,0,2,453,109,33,31,34,95,25,8,0,20,1,4,0,0,1,8,0,0,2,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Pieter van Aschstraat 3,0599::SB191,3043 RE,1118,1328,1,3,279,305,267,55,124,123,55,16,7,49,7,1,0,2,3,31,1,0,1,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Clara Egginkstraat 4 (rechts),0599::SB192,3066 JG,1414,771,0,4,182,207,132,40,77,78,17,6,3,14,1,2,0,0,0,12,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Curieplaats 24 (rechts),0599::SB193,3069 HA,1174,849,2,4,199,247,133,52,70,47,15,14,0,33,4,1,0,0,1,31,0,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau West-Kruiskade 54,0599::SB194,3014 AW,1299,748,3,9,73,387,39,18,105,56,16,10,1,22,5,1,0,0,0,10,0,1,2,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Raampoortstraat 15 (rechts),0599::SB195,3032 AH,1230,513,2,4,77,215,31,17,54,53,27,8,5,11,0,3,1,3,0,8,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Nieuwe Binnenweg 75,0599::SB196,3014 GE,1170,1292,2,6,210,422,73,34,129,232,91,21,1,48,13,2,0,0,0,11,1,0,3,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Argonautenweg 23,0599::SB197,3054 RP,1202,807,0,4,262,186,113,29,63,75,17,6,2,27,2,2,0,0,0,22,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Goudseplein 245,0599::SB198,3031 ZH,1531,885,3,7,118,312,170,17,114,61,21,6,0,27,4,1,0,1,0,25,0,0,6,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau P.C. Hooftplein 45,0599::SB199,3027 AW,1663,928,5,20,63,550,40,50,91,55,33,14,4,10,2,2,0,1,1,6,0,0,3,3
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Centraal Station,0599::SB241,3013 AJ,0,1681,10,3,366,501,52,40,177,321,92,30,9,52,14,6,0,2,1,11,1,0,1,5
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Burgemeester Oudlaan 50,0599::SB242,3062 PA,0,868,2,0,369,135,8,30,36,217,22,20,8,12,3,0,1,4,0,3,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Prins Alexanderplein,0599::SB243,3067 GC,0,637,0,3,156,213,60,26,66,51,14,10,6,15,5,2,0,0,0,11,0,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Mobiel Noord 1,0599::SB244,,0,253,3,2,48,74,30,37,22,10,5,9,1,7,0,0,0,0,0,10,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Mobiel Zuid,0599::SB245,,0,239,1,0,21,110,25,37,10,4,1,6,6,9,0,0,0,0,0,9,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Mobiel Noord 2,0599::SB246,,0,129,0,0,11,62,22,7,17,5,1,2,0,0,0,0,0,0,0,2,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Maasstadweg 21,0599::SB247,3079 DZ,0,447,1,2,89,130,65,13,45,54,15,15,2,8,3,0,0,0,0,7,0,1,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Mobiel 4,0599::SB248,,0,96,1,0,7,23,25,6,21,5,1,1,0,5,0,0,0,0,0,2,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cranendonckweg 40 (links),0599::SB301,3077 LA,1646,947,4,2,223,217,210,43,71,49,18,36,14,32,6,1,1,1,0,21,0,1,2,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Van Wijngaardenlaan 1,0599::SB302,3078 JP,923,593,0,1,108,173,119,27,59,44,3,16,6,18,3,3,0,0,1,12,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Koninginneweg 228,0599::SB303,3078 GS,1007,600,1,3,79,162,131,21,83,28,16,19,18,18,2,0,0,0,1,16,0,0,5,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Max Havelaarweg 55,0599::SB304,3193 VA,1116,618,3,2,97,221,124,24,65,25,13,16,0,16,4,0,0,1,0,10,0,0,0,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Aalsdijk 16 (links),0599::SB305,3079 RK,1308,581,1,4,90,198,105,18,74,25,6,9,11,18,4,1,0,0,0,20,1,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Katendrechtsestraat 61,0599::SB306,3072 NS,1542,1193,6,9,188,461,193,19,122,82,35,14,1,29,4,3,0,0,0,37,1,2,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Molenvliet 208,0599::SB307,3076 CM,1660,1102,2,6,166,382,201,55,109,48,14,21,21,31,4,2,0,3,2,36,3,1,2,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Lede 117,0599::SB308,3075 HH,1319,860,1,5,64,223,265,30,157,15,26,4,15,22,2,1,1,0,0,29,0,1,3,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Oldenoord 81,0599::SB309,3079 KG,1332,1104,2,1,277,227,204,58,92,41,17,27,105,21,4,2,0,0,2,22,1,1,3,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bredenoord 124,0599::SB310,3079 JH,1527,794,2,0,165,185,170,35,84,43,5,29,15,28,2,0,0,0,1,30,0,0,0,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sparrendaal 91,0599::SB311,3075 ZK,1151,704,5,3,57,201,177,27,135,17,8,9,4,36,4,1,0,0,0,22,0,0,4,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Beukendaal 99,0599::SB312,3075 LC,1638,1116,2,2,146,331,241,58,176,40,28,20,8,30,3,1,0,0,3,29,0,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cor Kieboomplein 180,0599::SB313,3077 MK,1197,806,1,1,288,198,90,35,69,65,4,12,3,21,1,0,0,0,0,20,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Persoonsstraat 1,0599::SB314,3071 EG,1572,658,6,10,20,372,61,34,75,35,24,12,1,13,2,0,0,0,1,6,0,0,2,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Enk 134,0599::SB315,3075 VC,1062,638,1,1,33,205,189,15,110,11,8,6,8,18,3,1,0,2,1,21,0,2,2,3
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Prins Hendriklaan 22 (links),0599::SB316,3071 LC,915,767,2,2,153,216,69,27,74,119,43,16,2,23,12,2,0,0,0,11,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Grote Hagen 98,0599::SB317,3078 RC,1266,926,2,8,109,316,168,105,86,16,8,35,5,35,1,0,0,0,0,37,1,1,1,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hendrick Croesinckstraat 36,0599::SB318,3074 PG,883,494,2,12,22,257,53,27,79,13,6,14,5,6,0,0,0,1,0,8,1,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hillevliet 139,0599::SB319,3073 KP,988,584,2,1,48,246,128,36,58,24,10,11,2,9,4,0,0,1,0,6,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Marjoleinstraat 12,0599::SB320,3084 PJ,1206,435,3,1,42,102,131,9,77,17,1,7,12,13,0,0,1,0,2,20,1,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Vlasakkerstraat 12,0599::SB321,3074 WX,1334,629,1,4,28,361,66,37,80,13,2,11,1,15,0,1,0,1,0,9,0,1,3,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Immanuel Kantstraat 2,0599::SB322,3076 DK,1178,677,3,3,148,185,110,52,56,28,6,22,25,13,1,0,0,0,0,30,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stichtseplein 2,0599::SB323,3074 TN,1228,520,3,3,30,264,64,34,65,14,10,8,6,10,1,2,0,0,0,10,0,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Nassauhaven 297,0599::SB324,3071 JJ,1732,972,2,10,69,585,74,30,119,44,20,9,2,11,1,0,0,0,0,3,0,0,2,3
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Middelharnisstraat 53A,0599::SB325,3086 JL,1708,997,3,10,78,451,144,48,160,26,6,23,12,13,3,2,0,0,0,30,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stieltjesstraat 30,0599::SB326,3071 JX,1444,986,1,2,297,280,64,37,63,140,35,20,2,16,0,3,2,1,0,21,0,1,4,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Aalreep 8,0599::SB327,3192 SE,1112,846,3,4,150,245,175,53,76,43,13,21,7,20,2,0,2,1,1,36,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Lokhorst 200,0599::SB328,3085 WZ,1048,639,2,1,88,248,104,34,77,34,3,9,2,13,5,0,0,0,1,19,0,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Herkingenstraat 84,0599::SB329,3086 BJ,1380,712,3,7,62,381,84,27,78,20,6,18,3,11,3,2,1,1,1,10,0,0,2,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Langenhorst 104,0599::SB330,3085 HR,1052,606,2,3,82,212,120,26,43,23,6,30,25,13,3,3,0,0,1,15,0,0,2,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Putsebocht 89 (links),0599::SB331,3073 HE,1409,635,2,6,28,380,47,57,73,22,2,8,3,9,1,0,0,0,1,2,0,1,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Krabbendijkestraat 238 (rechts),0599::SB332,3086 LW,1615,796,1,12,105,299,142,26,103,33,15,19,7,20,4,1,0,0,0,18,0,0,2,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Puitstraat 101,0599::SB333,3192 SH,1285,807,1,4,118,249,157,40,96,23,10,19,28,22,1,0,1,1,2,39,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Krabbendijkestraat 238 (links),0599::SB334,3086 LW,1695,737,2,2,101,291,131,33,86,17,13,23,4,14,3,2,1,0,1,12,0,0,4,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Nieuwe Wetering 251 (rechts),0599::SB335,3194 TB,1179,784,0,0,177,199,180,25,107,32,8,19,2,18,1,0,2,0,1,11,0,0,0,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kerkwervesingel 8,0599::SB336,3086 HH,1432,515,2,2,58,226,74,28,61,15,3,13,3,10,1,0,0,1,1,18,1,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Afrikaanderplein 7 (links),0599::SB337,3072 EA,1352,754,2,5,25,440,89,66,87,19,2,7,1,6,3,0,0,0,0,8,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Herenoord 6,0599::SB338,3079 JJ,1547,662,0,7,88,224,149,22,76,26,8,19,16,16,1,2,0,0,1,8,0,0,4,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Joubertstraat 13A,0599::SB339,3072 XS,1249,530,2,9,36,305,47,34,52,24,11,1,0,9,2,0,0,2,0,5,0,1,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Montfoortverloop 15,0599::SB340,3077 XM,1779,685,0,2,60,315,136,6,118,13,4,11,0,7,3,1,2,0,0,8,0,1,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Asterlo 10 (links),0599::SB341,3085 AD,1782,1031,2,7,159,349,210,45,126,37,11,16,6,32,1,1,0,1,3,32,0,1,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Noorderhagen 80,0599::SB342,3078 CK,1125,588,4,1,56,260,88,22,82,17,2,17,17,9,0,4,0,0,4,8,0,0,2,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Biezenkreek 15,0599::SB343,3079 SK,1172,600,1,4,71,191,130,26,60,16,5,20,34,9,1,0,1,0,1,32,0,0,3,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Carnissedreef 280,0599::SB344,3084 NN,1590,571,2,4,56,213,119,12,72,23,8,7,2,28,6,2,0,0,0,21,0,0,0,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hijkerveld 9,0599::SB345,3085 PA,1743,767,5,9,82,302,137,39,112,15,8,12,2,29,4,0,1,2,2,14,0,0,5,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Pietersdijk 60,0599::SB346,3079 TD,1070,510,0,2,58,133,122,32,65,16,10,16,22,14,3,0,0,0,7,11,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Slaghekstraat 5,0599::SB347,3074 LA,1186,620,0,7,24,363,72,23,67,25,15,4,1,6,3,1,0,0,0,16,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Putselaan 64,0599::SB348,3074 JC,1258,579,4,2,18,366,35,33,67,21,11,4,2,3,2,1,1,0,2,8,1,1,1,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Polderplein 26,0599::SB349,3074 XE,1419,560,3,7,24,289,57,57,69,24,9,10,5,8,2,1,0,0,1,3,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Nieuwe Wetering 251 (links),0599::SB350,3194 TB,1238,746,1,2,172,199,174,23,80,34,7,11,2,11,2,3,3,0,3,20,0,0,0,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Arcenstraat 31 (links),0599::SB351,3077 HA,1627,699,1,2,73,250,202,9,92,17,2,13,1,18,3,1,0,0,4,10,0,0,3,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Lengweg 25,0599::SB352,3192 BJ,1651,1147,1,10,240,358,236,50,101,40,6,28,9,32,11,3,3,1,0,29,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Heer Danielstraat 29,0599::SB353,3073 DC,1557,140,0,1,12,49,32,4,24,7,2,2,1,4,0,0,0,0,0,3,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Oudelandstraat 75,0599::SB354,3073 LJ,1309,967,1,8,79,339,267,14,141,23,11,7,9,34,3,0,0,0,1,34,0,1,2,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Catullusweg 29,0599::SB355,3076 KB,1673,844,2,4,115,312,150,40,103,24,10,18,9,29,3,1,1,0,0,28,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Weimansweg 9,0599::SB356,3075 MJ,946,483,0,7,38,143,117,10,85,23,12,18,4,22,3,0,0,0,0,7,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schinnenbaan 130,0599::SB357,3077 JJ,1799,1139,10,6,113,442,269,42,146,23,9,18,12,29,1,1,0,1,0,27,1,2,1,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Saffraanstraat 105,0599::SB358,3193 XJ,1092,579,0,5,91,213,136,27,46,6,3,10,6,17,0,1,3,0,0,17,1,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Barbeelsingel 55,0599::SB359,3192 BA,1205,645,2,1,121,193,128,30,67,26,13,15,3,10,1,0,1,0,1,32,1,0,1,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Jagerslaan 15,0599::SB360,3075 AA,956,495,0,3,27,206,97,10,84,9,10,8,7,20,2,0,1,1,1,10,0,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Grift 42,0599::SB361,3075 SB,1411,871,1,2,71,243,244,39,120,23,18,15,15,36,8,2,0,0,0,34,0,0,1,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schuilingsoord 8,0599::SB362,3079 NG,724,512,2,5,89,136,106,38,50,15,15,10,4,12,0,0,1,0,1,33,0,0,2,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Jan Ligthartstraat 6,0599::SB363,3075 AM,1136,565,2,0,45,172,169,14,82,18,2,6,6,21,2,1,0,1,1,20,1,2,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Oude Watering 324,0599::SB364,3077 RE,1774,914,0,4,104,356,212,13,138,13,3,12,2,36,3,1,0,3,3,13,0,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Persoonshaven 650,0599::SB365,3071 CL,1025,519,2,4,18,281,50,34,76,10,5,4,0,18,5,0,0,0,0,14,0,0,2,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Asterlo 10 (rechts),0599::SB366,3085 AD,1783,697,4,1,94,230,166,29,87,22,12,7,3,19,2,0,0,0,0,19,0,0,5,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Rijtuigweg 1,0599::SB367,3071 ZA,1196,608,3,10,33,353,54,9,99,18,11,8,3,10,0,1,0,0,0,7,0,0,0,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Van Langendonckstraat 51,0599::SB368,3076 SH,1526,787,0,0,90,261,204,24,77,28,15,27,9,21,6,0,1,1,1,15,0,2,4,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Heidestraat 9,0599::SB369,3073 GZ,1558,457,3,1,24,236,55,50,51,17,2,1,2,10,3,0,0,1,0,4,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Marthalaan 2,0599::SB370,3194 EH,1033,629,0,3,73,219,138,32,76,13,2,23,3,16,5,0,0,1,1,22,0,2,1,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau W.G.Witteveenplein 10,0599::SB371,3071 MA,1329,1089,0,3,235,373,49,24,66,229,59,18,3,16,3,2,0,3,1,8,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gebbeweg 10 (links),0599::SB372,3192 GE,1401,857,1,2,153,257,186,40,88,28,4,11,15,31,4,3,1,0,2,33,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Mosoelstraat 20,0599::SB373,3193 EL,1201,716,8,1,109,219,151,49,96,21,8,11,5,19,4,1,0,0,0,20,0,0,2,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Prins Hendriklaan 22 (rechts),0599::SB374,3071 LE,1674,871,3,2,212,227,93,36,84,112,32,9,4,34,10,2,0,0,0,13,1,1,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Talingstraat 8,0599::SB375,3082 MH,862,515,1,2,79,137,90,30,68,41,13,16,0,18,2,2,1,0,0,16,0,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hollands tuin 79,0599::SB376,3078 EE,963,434,1,3,26,199,96,12,52,4,2,10,6,14,2,0,0,1,0,10,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Maashaven O.z. 230,0599::SB377,3072 HS,1207,733,2,12,52,360,66,50,95,41,21,10,7,14,6,0,0,0,1,6,1,0,1,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Millinxstraat 69,0599::SB378,3081 PE,1433,593,1,3,42,274,74,34,70,37,15,14,5,7,5,1,0,1,0,10,1,0,1,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Homerusplein 1,0599::SB379,3076 LZ,909,422,2,2,27,194,69,15,52,16,7,11,0,11,5,1,1,0,0,11,0,2,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hoogvlietstraat 25,0599::SB380,3081 ST,1216,614,0,5,34,310,110,21,63,24,7,17,3,11,2,1,1,0,0,10,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Aesopusplaats 2,0599::SB381,3076 BA,1084,588,2,4,74,205,114,11,73,29,11,17,11,18,1,1,1,0,0,21,1,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Clemensstraat 111 (links),0599::SB382,3082 CE,1018,687,4,1,59,327,89,24,90,32,11,14,9,10,3,3,0,0,1,13,0,0,2,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gebbeweg 10 (rechts),0599::SB383,3192 GE,1672,886,1,5,150,273,189,47,90,29,13,13,6,31,3,4,2,1,2,32,0,1,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Polslandstraat 47,0599::SB384,3081 TK,1076,419,0,3,32,173,81,19,52,17,8,3,4,14,1,1,0,0,0,12,0,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ravenswaard 5,0599::SB385,3078 PG,1213,772,4,8,98,213,158,84,78,16,5,33,8,28,1,2,0,1,2,39,1,0,2,3
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Groene tuin 1,0599::SB386,3078 KA,971,679,1,3,95,239,122,37,59,37,10,15,7,23,0,2,0,0,0,29,0,1,3,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Menanderstraat 89,0599::SB387,3076 AG,1751,922,2,3,71,437,155,54,110,23,9,15,5,15,2,0,0,1,0,25,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wolphaertsbocht 399,0599::SB388,3081 KK,1244,540,3,8,15,329,45,37,65,18,5,5,3,8,3,1,0,0,0,2,0,0,3,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Katendrechtse Lagedijk 186,0599::SB389,3081 ZD,1658,631,2,10,66,241,132,18,77,27,16,11,9,15,6,1,0,1,2,7,0,0,2,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gooilandsingel 11,0599::SB390,3083 DP,1213,779,1,3,114,255,139,30,100,53,17,9,12,30,2,3,0,0,0,15,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bevelandsestraat 30 (links),0599::SB391,3083 NA,1016,434,4,4,53,141,88,8,70,26,12,14,4,12,2,0,0,0,0,1,0,0,0,3
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Endenhout 1-3,0599::SB392,3191 BZ,1424,809,1,2,160,185,185,40,102,44,7,18,2,20,6,0,0,1,3,29,2,0,2,3
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Boomgaardhoekseweg 93,0599::SB393,3191 VB,1480,900,0,1,157,245,223,25,101,28,12,32,11,29,7,2,1,0,0,24,0,2,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Carnissedreef 6,0599::SB394,3084 NN,1412,570,0,9,55,246,104,26,70,12,1,17,6,9,3,1,0,2,1,12,0,0,3,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Aalsdijk 16 (rechts),0599::SB395,3079 RK,1075,604,2,1,77,210,125,27,71,25,14,8,9,14,2,0,1,0,0,21,0,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Spoorweghaven 172,0599::SB396,3071 ZE,1618,757,3,6,109,340,110,22,81,46,9,11,2,12,2,2,0,0,0,10,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Landmanstraat 2 (links),0599::SB397,3082 WL,1567,482,5,2,64,165,72,26,48,36,8,18,6,19,1,1,0,0,2,14,0,0,2,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Klencke 7,0599::SB398,3191 VK,1057,625,0,5,62,243,129,39,63,20,6,9,12,16,1,1,0,0,0,22,0,0,2,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Huniadijk 251,0599::SB399,3079 EG,1271,936,1,10,135,346,151,31,122,29,13,27,20,24,8,0,1,0,0,19,1,0,5,4
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Velsenaerstraat 4,0599::SB400,3195 RP,1210,809,3,3,116,175,194,112,85,25,12,28,17,19,1,0,0,0,0,21,0,2,0,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sluiskreek 322,0599::SB401,3079 BD,1096,714,6,1,103,234,145,34,75,38,5,15,18,19,1,2,0,0,0,24,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Akkerwinde 1 (links),0599::SB402,3191 RA,1693,1203,6,4,275,320,235,50,133,64,14,10,6,42,4,4,4,1,0,38,0,0,2,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Slinge 303,0599::SB403,3085 ER,1762,1136,3,15,125,412,267,43,140,33,16,21,9,26,4,0,0,0,1,32,1,1,5,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Othelloweg 175,0599::SB404,3194 GS,1125,471,0,6,53,184,106,5,71,13,5,8,3,4,4,1,2,0,0,10,0,1,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Voornsevliet 4,0599::SB405,3082 HK,1250,833,2,6,78,300,166,30,111,33,11,25,22,17,3,3,0,1,1,27,0,1,3,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bevelandsestraat 30 (rechts),0599::SB406,3083 NA,1216,539,6,5,59,190,101,12,63,25,10,21,7,22,4,1,0,0,1,20,0,0,2,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schulpplein 50,0599::SB407,3082 PX,1249,551,1,4,67,171,93,40,57,30,7,23,20,19,4,1,0,0,2,14,0,1,2,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Courzandseweg 51,0599::SB408,3089 PE,1097,669,3,4,85,172,173,25,113,35,8,3,7,22,1,2,1,0,1,18,0,0,2,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kruisnetlaan 410,0599::SB409,3192 KE,1523,961,3,3,169,269,183,54,116,40,7,27,11,30,2,3,0,0,3,41,0,0,0,6
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Burgemeester van Esstraat 34,0599::SB410,3195 AG,1508,1032,0,1,246,176,245,116,72,39,11,48,16,19,6,3,0,1,2,29,0,1,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sportsingel 62,0599::SB411,3078 XS,1475,830,3,3,122,242,235,26,99,26,12,18,4,19,1,1,0,0,1,23,1,0,0,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Boonstraat 21,0599::SB412,3195 AA,1011,689,0,1,118,168,190,47,67,22,2,18,8,18,3,0,1,0,2,20,0,0,0,5
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sara Burgerhartweg 60,0599::SB413,3193 TB,1245,740,0,1,89,296,139,34,85,16,7,17,5,19,2,0,2,0,0,28,0,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zwartewaalstraat 191,0599::SB414,3081 HZ,1250,441,0,3,39,189,50,22,51,11,11,13,21,14,3,0,0,0,2,8,1,0,6,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Strevelsweg 350,0599::SB415,3075 NN,865,502,2,2,72,201,97,8,59,19,6,5,3,12,1,0,0,0,2,13,2,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Jan van Goyenstraat 1 (links),0599::SB416,3181 HR,1157,1017,1,1,261,248,215,53,96,35,10,33,9,25,3,0,0,0,2,21,1,2,2,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Vincent van Goghstraat 1 (links),0599::SB417,3181 VJ,1290,427,1,0,106,67,119,23,55,13,8,2,7,7,2,0,2,0,4,9,0,0,2,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Vincent van Goghstraat 1 (rechts),0599::SB418,3181 VJ,1279,576,1,0,169,114,122,29,60,17,4,10,5,19,4,3,0,0,3,15,0,0,0,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bramenpad 1 (links),0599::SB419,3181 SN,1161,819,2,2,245,178,148,40,83,45,9,10,5,16,5,0,0,0,1,27,0,0,2,5
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bramenpad 1 (rechts),0599::SB420,3181 PX,1169,721,0,1,210,141,141,39,86,29,4,19,6,18,2,1,0,0,1,22,0,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Laan van Nieuw Blankenburg 10,0599::SB421,3181 DA,1248,850,1,3,197,204,157,65,80,31,12,24,16,27,1,1,0,0,1,31,0,1,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Blankenburg 5,0599::SB422,3181 BC,1190,1188,1,4,274,270,229,99,118,44,12,46,13,19,4,3,0,0,1,52,0,1,2,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Landmanstraat 2 (rechts),0599::SB423,3082 WL,1550,652,0,2,80,223,90,29,96,35,24,26,7,20,7,2,0,0,0,7,0,1,1,4
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Akkerwinde 1 (rechts),0599::SB424,3191 RA,1682,1071,3,2,234,267,254,30,120,60,10,13,3,25,7,0,6,0,0,38,1,1,0,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cranendonckweg 40 (rechts),0599::SB425,3077 LA,1684,1076,1,6,276,259,218,47,89,40,13,34,25,27,3,7,1,1,0,32,1,1,2,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Posthumalaan 90,0599::SB426,3072 AG,943,827,5,1,306,191,36,22,80,136,21,6,3,14,5,0,0,1,1,4,0,0,1,0
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Putsebocht 89 (rechts),0599::SB427,3073 HE,1398,757,1,10,22,459,56,64,79,28,14,4,6,10,2,0,1,0,0,6,1,0,1,4
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Afrikaanderplein 7 (rechts),0599::SB428,3072 EA,1473,585,2,6,20,334,60,50,86,10,6,1,0,7,1,0,1,0,0,6,1,1,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Arcenstraat 31 (rechts),0599::SB429,3077 HA,1438,686,6,4,69,246,185,13,93,18,7,20,2,17,0,0,0,0,0,14,0,0,0,2
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Jan van Goyenstraat 1 (rechts),0599::SB430,3181 HR,1154,931,2,1,221,195,189,72,91,41,7,32,6,30,5,3,1,1,0,34,0,2,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Walhallalaan 110-114,0599::SB431,3072 EX,1356,487,1,2,109,147,41,7,43,69,32,6,2,14,7,0,1,1,0,6,0,0,1,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Clemensstraat 11 (rechts),0599::SB432,3082 CE,1222,821,4,8,77,347,123,29,132,24,17,10,6,20,7,1,0,1,3,22,1,0,0,1
+Rotterdam,Rotterdam,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Eksterstraat 101,0599::SB433,3083 XA,1368,798,6,6,106,251,176,35,87,38,21,17,8,29,4,2,0,2,1,15,0,0,4,2

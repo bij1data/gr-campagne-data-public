@@ -1,0 +1,23 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,VVD,Partij van de Arbeid (P.v.d.A.),PVV (Partij voor de Vrijheid),Christen Democratisch Appèl (CDA),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,ChristenUnie,Staatkundig Gereformeerde Partij (SGP),Partij voor de Dieren,Piratenpartij,Partij voor Mens en Spirit (MenS),Nederland Lokaal,Libertarische Partij (LP),Democratisch Politiek Keerpunt DPK,50PLUS,Liberaal Democratische Partij (LibDem),Anti Europa Partij,SOPN,Partij van de Toekomst (PvdT)
+Dordrecht,Gorinchem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadhuis,0512::SB1,,1750,1407,8,3,464,312,138,88,102,138,35,47,22,29,3,3,0,0,0,22,0,0,2,2
+Dordrecht,Gorinchem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Openbare Bibliotheek,0512::SB2,,1262,1138,1,0,365,265,89,52,115,108,33,45,14,27,6,6,0,1,0,9,0,1,2,0
+Dordrecht,Gorinchem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Huize Steijndeld,0512::SB3,,834,603,2,3,161,164,43,20,74,70,16,18,6,14,4,6,0,0,2,5,0,0,0,0
+Dordrecht,Gorinchem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurthuis De Aanlegsteiger,0512::SB4,,1269,914,7,0,245,244,73,37,113,83,29,27,7,30,6,0,1,1,0,16,0,1,0,1
+Dordrecht,Gorinchem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schoolgebouw A,0512::SB5,,1117,828,0,0,243,200,72,54,75,69,21,42,16,16,2,4,0,0,0,12,0,0,2,0
+Dordrecht,Gorinchem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schoolgebouw B,0512::SB6,,1021,719,0,2,209,144,81,40,65,75,13,43,18,10,3,4,0,0,0,14,0,0,0,0
+Dordrecht,Gorinchem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Oosterbliek,0512::SB7,,1155,1190,0,0,384,263,106,62,77,106,24,75,42,24,2,1,0,0,0,22,0,0,1,1
+Dordrecht,Gorinchem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schoolgebouw C,0512::SB8,,1384,1094,1,1,312,288,117,77,80,74,22,65,22,15,3,1,0,0,0,16,0,0,1,1
+Dordrecht,Gorinchem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schoolgebouw D,0512::SB9,,1367,909,1,2,306,205,90,52,80,66,13,49,22,14,0,2,1,1,0,8,0,0,0,0
+Dordrecht,Gorinchem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Buurthuis ""West""",0512::SB10,,1157,851,3,2,218,257,83,43,88,47,7,49,19,17,4,1,0,0,0,18,0,0,0,0
+Dordrecht,Gorinchem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dorpshuis De Elzenhof,0512::SB11,,1449,1199,1,2,547,195,73,89,56,92,23,52,40,14,2,1,0,0,1,11,0,0,1,2
+Dordrecht,Gorinchem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dienstencen. De Bogerd,0512::SB12,,791,597,0,1,131,208,83,21,68,26,6,13,9,12,3,1,0,0,0,12,0,2,1,1
+Dordrecht,Gorinchem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Lingewijkgebouw,0512::SB13,,983,573,3,0,100,200,83,22,79,25,7,20,7,12,2,0,0,0,0,15,0,0,0,1
+Dordrecht,Gorinchem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gebouw Leger des Heils,0512::SB14,,958,653,0,6,130,169,93,46,62,45,17,47,12,12,3,0,1,0,0,16,0,0,0,0
+Dordrecht,Gorinchem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schoolgebouw E,0512::SB15,,1222,917,3,1,219,234,91,75,76,66,15,68,44,13,2,0,0,0,1,12,1,0,0,0
+Dordrecht,Gorinchem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dienstencentrum Rozenobel,0512::SB16,,1528,915,3,6,78,446,116,38,93,31,15,43,11,19,4,1,0,0,0,19,0,0,0,1
+Dordrecht,Gorinchem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Exodus Kerk,0512::SB17,,1132,780,1,4,105,296,91,63,69,37,14,38,34,16,2,0,0,0,0,13,0,0,2,0
+Dordrecht,Gorinchem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schoolgebouw F,0512::SB18,,1449,974,0,2,240,257,88,63,85,64,27,66,38,22,3,1,0,0,0,17,0,0,3,0
+Dordrecht,Gorinchem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Schoolgebouw G,0512::SB19,,908,561,1,1,108,154,67,36,74,26,11,20,30,13,3,2,0,1,0,12,0,0,3,1
+Dordrecht,Gorinchem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kinderboerderij,0512::SB20,,1071,581,0,0,105,187,65,37,62,23,13,28,12,18,4,0,1,0,3,19,1,0,0,3
+Dordrecht,Gorinchem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Huize St. Clara,0512::SB21,,1063,785,0,0,127,271,89,73,83,35,8,33,18,16,5,2,0,0,2,19,0,0,1,3
+Dordrecht,Gorinchem,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bannehof,0512::SB22,,1157,804,2,3,153,258,62,100,71,39,16,43,18,13,1,0,0,0,1,27,0,0,1,1

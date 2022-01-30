@@ -1,0 +1,39 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,VVD,Partij van de Arbeid (P.v.d.A.),PVV (Partij voor de Vrijheid),Christen Democratisch Appèl (CDA),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,ChristenUnie,Staatkundig Gereformeerde Partij (SGP),Partij voor de Dieren,Piratenpartij,Partij voor Mens en Spirit (MenS),Nederland Lokaal,Libertarische Partij (LP),Democratisch Politiek Keerpunt DPK,50PLUS,Liberaal Democratische Partij (LibDem),Anti Europa Partij,SOPN,Partij van de Toekomst (PvdT)
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadhuis I,0106::SB1,9401 JW,1245,1235,1,4,275,418,70,103,111,113,31,58,9,23,2,2,0,0,0,18,0,0,2,0
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Anholt,0106::SB2,9401 AG,1513,933,0,0,156,403,57,62,92,47,19,57,7,13,2,2,0,0,1,12,1,0,0,2
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Boshof,0106::SB3,9401 PM,1240,1099,0,3,279,352,32,107,61,131,36,56,1,20,3,1,0,1,0,15,0,0,4,0
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Slingeborgh,0106::SB4,9406 EA,1516,993,2,1,157,325,52,152,96,66,18,80,9,22,1,3,0,0,2,8,0,0,2,0
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Pabo De Eekhorst,0106::SB5,9406 BZ,1575,953,2,1,135,385,67,72,113,52,25,66,5,14,2,3,0,0,0,10,1,0,2,1
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau de Steiger,0106::SB7,9406 GT,1218,974,1,2,101,387,119,41,140,61,19,65,2,18,2,0,0,0,0,14,1,0,0,4
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Arendshorst,0106::SB8,9402 JK,1414,828,0,2,59,303,56,47,104,16,18,175,18,17,0,0,1,0,1,8,0,1,3,1
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Maria in Campisschool,0106::SB9,9402 JA,1563,844,0,0,109,305,71,65,120,44,24,68,5,19,2,2,0,0,0,8,1,0,1,0
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Componist,0106::SB10,9402 VG,1613,1381,2,5,165,591,116,76,163,64,15,113,11,24,6,4,0,0,1,29,0,0,2,1
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Amstelflat,0106::SB11,9406 TA,1436,1112,0,3,148,423,120,75,125,46,19,105,14,17,5,1,0,0,0,12,0,0,2,0
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Boei,0106::SB12,9406 XP,1317,874,4,2,109,324,71,53,111,37,12,109,20,12,6,3,0,0,2,4,0,0,1,0
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Peelerhof,0106::SB13,9407 BS,1176,856,2,0,135,327,39,68,80,38,23,99,10,17,3,1,0,1,0,14,0,0,1,0
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Veldkei,0106::SB14,9407 AM,1445,1042,2,1,122,412,78,45,148,56,22,103,6,22,6,1,0,0,3,14,0,1,2,1
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 't Markehuus,0106::SB15,9407 EA,1426,1301,3,0,178,486,123,61,165,51,22,142,13,26,3,1,0,0,0,27,0,2,0,1
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau CBS de Scharmhof,0106::SB16,9407 EA,1420,814,3,2,153,261,54,49,93,45,18,106,8,6,3,1,1,0,2,12,1,0,0,1
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Voorhof,0106::SB17,9403 PA,1329,1240,2,1,216,405,54,105,116,77,14,190,15,16,2,2,0,0,2,21,1,0,2,2
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Marsdijkhal,0106::SB18,9403 LT,1368,1446,0,1,319,518,66,87,164,113,31,91,10,19,3,2,2,0,2,16,0,0,3,0
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Dissel,0106::SB19,9403 LR,1349,1600,2,3,342,535,114,94,158,112,40,148,6,24,3,6,0,0,1,16,0,0,1,0
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Heksenketel,0106::SB20,9403 WD,1360,1259,2,0,305,419,58,67,113,128,34,81,10,28,3,1,0,0,0,6,1,0,2,3
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sportcomplex Marsdiek,0106::SB21,9409 TH,1325,797,1,0,252,231,26,43,79,62,7,58,13,14,1,1,0,0,1,5,0,0,4,0
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Pand 17 / Rackethal,0106::SB22,9403 VB,1317,787,1,0,245,257,50,56,48,29,17,52,7,8,1,1,0,0,0,12,0,0,3,1
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sportpark Lonerstraat,0106::SB23,9403 TD,1452,988,2,0,223,327,54,70,77,116,36,53,0,14,3,1,0,0,2,9,0,1,2,0
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Schulp,0106::SB24,9404 BB,1258,895,0,2,123,367,68,50,115,55,21,53,6,14,2,2,1,1,0,14,0,1,2,0
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Vijverhof,0106::SB25,9404 CC,1360,1033,2,3,156,430,74,80,132,54,21,42,6,19,2,1,0,0,0,9,0,0,6,1
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Adventskerk,0106::SB26,9404 KR,1477,755,3,2,104,289,51,66,94,44,35,30,6,19,2,2,0,0,1,5,0,1,4,2
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau STAMM CMO,0106::SB27,9405 KD,1135,860,1,3,178,305,28,80,74,73,24,48,13,14,2,6,0,0,0,12,0,0,3,0
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Schakelveld,0106::SB28,9405 HX,1081,1002,1,9,134,385,96,84,123,57,25,47,3,23,1,1,2,0,1,12,1,0,6,1
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Valkenhof,0106::SB29,9402 RT,1195,728,0,4,110,260,30,76,80,54,16,69,8,13,4,1,0,2,0,4,0,0,1,0
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau MFA Kloosterveste I,0106::SB30,9408 ME,1359,1319,3,0,376,360,66,110,112,94,39,118,6,14,1,1,0,0,1,17,0,0,2,2
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau CBS Het Krijt,0106::SB31,9408 AM,1401,989,2,0,241,275,74,74,91,73,19,101,10,6,2,1,0,0,1,14,1,1,5,0
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau IJsvereniging Kloosterveen,0106::SB32,9408 CZ,1328,1006,0,2,367,261,37,74,61,103,5,76,6,10,0,1,0,0,0,1,1,0,0,3
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau OBS Kloosterveen,0106::SB33,9408 JA,1386,1181,1,1,296,405,92,62,100,83,15,92,10,12,1,3,0,1,0,6,1,0,1,1
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Provincie Drenthe,0106::SB34,9405 BJ,1136,777,0,0,162,281,29,84,71,65,23,39,1,12,2,1,0,0,0,6,0,0,1,0
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sporthal De Timp,0106::SB35,9402 ER,1244,990,4,1,162,407,60,100,73,53,14,73,10,12,1,1,0,0,1,19,0,0,3,1
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Vrijeschool De Es,0106::SB36,9404 KK,1030,813,3,1,151,296,41,48,83,64,45,37,8,20,0,3,3,0,0,9,0,1,3,1
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadhuis II,0106::SB37,9401 JW,1280,1335,0,1,301,478,73,112,112,106,41,65,3,23,5,3,0,0,0,9,0,0,3,1
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau OBS De Marskramer,0106::SB38,9403 LT,1332,616,0,0,137,248,43,40,47,48,12,28,2,6,0,1,0,0,0,3,0,0,0,1
+Assen,Assen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau MFA Kloosterveste II,0106::SB39,9408 ME,1436,996,2,1,253,296,57,87,79,84,17,87,6,14,6,0,0,2,0,4,1,0,3,0

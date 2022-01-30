@@ -1,0 +1,136 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,VVD,Partij van de Arbeid (P.v.d.A.),PVV (Partij voor de Vrijheid),Christen Democratisch Appèl (CDA),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,ChristenUnie,Staatkundig Gereformeerde Partij (SGP),Partij voor de Dieren,Piratenpartij,Partij voor Mens en Spirit (MenS),Nederland Lokaal,Libertarische Partij (LP),Democratisch Politiek Keerpunt DPK,50PLUS,Liberaal Democratische Partij (LibDem),Anti Europa Partij,SOPN,Partij van de Toekomst (PvdT)
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Stadhuis, ontvangstruimte trouwzaal",0014::SB1,9712 HN,1350,1896,4,2,434,564,42,49,146,475,99,25,1,36,12,4,0,5,0,3,0,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau H.N. Werkmancollege,0014::SB2,9711 VG,666,552,1,2,85,209,14,6,58,99,40,3,0,29,3,1,0,0,0,3,0,0,1,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hulpverleningsdienst Groningen,0014::SB3,9713 GW,1256,644,1,1,134,233,22,20,68,103,29,13,0,12,8,0,0,0,0,2,0,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gebouw Dienst RO/EZ,0014::SB4,9711 HL,676,1103,13,0,236,349,30,21,117,198,77,24,4,26,15,1,0,0,0,2,1,0,2,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Pepergasthuis,0014::SB5,9711 PE,958,552,1,0,169,112,18,14,59,121,24,10,1,12,4,0,1,3,0,1,0,0,2,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau St. Michaelschool,0014::SB6,9712 EW,940,687,1,0,168,214,18,17,45,149,41,6,1,16,9,1,0,0,0,1,0,0,0,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hanzehogeschool,0014::SB7,9711 EJ,1170,765,4,0,190,227,21,29,68,135,51,9,1,18,9,0,0,1,0,3,2,0,0,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Centrale Bibliotheek Groningen,0014::SB8,9712 ER,1069,1040,3,0,153,364,13,24,88,248,84,26,1,28,7,0,0,0,0,2,0,0,0,2
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Remonstrantse kerk,0014::SB9,9711 BS,898,471,3,0,138,121,7,16,36,105,22,7,3,8,4,1,0,0,0,1,0,0,1,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Activiteitencentrum De Holm,0014::SB10,9711 JS,1554,1004,1,1,225,305,14,21,87,252,48,12,2,20,4,1,0,0,1,6,2,0,1,3
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Heerenhuis,0014::SB11,9712 NR,929,750,0,0,181,210,18,20,46,187,31,24,1,21,8,0,0,1,0,1,0,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Borgmanschool,0014::SB12,9712 CS,1671,1476,10,4,211,521,30,37,162,285,125,29,1,51,12,4,0,3,0,3,1,1,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Paleis,0014::SB13,9712 LM,1412,1087,3,1,252,339,15,21,85,243,58,31,0,29,8,2,0,0,0,1,1,0,1,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Ebbingepoort,0014::SB14,9712 XA,880,642,2,0,117,210,22,32,76,111,24,12,0,24,5,4,0,0,0,5,0,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Leger des Heils,0014::SB20,9713 GL,1431,1251,3,0,250,430,34,44,128,193,65,37,3,40,10,3,0,1,1,9,1,0,1,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurt- en speeltuinvereniging FEO,0014::SB21,9713 CL,1320,672,3,1,151,253,15,7,66,117,27,17,0,17,0,2,0,0,0,0,0,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Oosterparkheem,0014::SB22,9713 VX,1607,730,5,0,134,276,39,16,95,77,27,26,2,19,4,0,0,1,0,4,1,0,8,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Simon van Hasseltschool,0014::SB23,9713 KX,1537,872,3,1,128,334,57,10,143,95,38,19,0,25,10,5,0,0,0,3,0,0,3,2
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Treslinghuis,0014::SB24,9713 SW,1051,713,5,6,56,275,63,11,172,45,28,16,0,24,7,2,2,0,0,8,0,0,4,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Franciscuscentrum,0014::SB25,9713 PV,1404,726,2,1,52,267,67,15,164,64,35,18,1,20,6,3,0,0,2,9,1,0,2,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau OBS Siebe Jan Boumaschool,0014::SB26,9713 VA,1311,794,3,3,93,328,43,19,155,65,30,16,3,22,8,2,1,1,0,7,0,0,0,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Rebound Groningen,0014::SB30,9714 CV,1378,1026,2,2,196,340,21,29,113,187,58,38,1,26,9,3,0,2,0,0,1,1,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Baptistenkerk De Cirkel,0014::SB31,9714 AT,1602,915,2,0,142,327,31,37,113,134,62,24,2,30,7,3,0,0,1,1,0,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Heyerdal College,0014::SB32,9714 JS,1478,850,1,1,134,296,20,30,84,140,61,38,3,26,6,3,1,2,0,1,0,1,4,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum Het Floreshuis,0014::SB40,9715 HH,1422,1583,2,6,220,528,38,60,253,251,86,65,5,48,10,0,0,0,1,8,1,0,6,3
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Vrouwencentrum Jasmijn,0014::SB42,9715 HS,1463,697,2,6,77,286,22,15,125,77,38,24,0,19,2,4,0,1,0,1,0,0,6,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gymzaal O.B.S. Karrepad,0014::SB43,9715 NR,1046,506,0,4,68,227,19,9,67,58,26,11,0,12,5,1,0,2,0,0,0,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gymzaal O.B.S. Karrepad,0014::SB44,9715 NR,1335,859,1,0,128,327,30,34,115,125,43,23,3,17,6,1,0,3,0,3,0,0,0,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Hamrikheem,0014::SB46,9715 SX,1293,822,5,5,76,353,59,35,151,59,26,19,1,24,6,1,1,2,0,7,0,0,2,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wessel Gansfortcollege,0014::SB47,9731 BW,907,684,0,0,78,302,29,26,71,76,29,43,3,13,4,0,0,0,0,10,0,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum Hunzeborgh,0014::SB48,9731 EB,979,845,2,1,178,334,29,27,70,101,47,32,5,17,0,1,0,0,0,2,0,0,2,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kantine GTV Van Starkenborgh,0014::SB49,9731 BW,904,609,0,0,81,274,17,27,51,71,43,26,2,7,1,1,0,0,0,7,0,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Christelijk Centrum Groningen,0014::SB50,9716 AV,1329,781,6,1,123,247,27,18,130,98,32,61,4,23,6,2,0,2,0,6,0,0,2,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau BSV  De Hoogte,0014::SB51,9716 GZ,1363,819,6,2,57,304,61,18,197,73,25,25,1,30,6,10,0,2,0,7,0,1,2,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dependance Nassauschool,0014::SB60,9717 ED,1549,1169,2,3,161,456,40,39,126,168,102,28,2,36,5,2,0,0,0,3,0,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum Oranjewijk,0014::SB61,9717 BK,1177,1025,2,1,147,380,19,25,130,153,80,33,1,37,7,2,0,1,1,4,1,0,3,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Poort,0014::SB62,9717 JW,1649,981,3,0,144,368,25,18,107,160,70,19,1,48,12,1,0,3,1,3,0,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Prinsentheater,0014::SB64,9717 KK,1520,911,3,0,138,314,20,17,108,171,69,32,1,27,6,8,0,0,0,0,0,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtpand Op Mars,0014::SB71,9718 HN,921,686,0,0,161,197,19,32,48,144,35,21,1,10,11,2,0,1,0,3,0,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Noorderpoortcollege,0014::SB72,9718 JB,1205,1084,0,1,241,363,18,34,86,227,49,19,4,19,18,0,0,0,0,5,0,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sportief Negentig,0014::SB73,9718 BA,1235,872,3,2,185,291,15,29,83,168,48,24,4,13,6,2,0,0,0,3,1,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau MJD-Zorgloket Groningen,0014::SB74,9718 KT,1383,1154,2,1,217,413,16,28,60,268,83,22,1,22,11,3,1,1,0,8,0,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgpunt Hoendiep,0014::SB75,9718 TA,1213,597,1,1,154,175,12,14,56,110,32,23,0,12,4,0,0,1,0,0,1,0,2,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Columnakerk,0014::SB80,9718 TJ,908,673,2,1,92,240,30,25,80,92,36,42,4,21,4,1,0,0,0,5,0,1,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau BSO Schildersbuurt,0014::SB81,9718 RZ,913,665,1,0,67,296,26,13,97,72,33,17,2,23,9,4,0,1,0,2,0,0,2,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Salvator Mariaparochie,0014::SB100,9721 HW,1052,1007,1,0,153,396,39,54,111,103,43,42,9,30,8,2,0,0,0,15,0,0,2,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sporthal De Wijert,0014::SB101,9721 LB,933,697,0,1,115,269,35,19,95,70,30,30,2,20,3,1,0,0,0,7,0,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Vondelflat,0014::SB102,9721 LC,791,473,0,0,90,163,23,38,48,46,8,28,5,11,1,0,0,1,0,9,0,0,1,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Opstandingskerk,0014::SB104,9721 JM,927,667,3,3,88,256,34,32,102,63,19,38,3,12,9,2,0,0,0,4,0,1,4,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Bolster,0014::SB105,9721 NH,1326,794,1,2,93,299,47,34,116,75,26,57,3,25,1,3,0,3,0,11,0,0,0,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau C.B.S. Tamarisk,0014::SB106,9721 SW,1138,817,1,1,246,227,24,45,58,119,36,32,2,18,3,1,0,0,0,5,0,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zuiderflat,0014::SB107,9721 VV,1107,885,1,3,292,220,28,85,40,102,29,57,3,8,0,3,0,0,0,15,2,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Brederoschool,0014::SB108,9721 XA,1098,974,2,2,224,336,23,56,52,160,50,45,3,17,1,0,0,0,0,6,1,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Joseph Haydnschool,0014::SB110,9722 CL,1070,1097,1,1,192,411,19,53,79,194,78,28,3,19,3,4,0,0,1,12,0,0,0,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verpleeghuis Coendershof,0014::SB111,9722 EK,1213,926,1,3,189,324,21,90,67,114,46,30,2,20,1,2,1,0,0,14,1,4,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Speellokaal,0014::SB112,9722 JV,1230,605,1,3,140,219,16,20,31,123,30,9,0,7,1,4,0,1,0,3,1,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Evangelische Gemeente Helperkerk,0014::SB114,9722 GP,1232,877,3,1,131,279,23,30,141,118,59,22,1,48,10,7,0,3,1,2,0,0,2,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dagverblijf De Kleine Beer,0014::SB115,9722 VH,1114,1230,1,2,381,355,24,89,81,180,63,28,1,17,2,1,0,0,0,5,0,0,3,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Multifunctioneelcentrum Engelbert,0014::SB120,9723 ER,745,514,0,1,143,163,45,12,52,45,14,5,1,17,1,0,0,0,1,13,0,0,2,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum Poortershoes,0014::SB130,9724 CA,1436,1573,7,1,245,544,44,24,215,244,121,30,9,58,18,2,0,1,1,10,0,0,7,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Pandomo Makelaars,0014::SB131,9723 DT,1292,931,1,0,177,396,42,29,71,114,39,17,0,9,6,1,0,1,4,19,0,0,5,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Euroborg,0014::SB133,9723 ZS,1135,649,2,1,140,238,24,18,55,92,34,14,0,23,5,0,0,0,0,5,1,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Oosterpoort,0014::SB134,9724 DA,1282,735,4,3,118,246,29,16,86,133,43,23,4,24,7,3,0,0,0,2,0,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau S.B.O. Groningen,0014::SB140,9724 EJ,1411,719,2,0,143,269,18,22,56,130,49,10,2,10,4,1,0,0,0,4,0,0,0,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Grafisch Museum,0014::SB141,9725 CC,1432,1149,3,2,231,373,40,56,90,200,75,31,3,24,5,6,1,4,1,8,0,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurthuiskamer Merwede,0014::SB142,9725 KE,1335,1148,0,1,160,455,32,68,112,156,48,60,4,29,7,4,0,1,0,11,0,0,0,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Puddingfabriek,0014::SB143,9725 BG,1126,858,3,1,137,304,22,25,114,139,43,22,1,32,5,2,1,3,1,5,0,0,1,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau S.B.O. Groningen,0014::SB144,9724 EJ,1099,512,0,0,108,174,10,16,42,93,31,10,1,15,7,2,0,1,0,1,0,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Augustinuscollege,0014::SB151,9726 GP,1460,991,3,2,213,304,24,47,88,180,56,39,5,26,4,2,1,0,0,1,0,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum Badstratenbuurt,0014::SB152,9726 BS,1371,965,4,3,162,320,18,23,105,203,57,32,1,24,5,1,0,3,0,9,1,0,0,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau O.D.S. De Starter,0014::SB161,9727 HW,1322,974,1,2,188,344,28,43,92,134,46,63,1,16,4,0,0,1,1,11,0,0,2,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Noorderpoortcollege,0014::SB162,9727 CE,586,506,3,0,92,161,11,28,46,95,31,21,2,10,5,0,0,0,0,3,0,1,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau MEE Groningen,0014::SB163,9727 AC,927,666,0,0,108,228,20,25,43,121,28,53,3,20,9,4,0,0,0,2,1,0,0,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Heymanscentrum,0014::SB171,9728 HD,886,630,0,2,88,217,42,71,78,44,26,28,6,17,2,1,0,0,0,10,0,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Menno Lutterhuis,0014::SB172,9728 AC,1613,1365,4,0,194,516,61,130,141,132,34,88,12,31,5,2,1,0,0,14,1,0,3,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau BSV Corpus den Hoorn,0014::SB174,9728 NB,1217,735,2,4,73,322,47,22,114,59,30,26,2,16,4,3,1,0,0,15,0,0,0,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Maartenshof,0014::SB180,9728 PG,1338,1101,1,0,210,428,48,75,109,79,42,51,6,18,5,2,1,0,2,23,0,1,0,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Drees-Flat,0014::SB181,9728 SX,1290,946,1,3,175,368,55,56,107,71,37,25,3,22,6,2,0,0,0,19,0,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Wall House,0014::SB182,9728 WT,1015,712,1,0,185,246,16,22,63,97,44,10,2,18,1,4,0,0,0,4,0,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Boerhaaveschool,0014::SB183,9728 NH,1234,1203,2,0,344,370,39,72,52,190,55,29,9,20,2,2,0,0,0,18,0,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Oosterhoogebrugschool,0014::SB200,9731 CB,971,644,0,3,113,285,43,19,79,48,18,17,0,14,2,1,1,0,0,3,0,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Schakel,0014::SB201,9731 AA,1094,1158,3,2,213,458,93,42,154,86,18,40,3,27,7,2,0,1,0,13,1,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Noorderpoortcollege,0014::SB202,9731 BH,1119,771,4,1,93,343,41,20,115,64,22,29,1,24,2,1,0,1,0,12,1,0,2,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool De Vuurtoren,0014::SB211,9732 JS,1329,1091,1,5,111,506,94,33,169,68,24,30,1,17,4,2,0,2,0,25,0,0,2,3
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Alfa-College,0014::SB215,9732 KZ,1151,466,0,2,59,203,17,10,84,41,6,21,3,10,1,1,0,0,0,8,0,0,2,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Ontmoetingsruimte Het Stuurhuis,0014::SB220,9733 AG,1369,924,3,0,69,438,78,31,173,29,29,22,3,22,4,0,0,0,1,21,0,0,2,2
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool De Swoaistee,0014::SB221,9733 EB,1231,947,1,1,69,419,71,16,179,53,43,35,4,30,5,5,0,0,0,13,0,2,2,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum Het Dok,0014::SB222,9733 CA,1436,1291,0,4,111,540,132,33,257,63,43,37,7,34,13,3,3,0,1,10,0,0,1,3
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum Mercator,0014::SB223,9733 HH,1239,881,0,2,88,392,52,34,141,61,45,18,6,28,1,2,0,0,0,11,1,0,0,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool De Driebond,0014::SB230,9734 AA,1665,1015,4,2,174,432,55,32,132,67,34,45,1,18,2,5,0,0,0,16,0,0,1,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum 't Heerdenhoes,0014::SB260,9737 LK,1377,1095,1,3,73,462,49,56,210,70,49,66,5,30,7,6,0,0,0,7,0,0,3,2
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sporthal Beijum,0014::SB261,9737 BV,1121,538,0,2,37,216,37,22,94,26,25,33,8,17,3,4,0,1,0,10,0,0,5,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Activiteitencentrum Trefpunt,0014::SB262,9737 AB,1037,532,3,2,31,232,28,10,101,31,25,48,5,11,1,4,0,0,1,1,0,0,2,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kentalis Tine Marcusschool,0014::SB263,9737 HK,929,749,1,2,73,345,72,16,124,31,29,18,2,20,4,3,0,2,0,10,0,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum De Kleihorn,0014::SB264,9736 CT,1146,788,3,1,59,328,52,17,153,51,43,45,6,14,6,1,0,0,2,7,0,0,4,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Eerste Openbare Montessorischool,0014::SB266,9736 PB,1413,908,8,2,65,339,92,27,188,45,42,53,8,23,10,2,0,0,1,6,0,0,7,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Heerdstee,0014::SB267,9736 EA,1142,619,4,0,32,244,55,21,119,28,23,44,8,26,3,5,0,1,1,6,1,0,2,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gymlokaal Stoepemaheerd,0014::SB268,9737 TJ,1343,1161,0,0,96,501,107,28,225,57,34,52,1,30,5,5,0,2,0,12,1,0,4,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sporthal Selwerd 1,0014::SB300,9741 EW,1390,913,2,5,116,332,70,36,136,88,41,32,1,37,4,5,0,1,0,12,0,0,1,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sporthal Selwerd 2,0014::SB301,9741 EW,1306,893,6,1,91,382,49,23,121,100,31,40,5,25,11,2,0,0,0,10,0,0,1,2
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Huize Patrimonium,0014::SB302,9741 HM,1025,774,3,4,65,295,48,81,124,27,19,78,5,15,5,1,0,0,0,5,0,0,5,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Basisschool de Wegwijzer,0014::SB304,9741 LE,1104,924,2,1,115,322,41,60,118,106,32,78,4,22,15,1,0,0,0,7,0,0,3,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Fontein,0014::SB305,9741 EZ,1318,601,1,1,68,228,46,40,64,59,17,39,6,17,4,4,0,0,0,9,0,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verpleeghuis 't Blauwbörgje,0014::SB311,9742 BL,1419,1019,5,11,161,405,44,42,121,117,26,47,5,21,6,1,1,0,1,11,0,0,5,5
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bao Trieu sportcentrum,0014::SB312,9742 LZ,1213,573,0,0,71,206,38,25,92,45,20,39,5,16,4,1,0,0,0,9,1,1,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bisschop Bekkersschool,0014::SB313,9742 KT,1227,706,1,1,79,270,72,37,97,45,15,49,5,14,5,0,2,0,0,15,0,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zaal Trefpunt bij aanleunwoningen,0014::SB314,9742 KP,1251,919,2,2,77,437,70,63,109,64,16,35,2,22,2,1,1,0,0,16,0,0,2,2
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Plutozaal,0014::SB316,9742 GK,1359,859,3,1,125,335,49,57,124,54,23,41,11,13,8,2,0,1,1,12,0,1,2,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Alfa-College,0014::SB319,9743 SZ,670,263,1,1,37,103,17,10,34,24,12,9,2,8,0,3,0,0,0,4,0,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 't Vinkhuys,0014::SB320,9743 BJ,732,662,2,0,66,259,65,28,105,33,27,39,9,12,4,2,0,0,1,8,0,0,3,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau CBS Aquamarijn,0014::SB321,9746 RS,1035,861,0,1,222,326,38,30,53,105,29,38,2,7,2,2,0,1,1,4,0,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Annie M.G. Schmidtschool,0014::SB322,9743 SP,1106,703,1,2,52,302,90,31,119,31,13,34,4,11,0,0,0,1,3,10,0,0,2,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Platina Zorgcentrum,0014::SB323,9743 GN,1154,803,1,2,76,376,90,56,106,20,9,38,2,10,2,2,0,0,0,15,0,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Veldspaat,0014::SB324,9743 XV,1099,593,0,1,55,261,51,41,82,20,8,28,8,17,0,4,0,0,0,14,2,0,2,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Vensterschool Vinkhuizen,0014::SB325,9743 EZ,732,840,1,3,96,353,75,33,136,51,18,48,6,10,2,2,0,0,0,7,0,0,3,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Wende,0014::SB326,9743 CP,1423,999,4,4,138,351,68,55,107,86,20,104,23,22,7,3,0,3,0,10,0,0,0,2
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dagverblijf Ilmarinen,0014::SB327,9743 JK,1441,825,1,0,89,221,50,43,112,51,24,165,30,15,7,4,0,3,0,10,0,0,0,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kinderopvang De Jonge Held,0014::SB328,9745 CP,1537,1052,1,2,209,382,62,51,125,99,37,47,5,21,1,0,0,3,0,10,0,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Goudvink,0014::SB329,9743 CH,864,659,1,3,51,277,74,29,84,50,11,40,14,9,7,1,0,0,0,6,0,1,4,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Peuterspeelplaats De Smurf,0014::SB331,9744 AP,1577,863,1,0,192,284,68,37,81,88,36,46,2,19,1,2,0,0,0,7,0,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Rehobothschool,0014::SB332,9744 CL,1336,836,3,6,92,290,65,72,109,13,14,136,8,12,2,1,1,1,2,16,0,0,1,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Anne Frankschool,0014::SB334,9744 HW,1208,923,1,3,95,392,82,64,112,39,13,83,9,13,2,0,0,2,0,15,1,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau CBS Aquamarijn,0014::SB335,9746 BH,1463,1120,0,2,266,339,60,61,103,138,39,70,17,11,2,1,0,3,0,7,0,1,1,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verenigingsgebouw NH-kerk,0014::SB340,9745 CJ,1518,886,0,1,144,262,115,58,126,35,22,75,7,20,2,3,0,0,0,15,0,0,0,2
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Recreatiezaal Ruskenborg,0014::SB341,9744 DA,999,752,0,0,148,282,43,55,76,40,12,67,8,10,0,0,1,0,0,8,0,0,2,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gabriëlflat,0014::SB342,9744 KJ,775,653,3,2,77,272,69,61,59,24,8,43,9,16,2,1,1,0,0,9,0,0,2,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verenigingsgebouw De Hoeksteen,0014::SB350,9746 TN,668,362,0,1,108,100,9,14,26,48,17,18,7,11,3,0,0,0,0,1,0,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Centraal Station Groningen,0014::SB400,,1,1641,4,5,262,560,44,52,158,327,100,67,1,39,14,5,0,3,0,4,0,0,3,2
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Leeskamer gemeenteraad,0014::SB401,9712 HN,1,1427,6,2,323,423,24,44,128,305,78,33,6,37,14,3,1,1,0,3,1,0,2,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Hanzehogeschool, Van Olst-toren",0014::SB410,9747 AS,1,1194,1,3,299,368,22,29,105,238,46,46,5,19,14,0,0,0,0,0,1,0,1,1
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Provinciehuis,0014::SB415,9712 JG,967,655,1,3,109,223,15,16,71,118,55,15,2,17,7,1,0,0,0,6,0,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau UMCG,0014::SB430,9713 GZ,1,1346,3,2,286,460,20,71,108,264,59,48,2,18,3,2,0,1,0,4,0,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau UMCG,0014::SB431,9713 GZ,1,920,4,1,184,305,23,38,74,188,54,28,2,15,3,2,0,2,0,1,0,0,1,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Martini Ziekenhuis,0014::SB440,9728 NT,1,624,0,3,113,250,24,33,52,77,36,19,3,10,3,0,0,0,0,4,0,0,0,0
+Groningen,Groningen,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Harmoniecomplex R.U.G.Expositiezaal,0014::SB450,9712 EK,1,1493,2,2,271,454,18,43,97,439,98,22,4,28,11,0,0,2,0,0,5,0,1,0

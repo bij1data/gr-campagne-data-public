@@ -1,0 +1,37 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Democraten 66 (D66),CDA - Europese Volkspartij,PVV (Partij voor de Vrijheid),VVD,SP (Socialistische Partij),P.v.d.A./Europese Sociaaldemocraten,ChristenUnie-SGP,GROENLINKS,Partij voor de Dieren,50PLUS,JEZUS LEEFT,DENK,De Groenen,Forum voor Democratie,vandeRegio & Piratenpartij,Volt Nederland
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dienstencentrum Duivenwal,0345::SB1,,1663,534,2,1,0,0,2,480,55,0,0,0,0,0,537,14,60,31,60,25,51,151,30,5,27,0,6,0,67,0,7
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum Panorama,0345::SB2,,1645,318,0,1,0,0,0,263,56,0,0,0,0,0,319,13,24,7,23,8,59,116,17,2,11,2,12,0,16,0,8
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Hollandia Staete,0345::SB3,,1553,484,1,0,0,0,0,439,46,0,0,0,0,0,485,17,59,20,44,16,51,159,20,11,20,1,17,1,47,0,1
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Woon- en Zorgcentrum De Engelenburgh,0345::SB4,,1413,659,0,2,0,0,2,574,85,0,0,0,0,0,661,13,80,21,52,8,56,290,20,4,12,1,10,0,88,0,4
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zaal Apostolisch Genootschap,0345::SB5,,1516,876,0,1,0,0,0,750,127,0,0,0,0,0,877,48,132,25,159,5,113,211,49,14,20,2,0,0,93,1,4
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Vergaderzaal Het Trefpunt,0345::SB6,,1557,855,2,1,0,0,2,731,125,0,0,0,0,0,858,20,121,26,109,21,86,277,39,12,15,0,6,1,117,1,4
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Basisschool de 'Ceder',0345::SB7,,1461,421,0,0,0,0,0,367,54,0,0,0,0,0,421,11,54,12,72,4,46,123,28,6,13,1,0,1,46,0,4
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gebouw Groenhof,0345::SB8,,1655,667,2,2,0,0,0,574,97,0,0,0,0,0,671,26,92,21,105,14,82,176,36,20,13,1,2,1,72,0,6
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Patrimoniumschool,0345::SB9,,1632,740,1,2,0,1,1,653,90,0,0,1,0,0,744,28,90,27,89,27,65,224,41,15,19,0,7,0,93,3,12
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School JUUL,0345::SB10,,1292,341,1,1,0,0,0,285,58,0,0,0,0,0,343,15,30,15,23,18,52,65,24,7,10,1,22,1,53,3,2
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School Het Baken I,0345::SB11,,1516,757,0,1,0,0,0,666,92,0,0,0,0,0,758,42,94,20,78,13,95,245,46,11,22,3,0,0,71,1,16
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wereldkidz Achtbaan,0345::SB12,,1614,517,3,0,0,0,1,464,55,0,0,0,0,0,520,26,57,15,49,22,61,148,36,13,19,0,11,2,52,0,6
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School Het Baken II,0345::SB13,,1016,590,0,0,0,0,3,504,83,0,0,0,0,0,590,31,91,12,61,18,65,175,44,14,16,2,2,1,51,0,7
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Ichtus College,0345::SB14,,1452,632,0,1,0,0,4,544,85,0,0,0,0,0,633,20,99,10,81,5,66,215,41,12,23,1,0,1,49,1,8
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Schakel,0345::SB15,,1345,771,0,0,0,0,1,662,108,0,0,0,0,0,771,28,84,33,103,25,68,243,56,12,28,4,3,0,74,1,9
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Johannes Calvijnschool,0345::SB16,,1348,495,0,0,0,0,0,432,63,0,0,0,0,0,495,16,42,26,26,24,42,179,25,11,11,1,25,1,63,1,2
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurthuis 't Turfke,0345::SB17,,1696,481,1,1,0,0,0,418,65,0,0,0,0,0,483,14,36,18,39,17,52,163,23,15,25,3,15,0,55,0,6
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School Max,0345::SB18,,1567,731,1,1,0,0,1,636,96,0,0,0,0,0,733,29,80,16,61,14,59,297,40,4,22,3,6,0,95,0,5
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Rehobothschool,0345::SB19,,1916,511,0,0,0,1,0,435,75,0,1,0,0,0,510,4,56,8,42,9,31,277,16,7,12,3,5,0,38,0,3
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorgcentrum 't Boveneind,0345::SB20,,1551,597,0,3,0,0,1,521,78,0,0,0,0,0,600,16,67,15,47,6,50,284,26,10,18,1,1,0,53,1,2
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum Aller Erf,0345::SB21,,1347,1252,0,2,0,1,5,1077,173,0,0,1,0,0,1255,38,141,35,128,16,133,488,53,19,42,4,3,2,134,2,14
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Overstag,0345::SB22,,1663,391,0,1,0,0,0,336,56,0,0,0,0,0,392,13,52,7,27,3,45,162,18,8,19,2,0,0,25,0,10
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dienstencentrum Kleine Beer,0345::SB23,,1644,683,0,1,0,0,3,608,73,0,0,0,0,0,684,13,80,24,50,19,71,241,29,7,33,6,12,2,87,0,9
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Buurthuis De Driehoek,0345::SB24,,1262,539,4,0,0,3,0,481,65,0,0,3,0,0,546,16,61,15,49,19,52,178,38,11,12,2,25,1,52,1,7
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Westerkerk,0345::SB25,,1478,699,1,0,0,0,0,618,82,0,0,0,0,0,700,30,84,26,79,14,71,231,37,14,17,0,0,0,89,0,7
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Grondtoon,0345::SB26,,1548,927,2,2,0,0,0,811,120,0,0,0,0,0,931,40,131,27,145,18,108,257,51,16,21,1,3,3,92,0,14
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School De Burcht,0345::SB27,,1352,497,0,1,0,0,0,420,78,0,0,0,0,0,498,12,78,16,81,4,45,128,25,18,26,0,2,0,60,1,1
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau School Wereldkidz Mozaïek,0345::SB28,,1564,754,0,0,0,0,5,644,105,0,0,0,0,0,754,32,75,27,143,11,112,136,48,17,22,2,11,0,112,1,5
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Brede Wijkvoorziening 't Speelkwartier,0345::SB29,,1427,579,1,0,0,0,2,482,96,0,0,0,0,0,580,33,74,15,94,15,64,171,31,5,10,1,17,0,47,1,1
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gemeentehuis,0345::SB30,,1151,778,0,4,0,0,6,684,92,0,0,0,0,0,782,18,74,29,124,27,104,130,58,12,28,0,39,2,125,2,6
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Ontmoetingshuis,0345::SB31,,1337,684,1,1,0,0,0,576,110,0,0,0,0,0,686,24,72,19,97,6,67,247,42,11,22,3,8,0,58,3,5
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Meent,0345::SB32,,0,41,0,0,0,0,1,34,6,0,0,0,0,0,41,0,9,1,6,0,3,12,1,0,5,0,0,0,2,0,2
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sportcentrum De Vallei,0345::SB33,,1053,243,1,0,0,0,0,223,21,0,0,0,0,0,244,17,35,5,36,3,23,54,16,2,9,0,11,0,30,0,2
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau I-Centrum Veenendaal-Oost,0345::SB34,,1286,393,0,1,0,0,0,334,60,0,0,0,0,0,394,14,50,18,68,2,28,143,18,6,4,2,1,0,36,0,3
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sporthal West,0345::SB35,,867,485,0,1,0,0,0,433,53,0,0,0,0,0,486,27,45,16,64,13,48,116,40,12,16,1,8,2,71,2,4
+,Veenendaal,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Rehobothschool (2),0345::SB36,,0,585,1,2,0,0,0,494,94,0,0,0,0,0,588,13,60,10,47,5,33,304,24,5,12,0,5,1,66,0,0

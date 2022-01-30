@@ -1,0 +1,64 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,VVD,Partij van de Arbeid (P.v.d.A.),PVV (Partij voor de Vrijheid),Christen Democratisch Appèl (CDA),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,ChristenUnie,Staatkundig Gereformeerde Partij (SGP),Partij voor de Dieren,Piratenpartij,Partij voor Mens en Spirit (MenS),Nederland Lokaal,Libertarische Partij (LP),Democratisch Politiek Keerpunt DPK,50PLUS,Liberaal Democratische Partij (LibDem),Anti Europa Partij,SOPN,Partij van de Toekomst (PvdT)
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadhuis,0546::SB1,,1238,1644,10,10,406,420,46,63,119,401,93,29,2,43,10,2,0,2,0,6,0,0,1,1
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Rijksmuseum van Oudheden,0546::SB2,,1577,1764,6,0,455,410,35,49,109,476,122,28,6,49,16,2,0,2,1,4,0,0,0,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Regionaal Archief Leiden,0546::SB3,,1426,1107,1,1,280,294,35,27,59,262,76,19,4,37,5,2,2,1,0,3,0,0,1,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau 't Huis op de Waard,0546::SB4,,1344,853,1,1,164,215,48,21,86,168,61,24,3,37,13,0,1,1,2,7,1,0,0,1
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Meelbox ( Nieuw Groenhoven),0546::SB5,,1273,665,7,2,93,230,33,23,80,109,40,11,0,29,8,0,1,2,0,6,0,0,0,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Leger des Heils,0546::SB6,,1573,1245,7,0,221,365,32,20,123,306,88,24,4,36,11,3,0,3,0,5,2,0,0,2
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Hooglandse Huys (1),0546::SB7,,1370,985,1,2,185,230,40,38,60,261,71,34,7,40,12,3,0,1,1,2,0,0,0,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Hooglandse Huys (2),0546::SB8,,1533,1072,4,0,244,263,29,21,58,270,89,32,7,35,14,3,0,1,0,5,0,0,1,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woningcorporatie De Sleutels,0546::SB9,,1499,1232,4,1,226,383,86,35,101,222,82,15,4,56,8,3,0,0,0,8,0,0,2,1
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkgebouw Marehuis,0546::SB10,,1347,1130,0,0,254,311,41,37,77,261,76,34,0,23,7,1,1,0,0,5,0,0,0,2
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Leidse Volkshuis,0546::SB11,,1114,838,5,0,239,214,25,24,49,197,45,9,2,21,5,1,0,1,0,5,0,0,1,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau voormalig wachtgebouw Morspoortkazerne,0546::SB12,,1572,1298,3,9,244,345,54,36,132,265,94,37,1,47,14,3,1,4,2,17,0,0,2,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Speeltuinvereniging Morschkwartier,0546::SB13,,1321,1186,2,4,224,376,120,37,104,159,68,29,6,40,5,3,2,0,0,11,0,1,1,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Serviceflat Schouwenhove,0546::SB14,,1280,1021,3,3,213,316,120,65,85,103,30,16,6,37,1,1,0,0,0,27,1,0,0,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau ID College,0546::SB15,,1194,669,2,1,88,211,141,9,76,66,26,11,1,15,4,0,0,0,1,18,0,0,2,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Maranathawijkgemeente,0546::SB16,,1528,985,1,4,201,355,125,39,96,69,21,18,2,19,9,0,0,0,2,27,0,1,0,1
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum De Robijn,0546::SB17,,1514,1153,2,6,274,337,137,96,88,93,35,14,6,37,1,2,2,0,2,29,0,0,0,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Bonaventuracollege,0546::SB18,,1148,764,4,2,141,248,22,39,33,176,56,15,1,17,9,0,0,2,0,4,1,0,0,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Leidse Houtschool,0546::SB19,,1888,1395,4,0,296,417,26,73,69,318,107,26,7,33,16,1,0,0,0,5,1,0,0,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau SBO School De Vuurvogel,0546::SB20,,1463,1124,5,2,211,316,41,39,88,229,91,21,2,44,14,2,0,2,1,19,1,0,2,1
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Informatiecentrum Nieuw Leyden,0546::SB21,,1855,1166,5,4,244,343,86,28,99,219,81,11,2,33,8,0,0,0,0,9,1,0,2,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dienstencentrum Rondedans,0546::SB22,,1643,962,5,2,123,280,170,24,109,99,51,42,3,37,6,2,0,0,1,13,0,0,0,2
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verpleeghuis Overrhyn,0546::SB23,,1151,552,3,5,48,274,60,14,72,33,19,10,2,5,4,2,0,1,0,8,0,0,0,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Buurtcentrum ""Het Spoortje""",0546::SB24,,1286,974,3,7,91,325,188,22,166,67,30,25,4,32,3,0,0,0,0,14,2,0,4,1
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dienstencentrum Zijloever,0546::SB26,,1641,877,0,4,131,267,219,24,84,56,29,15,5,23,1,4,0,0,1,13,0,0,2,3
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Marecollege,0546::SB27,,1149,617,2,4,64,214,106,21,88,52,18,8,4,18,6,1,0,0,0,14,1,0,1,1
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum De Kooi,0546::SB28,,1458,1024,1,4,111,338,265,19,132,51,25,18,6,18,5,5,1,1,1,22,1,0,4,1
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurthuis 't Schippertje,0546::SB29,,1469,950,3,3,154,289,168,23,96,93,44,7,3,31,5,5,0,2,0,29,0,0,1,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kinderdagverblijf De Batavieren,0546::SB30,,1279,952,2,5,230,245,84,58,88,122,49,16,8,33,9,1,0,0,0,9,0,0,0,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum Matilo,0546::SB31,,1430,1067,2,2,368,264,75,53,64,151,29,9,4,24,3,0,0,1,21,0,0,0,1,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stedelijk Gymnasium Leiden,0546::SB32,,1369,1299,0,2,284,362,58,52,95,264,97,20,1,40,7,1,1,0,0,17,0,0,0,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau RK Basisschool Sint Joseph,0546::SB33,,1274,1154,1,1,255,356,55,59,83,217,66,19,3,28,1,2,0,0,0,9,0,0,1,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Vredeskerk,0546::SB34,,1302,1300,0,3,321,410,25,63,73,236,82,41,4,31,2,0,0,0,0,12,0,0,0,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woon-Zorgcentrum Lorentzhof,0546::SB35,,1184,1016,2,2,219,312,34,56,44,210,66,20,2,31,2,2,1,3,1,13,0,0,0,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Trefpunt,0546::SB36,,1336,917,0,0,198,271,64,57,82,133,34,23,0,41,5,0,0,0,0,9,0,0,0,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau ROC Leiden,0546::SB37,,1241,765,2,0,166,196,99,30,71,92,36,8,5,31,4,4,0,0,1,14,0,3,5,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Speeltuinvereniging ""Zuiderkwartier""",0546::SB38,,1378,860,1,1,117,283,118,20,115,98,23,8,4,41,3,0,0,0,1,22,0,0,7,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkservicepunt Lorentzhof,0546::SB40,,1460,1306,4,3,228,426,43,42,134,240,91,30,1,50,2,5,0,1,0,12,0,0,1,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum Groenhoven,0546::SB41,,1608,1217,1,2,271,358,26,55,58,276,92,18,5,30,6,6,0,0,0,13,0,0,1,2
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Speeltuinvereniging Westerkwartier,0546::SB42,,1198,858,2,0,149,263,149,15,71,108,32,11,2,35,9,0,0,1,0,10,1,0,2,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kunstcentrum Haagweg Vier,0546::SB43,,1466,900,5,2,191,250,40,24,70,183,68,17,1,36,12,4,0,1,0,2,0,0,1,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Speeltuinvereniging De Vijf Hoven,0546::SB44,,1622,976,3,9,144,373,117,39,111,109,36,15,2,14,3,2,0,0,1,8,0,0,2,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woongebouw Rosenburch,0546::SB45,,1828,1566,1,6,298,506,168,82,131,195,60,19,11,49,10,2,0,1,0,32,0,1,0,1
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau VSO De Weerklank,0546::SB47,,1294,574,2,1,55,213,87,25,86,33,19,5,9,17,4,1,0,0,1,18,0,0,1,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Verpleeghuis Zuydtwijck,0546::SB48,,1401,1243,6,10,242,449,112,65,114,119,47,20,2,33,5,2,0,0,0,33,0,0,0,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum Haagwijk,0546::SB49,,1755,1260,5,4,273,391,175,78,111,87,18,40,8,31,5,5,0,1,3,29,0,1,4,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Parelvissers,0546::SB50,,1548,996,4,3,179,282,157,60,101,83,25,30,4,23,5,1,0,0,0,39,1,5,0,1
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkservicecentrum De Lepelaar,0546::SB51,,1462,1068,0,4,261,270,105,79,82,116,37,24,7,38,5,1,0,1,0,40,1,0,1,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum Op Eigen Wieken,0546::SB52,,1765,1121,1,13,126,499,150,32,145,60,25,16,7,30,5,2,0,0,1,22,0,0,1,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau openbare basisschool De Meerpaal,0546::SB54,,1411,892,0,0,177,327,54,35,50,152,48,13,2,16,2,1,2,0,0,13,0,0,0,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sporthal Broekplein,0546::SB55,,1377,1440,3,1,388,407,84,56,79,253,62,48,3,36,1,3,0,2,1,15,0,0,2,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau OBS De Dukdalf,0546::SB56,,1249,1469,1,1,343,499,90,79,69,245,74,15,2,25,4,2,0,0,1,17,1,0,2,1
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Het Kompas,0546::SB57,,1184,436,0,0,91,126,25,33,28,74,18,26,3,8,1,0,0,0,3,0,0,0,0,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Kerkelijk Centrum ""De Regenboog""",0546::SB58,,1537,1380,2,2,267,445,164,84,120,151,62,16,3,37,4,5,0,0,0,21,1,0,0,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau LTV De Merenwijk,0546::SB59,,1758,1137,1,6,254,348,105,36,108,156,28,29,1,31,8,4,0,1,1,23,1,0,1,2
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Buurtcentrum Stevenshof,0546::SB60,,1680,1484,2,5,402,436,201,57,148,111,34,15,5,44,8,3,0,0,1,19,0,0,0,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Speeltuinvereniging Stevenshof,0546::SB61,,1653,1094,1,8,198,318,189,37,159,77,26,8,3,27,5,0,0,0,4,38,0,2,2,1
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau OBS De Stevenshof,0546::SB62,,1201,852,2,1,165,259,147,48,85,66,24,5,0,26,4,0,0,0,0,20,0,0,0,3
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Prot. Chr. basisschool De Zwaluw,0546::SB63,,1494,1172,3,2,231,357,185,50,134,103,23,25,4,27,3,1,1,1,1,24,0,0,2,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,"Stembureau Sociëteit ""de Dobbegaarde""",0546::SB64,,1616,1217,2,4,269,381,186,53,99,90,36,21,3,27,4,1,0,0,2,44,0,0,0,1
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Anne Frank,0546::SB65,,1284,988,1,0,235,306,161,44,68,67,34,16,4,21,0,6,0,0,0,24,0,0,1,1
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau OBS De Arcade,0546::SB66,,1772,1370,2,0,516,343,103,49,74,192,30,15,8,22,5,0,1,0,1,11,0,0,0,0
+Leiden,Leiden,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau NS Station Leiden Centraal,0546::SB100,,0,2443,16,2,468,728,47,62,181,596,165,60,12,76,32,6,0,2,1,2,1,1,2,1

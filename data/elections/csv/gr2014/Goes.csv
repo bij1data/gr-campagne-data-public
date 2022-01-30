@@ -1,0 +1,23 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_kwijtgeraakte stembiljetten,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,CDA,Partij van de Arbeid (P.v.d.A.),VVD,SGP-ChristenUnie,Democraten 66 (D66),SP (Socialistische Partij),GROENLINKS,Partij voor Goes
+,Goes,GR2014_Goes,Gemeenteraad Goes 2014,0664,Goes,2014-03-19,Stembureau Zorgcentrum Gasthuis,0664::SB1,,1521,949,0,2,0,0,0,858,93,0,0,0,0,0,0,951,233,95,138,105,92,157,41,88
+,Goes,GR2014_Goes,Gemeenteraad Goes 2014,0664,Goes,2014-03-19,Stembureau Zorgcentrum Ter Valcke,0664::SB2,,1305,861,2,2,0,0,0,769,96,0,0,0,0,0,0,865,197,75,104,179,94,94,37,81
+,Goes,GR2014_Goes,Gemeenteraad Goes 2014,0664,Goes,2014-03-19,Stembureau Basisschool De Wingerd,0664::SB3,,1355,937,1,3,0,0,0,848,94,0,0,0,1,0,1,942,237,64,143,230,132,55,45,31
+,Goes,GR2014_Goes,Gemeenteraad Goes 2014,0664,Goes,2014-03-19,Stembureau Zorgcentrum Randhof,0664::SB4,,1395,767,3,7,0,0,0,708,69,0,0,0,0,0,0,777,170,69,56,137,83,132,21,99
+,Goes,GR2014_Goes,Gemeenteraad Goes 2014,0664,Goes,2014-03-19,Stembureau Stadskantoor,0664::SB5,,1412,983,2,3,0,1,0,874,113,0,0,1,0,0,0,987,202,76,194,78,104,155,56,118
+,Goes,GR2014_Goes,Gemeenteraad Goes 2014,0664,Goes,2014-03-19,Stembureau Wijkcentrum de Westkant,0664::SB6,,1372,640,0,1,0,0,0,581,60,0,0,0,0,0,0,641,139,61,72,76,71,106,33,82
+,Goes,GR2014_Goes,Gemeenteraad Goes 2014,0664,Goes,2014-03-19,Stembureau Kantine Openbare Ruimte,0664::SB7,,1862,479,2,0,0,0,0,434,47,0,0,0,0,0,0,481,72,64,36,61,56,110,21,59
+,Goes,GR2014_Goes,Gemeenteraad Goes 2014,0664,Goes,2014-03-19,Stembureau Wooncentrum Erasmuspark,0664::SB8,,1583,981,5,7,0,0,0,896,97,0,0,0,0,0,0,993,212,94,65,127,72,166,79,166
+,Goes,GR2014_Goes,Gemeenteraad Goes 2014,0664,Goes,2014-03-19,Stembureau Wijkcentrum de Spinne,0664::SB9,,1708,934,3,1,0,0,0,820,118,0,0,0,0,0,0,938,168,118,61,99,75,185,70,158
+,Goes,GR2014_Goes,Gemeenteraad Goes 2014,0664,Goes,2014-03-19,Stembureau Wijkcentrum De Pit,0664::SB10,,1371,819,5,2,0,1,0,750,75,0,0,1,0,0,0,825,238,77,48,103,76,153,33,91
+,Goes,GR2014_Goes,Gemeenteraad Goes 2014,0664,Goes,2014-03-19,Stembureau Zorgcentrum Ter Weel,0664::SB11,,1362,800,1,5,0,2,0,723,85,0,0,0,2,0,0,808,241,83,73,100,75,111,33,84
+,Goes,GR2014_Goes,Gemeenteraad Goes 2014,0664,Goes,2014-03-19,Stembureau Brede School De Symfonie,0664::SB12,,1149,638,2,4,0,0,0,578,66,0,0,0,0,0,0,644,182,53,120,52,104,60,26,41
+,Goes,GR2014_Goes,Gemeenteraad Goes 2014,0664,Goes,2014-03-19,Stembureau Seniorensociëteit De Legerdiek,0664::SB13,,1202,519,1,0,0,0,0,478,42,0,0,0,0,0,0,520,94,53,104,33,60,108,26,41
+,Goes,GR2014_Goes,Gemeenteraad Goes 2014,0664,Goes,2014-03-19,Stembureau Serviceflat De Horst,0664::SB14,,1140,712,0,2,0,0,0,624,90,0,0,0,0,0,0,714,162,50,86,237,73,43,22,39
+,Goes,GR2014_Goes,Gemeenteraad Goes 2014,0664,Goes,2014-03-19,Stembureau Emergis,0664::SB15,,1330,827,0,0,0,0,0,721,107,0,1,0,1,0,0,828,275,63,116,103,105,76,36,53
+,Goes,GR2014_Goes,Gemeenteraad Goes 2014,0664,Goes,2014-03-19,Stembureau Dorpshuis Amicitia,0664::SB16,,1327,886,0,3,0,0,0,820,69,0,0,0,0,0,0,889,277,75,120,102,100,114,38,60
+,Goes,GR2014_Goes,Gemeenteraad Goes 2014,0664,Goes,2014-03-19,Stembureau Dorpshuis het Wilhelminahuis,0664::SB17,,1377,861,0,0,0,4,0,766,99,0,0,0,4,0,0,865,163,40,272,83,110,51,25,117
+,Goes,GR2014_Goes,Gemeenteraad Goes 2014,0664,Goes,2014-03-19,Stembureau Dorpshuis het Blokhuis,0664::SB18,,454,308,0,0,0,0,0,274,34,0,0,0,0,0,0,308,65,25,48,29,50,45,22,24
+,Goes,GR2014_Goes,Gemeenteraad Goes 2014,0664,Goes,2014-03-19,Stembureau Dorpshuis de Griffioen,0664::SB19,,1760,1063,2,1,0,1,0,959,108,0,0,0,1,0,0,1067,256,76,149,176,186,134,34,52
+,Goes,GR2014_Goes,Gemeenteraad Goes 2014,0664,Goes,2014-03-19,Stembureau Dorpshuis Heer Hendrikhuis,0664::SB20,,918,663,0,1,0,0,0,579,85,0,0,0,0,0,0,664,191,67,106,105,63,66,35,30
+,Goes,GR2014_Goes,Gemeenteraad Goes 2014,0664,Goes,2014-03-19,Stembureau Zorgcentrum Poelwijck,0664::SB21,,1319,704,3,0,1,0,0,646,62,0,0,0,1,0,0,708,208,64,69,66,94,95,53,55
+,Goes,GR2014_Goes,Gemeenteraad Goes 2014,0664,Goes,2014-03-19,Stembureau Serviceflat de Schakel,0664::SB22,,1422,807,3,2,0,0,0,721,91,0,0,0,0,0,0,812,252,74,104,72,87,111,42,65

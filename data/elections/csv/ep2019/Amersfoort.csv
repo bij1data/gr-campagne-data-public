@@ -1,0 +1,91 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Democraten 66 (D66),CDA - Europese Volkspartij,PVV (Partij voor de Vrijheid),VVD,SP (Socialistische Partij),P.v.d.A./Europese Sociaaldemocraten,ChristenUnie-SGP,GROENLINKS,Partij voor de Dieren,50PLUS,JEZUS LEEFT,DENK,De Groenen,Forum voor Democratie,vandeRegio & Piratenpartij,Volt Nederland
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Oude Stadhuis,0307::SB1,,763,689,1,3,0,0,7,624,62,0,0,0,0,0,693,77,46,8,73,22,142,30,163,38,13,2,3,2,40,5,25
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Ichtuskerk,0307::SB2,,1392,732,1,0,0,0,3,656,74,0,0,0,0,0,733,77,95,7,110,12,117,29,153,45,8,0,0,0,51,0,28
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Gerfkamer,0307::SB3,,1085,684,1,1,0,0,3,630,54,1,0,1,0,0,687,84,40,4,88,14,126,33,166,52,7,0,0,0,43,3,24
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Armen de Poth,0307::SB4,,1459,675,1,0,0,1,0,602,77,2,0,3,0,0,679,65,27,7,83,15,123,39,177,59,10,1,0,0,50,2,17
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Het Eemhuis,0307::SB5,,1437,814,3,0,0,0,3,730,84,0,0,0,0,0,817,91,37,7,122,24,137,48,214,50,7,0,7,0,42,1,27
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Schoolgebouw de Vlindervallei,0307::SB6,,1429,721,0,1,0,0,0,636,85,0,1,0,1,0,721,63,27,19,55,26,139,46,132,49,24,0,84,1,42,2,12
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Adventkerk,0307::SB7,,1549,439,1,3,0,0,0,401,42,0,0,0,0,0,443,31,29,21,45,18,75,36,53,26,8,1,57,2,27,0,10
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Schaapskooi,0307::SB8,,1656,444,0,1,0,0,1,392,52,0,0,0,0,0,445,22,23,14,43,29,70,50,59,21,6,1,58,1,44,0,3
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Schoolgebouw de Baander,0307::SB9,,1052,417,4,0,0,0,1,380,40,0,0,0,0,0,421,29,31,12,29,17,56,44,47,21,13,1,52,3,50,1,11
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Bron 1,0307::SB10,,1257,470,0,0,0,2,1,426,41,0,2,0,0,0,468,25,36,22,37,16,77,69,72,19,9,0,30,2,39,5,12
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Bron 2,0307::SB11,,1448,612,3,0,0,0,1,561,53,0,0,0,0,0,615,35,44,27,57,28,97,80,75,31,18,2,56,0,52,0,10
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zwembad Amarena,0307::SB12,,1539,472,1,2,0,3,4,422,46,0,3,0,0,0,472,24,34,12,47,21,91,47,74,15,20,1,38,0,36,3,9
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sporthal Rustenburg,0307::SB13,,1138,474,1,3,0,0,0,434,44,0,0,0,0,0,478,38,16,18,40,29,87,53,63,16,22,0,35,1,49,0,7
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Burgemeester Molendijkflat,0307::SB14,,1312,733,2,0,0,0,1,660,75,1,0,1,0,0,736,50,73,23,92,33,125,106,68,20,42,0,2,2,87,0,10
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Undineflat,0307::SB15,,864,300,0,0,0,0,1,271,28,0,0,0,0,0,300,24,27,15,22,17,39,46,31,12,13,0,26,1,20,0,7
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau ABC School Het Scala,0307::SB16,,1020,313,0,1,1,0,1,284,30,0,0,1,0,0,315,18,11,9,23,12,44,26,34,10,5,0,88,0,24,3,6
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Schuilenburght,0307::SB17,,935,553,0,1,0,0,5,510,39,0,0,0,0,0,554,35,81,4,117,20,99,68,59,8,11,0,1,1,37,0,12
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Prins Willem III- flat,0307::SB18,,1402,611,1,4,0,0,0,566,50,0,0,0,0,0,616,34,37,16,63,32,117,62,123,37,19,1,21,1,34,0,14
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Kerkgebouw De Kandelaar,0307::SB19,,1555,871,1,0,0,0,0,769,103,0,0,0,0,0,872,100,35,13,115,29,196,72,161,46,27,0,9,1,44,0,23
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Woon- en zorgcentrum Nijenstede,0307::SB20,,1410,604,2,1,0,0,0,557,50,0,0,0,0,0,607,45,58,13,69,21,100,70,107,29,11,1,16,2,45,3,14
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum Het Klokhuis,0307::SB21,,1605,680,1,2,0,0,0,610,76,3,0,3,0,0,686,54,42,25,81,29,115,59,127,28,15,1,36,3,48,3,14
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Eemgaarde,0307::SB22,,674,372,1,0,0,0,1,344,28,0,0,0,0,0,373,22,39,4,53,10,76,49,52,8,15,0,0,1,28,0,15
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Schoolgebouw Guido de Bres,0307::SB23,,1637,1065,1,4,0,0,0,935,135,0,0,0,0,0,1070,134,74,14,113,23,233,63,262,53,12,2,5,5,48,0,24
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Corderiuscollege,0307::SB24,,1441,689,2,1,0,0,0,597,96,1,0,1,0,0,693,84,44,3,102,13,143,69,132,25,6,0,19,1,25,0,23
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Seniorenflat Otto Scheltus,0307::SB25,,1466,536,1,2,0,1,2,481,55,0,1,0,0,0,538,51,44,5,86,17,100,23,90,17,14,1,0,1,68,0,19
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Martuskerk,0307::SB26,,682,584,0,0,0,0,0,516,68,0,0,0,0,0,584,73,42,11,63,9,106,76,140,22,5,1,0,0,22,0,14
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Elimkerk,0307::SB27,,1347,619,0,1,0,0,0,552,68,0,0,0,0,0,620,48,43,7,77,14,110,66,138,30,6,1,20,2,42,3,12
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Fontijnkerk,0307::SB28,,1076,764,2,0,0,0,0,692,74,0,0,0,0,0,766,115,75,6,115,11,134,72,132,36,16,0,2,1,33,1,15
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sporthal Juliana van Stolberg,0307::SB29,,1416,733,0,0,0,1,0,660,76,2,0,3,0,0,736,82,51,21,82,20,132,49,159,43,19,0,5,0,36,5,29
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau MBO Leusderweg,0307::SB30,,1124,364,1,1,0,0,1,324,41,0,0,0,0,0,366,28,13,11,26,19,68,41,76,22,10,1,7,0,32,2,8
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau St. Ansfriduskerk,0307::SB31,,1634,913,0,1,0,0,2,795,117,0,0,0,0,0,914,114,56,11,149,18,197,54,191,35,15,0,1,0,41,0,31
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal Lyceum De Amersfoortse Berg,0307::SB32,,1479,833,1,2,0,0,0,726,113,3,0,3,0,0,839,102,45,7,125,22,160,45,200,31,17,3,0,1,43,0,32
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zon en Schild,0307::SB33,,447,132,0,0,0,0,0,126,6,0,0,0,0,0,132,7,14,5,17,9,20,13,24,7,2,3,0,0,9,0,2
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorgcentrum De Lichtenberg,0307::SB34,,335,127,0,0,0,0,0,108,19,0,0,0,0,0,127,13,21,1,23,7,34,6,7,6,0,0,0,0,5,0,4
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Bergkerk,0307::SB35,,1653,1421,2,2,0,0,6,1187,232,0,0,0,0,0,1425,213,123,6,417,6,234,49,162,44,14,0,1,2,71,0,79
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Nieuw-Apostolische kerk,0307::SB36,,1168,542,1,4,0,0,0,476,70,0,1,0,1,0,546,69,37,4,102,11,139,22,91,29,1,0,0,0,20,0,17
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Verpleeghuis Birkhoven,0307::SB37,,273,79,1,0,0,0,1,71,8,0,0,0,0,0,80,5,2,2,16,1,11,13,13,3,3,0,1,0,8,0,1
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Schoolgebouw De Kubus,0307::SB38,,1440,536,5,0,0,0,0,487,54,0,0,0,0,0,541,43,31,40,35,18,88,36,92,30,24,1,2,1,82,0,13
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Schoolgebouw de Magneet,0307::SB39,,1398,353,1,4,0,0,0,338,20,0,0,0,0,0,358,19,18,19,17,33,66,21,53,23,13,2,1,0,61,1,6
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Emmauskerk,0307::SB40,,1604,754,1,2,0,0,1,687,69,0,0,0,0,0,757,54,34,34,50,40,131,65,165,44,23,1,7,4,85,1,16
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Westerkerk,0307::SB41,,1382,444,2,1,0,0,0,389,58,0,0,0,0,0,447,39,22,14,27,19,85,61,103,20,4,0,2,1,29,0,18
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Woon- en zorgcentrum Puntenburg,0307::SB42,,1255,534,5,2,0,0,1,492,47,0,1,0,1,0,540,53,53,20,77,22,97,33,73,26,11,0,1,1,52,4,11
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Orthodoxe Parochie,0307::SB43,,1528,382,1,2,0,0,1,346,38,0,0,0,0,0,385,25,27,11,22,26,61,33,95,27,11,0,1,2,27,3,11
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Cafe de Plank,0307::SB44,,385,279,0,0,0,0,0,239,40,0,0,0,0,0,279,11,97,7,55,7,30,11,27,9,3,0,0,0,15,0,7
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Verenigingsgebouw Juliana en Bernhard,0307::SB45,,1175,542,1,0,0,1,2,486,54,0,1,0,0,0,542,54,24,21,67,35,115,37,75,22,13,0,9,0,58,1,11
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Apostolisch Genootschap,0307::SB46,,1196,418,1,1,0,0,1,365,54,0,0,0,0,0,420,33,24,7,37,24,63,40,70,24,11,0,48,0,24,1,12
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Societeitsruimte Seniorenflat,0307::SB47,,1412,817,0,0,0,0,2,740,75,0,0,0,0,0,817,66,105,16,111,28,145,87,114,35,19,0,10,3,65,1,12
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Meander Medisch Centrum,0307::SB48,,0,412,1,1,0,0,1,357,56,0,0,0,0,0,414,44,45,12,57,14,92,35,47,15,15,0,2,1,17,1,15
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Woon- en zorgcentrum De Koperhorst,0307::SB49,,1519,715,0,0,0,0,0,629,86,0,0,0,0,0,715,38,74,20,57,24,142,143,100,28,16,0,6,1,51,1,14
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Schoolgebouw De Zevensprong 1,0307::SB50,,1641,603,0,0,0,0,0,533,70,0,0,0,0,0,603,31,44,28,64,32,100,55,82,27,33,0,22,1,62,1,21
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Schoolgebouw De Zevensprong 2,0307::SB51,,1420,623,0,0,0,0,0,558,65,0,0,0,0,0,623,46,53,17,66,33,135,61,71,41,17,1,16,0,51,1,14
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Kerkelijk Centrum De Hoeksteen,0307::SB52,,769,500,0,0,0,0,0,500,0,0,0,0,0,0,500,31,44,20,47,23,78,77,74,26,20,1,6,1,40,1,11
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Schoolgebouw De Weesboom,0307::SB53,,1339,566,0,0,0,0,0,510,56,0,0,0,0,0,566,28,33,12,51,19,123,74,86,41,20,0,5,1,53,3,17
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Schoolgebouw De Drieslag,0307::SB54,,1142,378,0,0,0,0,0,337,41,0,0,0,0,0,378,27,24,7,35,11,76,27,77,27,14,0,7,0,36,3,7
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sporthal Zielhorst,0307::SB55,,1542,891,2,4,0,0,0,797,100,0,0,0,0,0,897,78,116,20,118,30,146,68,141,33,31,5,8,2,74,3,18
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Overseldert,0307::SB56,,1203,329,1,0,0,0,0,300,30,0,0,0,0,0,330,17,36,22,34,14,72,27,38,11,15,1,4,0,29,1,8
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Schoolgebouw De Zonnewijzer,0307::SB57,,1114,448,1,0,0,0,0,406,43,0,0,0,0,0,449,31,36,15,50,18,87,64,50,12,20,0,1,1,50,2,11
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Schoolgebouw De Kameleon,0307::SB58,,1068,556,0,0,0,0,0,501,55,0,0,0,0,0,556,44,45,19,71,18,113,55,84,15,13,2,17,0,51,3,6
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Kerkgebouw De Lichtkring,0307::SB59,,1543,732,2,2,0,0,0,680,55,0,1,0,1,0,735,64,76,13,96,25,138,74,120,28,34,0,0,2,44,1,17
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Kerkgebouw De Brandpunt,0307::SB60,,1280,930,2,2,0,0,1,849,84,0,0,0,0,0,934,89,86,20,140,25,186,86,117,40,29,0,1,2,89,3,17
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Mobiel Stembureau Het Pluspunt,0307::SB61,,1441,593,1,0,0,0,4,527,63,0,0,0,0,0,594,57,58,17,88,12,126,29,105,25,18,1,0,1,42,2,12
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Schoolgebouw De Meander,0307::SB62,,1293,664,0,2,0,2,4,598,62,0,2,0,0,0,664,88,42,10,101,18,122,37,132,27,16,3,4,1,48,1,14
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal Dopheide 1,0307::SB63,,1211,579,0,0,0,0,1,499,79,0,0,0,0,0,579,47,57,14,89,15,122,48,95,26,15,2,0,1,36,1,11
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymzaal Dopheide 2,0307::SB64,,1530,574,0,0,0,0,0,512,62,0,0,0,0,0,574,48,42,7,92,24,106,51,105,20,15,0,1,5,42,2,14
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Schoolgebouw De Dubbelster,0307::SB65,,1560,826,1,0,0,1,0,741,85,0,1,0,0,0,826,64,55,12,104,37,162,68,165,44,21,0,11,6,67,1,9
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Kerkgebouw De Inham,0307::SB66,,1574,848,1,0,0,0,1,747,101,0,0,0,0,0,849,57,98,16,147,35,132,81,133,29,30,0,3,2,65,0,20
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Faam,0307::SB67,,1623,866,1,0,0,0,0,776,91,0,0,0,0,0,867,70,94,19,146,19,161,76,113,28,33,2,7,3,79,3,13
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Neng,0307::SB68,,1673,908,0,0,0,0,2,805,101,0,0,0,0,0,908,74,160,19,116,28,190,71,92,28,46,4,1,1,60,0,18
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sporthal De Bieshaar 1,0307::SB69,,1549,786,0,2,0,0,0,693,95,0,0,0,0,0,788,56,107,9,122,29,160,62,89,25,30,0,1,0,84,1,11
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sporthal De Bieshaar 2,0307::SB70,,1507,793,1,0,0,0,0,698,96,0,0,0,0,0,794,63,105,25,114,21,156,48,106,24,27,0,3,1,78,3,19
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Schoolgebouw De Malelande,0307::SB71,,1507,867,0,1,0,0,0,755,114,0,0,1,0,1,869,90,86,17,199,17,147,78,110,17,26,0,1,1,55,0,23
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sporthal Nieuwland 1,0307::SB72,,1348,610,2,0,0,0,1,528,83,0,0,0,0,0,612,56,57,21,118,18,96,58,42,21,23,3,9,0,75,0,13
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sporthal Nieuwland 2,0307::SB73,,1626,613,0,0,0,0,4,518,91,0,0,0,0,0,613,48,60,21,115,22,81,63,65,18,31,0,17,2,52,5,13
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sporthal Nieuwland 3,0307::SB74,,1569,542,4,1,0,0,1,492,54,0,0,0,0,0,547,58,52,9,123,15,77,36,69,18,15,1,2,0,52,1,14
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sporthal Nieuwland 4,0307::SB75,,1402,533,1,1,0,1,2,466,68,0,0,1,0,0,536,61,55,11,95,18,92,44,43,15,17,2,4,0,68,0,8
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sporthal Nieuwland 5,0307::SB76,,1640,570,1,0,0,0,1,506,64,0,0,0,0,0,571,51,63,3,107,14,110,31,66,19,21,1,9,1,63,1,10
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Boogkerk,0307::SB77,,1607,829,1,0,0,1,2,732,97,0,0,1,0,0,831,64,102,7,147,12,107,165,78,34,19,0,5,0,69,3,17
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Informatiecentrum Vathorst,0307::SB78,,1833,744,0,2,0,0,3,646,98,1,0,1,0,0,747,93,60,12,224,6,100,70,63,19,20,2,6,0,52,1,16
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sporthal De Brink 1,0307::SB79,,1860,667,3,1,0,0,3,567,101,0,0,0,0,0,671,72,53,13,149,17,91,75,78,18,14,2,15,1,51,2,16
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sporthal De Brink 2,0307::SB80,,1667,556,0,1,0,0,0,475,82,0,0,0,0,0,557,39,48,10,132,13,68,72,52,17,11,0,14,0,58,0,22
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sporthal De Brink 3,0307::SB81,,1614,542,0,1,0,1,0,464,78,0,1,0,0,0,542,50,65,15,119,6,56,67,51,21,13,0,10,1,55,2,11
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Schoolgebouw De Gondelier,0307::SB82,,1667,572,2,0,0,0,3,492,79,0,0,0,0,0,574,72,58,10,129,11,82,36,65,16,15,1,5,0,52,3,17
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau St. Pieters en Bloklands Gasthuis,0307::SB83,,1650,723,0,2,0,0,1,642,83,0,0,1,0,1,726,74,69,14,137,26,85,79,79,30,22,4,16,2,71,1,14
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau ABC-school De Bron,0307::SB84,,1832,797,3,0,0,0,3,675,122,0,0,0,0,0,800,87,60,21,179,9,119,76,94,19,17,0,6,1,90,1,18
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau ICOON,0307::SB85,,1715,1173,0,2,0,0,1,1050,127,3,0,3,0,0,1178,109,93,24,239,38,184,125,146,36,32,2,8,3,102,3,29
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Woon- en zorgcentrum St. Jozef,0307::SB86,,1696,855,0,2,0,4,0,763,90,0,4,0,0,0,853,80,140,22,157,29,105,69,73,27,33,3,7,0,86,1,23
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Sporthal De Dissel,0307::SB87,,1619,716,1,0,0,2,0,630,85,0,2,0,0,0,715,62,93,16,183,21,94,72,63,17,24,1,8,0,49,1,12
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Feefa,0307::SB88,,361,152,0,1,0,0,0,138,15,0,0,0,0,0,153,10,28,1,27,3,15,38,2,5,1,1,0,0,17,0,4
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Station Ned. Spoorwegen,0307::SB89,,0,1272,7,2,0,0,17,1162,103,1,0,1,0,0,1282,155,85,15,168,26,195,54,363,69,12,1,12,5,53,2,57
+,Amersfoort,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau First Class Amersfoort,0307::SB90,,0,499,1,0,0,0,2,448,50,0,0,0,0,0,500,58,22,4,61,10,89,40,139,24,2,0,3,2,27,0,18

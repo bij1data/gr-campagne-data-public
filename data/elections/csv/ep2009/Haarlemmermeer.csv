@@ -1,0 +1,75 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,CDA - Europese Volkspartij,P.v.d.A./Europese Sociaaldemocraten,VVD - Europese Liberaal-Democraten,GROENLINKS,SP (Socialistische Partij),ChristenUnie-SGP,Democraten 66 (D66),Newropeans,Europa Voordelig! & Duurzaam,Solidara,Partij voor de Dieren,EUROPESE KLOKKENLUIDERS PARTIJ (EKP),De Groenen,PVV (Partij voor de Vrijheid),Liberaal Democratische Partij,Partij voor Europese Politiek (PEP),Libertas
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Raadhuis,0394::SB1,,1095,507,2,1,118,43,89,30,20,8,57,2,0,5,18,2,1,110,1,0,3
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Wijkcentrum ""De Silo""",0394::SB2,,1923,688,1,4,69,98,80,57,65,30,76,4,0,5,38,5,0,160,0,0,1
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau ""Kruiskerk""",0394::SB3,,1930,667,0,7,100,74,95,59,37,30,73,3,2,1,33,2,0,149,3,1,5
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Verz.huis ""Eijkenhove""",0394::SB4,,1808,700,1,0,108,65,129,35,40,38,86,2,3,7,32,11,1,140,1,2,0
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Verz.huis ""de Meerstede""",0394::SB5,,1168,446,1,0,112,34,62,21,19,18,41,2,1,2,20,0,1,112,1,0,0
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Huurders Haarl'meer,0394::SB6,,1324,514,0,0,82,58,78,41,27,23,47,1,0,0,29,4,0,120,0,1,3
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Verz.huis ""Horizon""",0394::SB7,,784,411,3,1,121,37,68,19,14,43,31,5,0,0,11,3,0,58,1,0,0
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau School ""de Flamingo""",0394::SB8,,1170,533,4,0,56,67,77,52,39,16,83,1,0,2,25,3,0,108,3,0,1
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Wijkcentrum ""de Boerderij""",0394::SB9,,1431,578,1,0,83,72,88,58,42,24,50,1,0,4,24,4,2,122,0,0,4
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau ""1e Montessorischool""",0394::SB10,,1356,603,1,3,84,63,88,77,45,16,74,9,0,1,24,6,1,111,1,0,3
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Verpl.kliniek ""Bornholm""",0394::SB11,,1866,757,3,1,88,75,144,59,25,28,115,4,0,4,39,3,2,166,2,0,3
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau School ""Vesterhavet""",0394::SB12,,1499,554,1,3,45,74,84,46,51,18,84,3,0,3,40,4,0,98,0,0,4
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Wijkcentrum ""'t Kattegat""",0394::SB13,,1643,562,1,1,79,62,78,43,57,31,55,6,0,1,39,6,1,100,2,0,2
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau ""IJwegschool""",0394::SB14,,1509,635,2,1,62,62,111,76,33,39,85,2,0,6,26,1,0,124,0,0,8
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Kerkcentrum ""de Ark""",0394::SB15,,1615,511,2,1,54,79,30,51,45,13,44,4,2,1,30,5,1,149,1,0,2
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Soc.cult. ""de Boskern""",0394::SB16,,1563,471,0,3,47,48,73,49,42,16,56,3,0,6,31,4,0,96,0,0,0
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau School ""de Bosbouwers""",0394::SB17,,1703,525,2,1,63,67,51,40,51,26,31,4,0,4,24,0,2,153,4,0,5
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau ""Leri Crystal""",0394::SB18,,1782,610,1,1,68,65,101,46,43,25,85,8,0,1,28,2,1,128,5,2,2
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau School ""De Tovercirkel""",0394::SB19,,1581,543,5,1,55,74,74,55,39,29,54,2,0,2,40,1,1,112,0,0,5
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Soc.cult. ""de Veste""",0394::SB20,,2196,805,1,0,100,84,168,79,47,23,110,5,0,13,18,6,0,141,2,0,9
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Herbert Vissers College,0394::SB21,,1287,474,1,2,102,41,81,23,28,21,56,1,0,0,20,0,1,99,0,0,1
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau ""Joh. Weststeijnschool""",0394::SB22,,1355,526,1,1,107,32,88,38,23,47,40,3,0,3,19,2,0,123,0,0,1
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau ""Trefpunt""",0394::SB23,,1175,382,0,0,100,15,54,20,22,36,27,1,0,0,13,2,0,91,0,1,0
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau ""Rehobothschool""",0394::SB24,,1466,535,1,0,148,42,60,21,23,58,36,2,1,0,16,7,1,117,2,0,1
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Verz.huis ""Westerkim""",0394::SB25,,1463,678,0,2,201,54,107,27,25,59,66,2,0,1,23,1,0,109,1,1,1
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Wijkgebouw ""Linquenda""",0394::SB26,,1536,690,0,2,80,74,113,56,52,29,89,6,1,0,21,3,1,160,0,0,5
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau School ""de Polderrakkers""",0394::SB27,,1503,574,0,2,77,61,88,48,46,25,55,3,1,0,24,3,0,137,2,0,4
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dorpshuis ""Het Praatpunt""",0394::SB28,,774,332,0,0,69,15,44,14,34,21,20,0,0,3,11,2,0,99,0,0,0
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau ""St. Willibrordusschool""",0394::SB29,,356,168,0,0,57,3,43,4,11,5,16,0,0,0,6,0,0,18,1,0,4
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Clubhuis vv ""Kagia""",0394::SB30,,1453,619,0,0,107,32,71,29,38,101,59,1,1,1,14,6,0,156,0,0,3
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dorpshuis ""de Meerkoet""",0394::SB31,,1202,470,0,0,70,35,58,23,33,71,34,4,1,0,14,0,0,120,4,1,2
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dorpshuis ""het Eiland""",0394::SB32,,674,276,1,1,38,15,56,10,8,8,17,4,0,0,23,3,0,92,2,0,0
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dorpshuis ""de Oase""",0394::SB33,,1337,514,0,0,93,26,114,38,18,27,43,1,0,2,23,2,1,121,1,0,4
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dorpshuis ""'t Oude Fort""",0394::SB34,,440,211,0,0,38,16,43,9,12,6,31,0,0,1,10,0,0,44,0,0,1
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau ""Cruquiushoeve""",0394::SB35,,323,74,0,0,18,12,9,6,1,6,5,0,0,0,1,0,0,15,0,1,0
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Clubhuis sportver. D.S.O.V.,0394::SB36,,2098,934,0,0,161,80,156,75,45,26,137,4,1,0,33,6,4,191,5,0,10
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Veren.gebouw ""de Luifel""",0394::SB37,,1195,506,0,0,91,24,65,35,32,21,55,4,0,1,27,6,2,140,3,0,0
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau School ""Aldoende""",0394::SB38,,1113,406,0,2,42,45,51,20,19,6,38,0,1,1,18,3,0,157,1,0,4
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Wielerclub ""de Bataaf""",0394::SB39,,946,303,1,1,39,28,30,12,19,13,15,0,0,0,16,2,1,126,0,0,2
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Verz.huis ""Eigen Haard""",0394::SB40,,1414,510,6,0,112,45,62,29,22,9,33,2,0,0,19,2,0,172,2,0,1
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Cult. centr. ""De Olm""",0394::SB41,,1346,472,0,0,81,46,59,31,26,9,36,0,0,0,21,6,2,152,1,0,2
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Clubhuis ""v.v. Zwanenburg""",0394::SB42,,1135,386,0,0,61,37,43,24,13,0,17,0,0,0,20,2,0,168,0,0,1
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dorpshuis ""de Vluchthaven""",0394::SB43,,751,314,1,1,47,15,59,23,13,3,19,3,0,0,12,2,0,115,0,1,2
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau ""Schuilhoeve""",0394::SB44,,1958,822,0,0,126,114,126,41,29,4,65,1,0,3,34,5,1,268,5,0,0
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Verz.huis ""Meerwende""",0394::SB45,,998,577,1,0,148,38,157,21,12,10,63,3,4,0,11,3,0,105,2,0,0
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau ""Dr. Plesmanschool""",0394::SB46,,1168,468,0,1,46,32,107,51,28,9,74,2,0,0,21,2,0,95,0,1,0
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dorpshuis ""Het Dorpshuis""",0394::SB47,,1368,545,2,3,85,55,97,19,24,9,63,2,0,0,26,0,2,162,0,0,1
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau ""Karavanserai""",0394::SB48,,2001,916,1,0,109,84,198,71,21,5,184,8,1,0,40,1,2,186,4,0,2
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau ""Tyndale"" Seminary",0394::SB49,,1190,496,1,0,76,29,90,31,22,13,69,3,0,0,21,3,3,134,1,1,0
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Verenigingsgebouw ""Rehoboth""",0394::SB50,,320,151,0,1,14,8,36,6,7,2,15,3,0,1,4,0,0,54,1,0,0
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Buurthuis ""Het Dijkhuis""",0394::SB51,,542,195,1,0,34,14,28,6,6,17,12,2,1,0,13,8,0,51,2,0,1
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Luchthaven Schiphol (Plaza),0394::SB52,,0,42,0,0,5,0,3,6,2,2,14,0,0,0,4,1,0,4,1,0,0
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau ""De Zevensprong""",0394::SB53,,1610,606,3,0,153,47,112,12,34,37,34,1,0,0,36,4,1,132,0,1,2
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dorpshuis ""de Reede""",0394::SB54,,1559,625,0,0,134,54,94,29,28,41,52,3,1,0,22,3,0,162,0,0,2
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dorpshuis ""Marijke""",0394::SB55,,451,215,0,1,68,11,42,12,5,10,10,0,0,0,4,2,0,50,0,0,1
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dorpshuis ""de Kern""",0394::SB56,,442,193,1,0,49,11,34,6,6,14,13,3,0,0,2,2,0,48,5,0,0
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Kath. Scholengemeenschap,0394::SB57,,1262,401,1,0,54,32,52,26,37,8,60,1,1,0,25,2,1,101,0,0,1
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau School ""het Kompas""",0394::SB58,,1955,704,2,2,87,95,105,62,49,26,98,5,1,1,29,5,0,128,3,1,9
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Soc.cult. ""Amazone""",0394::SB59,,1929,671,0,2,104,74,102,53,43,33,84,7,0,2,26,7,6,129,1,0,0
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Soc.cult. ""Amazone""",0394::SB60,,2046,710,1,2,83,86,128,56,44,26,106,5,0,1,28,3,0,138,4,0,2
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Kerkelijk centrum ""De Lichtkring""",0394::SB61,,1448,542,0,0,105,54,86,32,36,17,53,2,1,9,17,1,1,127,1,0,0
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Woonvoorziening Getsewoud,0394::SB62,,1743,681,0,0,97,52,148,38,41,17,103,4,1,3,32,5,2,135,1,1,1
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Openbare Bibliotheek,0394::SB63,,1578,457,0,0,56,50,77,42,30,19,57,3,0,2,18,4,2,97,0,0,0
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau ""Schoollokalen""",0394::SB64,,1900,552,3,3,57,65,111,42,39,29,56,5,1,4,27,2,1,106,3,0,4
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau 65 Gymzaal bij scholen,0394::SB65,,1891,666,1,2,99,45,156,47,24,24,101,2,0,1,40,0,2,119,4,1,1
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau 66 Gymzaal bij scholen,0394::SB66,,1981,646,2,4,85,51,123,54,33,41,69,3,1,2,32,4,2,142,2,0,2
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau 67 Gymzaal bij scholen,0394::SB67,,1925,602,0,0,102,43,95,40,26,27,84,8,0,0,33,3,0,138,2,0,1
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Openbare Bibliotheek,0394::SB68,,2102,603,0,2,80,69,92,47,40,16,73,4,0,6,31,2,3,138,0,0,2
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau KDV Het Kootertje,0394::SB69,,1769,590,1,1,62,54,121,37,38,23,73,7,0,2,24,4,0,135,8,0,2
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Openbare Bibliotheek,0394::SB70,,2010,579,0,2,67,65,126,40,27,16,89,3,0,1,31,3,1,104,2,2,2
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau ""Het Braambos""",0394::SB71,,1668,519,1,0,48,61,101,44,27,12,78,2,0,5,26,2,1,108,3,0,1
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School 'de Optimist',0394::SB72,,1854,593,1,0,67,56,116,43,31,15,97,0,1,8,27,4,0,126,2,0,0
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau School 'Merlijn',0394::SB73,,1474,471,3,1,65,32,105,29,18,25,66,3,0,3,19,1,1,102,0,0,2
+,Haarlemmermeer,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Wijkcentrum ""Floriande""",0394::SB74,,1781,529,2,0,82,62,87,27,19,8,75,1,0,2,37,2,1,124,2,0,0

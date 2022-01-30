@@ -1,0 +1,63 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,CDA - Europese Volkspartij,P.v.d.A./Europese Sociaaldemocraten,VVD - Europese Liberaal-Democraten,GROENLINKS,SP (Socialistische Partij),ChristenUnie-SGP,Democraten 66 (D66),Newropeans,Europa Voordelig! & Duurzaam,Solidara,Partij voor de Dieren,EUROPESE KLOKKENLUIDERS PARTIJ (EKP),De Groenen,PVV (Partij voor de Vrijheid),Liberaal Democratische Partij,Partij voor Europese Politiek (PEP),Libertas
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Stadhuis,0546::SB1,,1223,1141,14,3,100,106,147,207,58,24,341,6,1,5,59,4,2,74,4,1,2
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Rijksmuseum van Oudheden,0546::SB2,,1603,1184,7,1,64,107,151,209,45,27,421,13,1,2,73,1,4,52,8,0,6
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Regionaal Archief Leiden,0546::SB3,,1411,720,4,12,54,68,101,131,35,16,226,8,2,1,26,1,0,43,7,0,1
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau woon- en zorgcentrum ""'t Huis op de Waard""",0546::SB4,,1331,517,4,1,33,60,55,107,38,22,126,0,0,0,25,1,1,39,4,1,5
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau De Meelbox (Nieuw Groenhoven),0546::SB5,,1208,403,1,0,22,63,24,81,30,9,77,6,0,2,24,3,5,54,0,0,3
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Leger des Heils,0546::SB6,,1597,767,6,2,51,82,76,158,52,17,227,8,1,0,38,2,4,40,5,1,5
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Het Hooglandse Huys,0546::SB7,,1425,555,5,0,45,56,60,101,36,19,168,8,0,1,21,1,3,26,3,1,6
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Het Hooglandse Huys,0546::SB8,,1539,705,4,1,48,64,86,118,42,34,224,11,2,1,31,2,1,33,3,3,2
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Stadsbouwhuis,0546::SB9,,1541,816,2,1,43,113,84,159,55,25,199,13,3,1,36,4,3,65,8,0,5
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Wijkgebouw Marehuis,0546::SB10,,1345,668,2,1,39,90,88,134,42,13,193,6,0,0,22,0,5,32,4,0,0
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Het Leidse Volkshuis,0546::SB11,,1078,485,4,1,39,46,82,82,27,10,150,3,1,1,14,0,0,21,5,1,3
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Morspoortkazerne,0546::SB12,,1539,755,6,0,50,98,66,154,55,28,183,12,0,3,49,2,1,45,3,3,3
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Speeltuinvereniging Morschkwartier,0546::SB13,,1329,644,2,0,44,102,37,129,49,19,128,10,0,0,33,2,1,86,1,0,3
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Serviceflat Schouwenhove,0546::SB14,,1342,617,1,2,90,97,76,66,44,19,78,5,0,0,33,5,0,100,1,1,2
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau ID College,0546::SB15,,1095,274,8,0,18,35,15,48,26,10,39,4,0,0,6,1,1,69,1,0,1
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Wijkplaats Protestantse Maranathawijkgemeente,0546::SB16,,1545,418,0,4,45,57,36,59,47,12,58,0,0,0,12,1,0,82,8,0,1
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Libertas Leiden, locatie De Robijn",0546::SB17,,1246,553,0,0,99,79,52,57,39,15,73,0,0,0,31,3,0,98,4,1,2
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Bonaventuracollege,0546::SB18,,1101,582,4,1,46,91,60,127,27,12,149,9,1,0,14,2,2,34,4,0,4
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau De Leidse Houtschool,0546::SB19,,1254,854,2,3,74,133,96,170,32,12,253,4,0,1,32,3,2,40,1,0,1
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau SBO School De Vuurvogel,0546::SB20,,1491,621,4,0,40,75,66,145,32,12,169,5,2,1,25,5,1,40,1,0,2
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Informatiecentrum Nieuw Leyden,0546::SB21,,1827,462,1,0,24,59,32,130,28,5,125,6,0,1,14,2,1,31,2,0,2
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Dienstencentrum Rondedans,0546::SB22,,1543,416,6,0,18,51,23,87,47,20,67,4,1,2,16,2,4,70,1,1,2
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Verpleeghuis Overrhijn,0546::SB23,,1127,179,1,2,8,44,7,25,28,14,21,0,0,0,8,0,1,21,0,2,0
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Buurtcentrum ""Het Spoortje""",0546::SB24,,1300,376,1,3,18,49,14,50,54,25,63,3,0,3,24,3,0,65,4,0,1
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Dienstencentrum Zijloever,0546::SB26,,1711,340,0,1,19,49,28,42,37,10,48,3,2,2,19,1,1,76,1,0,2
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Marecollege,0546::SB27,,1100,198,3,0,13,27,12,20,38,4,27,1,0,0,6,1,2,46,0,0,1
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Buurtcentrum De Kooi,0546::SB28,,1480,376,1,0,22,52,20,56,33,8,34,0,0,1,26,2,1,118,0,0,3
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Buurthuis 't Schippertje,0546::SB29,,1516,465,2,0,42,63,13,78,50,6,73,5,0,1,27,1,2,101,0,1,2
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau RK Zorgcentrum Roomburgh,0546::SB30,,1258,504,0,4,74,66,30,89,39,12,78,3,0,1,24,4,1,76,2,2,3
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Buurtcentrum Matilo,0546::SB31,,1430,721,1,0,72,76,139,80,31,9,175,3,0,0,42,3,0,91,0,0,0
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Stedelijk Gymnasium Leiden,0546::SB32,,1650,890,1,1,73,122,88,187,56,16,233,10,1,0,44,3,3,48,1,1,4
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau RK Basischool Sint Joseph,0546::SB33,,1631,944,5,1,92,131,107,189,54,14,242,6,0,0,42,3,2,58,1,2,1
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Zorgcentrum Lorentzhof,0546::SB35,,1630,890,4,0,79,147,84,173,33,16,260,4,0,0,35,0,2,49,4,0,4
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Het Trefpunt,0546::SB36,,1662,755,1,3,100,94,70,125,52,23,162,3,2,0,38,3,1,73,2,2,5
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau ROC Leiden,0546::SB37,,1199,407,0,0,47,41,42,68,36,9,69,4,0,0,26,2,0,61,1,0,1
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Speeltuinvereniging ""Zuiderkwartier""",0546::SB38,,1381,433,1,1,23,64,23,76,52,3,83,1,0,1,28,3,0,71,1,0,4
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Christelijke Wijkvereniging ""Staalwijk""",0546::SB40,,1463,803,2,2,38,106,64,177,62,10,233,2,0,0,47,3,3,50,6,2,0
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Woonzorgcentrum Groenhoven,0546::SB41,,1599,840,4,0,56,109,98,172,36,12,264,4,1,0,37,2,3,34,9,1,2
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Speeltuinvereniging Westerkwartier,0546::SB42,,1103,421,1,1,20,45,41,91,38,10,73,2,0,0,29,2,0,67,3,0,0
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau ROC Leiden,0546::SB43,,1384,564,1,1,34,78,57,118,45,17,145,5,0,0,16,2,0,39,6,1,1
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Speeltuinvereniging De Vijf Hoven,0546::SB44,,1693,491,3,1,38,86,34,67,69,10,85,2,0,0,11,4,2,82,1,0,0
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Stichting Rosenburch,0546::SB45,,1724,694,3,1,74,98,58,94,63,18,135,2,0,0,32,2,0,110,3,1,4
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Libertas Leiden, locatie ""Rijn en Vliet""",0546::SB47,,1351,306,0,2,35,72,14,35,41,8,29,1,0,0,18,4,0,47,1,0,1
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Verpleeghuis Zuydtwijck,0546::SB48,,1594,645,2,0,77,98,63,93,41,9,105,2,1,0,33,4,2,114,1,0,2
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Woonzorgcentrum Haagwijk,0546::SB49,,1764,583,2,0,105,76,50,52,51,23,73,7,0,0,30,2,1,105,4,0,4
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Libertas Leiden, locatie ""Parelvissers""",0546::SB50,,1399,469,1,0,75,57,34,42,44,26,50,3,0,0,24,2,0,107,1,0,4
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Het Vlietland College,0546::SB51,,1490,628,1,1,109,64,78,59,50,24,80,2,0,0,27,4,0,127,3,1,0
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau St. platform Vluchtelingenorganisaties Leiden,0546::SB52,,1777,404,0,3,29,61,18,60,71,15,32,5,1,1,23,0,1,86,1,0,0
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau RK basisschool De Tweemaster,0546::SB54,,1453,519,1,1,38,98,42,91,28,11,147,3,2,1,14,1,3,38,1,0,1
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Sporthal Broekplein,0546::SB55,,1410,854,2,1,65,131,106,133,38,40,223,6,2,0,25,5,4,72,2,1,1
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau OBS De Dukdalf,0546::SB56,,1256,573,1,5,46,81,63,86,33,14,159,0,0,2,21,1,0,62,2,0,3
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Dependance Rk basisschool ""De Tweemaster""",0546::SB57,,1188,729,0,1,79,123,90,109,48,15,165,3,0,1,18,1,1,72,2,0,2
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Kerkelijk Centrum ""De Regenboog""",0546::SB58,,1539,795,3,2,97,114,84,91,62,26,147,2,1,1,23,3,3,134,3,1,3
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau LTV De Merenwijk,0546::SB59,,1678,641,5,0,70,109,82,82,60,18,107,8,0,0,20,2,0,82,1,0,0
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Buurtcentrum Stevenshof,0546::SB60,,1673,601,4,2,44,96,52,86,50,14,88,1,1,1,33,3,1,126,1,0,4
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Speeltuinvereniging Stevenshof,0546::SB61,,1689,508,0,0,38,89,42,67,46,11,74,4,0,4,16,5,2,104,2,0,4
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau OBS De Stevenshof,0546::SB62,,1262,346,0,2,35,65,27,34,36,6,30,3,0,0,12,0,0,97,1,0,0
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau Prot. Chr. basisschool De Zwaluw,0546::SB63,,1513,549,1,0,55,89,44,71,46,19,89,2,0,0,30,4,0,97,2,0,1
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,"Stembureau Sociëteit ""de Dobbegaarde""",0546::SB64,,1637,569,2,3,65,92,54,51,61,15,82,8,0,2,18,3,1,113,3,0,1
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau OBS Anne Frank,0546::SB65,,1307,455,0,0,31,84,42,52,40,12,71,3,0,0,33,5,0,80,1,0,1
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau OBS De Arcade,0546::SB66,,1530,630,1,1,61,70,102,88,30,17,144,4,0,1,14,3,0,93,1,0,2
+,Leiden,EP2009,Verkiezing van Europees Parlement 2009,,,2009-06-04,Stembureau NS Station Leiden Centraal,0546::SB100,,0,902,3,0,50,139,91,218,38,36,246,14,0,1,22,4,1,34,3,0,5

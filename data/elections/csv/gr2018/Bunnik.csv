@@ -1,0 +1,9 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Perspectief 21,De Liberalen,CDA
+,Bunnik,GR2018_Bunnik,Gemeenteraad Bunnik 2018,0312,Bunnik,2018-03-21,Stembureau Camminghaschool,0312::SB1,3981 XD,1239,950,6,2,0,0,0,873,85,0,0,0,0,0,958,501,233,216
+,Bunnik,GR2018_Bunnik,Gemeenteraad Bunnik 2018,0312,Bunnik,2018-03-21,Stembureau MFA Kersentuin,0312::SB2,3981 GD,1296,993,9,2,0,0,0,921,83,0,0,0,0,0,1004,456,282,255
+,Bunnik,GR2018_Bunnik,Gemeenteraad Bunnik 2018,0312,Bunnik,2018-03-21,Stembureau Bunninchem,0312::SB3,3981 EJ,1431,985,14,5,0,4,0,938,70,0,0,4,0,0,1008,506,239,240
+,Bunnik,GR2018_Bunnik,Gemeenteraad Bunnik 2018,0312,Bunnik,2018-03-21,Stembureau Prikkebeen,0312::SB4,3981 WC,1363,793,10,3,0,0,0,743,63,0,0,0,0,0,806,396,204,193
+,Bunnik,GR2018_Bunnik,Gemeenteraad Bunnik 2018,0312,Bunnik,2018-03-21,Stembureau RK Parochie,0312::SB5,3984 JA,1438,873,15,2,0,0,0,831,59,0,0,0,0,0,890,399,221,253
+,Bunnik,GR2018_Bunnik,Gemeenteraad Bunnik 2018,0312,Bunnik,2018-03-21,Stembureau Gemeentehuis,0312::SB6,3984 NC,1466,977,12,4,0,2,0,907,88,0,0,2,0,0,995,447,307,223
+,Bunnik,GR2018_Bunnik,Gemeenteraad Bunnik 2018,0312,Bunnik,2018-03-21,Stembureau Dorpshuis,0312::SB7,3984 MA,1602,1021,11,3,0,0,0,946,89,0,0,0,0,0,1035,410,311,300
+,Bunnik,GR2018_Bunnik,Gemeenteraad Bunnik 2018,0312,Bunnik,2018-03-21,Stembureau Nieuw Werchinge,0312::SB8,3985 RM,1932,1144,13,4,0,0,0,1054,107,0,0,0,0,0,1161,387,190,567

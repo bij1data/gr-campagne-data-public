@@ -1,0 +1,23 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,VVD,Partij van de Arbeid (P.v.d.A.),PVV (Partij voor de Vrijheid),Christen Democratisch Appèl (CDA),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,ChristenUnie,Staatkundig Gereformeerde Partij (SGP),Partij voor de Dieren,Piratenpartij,Partij voor Mens en Spirit (MenS),Nederland Lokaal,Libertarische Partij (LP),Democratisch Politiek Keerpunt DPK,50PLUS,Liberaal Democratische Partij (LibDem),Anti Europa Partij,SOPN,Partij van de Toekomst (PvdT)
+Middelburg,Goes,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum Gasthuis,0664::SB1,,1480,1208,9,3,293,307,81,143,113,81,25,48,67,24,3,5,0,1,2,14,0,0,1,0
+Middelburg,Goes,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum Ter Valcke,0664::SB2,,1316,1032,2,0,219,261,68,125,68,58,11,43,137,17,1,3,0,0,1,16,0,2,1,1
+Middelburg,Goes,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kerkgebouw de Hoeksteen,0664::SB3,,1263,1089,1,1,303,198,35,104,62,80,21,125,126,14,2,3,0,0,0,16,0,0,0,0
+Middelburg,Goes,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum Randhof,0664::SB4,,1330,961,1,2,136,275,88,90,85,67,18,55,106,16,1,0,1,0,1,19,0,1,1,1
+Middelburg,Goes,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadskantoor,0664::SB5,,1365,1260,3,8,359,323,106,96,138,82,29,37,36,18,11,0,0,1,1,17,0,1,4,1
+Middelburg,Goes,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum de Westkant,0664::SB6,,1328,847,2,1,168,236,108,65,107,45,14,42,28,14,5,0,0,0,0,13,0,0,0,2
+Middelburg,Goes,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kantine openbare Ruimte,0664::SB7,,1812,761,1,1,101,255,94,44,111,27,16,33,35,16,1,1,1,0,1,15,2,1,6,1
+Middelburg,Goes,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wooncentrum Erasmuspark,0664::SB8,,1521,1204,1,3,164,383,113,98,165,52,36,79,52,31,5,4,0,2,0,13,2,1,4,0
+Middelburg,Goes,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum de Spinne,0664::SB9,,1655,1197,5,3,153,403,114,67,180,70,28,62,40,29,3,3,1,1,2,29,1,1,9,1
+Middelburg,Goes,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum de Pit,0664::SB10,,1328,1054,2,2,152,353,94,111,134,50,24,38,48,23,1,5,1,0,3,12,0,0,3,2
+Middelburg,Goes,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum Ter Weel,0664::SB11,,1358,986,0,0,180,272,82,123,104,63,17,42,58,17,5,3,1,0,2,17,0,0,0,0
+Middelburg,Goes,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Brede School de Symfonie,0664::SB12,,1147,884,4,0,289,232,56,74,63,72,16,38,19,10,1,1,0,0,0,11,0,0,0,2
+Middelburg,Goes,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Seniorensociëteit de Legerdiek,0664::SB13,,1159,695,1,2,181,160,57,55,98,49,17,22,23,15,2,2,0,0,1,11,0,0,2,0
+Middelburg,Goes,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Serviceflat De Horst,0664::SB14,,1149,759,1,1,162,118,39,79,59,44,6,33,196,10,1,1,1,0,0,10,0,0,0,0
+Middelburg,Goes,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Emergis,0664::SB15,,1293,1024,0,1,281,251,62,122,78,67,28,54,49,8,1,0,0,0,0,20,0,0,2,1
+Middelburg,Goes,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dorpshuis Amicitia,0664::SB16,,1324,1134,4,0,290,279,81,112,104,70,20,42,89,24,4,1,0,0,0,17,0,0,1,0
+Middelburg,Goes,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dorpshuis het Wilheminahuis,0664::SB17,,1393,1106,2,2,551,166,47,84,48,84,18,36,46,7,0,3,0,0,3,13,0,0,0,0
+Middelburg,Goes,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dorpshuis het Blokhuis,0664::SB18,,441,358,0,0,92,90,37,28,32,27,8,14,9,12,3,1,0,0,0,5,0,0,0,0
+Middelburg,Goes,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dorpshuis De Griffioen,0664::SB19,,1718,1333,0,1,312,272,125,151,127,71,27,32,152,36,2,1,0,4,2,15,0,0,3,1
+Middelburg,Goes,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dorpshuis Heer Hendrikhuis,0664::SB20,,908,727,0,3,195,142,43,110,58,47,23,20,69,6,0,0,0,0,4,10,0,0,0,0
+Middelburg,Goes,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zorgcentrum Poelwijck,0664::SB21,,1298,964,2,2,258,214,93,99,83,65,35,45,41,9,1,1,0,1,1,16,1,0,0,1
+Middelburg,Goes,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Serviceflat de Schakel,0664::SB22,,1373,979,1,0,271,227,69,104,102,63,24,36,46,19,0,0,1,0,2,14,1,0,0,0

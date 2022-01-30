@@ -1,0 +1,88 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_kwijtgeraakte stembiljetten,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,CDA - Europese Volkspartij,PVV (Partij voor de Vrijheid),P.v.d.A./Europese Sociaaldemocraten,VVD,Democraten 66 (D66) - ALDE,GROENLINKS,SP (Socialistische Partij),ChristenUnie-SGP,Artikel50,"IQ, de Rechten-Plichten-Partij",Piratenpartij,50PLUS,De Groenen,Anti  EU(ro)  Partij,Liberaal Democratische Partij,JEZUS LEEFT,ikkiesvooreerlijk.eu,Partij voor de Dieren,Aandacht en Eenvoud
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau oude stadhuis,0307::SB1,,944,700,3,1,0,0,4,631,69,0,0,0,0,0,0,704,47,41,73,62,175,115,63,40,5,0,16,4,8,1,0,1,3,45,1
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Ichthuskerk,0307::SB2,,1118,398,2,1,0,0,0,353,48,0,0,0,0,0,0,401,56,34,39,34,88,61,29,19,1,0,4,5,1,0,1,0,0,26,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau de Gerfkamer,0307::SB3,,1217,511,2,0,0,0,2,475,36,0,0,0,0,0,0,513,38,12,47,57,136,96,39,25,2,0,9,5,5,0,0,0,5,34,1
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Armen de Poth,0307::SB4,,1264,549,2,0,0,0,0,495,56,0,0,0,0,0,0,551,32,52,47,55,112,93,57,37,3,0,5,10,1,1,0,3,0,41,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau schoolgebouw de Vlindervallei,0307::SB5,,1326,556,1,2,0,0,0,505,54,0,0,0,0,0,0,559,40,57,68,30,111,52,76,46,4,0,5,16,5,0,0,5,1,39,1
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Adventkerk,0307::SB6,,1511,361,0,0,0,0,0,319,42,0,0,0,0,0,0,361,38,44,49,22,53,35,54,37,1,0,5,2,0,0,0,0,0,19,2
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau verpleeghuis St. Elisabeth,0307::SB7,,1400,461,2,0,0,0,1,417,45,0,0,0,0,0,0,463,51,75,67,23,79,36,50,38,3,1,5,11,0,2,0,3,0,17,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau schoolgebouw de Tinne,0307::SB8,,1152,399,0,1,0,0,2,358,40,0,0,0,0,0,0,400,47,56,32,28,80,29,35,61,2,0,4,10,0,1,0,2,1,11,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau de Bron I,0307::SB9,,1301,355,2,1,0,0,1,333,24,0,0,0,0,0,0,358,47,60,46,26,42,14,29,47,0,0,2,10,2,3,1,1,0,23,2
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau de Bron II,0307::SB10,,1256,494,9,0,0,0,2,471,30,0,0,0,0,0,0,503,50,65,50,30,63,41,62,81,1,0,3,13,0,0,0,3,0,32,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau woon- en zorgcentrum de Liendert,0307::SB11,,1378,431,0,2,0,0,1,393,39,0,0,0,0,0,0,433,74,71,40,26,56,24,45,50,1,0,3,21,0,1,0,0,0,17,2
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau sporthal Rustenburg,0307::SB12,,1114,355,0,0,0,0,0,324,31,0,0,0,0,0,0,355,31,61,28,24,42,32,75,33,1,0,5,6,1,3,1,0,1,11,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Burgemeester Molendijkflat,0307::SB13,,1311,682,3,1,0,0,1,623,62,0,0,0,0,0,0,686,84,89,49,64,91,36,80,137,1,1,3,25,1,1,0,2,0,17,1
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau sporthal Schuilenburg,0307::SB14,,825,210,0,0,0,0,0,186,24,0,0,0,0,0,0,210,28,26,33,12,29,10,30,26,0,0,2,8,0,0,1,0,0,5,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau ABC school het Scala,0307::SB15,,1202,367,3,1,0,0,0,339,32,0,0,0,0,0,0,371,42,41,60,14,53,29,41,56,3,0,10,1,0,0,0,1,0,16,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau de Schuilenburght,0307::SB16,,912,501,3,3,0,0,2,463,42,0,0,0,0,0,0,507,90,38,40,74,103,29,17,71,2,0,2,18,3,0,0,0,0,13,1
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau prins Willem III-flat,0307::SB17,,1494,585,3,3,0,0,0,525,66,0,0,0,0,0,0,591,37,68,67,38,109,76,69,58,3,0,5,14,1,1,1,0,3,35,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau kerkgebouw de Kandelaar,0307::SB18,,1111,544,1,1,0,0,1,489,56,0,0,0,0,0,0,546,48,47,51,48,111,55,44,88,3,0,3,11,2,1,0,0,3,28,1
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau woon- en zorgcentrum Nijenstede,0307::SB19,,1471,554,2,2,0,0,2,500,56,0,0,0,0,0,0,558,79,44,55,44,118,44,41,79,0,0,7,11,1,1,1,2,2,25,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau wijkcentrum het Klokhuis,0307::SB20,,1251,458,0,0,0,0,0,415,43,0,0,0,0,0,0,458,49,50,46,28,72,45,57,67,1,1,4,12,3,0,0,2,0,21,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau sportfondsenbad,0307::SB21,,1583,696,1,1,0,0,0,607,91,0,0,0,0,0,0,698,35,44,95,59,168,150,50,39,6,0,6,16,1,1,0,1,1,23,1
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau schoolgebouw Guido de Brès,0307::SB22,,1482,800,3,0,0,0,1,696,106,0,0,0,0,0,0,803,68,15,112,69,208,151,62,69,4,1,4,11,2,0,1,0,2,21,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Burg. van Randwijckhuis,0307::SB23,,1452,599,2,1,0,0,0,539,63,0,0,0,0,0,0,602,59,40,81,75,130,35,42,92,2,0,4,15,3,2,0,2,0,17,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau seniorenflat Otto Scheltus,0307::SB24,,1047,396,1,0,0,0,0,352,45,0,0,0,0,0,0,397,42,30,32,51,97,36,35,28,4,0,9,6,0,0,1,4,0,20,1
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Martuskerk,0307::SB25,,1567,670,8,1,0,0,1,582,96,0,0,0,0,0,0,679,34,79,59,49,154,102,65,69,0,0,3,13,0,2,1,0,2,38,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau woon- en zorgcentrum de Amerhorst,0307::SB26,,1388,680,5,1,0,0,1,617,68,0,0,0,0,0,0,686,86,57,80,55,131,69,34,103,3,0,6,11,2,2,2,2,0,36,1
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Fonteinkerk,0307::SB27,,1362,703,3,0,0,0,1,614,91,0,0,0,0,0,0,706,76,55,56,92,183,84,24,90,1,0,3,7,0,1,1,1,0,29,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau sporthal Juliana van Stolberg,0307::SB28,,1412,686,4,2,0,0,1,623,68,0,0,0,0,0,0,692,61,51,67,54,133,121,77,44,3,0,5,23,2,0,2,0,0,43,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau St. Ansfriduskerk,0307::SB29,,1308,668,2,2,0,0,1,589,82,0,0,0,0,0,0,672,59,37,56,83,204,110,35,35,3,0,6,11,2,1,0,0,0,26,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau mobiel stembureau ROC Midden-Nederland,0307::SB30,,1366,764,3,0,0,0,2,677,88,0,0,0,0,0,0,767,66,52,55,94,207,111,53,57,1,1,3,13,1,1,2,4,2,41,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Zon en Schild,0307::SB31,,422,133,1,0,0,0,1,128,5,0,0,0,0,0,0,134,10,6,21,14,24,12,19,15,0,1,1,1,0,0,0,0,0,9,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau zorgcentrum de Lichtenberg,0307::SB32,,306,110,0,1,0,0,0,100,11,0,0,0,0,0,0,111,28,11,10,13,17,8,5,7,0,0,0,5,0,1,0,1,0,4,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Bergkerk,0307::SB33,,1548,1182,8,3,0,2,0,1029,167,0,0,0,3,0,1,1196,145,45,72,301,382,93,24,61,8,0,5,12,0,1,2,0,2,27,2
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Nieuw-Apostolische Kerk,0307::SB34,,1555,435,4,1,0,0,0,375,66,0,1,0,1,0,0,441,38,20,42,67,138,55,11,27,4,0,3,10,2,0,0,0,0,18,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau verpleeghuis Birkhoven,0307::SB35,,82,51,0,0,0,0,0,47,4,0,0,0,0,0,0,51,7,1,7,4,11,4,4,8,0,0,1,1,0,0,0,0,0,3,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau schoolgebouw de Kubus,0307::SB36,,1435,460,3,2,0,1,2,425,37,0,0,1,0,0,0,464,23,114,30,21,56,40,82,43,0,2,8,9,1,0,0,1,3,27,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau schoolgebouw de Magneet,0307::SB37,,1392,382,4,3,0,0,0,354,35,0,0,0,0,0,0,389,21,118,35,13,36,24,57,32,2,0,4,15,1,0,1,6,0,17,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Emmauskerk,0307::SB38,,1416,632,0,1,0,0,0,577,56,0,0,0,0,0,0,633,40,129,49,31,84,82,83,76,1,0,6,9,2,3,1,0,0,36,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Westerkerk,0307::SB39,,1563,431,1,0,0,0,1,380,51,0,0,0,0,0,0,432,30,67,30,13,67,80,39,66,0,0,4,2,3,2,0,0,0,28,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau woon- en zorgcentrum Puntenburg,0307::SB40,,1532,708,4,1,0,0,3,624,86,0,0,0,0,0,0,713,82,78,82,66,148,58,72,63,3,1,6,20,2,0,0,0,2,25,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau café Havana,0307::SB41,,1746,215,0,0,0,0,0,191,24,0,0,0,0,0,0,215,13,39,21,14,43,32,15,21,0,0,2,0,0,0,0,0,1,14,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau café De Plank,0307::SB42,,358,226,0,0,0,0,0,199,27,0,0,0,0,0,0,226,97,29,10,44,18,7,7,7,0,0,2,1,0,0,0,0,0,4,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau verenigingsgebouw Juliana en Bernhard,0307::SB43,,1089,432,2,0,0,0,2,383,49,0,0,0,0,0,0,434,33,47,44,53,95,43,57,37,3,0,2,7,1,0,0,0,1,9,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau schoolgebouw de Parel,0307::SB44,,1059,285,1,0,0,0,1,254,31,0,0,0,0,0,0,286,39,19,30,15,50,24,33,49,3,0,1,8,0,0,0,0,2,12,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau sociëteitsruimte seniorenflat,0307::SB45,,1474,727,4,3,0,0,0,670,64,0,0,0,0,0,0,734,89,62,77,80,120,66,79,92,3,0,3,28,1,1,1,2,0,23,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau woon- en zorgcentrum de Koperhorst,0307::SB47,,1328,643,3,2,0,0,2,592,54,0,0,0,0,0,0,648,102,51,67,45,80,54,60,127,1,0,4,13,0,1,2,1,0,35,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau schoolgebouw de Zevensprong I,0307::SB48,,1376,456,6,1,0,0,0,409,54,0,0,0,0,0,0,463,32,47,43,50,68,47,67,50,5,2,8,14,2,1,0,0,0,20,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau schoolgebouw de Zevensprong II,0307::SB49,,1396,597,1,3,0,0,0,562,39,0,0,0,0,0,0,601,52,71,66,45,89,43,105,62,8,0,3,15,0,3,0,2,0,31,2
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau kerkelijk centrum de Hoeksteen,0307::SB50,,1342,443,0,0,0,0,0,399,44,0,0,0,0,0,0,443,40,55,41,37,60,38,55,74,0,1,5,13,0,1,0,0,0,23,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau schoolgebouw de Weesboom,0307::SB51,,1268,550,4,0,0,0,1,495,58,0,0,0,0,0,0,554,35,42,72,38,101,73,75,70,2,0,4,7,3,3,0,0,1,22,2
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau schoolgebouw de Drieslag,0307::SB52,,1172,352,1,1,0,0,1,319,34,0,0,0,0,0,0,354,22,29,45,22,66,45,50,50,2,1,2,5,0,0,1,0,2,10,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau sporthal Zielhorst,0307::SB53,,1431,807,3,0,0,0,0,728,82,0,0,0,0,0,0,810,90,83,74,91,165,69,78,86,6,0,6,22,2,3,3,3,1,23,2
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Overseldert,0307::SB54,,1026,311,0,0,0,0,1,287,23,0,0,0,0,0,0,311,23,40,23,18,62,23,50,34,2,0,4,12,0,1,0,3,1,15,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau schoolgebouw de Zonnewijzer,0307::SB55,,1330,236,0,2,0,0,0,211,27,0,0,0,0,0,0,238,34,24,26,18,31,12,21,49,1,0,3,7,0,2,1,0,3,4,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau schoolgebouw de Kameleon,0307::SB56,,1139,567,2,1,0,3,0,504,69,0,0,0,3,0,0,573,44,57,62,61,122,46,49,72,4,0,3,12,0,1,5,3,0,25,1
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau kerkgebouw de Lichtkring,0307::SB57,,1369,631,0,2,0,1,1,568,63,0,0,1,0,0,0,632,69,52,71,70,118,51,62,104,2,0,2,4,0,1,0,1,3,21,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau kerkgebouw het Brandpunt,0307::SB58,,1269,760,1,0,0,0,1,730,30,0,0,0,0,0,0,761,66,72,85,93,165,67,56,78,7,0,4,23,1,1,0,0,4,37,1
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau mobiel stembureau het Pluspunt,0307::SB59,,1128,459,5,0,0,0,1,414,49,0,0,0,0,0,0,464,55,38,47,71,100,37,37,37,1,0,6,2,0,0,0,4,3,20,1
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau schoolgebouw de Meander,0307::SB60,,1422,645,2,0,0,0,2,556,89,0,0,0,0,0,0,647,49,55,82,78,174,82,41,42,8,0,2,6,2,3,2,1,0,17,1
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau gymzaal Dopheide I,0307::SB61,,1373,409,2,0,0,0,0,344,67,0,0,0,0,0,0,411,29,32,26,55,111,41,29,50,1,0,3,5,3,0,1,3,0,18,2
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau gymzaal Dopheide 2,0307::SB62,,1493,547,1,0,2,0,0,492,58,0,0,0,2,0,0,550,51,42,51,59,123,48,59,63,3,0,5,7,4,1,0,1,0,30,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau schoolgebouw de Dubbelster,0307::SB63,,1538,748,2,4,0,0,0,659,95,0,0,0,0,0,0,754,55,65,86,74,163,86,75,77,4,0,9,11,0,2,1,0,1,39,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau kerkgebouw de Inham,0307::SB64,,1334,738,4,0,0,0,2,677,63,0,0,0,0,0,0,742,110,56,57,68,139,85,70,76,3,0,5,16,1,4,1,1,1,42,3
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau de Faam,0307::SB65,,1322,481,3,0,0,0,0,425,59,0,0,0,0,0,0,484,73,35,37,74,118,37,37,39,1,2,4,12,0,0,0,1,0,9,2
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau de Malehoeve,0307::SB66,,1279,577,0,0,0,0,0,520,57,0,0,0,0,0,0,577,87,54,55,78,100,38,73,43,2,0,5,16,2,2,0,0,1,21,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau Martinuskerk,0307::SB67,,1126,657,0,0,0,0,3,600,54,0,0,0,0,0,0,657,159,59,49,93,93,45,52,54,1,0,7,15,2,1,2,0,0,25,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau sporthal de Bieshaar I,0307::SB68,,1537,569,3,0,0,0,0,521,51,0,0,0,0,0,0,572,109,45,38,84,108,45,46,43,3,1,4,16,2,1,0,6,0,18,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau sporthal de Bieshaar II,0307::SB69,,1316,586,2,2,0,0,1,510,79,0,0,0,0,0,0,590,71,48,56,87,120,50,50,50,4,0,7,14,0,0,2,0,1,26,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau schoolgebouw de Malelande,0307::SB70,,1584,832,1,3,0,0,2,727,107,0,0,0,0,0,0,836,106,56,54,153,220,64,42,69,3,0,10,7,0,0,6,2,1,39,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau sporthal Nieuwland I,0307::SB71,,1802,617,4,1,0,0,1,543,78,0,0,0,0,0,0,622,58,65,37,86,134,42,39,88,6,0,10,19,3,0,0,2,0,25,3
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau sporthal Nieuwland II,0307::SB72,,1745,613,3,2,0,0,0,531,86,0,0,1,0,0,0,617,60,62,47,100,133,35,46,79,4,0,6,11,1,3,0,0,2,24,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau sporthal Nieuwland III,0307::SB73,,1898,602,1,4,0,0,0,517,90,0,0,0,0,0,0,607,58,57,53,91,134,36,40,71,7,0,5,15,1,3,0,1,3,27,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau sporthal Nieuwland IV,0307::SB75,,1835,646,2,1,0,0,0,550,99,0,0,0,0,0,0,649,69,76,50,106,116,34,47,100,0,0,5,15,1,0,1,0,0,26,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau schoolgebouw de Wonderboom,0307::SB76,,1503,491,2,1,0,0,0,418,76,0,0,0,0,0,0,494,60,51,31,68,120,28,40,54,3,0,7,12,0,0,2,0,0,15,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau informatiecentrum Vathorst,0307::SB77,,1398,439,1,0,0,0,0,374,66,0,0,0,0,0,0,440,31,33,44,103,86,20,17,72,4,0,7,5,1,3,0,1,2,10,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau sporthal de Brink I,0307::SB78,,1301,586,0,1,0,0,0,498,89,0,0,0,0,0,0,587,46,62,33,109,147,28,53,76,2,0,5,5,0,0,1,2,1,16,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau sporthal de Brink II,0307::SB79,,1561,412,0,1,0,0,0,350,63,0,0,0,0,0,0,413,33,28,24,102,92,24,18,56,1,0,3,4,0,0,1,2,3,21,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau sporthal de Brink III,0307::SB80,,1527,305,0,1,0,0,0,256,51,0,0,0,1,1,0,307,31,33,25,56,59,9,25,41,2,1,2,4,0,4,0,2,1,10,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau schoolgebouw de Gondelier,0307::SB81,,1456,344,2,2,0,0,0,295,53,0,0,0,0,0,0,348,34,19,30,56,101,15,13,42,4,0,6,4,0,0,0,0,0,18,2
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau St. Pieters en Bloklands Gasthuis,0307::SB82,,1217,516,2,2,0,0,0,441,79,0,0,0,0,0,0,520,53,49,38,88,102,35,44,65,5,0,3,8,2,1,0,2,0,21,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau ABC-school de Bron,0307::SB83,,1313,411,0,2,0,0,2,343,68,0,0,0,0,0,0,413,33,26,40,90,115,23,18,44,5,1,5,1,2,0,0,3,0,5,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau ICOON theater,0307::SB84,,1541,748,1,1,0,0,3,655,92,0,0,0,0,0,0,750,74,75,64,129,162,40,58,73,5,0,6,13,2,1,1,1,0,43,1
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau woon- en zorgcentrum St. Jozef,0307::SB85,,1525,680,1,1,0,0,0,619,63,0,0,0,0,0,0,682,157,95,35,92,129,21,61,47,0,0,5,17,1,1,0,2,2,15,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau sporthal de Dissel,0307::SB86,,1527,493,1,0,0,0,0,430,64,0,0,0,0,0,0,494,50,36,34,103,113,17,33,67,1,0,11,3,1,1,0,1,0,21,1
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau het Eetpunt (voorheen Fuji Yama),0307::SB87,,295,132,0,1,0,0,0,114,19,0,0,0,0,0,0,133,28,16,7,15,10,3,8,37,0,0,0,2,0,2,0,0,0,4,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau stationshal Ned. Spoorwegen I,0307::SB88,,0,863,4,1,0,0,7,781,80,0,0,0,0,0,0,868,56,27,93,85,251,155,66,52,2,1,14,9,5,1,0,0,1,45,0
+,Amersfoort,EP2014,Europees Parlement 2014,,,2014-05-22,Stembureau stationshal Ned. Spoorwegen II,0307::SB89,,0,1021,3,0,0,0,4,945,76,0,1,0,1,0,0,1025,56,43,90,86,278,209,61,85,16,0,19,4,7,1,1,2,0,62,1

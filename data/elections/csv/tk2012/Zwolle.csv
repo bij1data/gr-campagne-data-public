@@ -1,0 +1,68 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,VVD,Partij van de Arbeid (P.v.d.A.),PVV (Partij voor de Vrijheid),Christen Democratisch Appèl (CDA),SP (Socialistische Partij),Democraten 66 (D66),GROENLINKS,ChristenUnie,Staatkundig Gereformeerde Partij (SGP),Partij voor de Dieren,Piratenpartij,Partij voor Mens en Spirit (MenS),Nederland Lokaal,Libertarische Partij (LP),Democratisch Politiek Keerpunt DPK,50PLUS,Liberaal Democratische Partij (LibDem),Anti Europa Partij,SOPN,Partij van de Toekomst (PvdT)
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadhuis,0193::SB1,8011 PK,1686,1515,8,2,417,386,46,72,114,282,58,68,9,36,6,3,0,0,0,10,1,0,4,3
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Lumeijn,0193::SB2,8019 AL,1734,1294,3,0,403,268,45,97,88,167,56,117,7,22,5,1,0,0,0,13,0,1,2,2
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum De Nieuwe Haven,0193::SB3,8011 AS,1137,629,4,3,74,185,77,69,64,49,18,36,5,25,10,1,1,0,2,12,0,1,0,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau GGD IJsselland,0193::SB4,8011 CV,1573,1099,1,0,211,313,26,49,93,186,65,102,6,29,11,1,0,0,0,4,0,0,3,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum De Enk,0193::SB5,8012 VA,1465,1485,5,1,179,493,46,40,197,204,96,142,9,50,7,6,1,1,0,10,0,0,4,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Het Mozaïek locatie De Mozadance,0193::SB6,8012 DJ,1479,1024,3,1,135,326,53,53,119,125,69,91,3,32,5,3,0,0,0,7,0,0,3,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum De Molenhof,0193::SB7,8012 EJ,1326,954,1,0,125,328,52,80,99,91,43,82,8,28,6,4,0,1,1,4,0,0,2,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Het Veldboeket,0193::SB8,8013 TV,1766,1195,3,3,133,408,97,45,191,92,51,109,10,36,6,6,0,0,0,8,0,0,2,1
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Vlieger,0193::SB9,8043 RL,1671,875,0,0,376,189,33,57,34,81,17,69,2,6,2,2,0,1,0,5,0,0,1,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Zalencentrum De Oosterkerk,0193::SB10,8021 AG,1431,1075,3,0,223,320,53,73,82,137,40,80,11,22,4,5,0,0,0,19,0,1,5,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Historisch Centrum Overijssel,0193::SB11,8021 WX,1563,1115,1,3,132,448,95,65,129,80,42,72,9,20,4,0,0,0,1,13,1,1,1,2
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum De Esdoorn,0193::SB12,8021 WB,1657,997,4,5,126,352,66,53,120,78,31,119,7,22,4,3,1,0,1,12,0,0,2,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kerk De Fontein,0193::SB13,8043 NX,1530,1395,1,8,347,365,80,97,90,112,23,216,27,15,4,2,0,0,1,15,0,0,1,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum Holtenbroek,0193::SB14,8031 HL,1568,1551,5,5,265,497,95,91,172,128,52,176,6,26,9,2,2,1,1,17,0,0,6,5
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Het Carillon,0193::SB15,8031 HL,1474,803,10,5,88,276,67,43,119,44,28,86,15,18,8,2,0,0,1,6,0,0,2,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Scholengem. van der Capellen,0193::SB16,8031 XM,1387,791,1,7,57,347,69,21,117,38,13,81,13,13,3,1,0,0,0,16,0,0,1,1
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum De Havezate,0193::SB17,8031 MK,1422,890,0,6,125,318,99,65,81,34,15,108,6,23,1,0,1,0,1,9,0,1,2,1
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gymnasium Celeanum,0193::SB18,8032 EM,1593,809,2,1,141,283,49,67,82,57,16,65,10,16,3,0,0,0,1,18,0,0,1,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Hoeksteen,0193::SB19,8032 PB,1419,1322,1,2,254,415,95,101,117,127,42,112,11,15,4,1,0,0,4,21,0,0,0,3
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Werkschuit,0193::SB20,8032 TK,1507,1224,3,1,219,403,91,77,120,106,40,100,11,29,3,7,0,1,0,17,0,0,0,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Wieden,0193::SB21,8033 CS,1467,1170,1,1,170,447,64,67,121,112,39,103,5,13,4,4,0,0,0,18,0,0,2,1
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Kleuterbrug,0193::SB22,8033 AK,1186,958,1,1,135,349,61,66,114,76,30,84,8,16,5,3,1,0,1,8,0,0,1,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum Rivierenhof,0193::SB23,8032 HX,1425,1145,3,2,169,395,57,117,130,100,36,84,10,22,2,6,0,0,0,15,0,0,1,1
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School Het Stroomdal,0193::SB24,8032 CG,1735,1259,3,1,184,433,127,84,128,107,26,109,11,21,4,3,0,1,1,20,0,0,0,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Dienstencentrum De Terp,0193::SB25,8022 BG,1353,1002,3,1,154,288,73,65,122,87,32,104,15,26,11,3,0,0,0,15,0,0,5,2
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Geb. Muz. Ver. De Bazuin,0193::SB26,8022 RK,1338,849,9,0,104,237,58,49,143,66,31,104,13,27,2,1,0,1,0,10,0,0,2,1
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Oosterenk,0193::SB27,8023 DJ,1054,1192,1,2,296,337,29,103,70,186,54,78,4,20,3,2,1,0,0,9,0,0,0,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum Bestevaer,0193::SB28,8023 TP,1205,904,0,1,152,281,73,41,89,80,36,96,2,24,9,1,0,2,0,13,1,0,2,2
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Sportservice Zwolle,0193::SB29,8023 BL,1413,1050,3,2,304,274,38,95,70,120,33,74,6,25,1,2,0,0,0,8,0,0,0,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Clubhuis HTC,0193::SB30,8034 PC,962,779,0,2,311,98,23,98,18,75,13,83,53,2,0,0,0,0,1,4,0,0,0,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum De Wissel,0193::SB31,8024 CS,1626,1341,0,5,323,277,57,211,77,99,17,203,27,21,3,5,0,0,0,18,0,0,3,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum De Weijenbelt,0193::SB32,8024 BZ,1608,1409,1,2,373,280,81,213,85,119,29,152,21,26,3,2,0,0,3,22,0,0,0,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Kulturhus Wijthmen,0193::SB33,8026 PS,870,646,1,0,171,121,39,147,37,39,12,47,10,9,0,4,0,0,0,9,0,1,0,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum Westenhage,0193::SB34,8042 AD,1390,1137,8,1,232,268,70,158,99,76,25,134,30,13,3,3,0,0,0,22,0,0,3,1
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Ridderspoor,0193::SB35,8042 HM,1103,1027,1,2,182,340,89,78,93,80,20,93,20,15,3,0,0,0,0,12,0,0,2,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Wendakker,0193::SB36,8043 VW,1448,1218,0,1,328,360,80,74,96,99,32,117,3,12,5,4,1,0,0,7,0,0,0,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum S.I.O.,0193::SB37,8014 AZ,1601,1533,7,0,249,452,103,146,139,108,49,202,29,27,3,0,0,0,0,25,0,0,1,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum Gerenlanden,0193::SB38,8014 DM,1745,1414,2,1,226,442,67,105,153,126,47,173,23,17,5,1,0,0,0,25,2,0,2,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau v.m. Marsweide,0193::SB39,8014 LA,1423,1006,2,1,156,305,73,49,153,78,25,117,7,24,1,2,0,0,0,14,0,0,1,1
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gymzaal vm De Matenburcht,0193::SB40,8014 LA,1161,889,0,0,166,257,63,73,89,68,32,94,13,16,5,1,0,1,0,11,0,0,0,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Molenkamp,0193::SB41,8015 PM,506,412,2,0,118,104,18,58,26,24,9,42,1,4,0,1,0,1,0,3,0,0,3,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau De Siggels,0193::SB42,8014 BK,1371,951,2,1,141,294,83,51,123,55,26,129,12,11,4,7,1,0,0,7,0,3,3,1
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Windesheim Hogeschool,0193::SB43,8017 CA,1359,1231,4,2,210,340,35,99,122,170,58,140,7,21,9,0,0,1,0,16,0,0,3,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Ark,0193::SB44,8016 AX,1603,1358,2,2,270,405,90,95,140,128,43,138,4,18,8,1,0,0,3,13,0,1,1,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Koningskerk,0193::SB45,8016 ET,1522,1077,1,0,176,300,87,89,101,90,20,152,21,19,3,2,0,0,0,10,0,0,6,1
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Ichthus,0193::SB46,8017 AZ,1734,1291,2,3,237,368,86,132,91,133,42,151,15,13,4,0,0,1,0,14,1,0,2,1
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum De Kievitsbloem,0193::SB47,8014 XP,1709,1263,3,6,190,411,103,135,134,79,20,130,16,14,3,1,0,0,1,22,0,1,3,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau IJsselheem locatie Werkeren,0193::SB48,8043 LK,1612,1332,4,4,316,370,80,83,113,98,45,169,8,17,5,1,0,0,1,23,0,0,2,1
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Krullevaar,0193::SB49,8043 EA,1551,1089,3,4,240,341,67,61,118,66,22,133,7,12,3,3,1,0,0,12,0,0,3,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School IJsselhof,0193::SB50,8015 BX,1706,1325,1,0,267,407,75,102,114,114,30,157,9,14,8,1,0,0,1,22,0,0,3,1
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Phoenix,0193::SB51,8017 PA,1393,1281,1,1,275,379,70,125,110,107,34,120,8,17,5,3,0,0,0,27,0,0,0,1
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau IJsselbolder,0193::SB52,8016 AX,1311,1014,5,0,189,317,46,63,101,96,38,110,5,23,4,2,1,1,1,13,1,0,2,1
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Disloc. De Zevensprong,0193::SB53,8043 EA,1629,1194,1,2,282,373,55,73,94,126,18,123,13,17,4,1,0,0,0,13,0,0,1,1
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stedelijk Museum,0193::SB54,8011 ML,1215,973,7,0,226,274,32,38,95,150,50,57,6,19,6,4,0,1,0,9,1,0,4,1
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Stadskantoor,0193::SB55,8017 JZ,841,992,5,2,202,296,45,62,89,139,43,63,9,20,2,7,0,1,0,12,0,0,1,1
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Woonzorgcentrum Het Zonnehuis,0193::SB56,8043 WB,1764,1405,2,2,409,318,88,127,87,117,27,177,22,8,5,1,0,0,0,19,0,0,0,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau SBO Facet,0193::SB57,8031 VA,1557,683,1,2,87,234,58,24,99,35,20,79,13,19,3,1,0,0,0,6,0,2,2,1
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum Het Anker,0193::SB58,8042 GC,1415,939,2,0,181,271,46,111,71,82,19,119,13,13,3,2,0,0,0,8,0,0,0,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Gymzaal van Het Mozaïek,0193::SB59,8012 XG,1385,1035,0,2,185,304,59,69,103,130,36,100,7,16,5,5,0,0,0,16,0,0,0,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Strandhuis Milligerplas,0193::SB60,8043 ND,1654,1185,2,0,320,338,91,84,108,72,21,100,8,16,7,4,0,2,1,10,0,1,2,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Octopus,0193::SB61,8016 GB,1483,1278,2,1,264,424,59,89,118,101,41,131,14,16,1,1,0,1,0,17,0,0,1,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau School De Klokbeker,0193::SB62,8014 BK,1426,1043,2,1,243,246,61,78,78,110,40,139,15,20,1,0,0,0,0,10,0,0,1,1
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Wijkcentrum De Vlasakkers,0193::SB63,8022 PZ,1314,732,2,3,109,223,71,29,109,55,21,74,3,16,2,0,0,0,0,13,0,0,5,2
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Recreatiezaal Parkzicht,0193::SB64,8023 XT,1009,699,1,1,132,211,46,51,81,37,23,63,21,14,4,2,0,0,0,14,0,0,0,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Cultuurhuis Stadshagen,0193::SB65,8043 LT,1536,1235,4,4,342,355,65,58,73,114,30,152,4,22,3,2,0,0,0,11,0,0,4,0
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau NS Station,0193::SB66,8011 CW,0,1004,1,1,150,296,39,40,115,141,61,104,8,24,10,5,1,0,0,6,0,0,2,2
+Zwolle,Zwolle,TK2012,Tweede Kamer der Staten-Generaal 2012,,,2012-09-12,Stembureau Mobiel Stembureau verzorg. tehuizen,0193::SB67,8017 JZ,0,170,0,0,22,51,14,23,11,8,5,21,5,6,0,0,0,0,0,4,0,0,0,0

@@ -1,0 +1,72 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Democraten 66 (D66),CDA - Europese Volkspartij,PVV (Partij voor de Vrijheid),VVD,SP (Socialistische Partij),P.v.d.A./Europese Sociaaldemocraten,ChristenUnie-SGP,GROENLINKS,Partij voor de Dieren,50PLUS,JEZUS LEEFT,DENK,De Groenen,Forum voor Democratie,vandeRegio & Piratenpartij,Volt Nederland
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stadhuis,0080::SB1,8911 HJ,1166,861,3,0,0,0,18,788,58,0,0,0,0,0,864,69,51,17,94,25,225,21,181,63,16,0,4,4,68,3,20
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Kanselarij,0080::SB2,8911 KS,1343,477,0,0,0,0,1,452,24,0,0,0,0,0,477,46,17,8,73,19,75,20,114,40,7,0,1,0,39,5,13
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Dominicuskerk,0080::SB3,8913 CE,1328,752,0,1,0,2,2,678,75,0,0,2,0,0,755,50,69,22,113,27,185,26,120,33,23,3,1,1,65,2,12
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkgebouw De Toekomst,0080::SB4,8913 GL,1594,815,2,1,0,0,0,746,73,1,0,1,0,0,819,60,88,14,117,26,225,36,112,46,16,0,0,3,54,1,17
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Pelikaankerk,0080::SB5,8916 AE,1531,758,1,1,0,0,0,703,62,0,0,5,0,0,765,41,75,12,76,35,204,40,124,57,13,2,2,1,59,2,15
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau M.f.c. Westenkwartier,0080::SB6,8915 CD,2363,735,2,2,1,0,0,683,57,0,0,1,0,0,740,36,78,20,92,36,152,42,107,43,25,1,0,0,90,2,11
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkzorgcentrum de Hofwijck,0080::SB7,8917 AZ,2742,1083,2,4,0,0,3,972,114,0,0,0,0,0,1089,91,118,22,167,21,310,38,145,56,25,2,0,2,64,0,22
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau M.f.c. Tylkedam,0080::SB8,8918 LW,1304,331,0,1,0,0,0,297,35,0,0,0,0,0,332,11,25,10,26,15,103,17,42,23,11,0,3,0,39,0,6
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkgebouw Bilgaard,0080::SB9,8918 HV,1219,577,3,1,0,0,2,536,43,0,0,0,0,0,581,29,47,41,34,42,157,19,48,21,26,4,14,1,85,1,8
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Adventkerk,0080::SB10,8918 AA,1472,486,3,0,0,0,0,429,60,0,0,0,0,0,489,28,45,16,27,21,143,43,75,24,8,1,1,1,43,2,8
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau M.f.c. Westeinde,0080::SB11,8915 DZ,1696,1015,2,5,0,1,1,908,114,0,0,1,0,0,1023,57,153,35,94,46,276,72,78,38,46,0,0,1,101,2,16
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkzorgcentrum Swettehiem,0080::SB12,8915 EH,1369,327,2,0,0,0,0,307,23,1,0,1,0,0,330,13,54,16,24,10,95,22,22,19,11,0,0,2,37,0,2
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkzorgcentrum Sint Jozef,0080::SB13,8922 JA,1391,395,0,0,0,0,2,362,31,0,0,0,0,0,395,16,25,21,27,28,90,17,63,30,13,0,3,2,45,2,13
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Fontein,0080::SB14,8922 CP,1379,507,1,5,0,1,0,486,28,0,0,1,0,0,514,31,51,30,27,26,115,28,68,28,20,2,2,0,71,3,5
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau M.f.c. Het Mozaiek,0080::SB15,8923 BW,3146,865,1,1,0,0,0,775,92,0,0,0,0,0,867,52,70,48,62,43,190,81,89,52,26,6,9,1,117,6,13
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum Tjerk Hiddes,0080::SB17,8921 NM,2474,651,0,0,0,0,1,609,41,0,0,0,0,0,651,35,54,34,44,38,150,33,91,47,20,0,3,4,91,0,7
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkgebouw Cambuursterhoek,0080::SB18,8921 TL,1235,401,1,0,0,0,0,363,39,0,0,0,0,0,402,23,38,18,22,24,92,19,47,17,19,0,1,0,79,0,2
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Emmastate,0080::SB19,8921 AG,1394,519,3,0,0,0,3,477,42,0,0,0,0,0,522,31,37,11,37,24,128,20,110,42,9,1,0,1,44,5,19
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkgebouw Insulinde,0080::SB20,8924 AS,1255,312,0,0,0,0,0,294,18,0,0,0,0,0,312,23,24,19,19,27,64,10,42,22,2,2,3,0,52,2,1
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkgebouw Schieringen,0080::SB21,8924 EJ,1442,418,3,0,0,0,0,389,32,0,0,0,0,0,421,17,17,31,25,34,78,26,57,36,14,3,2,2,70,1,5
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau M.f.c. Camminghastins,0080::SB22,8925 CK,2687,936,1,1,0,0,0,846,92,0,0,0,0,0,938,33,71,45,67,60,261,52,103,58,43,3,1,4,118,2,15
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymlokaal obs Trianova,0080::SB23,8926 NA,1436,550,2,0,0,0,0,491,61,0,0,0,0,0,552,30,49,10,34,29,131,49,68,29,24,0,10,1,74,2,10
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau De Schakel,0080::SB24,8925 AZ,1407,607,0,3,0,0,0,561,49,0,0,0,0,0,610,25,65,15,56,23,185,33,44,24,27,1,1,1,91,3,13
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymlokaal Algraschool,0080::SB25,8925 AG,1429,569,1,0,0,0,1,506,63,0,0,0,0,0,570,27,65,28,62,15,155,62,45,16,24,0,1,0,59,0,10
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymlokaal De Wielen,0080::SB26,8925 GZ,1383,871,2,2,0,1,0,769,105,0,1,0,0,0,874,54,88,13,140,29,245,55,90,31,20,0,0,2,79,1,24
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Gymlokaal Menno van Coehoorn,0080::SB27,8921 BJ,1266,440,0,0,0,0,1,402,37,0,0,0,0,0,440,42,25,20,23,13,84,18,92,40,10,1,0,1,57,2,12
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkzorgcentrum Greunshiem,0080::SB28,8937 AS,1337,258,0,1,0,0,2,235,22,0,0,0,0,0,259,8,25,12,15,19,59,10,30,12,11,0,3,0,49,2,3
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum 't Knooppunt,0080::SB29,8933 GS,1537,515,1,2,0,1,1,461,55,0,1,0,0,0,517,40,34,18,33,17,144,21,84,36,17,0,0,1,60,0,10
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau OBS Potmarge ingang Fruitstraat,0080::SB30,8933 CP,1547,395,1,0,0,0,0,360,36,0,0,0,0,0,396,28,34,17,23,30,84,14,71,27,8,0,0,0,57,1,1
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Zorgcentrum Abbingahiem,0080::SB31,8934 BM,1033,529,0,0,0,1,4,467,59,0,0,1,0,0,530,33,45,14,53,22,161,38,71,28,15,0,4,2,40,0,3
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Hollanderhuuske,0080::SB32,8932 ET,1526,582,0,1,0,0,0,535,48,0,0,0,0,0,583,28,33,16,35,45,154,23,105,48,18,2,0,4,54,7,10
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkgebouw Gerard Dou,0080::SB33,8932 JG,1351,708,0,0,0,0,4,635,69,0,0,0,0,0,708,53,46,18,55,37,208,29,110,47,19,0,0,2,64,2,18
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Cultuurcentrum Leeuwarden,0080::SB34,8932 CT,1477,348,2,1,0,0,1,329,21,0,0,0,0,0,351,20,28,19,18,31,101,9,39,19,14,0,0,0,38,4,8
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum Nijlân,0080::SB35,8931 CX,1528,590,2,1,0,0,3,547,43,0,0,0,0,0,593,20,66,23,55,29,163,25,62,28,16,0,2,1,89,3,8
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Serviceflat Nijlânstate,0080::SB36,8931 EP,1596,641,3,1,0,0,0,613,33,0,0,1,0,0,646,31,87,18,59,26,188,42,48,31,25,0,1,2,68,3,12
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Serviceflat Aldlânstate,0080::SB37,8935 AA,1320,621,1,1,0,0,0,577,46,0,0,0,0,0,623,42,79,12,76,19,183,27,79,14,19,0,0,0,58,2,11
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Erasmus,0080::SB38,8935 BD,1601,583,0,1,0,3,0,527,54,0,3,0,0,0,581,19,64,33,39,38,170,21,72,30,23,1,3,1,60,2,7
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum Froskenburch,0080::SB39,8935 SC,2680,1051,4,1,0,0,2,962,94,2,0,2,0,0,1058,55,112,23,100,64,270,75,108,54,38,2,2,2,130,0,16
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Lekkum Dorpshuis De Weeme,0080::SB41,9081 AS,514,255,0,2,0,0,2,234,21,0,0,0,0,0,257,8,11,11,30,25,88,4,25,18,10,0,0,1,19,0,5
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Hempens dorpshuis de Bining,0080::SB42,9086 CH,1479,571,0,0,0,0,1,498,72,0,0,0,0,0,571,38,49,5,123,9,135,33,80,17,20,0,8,1,43,0,10
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Goutum Dorpshuis Ien en Mien,0080::SB43,9084 BB,2349,1220,3,0,0,0,0,1042,181,0,0,0,0,0,1223,103,134,29,207,22,320,56,106,50,33,1,0,3,133,2,21
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wirdum Dorpshuis de Golle,0080::SB44,9088 AP,895,438,1,0,0,0,1,401,37,0,0,0,0,0,439,18,77,5,72,14,109,46,41,15,7,1,0,0,31,1,1
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wytgaard Parochiezaal RK Kerk,0080::SB45,9089 BG,484,283,1,2,0,2,0,255,29,0,2,0,0,0,284,16,48,16,39,19,58,12,31,12,11,0,0,0,18,0,3
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wijkcentrum Màrkant,0080::SB46,8939 CC,1234,666,0,0,0,0,0,589,77,0,0,0,0,0,666,70,92,16,144,12,125,41,54,22,11,1,1,1,68,1,7
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Oranje Hotel t.o. station NS,0080::SB47,8911 AG,1122,730,3,1,0,0,11,683,40,0,0,0,0,0,734,63,57,16,81,18,161,21,151,43,13,0,2,1,70,3,30
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Provinciehuis,0080::SB48,8911 KZ,1424,769,1,0,0,0,6,764,0,0,0,0,0,0,770,68,49,8,81,22,192,15,172,52,13,1,2,1,79,2,12
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Pitch & Putt Golf,0080::SB51,8939 DA,1405,567,0,1,0,0,1,502,65,0,0,0,0,0,568,56,51,11,99,7,143,42,45,30,21,0,0,1,52,2,7
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Parkkerk,0080::SB53,8932 DD,1227,527,1,2,0,0,0,488,43,1,0,1,0,0,531,56,46,13,38,28,127,35,82,29,10,2,0,2,48,4,7
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau M.f.c. Ludingawaard,0080::SB54,8918 GX,1145,337,2,4,0,0,3,320,20,0,0,0,0,0,343,12,34,34,16,21,104,11,27,14,7,1,5,0,49,1,1
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stenden Hogeschool Leeuwarden,0080::SB56,8917 DD,16,246,1,1,0,0,2,233,13,0,0,0,0,0,248,30,13,1,29,8,55,5,68,15,1,0,0,0,14,0,7
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Eco - IGLO,0080::SB58,8941 AJ,1496,616,2,4,0,0,0,550,72,0,0,0,0,0,622,61,47,8,97,12,151,23,109,24,22,0,0,0,47,2,13
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Bethelkerk,0080::SB60,8934 BK,977,378,1,0,0,0,3,332,44,0,0,0,0,0,379,22,41,8,25,28,89,18,69,24,8,0,0,1,32,2,11
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Grou sporthal de Twine,0080::SB61,9001 LB,1611,792,0,1,0,0,17,692,85,1,0,1,0,0,794,58,73,9,160,19,243,21,52,26,28,0,0,0,85,1,17
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Grou Friesmastate,0080::SB62,9001 CM,1595,841,0,3,0,0,5,769,70,0,0,0,0,0,844,36,61,21,138,36,306,20,68,31,27,0,0,3,87,0,7
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Grou Het Theehuis,0080::SB63,9001 BG,1401,543,1,3,0,0,9,495,43,0,0,0,0,0,547,36,29,10,104,19,177,6,56,22,18,0,0,0,54,1,11
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Warten It Iepen Stee,0080::SB64,9003 LP,724,292,0,0,0,0,0,268,24,0,0,0,0,0,292,18,46,6,57,6,69,16,17,11,10,0,0,0,32,2,2
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Wergea Us Doarpshûs,0080::SB65,9005 PL,1364,574,2,1,0,0,1,520,56,0,0,0,0,0,577,23,65,20,97,27,188,23,55,16,10,2,0,1,41,0,6
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Reduzum Gymlokaal Trije Doarpen Skoalle,0080::SB66,9008 TB,999,460,1,2,0,0,1,405,57,0,0,0,0,0,463,20,42,9,104,13,155,12,29,9,11,1,0,0,49,1,5
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Jirnsum doarpshûs It Kattehûs,0080::SB67,9011 VJ,1039,381,3,0,0,0,0,348,36,0,0,0,0,0,384,19,47,9,68,7,110,11,36,10,16,1,0,0,35,1,11
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stiens Skilhiem,0080::SB68,9051 MB,1251,481,0,0,0,0,2,443,36,0,0,0,0,0,481,17,88,5,77,24,132,29,33,11,16,0,0,2,45,0,2
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stiens De Skalm,0080::SB69,9051 BR,1235,579,4,0,0,4,2,526,59,0,0,4,0,0,587,27,87,19,85,22,185,21,29,20,23,0,0,0,54,0,7
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Koarnjum De Bining,0080::SB70,9056 PW,625,276,0,0,0,0,1,249,26,0,0,0,0,0,276,14,32,12,44,12,77,8,29,9,4,0,0,0,28,3,4
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Hijum Dorpshuis de Kampioen,0080::SB71,9054 KK,445,173,0,0,0,0,0,161,12,0,0,0,0,0,173,1,23,8,31,5,43,16,14,6,4,0,0,1,18,0,3
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Britsum Lokaliteit Gereformeerde Kerk,0080::SB72,9055 MG,789,374,1,0,0,0,0,341,34,0,0,0,0,0,375,17,76,8,53,17,92,34,16,20,5,0,0,0,34,1,1
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stiens De Hege Stins,0080::SB73,9051 ER,1251,545,1,1,0,0,1,515,31,0,0,0,0,0,547,17,106,13,60,11,143,57,39,24,16,0,2,0,52,0,5
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stiens De Sprankel (zij-ingang),0080::SB74,9051 KE,796,381,0,0,0,0,0,347,34,0,0,0,0,0,381,17,62,13,43,24,107,30,23,15,12,0,0,1,24,1,9
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Stiens Talant,0080::SB76,9051 LP,1460,580,1,1,0,0,0,530,51,0,1,0,1,0,581,27,101,18,101,21,164,42,30,12,22,1,0,1,32,1,7
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Alde Leie Us Gebou,0080::SB77,9071 XG,203,100,0,0,0,0,0,87,13,0,0,0,0,0,100,11,15,1,9,6,20,6,4,7,2,0,0,1,17,0,1
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Mantgum M.f.c. De Wjukken,0080::SB78,9022 BD,1116,654,0,1,0,0,2,587,66,0,0,0,0,0,655,49,58,8,117,22,196,21,82,20,23,1,0,1,46,3,7
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Baard De Stjelp,0080::SB79,8834 XM,603,341,0,0,0,0,4,302,35,0,0,0,0,0,341,12,38,4,67,18,104,16,47,12,2,0,0,1,19,1,0
+,Leeuwarden,EP2019,Europees Parlement 2019,,,2019-05-23,Stembureau Weidum Verzorgingshuis Nij Dekama,0080::SB80,9024 EN,889,404,0,0,0,0,2,356,46,0,0,0,0,0,404,29,39,2,106,22,112,10,40,15,5,0,0,1,18,0,5

@@ -1,0 +1,21 @@
+contest_name,managing_authority,election_id,election_name,election_domain_id,election_domain_name,election_date,station_name,station_id,postcode,cast,total_counted,rejected_blanco,rejected_ongeldig,uncounted_andere verklaring,uncounted_geen verklaring,uncounted_geldige kiezerspassen,uncounted_geldige stempassen,uncounted_geldige volmachtbewijzen,uncounted_kwijtgeraakte stembiljetten,uncounted_meegenomen stembiljetten,uncounted_meer getelde stembiljetten,uncounted_minder getelde stembiljetten,uncounted_te veel uitgereikte stembiljetten,uncounted_te weinig uitgereikte stembiljetten,uncounted_toegelaten kiezers,Nieuwe Lijn,VVD,CDA,Partij van de Arbeid (P.v.d.A.),SGP-ChristenUnie,GROENLINKS,Democraten 66 (D66),Gemeentebelangen Epe
+,Epe,GR2014_Epe,Gemeenteraad Epe 2014,0232,Epe,2014-03-19,Stembureau Gemeentehuis,0232::SB1,8161 CL,1161,1072,4,5,0,0,0,978,103,0,0,0,0,0,0,1081,46,269,207,117,92,80,162,99
+,Epe,GR2014_Epe,Gemeenteraad Epe 2014,0232,Epe,2014-03-19,Stembureau Dep.RSG NOV,0232::SB2,8161 ZA,1349,685,0,4,0,0,0,619,70,0,0,0,0,0,0,689,22,159,104,103,51,60,107,79
+,Epe,GR2014_Epe,Gemeenteraad Epe 2014,0232,Epe,2014-03-19,Stembureau Openbare Basisschool Zuuk,0232::SB3,8161 RJ,786,397,0,2,0,0,0,356,43,0,0,0,0,0,0,399,19,87,52,39,79,24,48,49
+,Epe,GR2014_Epe,Gemeenteraad Epe 2014,0232,Epe,2014-03-19,Stembureau Bejaarden-/Zorgcentrum De Klaarbeek,0232::SB4,8162 WP,1421,596,1,11,0,0,0,567,41,0,0,0,0,0,0,608,30,83,117,145,39,56,64,62
+,Epe,GR2014_Epe,Gemeenteraad Epe 2014,0232,Epe,2014-03-19,Stembureau Bejaarden-/Zorgcentrum De Boskamp,0232::SB5,8161 DS,1327,768,0,1,0,0,0,685,84,0,0,0,0,0,0,769,13,157,214,62,85,51,119,67
+,Epe,GR2014_Epe,Gemeenteraad Epe 2014,0232,Epe,2014-03-19,Stembureau Het Slath Siza Dorp Groep,0232::SB6,8161 NW,1532,831,0,1,0,0,0,743,89,0,0,0,0,0,0,832,20,254,151,71,60,80,109,86
+,Epe,GR2014_Epe,Gemeenteraad Epe 2014,0232,Epe,2014-03-19,Stembureau VvE Eper Veste,0232::SB7,8161 AG,1354,795,5,2,0,0,0,707,95,0,0,0,0,0,0,802,14,293,126,69,32,43,160,58
+,Epe,GR2014_Epe,Gemeenteraad Epe 2014,0232,Epe,2014-03-19,Stembureau S.V. Wissel,0232::SB8,8162 PR,992,577,0,1,0,0,0,521,57,0,0,0,0,0,0,578,19,219,81,41,32,36,104,45
+,Epe,GR2014_Epe,Gemeenteraad Epe 2014,0232,Epe,2014-03-19,"Stembureau Wijkvereniging ""Burgerenk""",0232::SB9,8162 ZV,1279,675,3,2,0,0,0,637,43,0,0,0,0,0,0,680,25,104,107,118,63,79,96,83
+,Epe,GR2014_Epe,Gemeenteraad Epe 2014,0232,Epe,2014-03-19,Stembureau Hervormde Gemeente Sionskerk,0232::SB10,8161 VV,1292,646,5,4,0,0,0,600,55,0,0,0,0,0,0,655,19,112,144,97,68,50,82,74
+,Epe,GR2014_Epe,Gemeenteraad Epe 2014,0232,Epe,2014-03-19,Stembureau De Hezebrink,0232::SB12,8166 AL,1198,688,0,1,0,0,0,616,73,0,0,0,0,0,0,689,119,161,53,79,126,25,78,47
+,Epe,GR2014_Epe,Gemeenteraad Epe 2014,0232,Epe,2014-03-19,Stembureau Verenigingsgebouw De Hoeksteen,0232::SB13,8166 AT,942,523,1,1,0,0,0,466,59,0,0,0,0,0,0,525,56,105,51,51,174,31,33,22
+,Epe,GR2014_Epe,Gemeenteraad Epe 2014,0232,Epe,2014-03-19,Stembureau Kulturhus Oene,0232::SB14,8167 NL,1215,814,3,2,0,0,0,723,96,0,0,0,0,0,0,819,6,120,182,57,322,38,54,35
+,Epe,GR2014_Epe,Gemeenteraad Epe 2014,0232,Epe,2014-03-19,Stembureau Gereformeerde Tabernakel kerk,0232::SB15,8171 EH,991,684,0,0,0,0,0,634,50,0,0,0,0,0,0,684,321,89,99,34,51,26,47,17
+,Epe,GR2014_Epe,Gemeenteraad Epe 2014,0232,Epe,2014-03-19,Stembureau OKS De Krugerstee,0232::SB16,8172 VT,1243,643,0,0,0,0,0,591,52,0,0,0,0,0,0,643,268,56,96,47,56,28,69,23
+,Epe,GR2014_Epe,Gemeenteraad Epe 2014,0232,Epe,2014-03-19,Stembureau Speeltuin- / Buurtver. De Kouwenaar,0232::SB17,8172 CN,1671,725,6,7,0,0,0,653,85,0,0,0,0,0,0,738,404,41,86,67,38,24,36,29
+,Epe,GR2014_Epe,Gemeenteraad Epe 2014,0232,Epe,2014-03-19,Stembureau Wijkgebouw Triton,0232::SB18,8171 AP,1468,863,0,0,0,0,0,783,80,0,0,0,0,0,0,863,418,97,105,57,47,46,68,25
+,Epe,GR2014_Epe,Gemeenteraad Epe 2014,0232,Epe,2014-03-19,Stembureau Evangelisatiecentrum Woord en Daad,0232::SB19,8171 AC,1459,844,0,3,0,0,0,731,116,0,0,0,0,0,0,847,350,93,100,35,173,31,45,17
+,Epe,GR2014_Epe,Gemeenteraad Epe 2014,0232,Epe,2014-03-19,Stembureau Clubhuis Handbalvereniging C.V.O.,0232::SB20,8171 NB,2017,1097,0,1,0,0,0,998,100,0,0,0,0,0,0,1098,615,87,161,59,55,25,77,18
+,Epe,GR2014_Epe,Gemeenteraad Epe 2014,0232,Epe,2014-03-19,Stembureau De Speulbrink,0232::SB21,8171 VA,1222,754,3,4,0,0,0,691,70,0,0,0,0,0,0,761,377,58,123,48,55,29,44,20

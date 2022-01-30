@@ -1,0 +1,10 @@
+Flevoland
+De uitslag van de provincie Flevoland is vastgesteld na een hertelling. In de tellingbestanden zijn de resultaten van de hertelling opgenomen.
+
+Zuid-Holland
+Het aantal kiesgerechtigden vermeld voor de kieskring Dordrecht wordt niet juist vermeld in de volgende tellingbestanden: 
+- Telling_PS2019_ZuidHolland_kieskring_Dordrecht.eml.xml
+- Totaaltelling_PS2019_provincie_ZuidHolland.eml.xml
+Het aantal kiesgerechtigden voor de kieskring Dordrecht op basis van de som van de gemeenten is: 947.585 (ipv 809.283).
+Het aantal kiesgerechtigden voor de provincie Zuid-Holland wordt vervolgens 2.689.094 (ipv 2.550.792).
+
