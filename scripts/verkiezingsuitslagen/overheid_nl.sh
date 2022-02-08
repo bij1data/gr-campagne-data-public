@@ -7,6 +7,8 @@ script=scripts/verkiezingsuitslagen/eml2csv.sh
 
 bash $script ep2009 http://data.overheid.nl/OpenDataSets/EML_bestanden_EP2009.zip
 bash $script tk2010 https://data.overheid.nl/OpenDataSets/EML_bestanden_TK2010.zip
+# skipping combined dataset eerste kamer 2011+2015 cuz more effort
+# https://data.overheid.nl/dataset/verkiezingsuitslagen-van-de-eerste-kamer
 bash $script tk2012 https://data.overheid.nl/OpenDataSets/EML_bestanden_TK2012.zip
 bash $script gr2014 https://data.overheid.nl/OpenDataSets/EML_bestanden_GR2014.zip
 bash $script ep2014 https://data.overheid.nl/OpenDataSets/EML_bestanden_EP2014.zip

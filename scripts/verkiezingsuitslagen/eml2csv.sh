@@ -37,6 +37,8 @@ for src in $csv/*.csv; do
     [ -f "$src" ] || continue
     src_file=`echo ${src##*/}`
     dest_file="${src_file##*_}"
+    # ^ note that this selector is bugged for municipality names
+    # containing underscores, e.g. Sint_Anthonis in dataset tk2021.
     dest="${src/$src_file/$dest_file}"
     mv "$src" "$dest"
 done

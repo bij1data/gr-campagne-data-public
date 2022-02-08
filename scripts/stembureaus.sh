@@ -4,6 +4,7 @@
 # data source: https://ckan.dataplatform.nl/dataset/stembureaus-tweede-kamerverkiezingen-2021/resource/eb2c1546-7f8d-41d4-9719-61b53b6d2111
 # reason we're using the API to get data by municipality is we couldn't find a
 # way to download the full dataset...
+# we use the API by city due to an implicit limit on number of results.
 
 # create a virtual environment
 python3 -m venv ./env
